@@ -107,7 +107,7 @@
         <mark key="^" line="57" column="69" />
         <mark key="." line="57" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyApi.scala" timestamp="1497244730865">
+      <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyApi.scala" timestamp="1499089831492">
         <mark key="[" line="52" column="45" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/mail/MailServiceSpec.scala" timestamp="1498482588417">
@@ -254,7 +254,8 @@
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/Desktop/psohappy-emails/emails_full_set.json" timestamp="1499088397640">
+      <file name="$USER_HOME$/Desktop/psohappy-emails/emails_full_set.json" timestamp="1499090389046">
+        <mark key="'" line="16511" column="333" />
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="381" />
       </file>
@@ -351,13 +352,13 @@
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyUser.scala" timestamp="1496996789179">
         <mark key="[" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Desktop/psohappy-emails/find_deleted_emails.py" timestamp="1499088964122">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="14" column="29" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Desktop/psohappy-emails/find_deleted_emails.py" timestamp="1499090052314">
+        <mark key="[" line="28" column="80" />
+        <mark key="]" line="28" column="79" />
+        <mark key="^" line="28" column="79" />
+        <mark key="." line="28" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499089136899">
+      <file name="/Dummy.txt" timestamp="1499090240271">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/test/scala/com/leoilab/psohappy/PsoHappyApiSpec.scala" timestamp="1497244960645">
@@ -424,7 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" />
       <jump line="55" column="0" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" />
       <jump line="61" column="0" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" />
       <jump line="120" column="34" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
@@ -524,6 +524,7 @@
       <jump line="107" column="43" filename="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/PsoHappyApiIntegrationTest.scala" />
       <jump line="111" column="155" filename="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/PsoHappyApiIntegrationTest.scala" />
       <jump line="91" column="4" filename="$USER_HOME$/Source/studies-and-me/frontend/index.html" />
+      <jump line="16511" column="333" filename="$USER_HOME$/Desktop/psohappy-emails/emails_full_set.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
