@@ -128,11 +128,11 @@
         <mark key="^" line="39" column="67" />
         <mark key="." line="39" column="67" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/identity/FacebookIdentityService.scala" timestamp="1495454195254">
-        <mark key="[" line="71" column="30" />
-        <mark key="]" line="71" column="57" />
-        <mark key="." line="71" column="57" />
-        <mark key="^" line="71" column="57" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/identity/FacebookIdentityService.scala" timestamp="1499178850101">
+        <mark key="[" line="79" column="30" />
+        <mark key="]" line="79" column="26" />
+        <mark key="." line="79" column="26" />
+        <mark key="^" line="79" column="26" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/README.md" timestamp="1496908722687">
         <mark key="[" line="3" column="1" />
@@ -532,7 +532,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>appId</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3155,7 +3155,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>appId</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
@@ -3194,7 +3194,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGVtYWlsX3dhbnRlZF9zZW50X2F0ID4gZWFybGllc3Rfc2VudF9lbWFpbDoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>80</text>
       </register>
     </registers>
     <search>
@@ -3214,7 +3214,6 @@
         <entry>psohappy</entry>
       </history-search>
       <history-cmd>
-        <entry>68</entry>
         <entry>s</entry>
         <entry>1,</entry>
         <entry>jj</entry>
@@ -3234,6 +3233,7 @@
         <entry>..</entry>
         <entry>33</entry>
         <entry>w</entry>
+        <entry>80</entry>
       </history-cmd>
       <history-expr />
       <history-input />
