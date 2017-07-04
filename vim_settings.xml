@@ -49,6 +49,11 @@
         <mark key="^" line="65" column="12" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1499169885542">
+        <mark key="[" line="1026" column="27" />
+        <mark key="]" line="1026" column="27" />
+        <mark key="." line="1026" column="27" />
+      </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/SampleTest.scala" timestamp="1493977610698">
         <mark key="[" line="9" column="99" />
         <mark key="]" line="9" column="105" />
@@ -159,7 +164,6 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/psohappy-emails/sent_emails.json" timestamp="1499085396372" />
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/documentation-portal.html" timestamp="1496914318495">
         <mark key="[" line="23" column="33" />
         <mark key="]" line="23" column="45" />
@@ -528,7 +532,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>emails_sent</text>
+        <text>&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3151,7 +3155,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>emails_sent</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
@@ -3190,7 +3194,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGVtYWlsX3dhbnRlZF9zZW50X2F0ID4gZWFybGllc3Rfc2VudF9lbWFpbDoK</text>
       </register>
       <register name=":" type="4">
-        <text>33</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3216,7 +3220,6 @@
         <entry>jj</entry>
         <entry>44</entry>
         <entry>37</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>101</entry>
         <entry>76</entry>
@@ -3230,6 +3233,7 @@
         <entry>71</entry>
         <entry>..</entry>
         <entry>33</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
