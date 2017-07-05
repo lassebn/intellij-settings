@@ -11,12 +11,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/src/raml/api.raml" timestamp="1499258481606">
-        <mark key="[" line="28" column="49" />
-        <mark key="]" line="31" column="63" />
-        <mark key="." line="31" column="63" />
-        <mark key="^" line="31" column="63" />
-      </file>
+      <file name="$USER_HOME$/Source/psohappy-backend/src/raml/api.raml" timestamp="1499263101111" />
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/resources/application.conf" timestamp="1498551323012">
         <mark key="[" line="31" column="29" />
         <mark key="]" line="10" column="31" />
@@ -532,8 +527,8 @@
       <jump line="113" column="6" filename="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyApi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogRWl0aGVyIGBwc29IYXBweUlkYCBvciBgZXh0ZXJuYWxVc2VySWRgIG11c3QgYmUgcHJvdmlkZWQuCg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3156,46 +3151,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogRWl0aGVyIGBwc29IYXBweUlkYCBvciBgZXh0ZXJuYWxVc2VySWRgIG11c3QgYmUgcHJvdmlkZWQuCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogVGhlIGZpZWxkIGBwc29IYXBweUlkYCBpcyBvbmx5IHN1cHBvcnRlZCBmb3IgYmFja3dhcmRzIGNvbXBhYmlsaXR5IGFuZCB3aWxsIGJlIGRlcHJlY2F0ZWQuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heFByb3BlcnRpZXM6IDUK</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogYGV4dGVybmFsVXNlcklkYCBtdXN0IGJlIHByb3ZpZGVkLCBgcHNvSGFwcHlJZGAgaXMgb25seSBwcm92aWRlZCBmb3IgYmFja3dhcmRzIGNvbXBhYmlsaXR5IGFuZCB3aWxsIGJlIGRlcHJlY2F0ZWQuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogYGV4dGVybmFsVXNlcklkYCBtdXN0IGJlIHByb3ZpZGVkLCBgcHNvSGFwcHlJZGAgaXMgb25seSBwcm92aWRlZCBmb3IgYmFja3dhcmRzIGNvbXBhYmlsaXR5IGFuZCB3aWxsIGJlIGRlcHJlY2F0ZWQuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogRWl0aGVyIGBwc29IYXBweUlkYCBvciBgZXh0ZXJuYWxVc2VySWRgIG11c3QgYmUgcHJvdmlkZWQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnJtaS5DT1JCQS5UaWUK</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogRWl0aGVyIGBwc29IYXBweUlkYCBvciBgZXh0ZXJuYWxVc2VySWRgIG11c3QgYmUgcHJvdmlkZWQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heFByb3BlcnRpZXM6IDUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC53aXRoSGVhZGVycygK</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnJtaS5DT1JCQS5UaWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC53aXRoQm9keShMaXN0KE1hbmRyaWxsUmVzcG9uc2VEVE8oU29tZShuZXdVc2VyRW1haWwpLCAic2VudCIsIFNvbWUoImFiYzEyM2FiYzEyM2FiYzEyM2FiYzEyM2FiYzEyMyIpLCBOb25lKSkudG9Kc29uLnRvU3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>58</text>
+        <text>155</text>
       </register>
     </registers>
     <search>
@@ -3215,9 +3210,6 @@
         <entry>psohappy</entry>
       </history-search>
       <history-cmd>
-        <entry>44</entry>
-        <entry>37</entry>
-        <entry>wq</entry>
         <entry>101</entry>
         <entry>76</entry>
         <entry>35</entry>
@@ -3235,6 +3227,9 @@
         <entry>88</entry>
         <entry>366</entry>
         <entry>58</entry>
+        <entry>59</entry>
+        <entry>111</entry>
+        <entry>155</entry>
       </history-cmd>
       <history-expr />
       <history-input />
