@@ -11,11 +11,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/src/raml/api.raml" timestamp="1499257194121">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="^" line="160" column="30" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/Source/psohappy-backend/src/raml/api.raml" timestamp="1499258481606">
+        <mark key="[" line="28" column="49" />
+        <mark key="]" line="31" column="63" />
+        <mark key="." line="31" column="63" />
+        <mark key="^" line="31" column="63" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/resources/application.conf" timestamp="1498551323012">
         <mark key="[" line="31" column="29" />
@@ -168,11 +168,8 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/resources/documentation-portal.html" timestamp="1496914318495">
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="23" column="45" />
-        <mark key="." line="23" column="45" />
-        <mark key="^" line="23" column="45" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/resources/documentation-portal.html" timestamp="1499258783944">
+        <mark key="[" line="22" column="22" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/scripts/send_reminder_mails.py" timestamp="1498470247979">
         <mark key="[" line="13" column="88" />
@@ -536,7 +533,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heFByb3BlcnRpZXM6IDUK</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogRWl0aGVyIGBwc29IYXBweUlkYCBvciBgZXh0ZXJuYWxVc2VySWRgIG11c3QgYmUgcHJvdmlkZWQuCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3165,7 +3162,7 @@
         <text>psohappy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpdCBzaG91bGQgInNlbmQgYSBEaWdpdGlnZXIgbm90aWZpY2F0aW9uIHdoZW4gUHNvSGFwcHkgaWQgaXMgcG9zdGVkIiBpbiB7CiAgICB2YWwgdXNlcklkID0gVXNlcklkLmdlbmVyYXRlCiAgICB2YWwgcHNvSGFwcHlJZCA9IHJhbmRvbVN0cmluZygpCgogICAgc3R1YkZvcihwb3N0KHVybEVxdWFsVG8odXNlcnNMb2dpblVybCkpCiAgICAgIC53aWxsUmV0dXJuKGFKc29uUmVzcG9uc2UoMjAwLCBMb2dpblJlc3BvbnNlRFRPKFVzZXJEVE8oImVtYWlsIiwgZGlnaXRpZ2VySWQgPSBTb21lKHBzb0hhcHB5VGVzdFVzZXJEaWdpdGlnZXJJZCkpKS50b0pzb24udG9TdHJpbmcpKSkKCiAgICB2YWwgcmVnaXN0cmF0aW9uUmVzcG9uc2UgPSBhdXRoUGlwZWxpbmUodXNlcklkKShQb3N0KHMiJHBzb2hhcHB5bW9ja2VkdXNlcnNIb3N0L3YxL3Bzb2hhcHB5L3JlZ2lzdGVyLyRwc29IYXBweUlkIikpLmZ1dHVyZVZhbHVlCiAgICByZWdpc3RyYXRpb25SZXNwb25zZS5zdGF0dXMgc2hvdWxkQmUgU3RhdHVzQ29kZXMuT0sKCiAgICB2YWwgc2VuZE5vdGlmaWNhdGlvbkR0byA9IFNlbmREaWdpdGlnZXJOb3RpZmljYXRpb25Qc29IYXBweVRlc3REVE8ocHNvSGFwcHlJZCwgInNvbWUgdGl0bGUiLCAic29tZSB0eXBlIiwgInNvbWUgdGltZSIsICJzb21lIGxpbmsgdXJsIikKCiAgICB2YWwgc2VuZE5vdGlmaWNhdGlvblBpcGVsaW5lID0gYWRkSGVhZGVyKCJYLUNsaWVudC1JZCIsIGNsaWVudElkU3RyaW5nKSB+PiBzZW5kUmVjZWl2ZQogICAgdmFsIHNlbmROb3RpZmljYXRpb25SZXNwb25zZSA9IHNlbmROb3RpZmljYXRpb25QaXBlbGluZShQb3N0KHMiJHBzb2hhcHB5bW9ja2VkdXNlcnNIb3N0L3YxL3Bzb2hhcHB5L3NlbmREaWdpdGlnZXJOb3RpZmljYXRpb24iLCBzZW5kTm90aWZpY2F0aW9uRHRvKSkuZnV0dXJlVmFsdWUKICAgIHNlbmROb3RpZmljYXRpb25SZXNwb25zZS5zdGF0dXMgc2hvdWxkQmUgU3RhdHVzQ29kZXMuT0sKCiAgICB2YWwgcmVxdWVzdHNXaXJlTW9jayA9IGZpbmRBbGwocG9zdFJlcXVlc3RlZEZvcih1cmxQYXRoRXF1YWxUbygiL2RpZ2l0aWdlciIpKSkuYXNTY2FsYQogICAgYXNzZXJ0KHJlcXVlc3RzV2lyZU1vY2suZXhpc3RzKF8uZ2V0Qm9keUFzU3RyaW5nID09IHMiT3BlbmlkPSRwc29IYXBweVRlc3RVc2VyRGlnaXRpZ2VySWQmVGl0bGU9c29tZSt0aXRsZSZSZXBvcnRUeXBlPXNvbWUrdHlwZSZUaW1lPXNvbWUrdGltZSZMaW5rVXJsPXNvbWUrbGluayt1cmwiKSkKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogRWl0aGVyIGBwc29IYXBweUlkYCBvciBgZXh0ZXJuYWxVc2VySWRgIG11c3QgYmUgcHJvdmlkZWQuCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1heFByb3BlcnRpZXM6IDUK</text>
@@ -3198,7 +3195,7 @@
         <text encoding="base64">ICAgICAgICAgIC53aXRoQm9keShMaXN0KE1hbmRyaWxsUmVzcG9uc2VEVE8oU29tZShuZXdVc2VyRW1haWwpLCAic2VudCIsIFNvbWUoImFiYzEyM2FiYzEyM2FiYzEyM2FiYzEyM2FiYzEyMyIpLCBOb25lKSkudG9Kc29uLnRvU3RyaW5nKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>366</text>
+        <text>58</text>
       </register>
     </registers>
     <search>
@@ -3218,7 +3215,6 @@
         <entry>psohappy</entry>
       </history-search>
       <history-cmd>
-        <entry>jj</entry>
         <entry>44</entry>
         <entry>37</entry>
         <entry>wq</entry>
@@ -3238,6 +3234,7 @@
         <entry>16</entry>
         <entry>88</entry>
         <entry>366</entry>
+        <entry>58</entry>
       </history-cmd>
       <history-expr />
       <history-input />
