@@ -83,11 +83,12 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/Imagine images in a serie/backbone_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499334396016">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="58" column="7" />
-        <mark key="." line="58" column="7" />
-        <mark key="^" line="58" column="7" />
+      <file name="$USER_HOME$/Desktop/Imagine images in a serie/backbone_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499339134717">
+        <mark key="'" line="37" column="17" />
+        <mark key="[" line="82" column="34" />
+        <mark key="]" line="82" column="29" />
+        <mark key="^" line="82" column="29" />
+        <mark key="." line="82" column="29" />
       </file>
       <file name="/Dummy.scala" timestamp="1494426318982">
         <mark key="[" line="0" column="0" />
@@ -269,10 +270,11 @@
         <mark key="." line="83" column="24" />
         <mark key="^" line="83" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1499096256381">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/Python Console" timestamp="1499338031303">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/it/scala/DriverIntegrationTest.scala" timestamp="1499331785633">
         <mark key="[" line="119" column="0" />
@@ -462,7 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="2" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/AWSHelper.scala" />
       <jump line="34" column="6" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" />
       <jump line="84" column="0" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" />
       <jump line="16" column="18" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/AWSHelper.scala" />
@@ -562,10 +563,11 @@
       <jump line="113" column="6" filename="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyApi.scala" />
       <jump line="64" column="12" filename="$USER_HOME$/Source/psohappy-backend/src/raml/api.raml" />
       <jump line="44" column="144" filename="$USER_HOME$/Source/spike-datawarehouse-export/src/it/resources/db/init.sql" />
+      <jump line="35" column="17" filename="$USER_HOME$/Desktop/Imagine images in a serie/backbone_images_in_a_series_twelve_hours_inbetween.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50IHVzZXJfaW1hZ2VzCg==</text>
+      <register name="&quot;" type="4">
+        <text>, &quot;%Y-%m-%d %H:%M:%S&quot;)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3188,7 +3190,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>candidates</text>
+        <text>, &quot;%Y-%m-%d %H:%M:%S&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
@@ -3197,37 +3199,37 @@
         <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0Qm9vbGVhbigiY29ycnVwdCIpID09IGZhbHNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50IHVzZXJfaW1hZ2VzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9pZCA9IHVzZXJbMF0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0YWtlbl9hdCA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICgiMDAwMTIzNDUtNjZiMy00ZmVjLTgyNzItNzcyYTcxOTM0NmRiIiwgImFmNmZkNGE1LTg1MDItNGM0Yi04ZmI1LTdlN2FjNjI4ZTI1YSIsICcyMDE3LTAzLTI0IDEzOjM5OjM1JywgJzIwMTctMDMtMjQgMTM6Mzk6MzUnLCBmYWxzZSwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgIjEzMC4xMDUuMjEyLjY4IiwgIlBIIiwgIlBoaWxpcHBpbmVzIiwgIjAzIiwgIkNlbnRyYWwgTHV6b24iLCBudWxsLCAiQXNpYS9NYW5pbGEiLCAiMTIwLjU5ODYiLCAiMTUuNDg4OSIsICIwMDAwMmU5ZS1lNGJlLTQ2NjItYTRjZC1mNWIzMTYyYTJlZDciLCBudWxsKTsK</text>
+        <text encoding="base64">ICAgIHByaW50IHVzZXJfaW1hZ2VzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBub2luc3BlY3Rpb24gU3FsTm9EYXRhU291cmNlSW5zcGVjdGlvbkZvckZpbGUK</text>
+        <text encoding="base64">ICAgICgiMDAwMTIzNDUtNjZiMy00ZmVjLTgyNzItNzcyYTcxOTM0NmRiIiwgImFmNmZkNGE1LTg1MDItNGM0Yi04ZmI1LTdlN2FjNjI4ZTI1YSIsICcyMDE3LTAzLTI0IDEzOjM5OjM1JywgJzIwMTctMDMtMjQgMTM6Mzk6MzUnLCBmYWxzZSwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgIjEzMC4xMDUuMjEyLjY4IiwgIlBIIiwgIlBoaWxpcHBpbmVzIiwgIjAzIiwgIkNlbnRyYWwgTHV6b24iLCBudWxsLCAiQXNpYS9NYW5pbGEiLCAiMTIwLjU5ODYiLCAiMTUuNDg4OSIsICIwMDAwMmU5ZS1lNGJlLTQ2NjItYTRjZC1mNWIzMTYyYTJlZDciLCBudWxsKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aENvbHVtbigiY29ycnVwdCIsIGltYWdpbmVTdXJ2ZXlzREYuKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgPG1vZHVsZSBmaWxldXJsPSJmaWxlOi8vJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL3Jvb3QuaW1sIiBmaWxlcGF0aD0iJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL3Jvb3QuaW1sIiAvPgogICAgICA8bW9kdWxlIGZpbGV1cmw9ImZpbGU6Ly8kUFJPSkVDVF9ESVIkLy5pZGVhL21vZHVsZXMvcm9vdC1idWlsZC5pbWwiIGZpbGVwYXRoPSIkUFJPSkVDVF9ESVIkLy5pZGVhL21vZHVsZXMvcm9vdC1idWlsZC5pbWwiIC8+</text>
+      <register name="7" type="2">
+        <text encoding="base64">IyBub2luc3BlY3Rpb24gU3FsTm9EYXRhU291cmNlSW5zcGVjdGlvbkZvckZpbGUK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAud2l0aENvbHVtbigiY29ycnVwdCIsIGltYWdpbmVTdXJ2ZXlzREYuKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogYGV4dGVybmFsVXNlcklkYCBtdXN0IGJlIHByb3ZpZGVkLCBgcHNvSGFwcHlJZGAgaXMgb25seSBwcm92aWRlZCBmb3IgYmFja3dhcmRzIGNvbXBhYmlsaXR5IGFuZCB3aWxsIGJlIGRlcHJlY2F0ZWQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>314</text>
+        <text>60</text>
       </register>
     </registers>
     <search>
@@ -3247,7 +3249,6 @@
         <entry>psohappy</entry>
       </history-search>
       <history-cmd>
-        <entry>76</entry>
         <entry>35</entry>
         <entry>s/psohappy/notifications/G</entry>
         <entry>%s/psohappy/notifications/g</entry>
@@ -3267,6 +3268,7 @@
         <entry>111</entry>
         <entry>155</entry>
         <entry>314</entry>
+        <entry>60</entry>
       </history-cmd>
       <history-expr />
       <history-input />
