@@ -429,6 +429,12 @@
         <mark key="^" line="52" column="30" />
         <mark key="." line="52" column="30" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499345818659">
+        <mark key="[" line="52" column="49" />
+        <mark key="]" line="52" column="14" />
+        <mark key="^" line="52" column="14" />
+        <mark key="." line="52" column="14" />
+      </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/resources/logback.xml" timestamp="1494858242809">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="14" />
@@ -566,8 +572,8 @@
       <jump line="74" column="16" filename="$USER_HOME$/Desktop/Imagine images in a serie/backbone_images_in_a_series_twelve_hours_inbetween.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJUaGUgc2hvcnRlc3Qgc2VyaWVzIGlzICVzIGltYWdlcyBsb25nIiAlIG1pbihbbGVuKHgpIGZvciB4IGluIHdhbnRlZF9pbWFnZV9zZXRzLnZhbHVlcygpXSkK</text>
+      <register name="&quot;" type="4">
+        <text>, (timedelta.seconds//60)%60</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3190,7 +3196,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>longest</text>
+        <text>, (timedelta.seconds//60)%60</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
@@ -3229,7 +3235,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlxuIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>64</text>
+        <text>48</text>
       </register>
     </registers>
     <search>
@@ -3249,7 +3255,6 @@
         <entry>psohappy</entry>
       </history-search>
       <history-cmd>
-        <entry>s/psohappy/notifications/G</entry>
         <entry>%s/psohappy/notifications/g</entry>
         <entry>297</entry>
         <entry>84</entry>
@@ -3269,6 +3274,7 @@
         <entry>314</entry>
         <entry>60</entry>
         <entry>64</entry>
+        <entry>48</entry>
       </history-cmd>
       <history-expr />
       <history-input />
