@@ -171,6 +171,12 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/it/resources/db/init.sql" timestamp="1499331601830">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="50" column="14" />
+        <mark key="^" line="50" column="14" />
+        <mark key="." line="50" column="14" />
+      </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="26" />
@@ -257,15 +263,22 @@
         <mark key="." line="975" column="26" />
         <mark key="^" line="975" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1499330204792">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1499332002483">
+        <mark key="[" line="83" column="19" />
+        <mark key="]" line="83" column="24" />
+        <mark key="." line="83" column="24" />
+        <mark key="^" line="83" column="24" />
       </file>
       <file name="/Python Console" timestamp="1499096256381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/it/scala/DriverIntegrationTest.scala" timestamp="1499331785633">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="118" column="46" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/TestHelper.scala" timestamp="1494498200632">
         <mark key="[" line="18" column="0" />
@@ -432,7 +445,6 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1498737128918" />
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/resources/db/migration/V3__PsoHappyId_to_ExternalUserId.sql" timestamp="1497006621593">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="9" column="35" />
@@ -450,7 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="6" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/AWSHelper.scala" />
       <jump line="58" column="2" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/AWSHelper.scala" />
       <jump line="34" column="6" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" />
       <jump line="84" column="0" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" />
@@ -550,10 +561,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/PsoHappyApiIntegrationTest.scala" />
       <jump line="113" column="6" filename="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyApi.scala" />
       <jump line="64" column="12" filename="$USER_HOME$/Source/psohappy-backend/src/raml/api.raml" />
+      <jump line="44" column="144" filename="$USER_HOME$/Source/spike-datawarehouse-export/src/it/resources/db/init.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aENvbHVtbigiY29ycnVwdCIsIGltYWdpbmVTdXJ2ZXlzREYuKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3176,46 +3188,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogVGhlIGZpZWxkIGBwc29IYXBweUlkYCBpcyBvbmx5IHN1cHBvcnRlZCBmb3IgYmFja3dhcmRzIGNvbXBhYmlsaXR5IGFuZCB3aWxsIGJlIGRlcHJlY2F0ZWQuCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0Qm9vbGVhbigiY29ycnVwdCIpID09IGZhbHNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aENvbHVtbigiY29ycnVwdCIsIGltYWdpbmVTdXJ2ZXlzREYuKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICgiMDAwMTIzNDUtNjZiMy00ZmVjLTgyNzItNzcyYTcxOTM0NmRiIiwgImFmNmZkNGE1LTg1MDItNGM0Yi04ZmI1LTdlN2FjNjI4ZTI1YSIsICcyMDE3LTAzLTI0IDEzOjM5OjM1JywgJzIwMTctMDMtMjQgMTM6Mzk6MzUnLCBmYWxzZSwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgIjEzMC4xMDUuMjEyLjY4IiwgIlBIIiwgIlBoaWxpcHBpbmVzIiwgIjAzIiwgIkNlbnRyYWwgTHV6b24iLCBudWxsLCAiQXNpYS9NYW5pbGEiLCAiMTIwLjU5ODYiLCAiMTUuNDg4OSIsICIwMDAwMmU5ZS1lNGJlLTQ2NjItYTRjZC1mNWIzMTYyYTJlZDciLCBudWxsKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgPG1vZHVsZSBmaWxldXJsPSJmaWxlOi8vJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL3Jvb3QuaW1sIiBmaWxlcGF0aD0iJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL3Jvb3QuaW1sIiAvPgogICAgICA8bW9kdWxlIGZpbGV1cmw9ImZpbGU6Ly8kUFJPSkVDVF9ESVIkLy5pZGVhL21vZHVsZXMvcm9vdC1idWlsZC5pbWwiIGZpbGVwYXRoPSIkUFJPSkVDVF9ESVIkLy5pZGVhL21vZHVsZXMvcm9vdC1idWlsZC5pbWwiIC8+</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogYGV4dGVybmFsVXNlcklkYCBtdXN0IGJlIHByb3ZpZGVkLCBgcHNvSGFwcHlJZGAgaXMgb25seSBwcm92aWRlZCBmb3IgYmFja3dhcmRzIGNvbXBhYmlsaXR5IGFuZCB3aWxsIGJlIGRlcHJlY2F0ZWQuCg==</text>
+        <text encoding="base64">IyBub2luc3BlY3Rpb24gU3FsTm9EYXRhU291cmNlSW5zcGVjdGlvbkZvckZpbGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogYGV4dGVybmFsVXNlcklkYCBtdXN0IGJlIHByb3ZpZGVkLCBgcHNvSGFwcHlJZGAgaXMgb25seSBwcm92aWRlZCBmb3IgYmFja3dhcmRzIGNvbXBhYmlsaXR5IGFuZCB3aWxsIGJlIGRlcHJlY2F0ZWQuCg==</text>
+        <text encoding="base64">ICAgICAgICAud2l0aENvbHVtbigiY29ycnVwdCIsIGltYWdpbmVTdXJ2ZXlzREYuKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogRWl0aGVyIGBwc29IYXBweUlkYCBvciBgZXh0ZXJuYWxVc2VySWRgIG11c3QgYmUgcHJvdmlkZWQuCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogRWl0aGVyIGBwc29IYXBweUlkYCBvciBgZXh0ZXJuYWxVc2VySWRgIG11c3QgYmUgcHJvdmlkZWQuCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heFByb3BlcnRpZXM6IDUK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgPG1vZHVsZSBmaWxldXJsPSJmaWxlOi8vJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL3Jvb3QuaW1sIiBmaWxlcGF0aD0iJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL3Jvb3QuaW1sIiAvPgogICAgICA8bW9kdWxlIGZpbGV1cmw9ImZpbGU6Ly8kUFJPSkVDVF9ESVIkLy5pZGVhL21vZHVsZXMvcm9vdC1idWlsZC5pbWwiIGZpbGVwYXRoPSIkUFJPSkVDVF9ESVIkLy5pZGVhL21vZHVsZXMvcm9vdC1idWlsZC5pbWwiIC8+</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogYGV4dGVybmFsVXNlcklkYCBtdXN0IGJlIHByb3ZpZGVkLCBgcHNvSGFwcHlJZGAgaXMgb25seSBwcm92aWRlZCBmb3IgYmFja3dhcmRzIGNvbXBhYmlsaXR5IGFuZCB3aWxsIGJlIGRlcHJlY2F0ZWQuCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogYGV4dGVybmFsVXNlcklkYCBtdXN0IGJlIHByb3ZpZGVkLCBgcHNvSGFwcHlJZGAgaXMgb25seSBwcm92aWRlZCBmb3IgYmFja3dhcmRzIGNvbXBhYmlsaXR5IGFuZCB3aWxsIGJlIGRlcHJlY2F0ZWQuCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>155</text>
+        <text>314</text>
       </register>
     </registers>
     <search>
@@ -3235,7 +3247,6 @@
         <entry>psohappy</entry>
       </history-search>
       <history-cmd>
-        <entry>101</entry>
         <entry>76</entry>
         <entry>35</entry>
         <entry>s/psohappy/notifications/G</entry>
@@ -3255,6 +3266,7 @@
         <entry>59</entry>
         <entry>111</entry>
         <entry>155</entry>
+        <entry>314</entry>
       </history-cmd>
       <history-expr />
       <history-input />
