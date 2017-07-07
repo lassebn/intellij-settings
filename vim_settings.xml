@@ -46,6 +46,9 @@
         <mark key="^" line="65" column="12" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1499427446450">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1499169885542">
         <mark key="[" line="1026" column="27" />
         <mark key="]" line="1026" column="27" />
@@ -99,12 +102,18 @@
         <mark key="." line="41" column="54" />
         <mark key="^" line="41" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" timestamp="1499419575820">
-        <mark key="'" line="76" column="4" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="61" column="48" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" timestamp="1499426630514">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="75" />
+        <mark key="^" line="24" column="75" />
+        <mark key="." line="24" column="75" />
+      </file>
+      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/batch_crafting_from_query.sql.py" timestamp="1499427223623">
+        <mark key="'" line="62" column="77" />
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Source/spike-datawarehouse-export/.idea/modules.xml" timestamp="1499329050645">
         <mark key="[" line="4" column="0" />
@@ -200,6 +209,12 @@
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/documentation-portal.html" timestamp="1499258783944">
         <mark key="[" line="22" column="22" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/batch_crafting_from_query.py" timestamp="1499427710680">
+        <mark key="[" line="60" column="53" />
+        <mark key="]" line="60" column="91" />
+        <mark key="^" line="60" column="91" />
+        <mark key="." line="60" column="91" />
+      </file>
       <file name="$USER_HOME$/Source/studies-and-me/scripts/send_reminder_mails.py" timestamp="1498470247979">
         <mark key="[" line="13" column="88" />
       </file>
@@ -281,6 +296,9 @@
         <mark key="]" line="83" column="24" />
         <mark key="." line="83" column="24" />
         <mark key="^" line="83" column="24" />
+      </file>
+      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/requirements.txt" timestamp="1499426450905">
+        <mark key="[" line="0" column="19" />
       </file>
       <file name="/Python Console" timestamp="1499338031303">
         <mark key="[" line="0" column="4" />
@@ -478,8 +496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/AWSHelper.scala" />
-      <jump line="82" column="27" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/AWSHelper.scala" />
       <jump line="111" column="0" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/AWSHelper.scala" />
       <jump line="119" column="0" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
       <jump line="145" column="0" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
@@ -578,10 +594,12 @@
       <jump line="7" column="0" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" />
       <jump line="47" column="7" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" />
       <jump line="87" column="4" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" />
+      <jump line="57" column="57" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" />
+      <jump line="68" column="77" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/batch_crafting_from_query.sql.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJDcmVhdGVkIHppcGZpbGUgJXMiICUgemlwZmlsZQo=</text>
+        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3204,7 +3222,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>output_path</text>
+        <text>backbone_output</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
@@ -3213,37 +3231,37 @@
         <text encoding="base64">ICAgIF8sIGN1ciA9IGdldF9kYXRhYmFzZV9jb25uZWN0aW9uX2FuZF9jdXJzb3IoZGF0YWJhc2UsIHVzZXJuYW1lLCBwYXNzd29yZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJDcmVhdGVkIHppcGZpbGUgJXMiICUgemlwZmlsZQo=</text>
+        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlX3BhdGggPSAnL1VzZXJzL2xhc3Nlbm9ycmVnYWFyZC9Eb3dubG9hZHMvYmFja2JvbmUtY2FjaGUnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgIGZpbGVzX25vdF9mb3VuZCA9IFtdCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b3V0cHV0X3BhdGggPSBvcy5wYXRoLmpvaW4ob3MuZ2V0Y3dkKCksICdiYWNrYm9uZS1vdXRwdXQnKQo=</text>
+        <text encoding="base64">ICAgIHByaW50ICIlcyBmaWxlcyB3ZXJlIG5vdCBmb3VuZCIgJSBsZW4oZmlsZXNfbm90X2ZvdW5kKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ii9Vc2Vycy9sYXNzZW5vcnJlZ2FhcmQvRG93bmxvYWRzL2JhY2tib25lLW91dHB1dCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWlzc2luZ19yZXBvcnQud3JpdGUoIiVzXG4iICUgbWlzc2luZ19maWxlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbWlzc2luZ19maWxlIGluIGZpbGVzX25vdF9mb3VuZDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgY2Q6CiAgICAiIiJDb250ZXh0IG1hbmFnZXIgZm9yIGNoYW5naW5nIHRoZSBjdXJyZW50IHdvcmtpbmcgZGlyZWN0b3J5IiIiCiAgICBkZWYgX19pbml0X18oc2VsZiwgbmV3UGF0aCk6CiAgICAgICAgc2VsZi5uZXdQYXRoID0gb3MucGF0aC5leHBhbmR1c2VyKG5ld1BhdGgpCgogICAgZGVmIF9fZW50ZXJfXyhzZWxmKToKICAgICAgICBzZWxmLnNhdmVkUGF0aCA9IG9zLmdldGN3ZCgpCiAgICAgICAgb3MuY2hkaXIoc2VsZi5uZXdQYXRoKQoKICAgIGRlZiBfX2V4aXRfXyhzZWxmLCBldHlwZSwgdmFsdWUsIHRyYWNlYmFjayk6CiAgICAgICAgb3MuY2hkaXIoc2VsZi5zYXZlZFBhdGgpCg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbignJXMvZmlsZXNfbWlzc2luZy50eHQnICUgb3V0cHV0X2RpciwgJ3crJykgYXMgbWlzc2luZ19yZXBvcnQ6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3268,7 +3286,6 @@
         <entry>71</entry>
         <entry>..</entry>
         <entry>33</entry>
-        <entry>w</entry>
         <entry>80</entry>
         <entry>16</entry>
         <entry>88</entry>
@@ -3283,6 +3300,7 @@
         <entry>48</entry>
         <entry>8</entry>
         <entry>53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
