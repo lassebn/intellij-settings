@@ -209,11 +209,11 @@
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/documentation-portal.html" timestamp="1499258783944">
         <mark key="[" line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/batch_crafting_from_query.py" timestamp="1499427710680">
-        <mark key="[" line="60" column="53" />
-        <mark key="]" line="60" column="91" />
-        <mark key="^" line="60" column="91" />
-        <mark key="." line="60" column="91" />
+      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/batch_crafting_from_query.py" timestamp="1499429243924">
+        <mark key="[" line="45" column="37" />
+        <mark key="]" line="45" column="37" />
+        <mark key="^" line="47" column="91" />
+        <mark key="." line="45" column="37" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/scripts/send_reminder_mails.py" timestamp="1498470247979">
         <mark key="[" line="13" column="88" />
@@ -598,8 +598,8 @@
       <jump line="68" column="77" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/batch_crafting_from_query.sql.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3222,7 +3222,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>backbone_output</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
@@ -3231,7 +3231,7 @@
         <text encoding="base64">ICAgIF8sIGN1ciA9IGdldF9kYXRhYmFzZV9jb25uZWN0aW9uX2FuZF9jdXJzb3IoZGF0YWJhc2UsIHVzZXJuYW1lLCBwYXNzd29yZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
+        <text encoding="base64">ICAgIGZvciBmaWxlbmFtZSBpbiBmaWxlc190b19hZGQ6Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -3240,25 +3240,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbGVzX25vdF9mb3VuZCA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlc190b19hZGQuYXBwZW5kKGZpbGVuYW1lKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZSA9ICIlcy4lcyIgJSAoaW1hZ2VfaWQsIGV4dGVuc2lvbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ICIlcyBmaWxlcyB3ZXJlIG5vdCBmb3VuZCIgJSBsZW4oZmlsZXNfbm90X2ZvdW5kKQo=</text>
+        <text encoding="base64">ICAgICAgICBleHRlbnNpb24gPSAnanBnJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIE9yaWdpbmFsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWlzc2luZ19yZXBvcnQud3JpdGUoIiVzXG4iICUgbWlzc2luZ19maWxlKQo=</text>
+        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbWlzc2luZ19maWxlIGluIGZpbGVzX25vdF9mb3VuZDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbignJXMvZmlsZXNfbWlzc2luZy50eHQnICUgb3V0cHV0X2RpciwgJ3crJykgYXMgbWlzc2luZ19yZXBvcnQ6Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVzX25vdF9mb3VuZCA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
