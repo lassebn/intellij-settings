@@ -188,12 +188,6 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/it/resources/db/init.sql" timestamp="1499331601830">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="50" column="14" />
-        <mark key="^" line="50" column="14" />
-        <mark key="." line="50" column="14" />
-      </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="26" />
@@ -291,12 +285,7 @@
         <mark key="." line="975" column="26" />
         <mark key="^" line="975" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1499332002483">
-        <mark key="[" line="83" column="19" />
-        <mark key="]" line="83" column="24" />
-        <mark key="." line="83" column="24" />
-        <mark key="^" line="83" column="24" />
-      </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1499332002483" />
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/requirements.txt" timestamp="1499426450905">
         <mark key="[" line="0" column="19" />
       </file>
@@ -305,12 +294,6 @@
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/it/scala/DriverIntegrationTest.scala" timestamp="1499331785633">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="^" line="118" column="46" />
-        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/TestHelper.scala" timestamp="1494498200632">
         <mark key="[" line="18" column="0" />
