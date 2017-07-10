@@ -11,9 +11,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/src/raml/api.raml" timestamp="1499324776329">
-        <mark key="'" line="64" column="12" />
-      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/resources/application.conf" timestamp="1498551323012">
         <mark key="[" line="31" column="29" />
         <mark key="]" line="10" column="31" />
@@ -49,6 +46,7 @@
       <file name="/a.dummy" timestamp="1499427446450">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/README.md" timestamp="1499676260174" />
       <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1499169885542">
         <mark key="[" line="1026" column="27" />
         <mark key="]" line="1026" column="27" />
@@ -101,6 +99,11 @@
         <mark key="]" line="41" column="54" />
         <mark key="." line="41" column="54" />
         <mark key="^" line="41" column="54" />
+      </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/resources/application.conf" timestamp="1499676408708">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" timestamp="1499426630514">
         <mark key="[" line="0" column="0" />
@@ -285,7 +288,12 @@
         <mark key="." line="975" column="26" />
         <mark key="^" line="975" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1499332002483" />
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1499675489298">
+        <mark key="[" line="138" column="115" />
+        <mark key="]" line="139" column="64" />
+        <mark key="." line="139" column="64" />
+        <mark key="^" line="139" column="64" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/requirements.txt" timestamp="1499426450905">
         <mark key="[" line="0" column="19" />
       </file>
@@ -582,7 +590,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIkJ1Y2tldDogJXMsIGtleTogJXMiICUgKGltYWdlc19idWNrZXQsIGtleSkK</text>
+        <text encoding="base64">aW1hZ2VzSW5wdXRQYXRoID0gInMzYTovL2xlby1wbGF0Zm9ybS1pbWFnZXMtc3RhZ2luZy9wcm9kdWN0aW9uLyIK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3214,34 +3222,34 @@
         <text encoding="base64">ICAgIF8sIGN1ciA9IGdldF9kYXRhYmFzZV9jb25uZWN0aW9uX2FuZF9jdXJzb3IoZGF0YWJhc2UsIHVzZXJuYW1lLCBwYXNzd29yZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIkJ1Y2tldDogJXMsIGtleTogJXMiICUgKGltYWdlc19idWNrZXQsIGtleSkK</text>
+        <text encoding="base64">aW1hZ2VzSW5wdXRQYXRoID0gInMzYTovL2xlby1wbGF0Zm9ybS1pbWFnZXMtc3RhZ2luZy9wcm9kdWN0aW9uLyIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByYW5rZWRJbWFnZXM6IFJERFtSYW5rZWRJbWFnZV0gPSB1c2VySW1hZ2VzLnRvREYoKS5zZWxlY3QoIioiLCBGdW5jdGlvbnMuKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VfaWQgPSBpbWFnZV9kYXRhWzEwXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIkJ1Y2tldDogJXMsIGtleTogJXMiICUgKGltYWdlc19idWNrZXQsIGtleSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiVXNlciAlcyBoYXMgJXMgaW1hZ2VzIGluIGEgc2VyaWVzIC0gJXMiICUgKGssIGxlbih2KSwgdikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciAoaywgdikgaW4gd2FudGVkX2ltYWdlX3NldHMuaXRlbXMoKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VfaWQgPSBpbWFnZV9kYXRhWzEwXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiVXNlciAlcyBoYXMgJXMgaW1hZ2VzIGluIGEgc2VyaWVzIC0gJXMiICUgKGssIGxlbih2KSwgdikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZpbGVzX3RvX2FkZCA9IFtdCg==</text>
+        <text encoding="base64">ICAgIGZvciAoaywgdikgaW4gd2FudGVkX2ltYWdlX3NldHMuaXRlbXMoKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBmaWxlbmFtZSBpbiBmaWxlc190b19hZGQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVzX3RvX2FkZCA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
