@@ -103,12 +103,6 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" timestamp="1499775037936">
-        <mark key="[" line="37" column="34" />
-        <mark key="]" line="38" column="33" />
-        <mark key="^" line="38" column="33" />
-        <mark key="." line="38" column="33" />
-      </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/batch_crafting_from_query.sql.py" timestamp="1499427223623">
         <mark key="'" line="62" column="77" />
         <mark key="[" line="0" column="21" />
@@ -446,6 +440,12 @@
         <mark key="^" line="52" column="30" />
         <mark key="." line="52" column="30" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499777757680">
+        <mark key="[" line="102" column="20" />
+        <mark key="]" line="102" column="25" />
+        <mark key="." line="102" column="25" />
+        <mark key="^" line="102" column="25" />
+      </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/resources/logback.xml" timestamp="1494858242809">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="14" />
@@ -584,8 +584,8 @@
       <jump line="5" column="8" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>leo-platform-images-production</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3208,7 +3208,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'3_images_in_a_series'</text>
+        <text>leo-platform-images-production</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
