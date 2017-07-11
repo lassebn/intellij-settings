@@ -443,11 +443,11 @@
         <mark key="^" line="52" column="30" />
         <mark key="." line="52" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499770745139">
-        <mark key="[" line="101" column="100" />
-        <mark key="]" line="102" column="44" />
-        <mark key="^" line="102" column="44" />
-        <mark key="." line="102" column="44" />
+      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499772983442">
+        <mark key="'" line="5" column="8" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/resources/logback.xml" timestamp="1494858242809">
         <mark key="[" line="0" column="14" />
@@ -485,8 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/AWSHelper.scala" />
-      <jump line="112" column="0" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/AWSHelper.scala" />
       <jump line="22" column="73" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/AWSHelper.scala" />
       <jump line="14" column="84" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/AWSHelperSpec.scala" />
       <jump line="44" column="7" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
@@ -585,10 +583,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" />
       <jump line="8" column="47" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" />
       <jump line="111" column="4" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" />
+      <jump line="95" column="29" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" />
+      <jump line="5" column="8" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1hZ2VzSW5wdXRQYXRoID0gInMzYTovL2xlby1wbGF0Zm9ybS1pbWFnZXMtc3RhZ2luZy9wcm9kdWN0aW9uLyIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3211,7 +3211,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>'3_images_in_a_series'</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
@@ -3220,34 +3220,34 @@
         <text encoding="base64">ICAgIF8sIGN1ciA9IGdldF9kYXRhYmFzZV9jb25uZWN0aW9uX2FuZF9jdXJzb3IoZGF0YWJhc2UsIHVzZXJuYW1lLCBwYXNzd29yZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1hZ2VzSW5wdXRQYXRoID0gInMzYTovL2xlby1wbGF0Zm9ybS1pbWFnZXMtc3RhZ2luZy9wcm9kdWN0aW9uLyIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByYW5rZWRJbWFnZXM6IFJERFtSYW5rZWRJbWFnZV0gPSB1c2VySW1hZ2VzLnRvREYoKS5zZWxlY3QoIioiLCBGdW5jdGlvbnMuKQo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbignaW1hZ2VfaWRzJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIkJ1Y2tldDogJXMsIGtleTogJXMiICUgKGltYWdlc19idWNrZXQsIGtleSkK</text>
+        <text encoding="base64">aW1hZ2VzSW5wdXRQYXRoID0gInMzYTovL2xlby1wbGF0Zm9ybS1pbWFnZXMtc3RhZ2luZy9wcm9kdWN0aW9uLyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByYW5rZWRJbWFnZXM6IFJERFtSYW5rZWRJbWFnZV0gPSB1c2VySW1hZ2VzLnRvREYoKS5zZWxlY3QoIioiLCBGdW5jdGlvbnMuKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VfaWQgPSBpbWFnZV9kYXRhWzEwXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIkJ1Y2tldDogJXMsIGtleTogJXMiICUgKGltYWdlc19idWNrZXQsIGtleSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiVXNlciAlcyBoYXMgJXMgaW1hZ2VzIGluIGEgc2VyaWVzIC0gJXMiICUgKGssIGxlbih2KSwgdikK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciAoaywgdikgaW4gd2FudGVkX2ltYWdlX3NldHMuaXRlbXMoKToK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VfaWQgPSBpbWFnZV9kYXRhWzEwXQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAiVXNlciAlcyBoYXMgJXMgaW1hZ2VzIGluIGEgc2VyaWVzIC0gJXMiICUgKGssIGxlbih2KSwgdikK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbGVzX3RvX2FkZCA9IFtdCg==</text>
+        <text encoding="base64">ICAgIGZvciAoaywgdikgaW4gd2FudGVkX2ltYWdlX3NldHMuaXRlbXMoKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
