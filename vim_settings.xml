@@ -210,6 +210,9 @@
         <mark key="^" line="45" column="91" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="/" timestamp="1499773789772">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/studies-and-me/scripts/send_reminder_mails.py" timestamp="1498470247979">
         <mark key="[" line="13" column="88" />
       </file>
@@ -442,12 +445,6 @@
         <mark key="]" line="52" column="30" />
         <mark key="^" line="52" column="30" />
         <mark key="." line="52" column="30" />
-      </file>
-      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499772983442">
-        <mark key="'" line="5" column="8" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/resources/logback.xml" timestamp="1494858242809">
         <mark key="[" line="0" column="14" />
