@@ -69,6 +69,12 @@
         <mark key="." line="149" column="85" />
         <mark key="^" line="149" column="85" />
       </file>
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1499875290429">
+        <mark key="[" line="70" column="136" />
+        <mark key="]" line="70" column="134" />
+        <mark key="^" line="70" column="134" />
+        <mark key="." line="70" column="134" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/mail/MailService.scala" timestamp="1499074437588">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="230" column="7" />
@@ -200,6 +206,12 @@
         <mark key="]" line="4" column="27" />
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Handler.scala" timestamp="1499876115045">
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="34" column="26" />
+        <mark key="^" line="34" column="26" />
+        <mark key="." line="34" column="26" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/documentation-portal.html" timestamp="1499258783944">
         <mark key="[" line="22" column="22" />
