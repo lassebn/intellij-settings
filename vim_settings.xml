@@ -207,11 +207,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Handler.scala" timestamp="1499876115045">
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="34" column="26" />
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Handler.scala" timestamp="1499876210619">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
         <mark key="^" line="34" column="26" />
-        <mark key="." line="34" column="26" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/documentation-portal.html" timestamp="1499258783944">
         <mark key="[" line="22" column="22" />
@@ -3243,28 +3243,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBpbWFnZV9pZCwgcGhvdG9fYXJlYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBpbWFnZV9kYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBpbWFnZV9pZCwgcGhvdG9fYXJlYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBpbWFnZV9kYXRhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbignaW1hZ2VfaWRzJykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1hZ2VzSW5wdXRQYXRoID0gInMzYTovL2xlby1wbGF0Zm9ybS1pbWFnZXMtc3RhZ2luZy9wcm9kdWN0aW9uLyIK</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbignaW1hZ2VfaWRzJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByYW5rZWRJbWFnZXM6IFJERFtSYW5rZWRJbWFnZV0gPSB1c2VySW1hZ2VzLnRvREYoKS5zZWxlY3QoIioiLCBGdW5jdGlvbnMuKQo=</text>
+        <text encoding="base64">aW1hZ2VzSW5wdXRQYXRoID0gInMzYTovL2xlby1wbGF0Zm9ybS1pbWFnZXMtc3RhZ2luZy9wcm9kdWN0aW9uLyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIkJ1Y2tldDogJXMsIGtleTogJXMiICUgKGltYWdlc19idWNrZXQsIGtleSkK</text>
+        <text encoding="base64">ICByYW5rZWRJbWFnZXM6IFJERFtSYW5rZWRJbWFnZV0gPSB1c2VySW1hZ2VzLnRvREYoKS5zZWxlY3QoIioiLCBGdW5jdGlvbnMuKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIkJ1Y2tldDogJXMsIGtleTogJXMiICUgKGltYWdlc19idWNrZXQsIGtleSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
