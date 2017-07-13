@@ -20,7 +20,12 @@
         <mark key="^" line="9" column="105" />
         <mark key="." line="9" column="105" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-helloskin/Makefile" timestamp="1499950109242" />
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/Makefile" timestamp="1499954374078">
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="27" column="59" />
+        <mark key="^" line="27" column="59" />
+        <mark key="." line="27" column="59" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" timestamp="1498108879853">
         <mark key="[" line="134" column="44" />
         <mark key="]" line="134" column="47" />
@@ -47,11 +52,6 @@
         <mark key="]" line="41" column="54" />
         <mark key="." line="41" column="54" />
         <mark key="^" line="41" column="54" />
-      </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/.idea/modules.xml" timestamp="1499329050645">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/ecs-deploy/deploy.sh" timestamp="1496835122453">
         <mark key="[" line="16" column="0" />
@@ -83,6 +83,7 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/README.md" timestamp="1499955492403" />
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="26" />
@@ -112,11 +113,6 @@
         <mark key="]" line="124" column="34" />
         <mark key="." line="124" column="34" />
         <mark key="^" line="124" column="34" />
-      </file>
-      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499343086880">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
         <mark key="[" line="16" column="69" />
@@ -265,21 +261,11 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1499169885542">
-        <mark key="[" line="1026" column="27" />
-        <mark key="]" line="1026" column="27" />
-        <mark key="." line="1026" column="27" />
-      </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1499875290429">
         <mark key="[" line="70" column="136" />
         <mark key="]" line="70" column="134" />
         <mark key="^" line="70" column="134" />
         <mark key="." line="70" column="134" />
-      </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/resources/application.conf" timestamp="1499676408708">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" timestamp="1499781958249">
         <mark key="[" line="43" column="0" />
@@ -410,11 +396,11 @@
       <file name="/Scala Console" timestamp="1494231449884">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1499950773418">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="22" column="5" />
-        <mark key="^" line="22" column="5" />
-        <mark key="." line="22" column="5" />
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1499955192531">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="32" />
+        <mark key="^" line="28" column="32" />
+        <mark key="." line="28" column="32" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/application.conf" timestamp="1498572115128">
         <mark key="[" line="52" column="28" />
@@ -560,8 +546,8 @@
       <jump line="5" column="8" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+      <register name="&quot;" type="4">
+        <text>t2.nano</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3184,7 +3170,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>t2.nano</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
@@ -3195,34 +3181,34 @@
 # in the datawarehouse</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICAidGVzdC1ncm91cCIsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgImtleVBhaXIiIDogIm15LWtleS1wYWlyIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVvdXRFeGNlcHRpb24K</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdoZW4obW9ja0F3c0NsaWVudC5wdWJsaXNoVG9DbG91ZHdhdGNoKGFueVtNZXRyaWNdLCBhbnlbT3B0aW9uW0RpbWVuc2lvbl1dKSkK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVvdXRFeGNlcHRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYWluQWNjb3VudEluZm8gPSBVc2Vyc0luZm9SZXNwb25zZURUTyg4NiwgMTIwMDAsIDApCiAgICB2YWwgc3ViQWNjb3VudCA9IFN1YmFjY291bnREVE8oInRlc3QtYWNjb3VudCIsIDUwKQogICAgdmFsIG1hbmRyaWxsSW5mbyA9IE1hbmRyaWxsSW5mbyhtYWluQWNjb3VudEluZm8sIExpc3Qoc3ViQWNjb3VudCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoZW4obW9ja0F3c0NsaWVudC5wdWJsaXNoVG9DbG91ZHdhdGNoKGFueVtNZXRyaWNdLCBhbnlbT3B0aW9uW0RpbWVuc2lvbl1dKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
