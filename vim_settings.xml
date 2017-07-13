@@ -328,6 +328,12 @@
         <mark key="." line="60" column="29" />
         <mark key="^" line="60" column="29" />
       </file>
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/build.sbt" timestamp="1499944681269">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+      </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" timestamp="1499944041165">
         <mark key="[" line="29" column="33" />
         <mark key="]" line="29" column="18" />
