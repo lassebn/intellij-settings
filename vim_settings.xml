@@ -36,6 +36,12 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="5" column="30" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/deploy-pipeline.py" timestamp="1499949262796">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="33" column="17" />
+        <mark key="." line="33" column="17" />
+        <mark key="^" line="33" column="17" />
+      </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/raml/api.raml" timestamp="1498473728119">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="70" column="0" />
@@ -639,7 +645,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3273,34 +3279,34 @@
 # in the datawarehouse</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVvdXRFeGNlcHRpb24K</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoZW4obW9ja0F3c0NsaWVudC5wdWJsaXNoVG9DbG91ZHdhdGNoKGFueVtNZXRyaWNdLCBhbnlbT3B0aW9uW0RpbWVuc2lvbl1dKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYWluQWNjb3VudEluZm8gPSBVc2Vyc0luZm9SZXNwb25zZURUTyg4NiwgMTIwMDAsIDApCiAgICB2YWwgc3ViQWNjb3VudCA9IFN1YmFjY291bnREVE8oInRlc3QtYWNjb3VudCIsIDUwKQogICAgdmFsIG1hbmRyaWxsSW5mbyA9IE1hbmRyaWxsSW5mbyhtYWluQWNjb3VudEluZm8sIExpc3Qoc3ViQWNjb3VudCkpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVvdXRFeGNlcHRpb24K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdoZW4obW9ja0F3c0NsaWVudC5wdWJsaXNoVG9DbG91ZHdhdGNoKGFueVtNZXRyaWNdLCBhbnlbT3B0aW9uW0RpbWVuc2lvbl1dKSkudGhlblJldHVybihGdXR1cmUoVGhyZWFkLnNsZWVwKDMwMDBhKSkpCg==</text>
+        <text encoding="base64">ICAgIHdoZW4obW9ja0F3c0NsaWVudC5wdWJsaXNoVG9DbG91ZHdhdGNoKGFueVtNZXRyaWNdLCBhbnlbT3B0aW9uW0RpbWVuc2lvbl1dKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaGFuZGxlci52ZQo=</text>
+        <text encoding="base64">ICAgIHZhbCBtYWluQWNjb3VudEluZm8gPSBVc2Vyc0luZm9SZXNwb25zZURUTyg4NiwgMTIwMDAsIDApCiAgICB2YWwgc3ViQWNjb3VudCA9IFN1YmFjY291bnREVE8oInRlc3QtYWNjb3VudCIsIDUwKQogICAgdmFsIG1hbmRyaWxsSW5mbyA9IE1hbmRyaWxsSW5mbyhtYWluQWNjb3VudEluZm8sIExpc3Qoc3ViQWNjb3VudCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLkFyZ3VtZW50TWF0Y2hlci5fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
