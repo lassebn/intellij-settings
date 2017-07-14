@@ -282,11 +282,11 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500025027534">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="13" />
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500028075508">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/identity/FacebookIdentityService.scala" timestamp="1499178850101">
         <mark key="[" line="79" column="30" />
@@ -555,7 +555,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>yum install jq`</text>
+        <text>o</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3178,7 +3178,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t2.nano</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
