@@ -405,11 +405,11 @@
       <file name="/Scala Console" timestamp="1494231449884">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500032172262">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500033065196">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="54" />
+        <mark key="^" line="30" column="54" />
+        <mark key="." line="30" column="54" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/application.conf" timestamp="1498572115128">
         <mark key="[" line="52" column="28" />
@@ -555,7 +555,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>arn:aws:iam::085816956471:instance-profile/HelloskinPipelineShellCommandEC2</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3178,7 +3178,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>arn:aws:iam::085816956471:instance-profile/HelloskinPipelineShellCommandEC2</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
