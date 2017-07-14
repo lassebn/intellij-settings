@@ -83,7 +83,7 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-helloskin/README.md" timestamp="1500024912938">
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/README.md" timestamp="1500032185319">
         <mark key="[" line="17" column="20" />
         <mark key="]" line="17" column="34" />
       </file>
@@ -282,11 +282,11 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500028075508">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500029575770">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/identity/FacebookIdentityService.scala" timestamp="1499178850101">
         <mark key="[" line="79" column="30" />
@@ -405,11 +405,11 @@
       <file name="/Scala Console" timestamp="1494231449884">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1499955192531">
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="32" />
-        <mark key="^" line="28" column="32" />
-        <mark key="." line="28" column="32" />
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500032172262">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/application.conf" timestamp="1498572115128">
         <mark key="[" line="52" column="28" />
@@ -555,7 +555,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3178,7 +3178,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
@@ -3187,34 +3187,34 @@
         <text>yum install jq`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAidGVzdC1ncm91cCIsCg==</text>
+        <text encoding="base64">ICAgICAgInJlc291cmNlUm9sZSI6ICJhcm46YXdzOmlhbTo6MDg1ODE2OTU2NDcxOmluc3RhbmNlLXByb2ZpbGUvRGF0YVdhcmVob3VzZVBpcGVsaW5lUm9sZSIsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgImtleVBhaXIiIDogIm15LWtleS1wYWlyIgo=</text>
+        <text encoding="base64">ICAgICAgInJlc291cmNlUm9sZSI6ICJhcm46YXdzOmlhbTo6MDg1ODE2OTU2NDcxOmluc3RhbmNlLXByb2ZpbGUvRGF0YVBpcGVsaW5lRGVmYXVsdFJlc291cmNlUm9sZSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICAidGVzdC1ncm91cCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgImtleVBhaXIiIDogIm15LWtleS1wYWlyIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVvdXRFeGNlcHRpb24K</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdoZW4obW9ja0F3c0NsaWVudC5wdWJsaXNoVG9DbG91ZHdhdGNoKGFueVtNZXRyaWNdLCBhbnlbT3B0aW9uW0RpbWVuc2lvbl1dKSkK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVvdXRFeGNlcHRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
