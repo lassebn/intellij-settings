@@ -155,11 +155,11 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" timestamp="1500021983424">
-        <mark key="[" line="49" column="37" />
-        <mark key="]" line="49" column="38" />
-        <mark key="^" line="29" column="18" />
-        <mark key="." line="49" column="38" />
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" timestamp="1500277219947">
+        <mark key="[" line="27" column="61" />
+        <mark key="]" line="27" column="71" />
+        <mark key="." line="27" column="71" />
+        <mark key="^" line="27" column="71" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/getsentry/raven/log4j/LambdaSentryAppender.scala" timestamp="1494848303088">
         <mark key="[" line="2" column="32" />
@@ -266,11 +266,11 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1500272291760">
-        <mark key="[" line="75" column="39" />
-        <mark key="]" line="70" column="134" />
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1500277118124">
+        <mark key="[" line="57" column="2" />
+        <mark key="]" line="57" column="2" />
         <mark key="^" line="70" column="134" />
-        <mark key="." line="70" column="134" />
+        <mark key="." line="57" column="2" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" timestamp="1499781958249">
         <mark key="[" line="43" column="0" />
@@ -556,8 +556,8 @@
       <jump line="5" column="8" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWBhd3MgZWNyIGdldC1sb2dpbiAtLXJlZ2lvbiBldS13ZXN0LTFgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3180,7 +3180,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
@@ -3189,34 +3189,34 @@
         <text encoding="base64">CWBhd3MgZWNyIGdldC1sb2dpbiAtLXJlZ2lvbiBldS13ZXN0LTFgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSogVGFza1J1bm5lciBwcm9jZXNzIHN0YXJ0ZWQgKGluIGBzY3JlZW5gKSB1c2luZyBgamF2YSAtY3AgIlRhc2tSdW5uZXItMS4wLmphcjpteXNxbC1jb25uZWN0b3ItamF2YS1iaW4uamFyIiBhbWF6b25hd3MuZGF0YXBpcGVsaW5lLnRhc2tydW5uZXIuTWFpbiAtLWNvbmZpZyBjcmVkZW50aWFscy5qc29uIC0td29ya2VyR3JvdXA9bWhqV29ya2VyR3JvdXAgLS1yZWdpb249ZXUtd2VzdC0xIC0tbG9nVXJpPXMzOi8vbGVvLXBsYXRmb3JtLWRhdGF3YXJlaG91c2UtZXUtd2VzdDEvbWhqLXdnLyAtRGxvZzRqLmRlYnVnPXRydWVgCg==</text>
+        <text encoding="base64">ICAgIHdoZW4obW9jaykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSogUHJlcmVxOiBgc3VkbyB5dW0gaW5zdGFsbCBqcWAgZm9yIGAud3JhcC1hd3NjbGkuc2hgCg==</text>
+        <text encoding="base64">CSogVGFza1J1bm5lciBwcm9jZXNzIHN0YXJ0ZWQgKGluIGBzY3JlZW5gKSB1c2luZyBgamF2YSAtY3AgIlRhc2tSdW5uZXItMS4wLmphcjpteXNxbC1jb25uZWN0b3ItamF2YS1iaW4uamFyIiBhbWF6b25hd3MuZGF0YXBpcGVsaW5lLnRhc2tydW5uZXIuTWFpbiAtLWNvbmZpZyBjcmVkZW50aWFscy5qc29uIC0td29ya2VyR3JvdXA9bWhqV29ya2VyR3JvdXAgLS1yZWdpb249ZXUtd2VzdC0xIC0tbG9nVXJpPXMzOi8vbGVvLXBsYXRmb3JtLWRhdGF3YXJlaG91c2UtZXUtd2VzdDEvbWhqLXdnLyAtRGxvZzRqLmRlYnVnPXRydWVgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSogQWNjZXNzIHVzaW5nIGBzc2ggLWkgIndvcmtlckdyb3VwLnBlbSIgZWMyLXVzZXJAZWMyLTUyLTMwLTE3LTE2LmV1LXdlc3QtMS5jb21wdXRlLmFtYXpvbmF3cy5jb21gIChrZXlmaWxlIGluIDFwYXNzd29yZCkK</text>
+        <text encoding="base64">CSogUHJlcmVxOiBgc3VkbyB5dW0gaW5zdGFsbCBqcWAgZm9yIGAud3JhcC1hd3NjbGkuc2hgCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CSogQWNjZXNzIHVzaW5nIGBzc2ggLWkgIndvcmtlckdyb3VwLnBlbSIgZWMyLXVzZXJAZWMyLTUyLTMwLTE3LTE2LmV1LXdlc3QtMS5jb21wdXRlLmFtYXpvbmF3cy5jb21gIChrZXlmaWxlIGluIDFwYXNzd29yZCkK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">KiBQaXBlbGluZSBydW5zIGpvYnMgdmlhIFRhc2tSdW5uZXIgcHJvY2VzcyBvbiBgZWMyLTUyLTMwLTE3LTE2LmV1LXdlc3QtMS5jb21wdXRlLmFtYXpvbmF3cy5jb21gCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiogVGhlIA==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgInJlc291cmNlUm9sZSI6ICJhcm46YXdzOmlhbTo6MDg1ODE2OTU2NDcxOmluc3RhbmNlLXByb2ZpbGUvRGF0YVdhcmVob3VzZVBpcGVsaW5lUm9sZSIsCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgInJlc291cmNlUm9sZSI6ICJhcm46YXdzOmlhbTo6MDg1ODE2OTU2NDcxOmluc3RhbmNlLXByb2ZpbGUvRGF0YVBpcGVsaW5lRGVmYXVsdFJlc291cmNlUm9sZSIsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAidGVzdC1ncm91cCIsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgImtleVBhaXIiIDogIm15LWtleS1wYWlyIgo=</text>
+        <text encoding="base64">ICAgICAgICAidGVzdC1ncm91cCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
