@@ -264,8 +264,8 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1499875290429">
-        <mark key="[" line="70" column="136" />
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1500272291760">
+        <mark key="[" line="75" column="39" />
         <mark key="]" line="70" column="134" />
         <mark key="^" line="70" column="134" />
         <mark key="." line="70" column="134" />
