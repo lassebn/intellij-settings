@@ -38,6 +38,11 @@
         <mark key="." line="149" column="85" />
         <mark key="^" line="149" column="85" />
       </file>
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/cfn.json" timestamp="1500290644863">
+        <mark key="[" line="5" column="77" />
+        <mark key="]" line="5" column="78" />
+        <mark key="." line="5" column="78" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/ApisModule.scala" timestamp="1496911793525">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="30" />
@@ -52,6 +57,11 @@
         <mark key="]" line="41" column="54" />
         <mark key="." line="41" column="54" />
         <mark key="^" line="41" column="54" />
+      </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/.idea/modules.xml" timestamp="1499329050645">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/ecs-deploy/deploy.sh" timestamp="1496835122453">
         <mark key="[" line="16" column="0" />
@@ -101,11 +111,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Handler.scala" timestamp="1500286566023">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="7" column="56" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Handler.scala" timestamp="1500290378574">
+        <mark key="[" line="34" column="14" />
+        <mark key="]" line="35" column="29" />
+        <mark key="^" line="35" column="29" />
+        <mark key="." line="35" column="29" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/documentation-portal.html" timestamp="1499258783944">
         <mark key="[" line="22" column="22" />
@@ -118,6 +128,11 @@
         <mark key="]" line="124" column="34" />
         <mark key="." line="124" column="34" />
         <mark key="^" line="124" column="34" />
+      </file>
+      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499343086880">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
         <mark key="[" line="16" column="69" />
@@ -149,18 +164,18 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/build.sbt" timestamp="1499944681269">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="18" />
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/build.sbt" timestamp="1500290654401">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="19" />
         <mark key="^" line="15" column="18" />
-        <mark key="." line="15" column="18" />
+        <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" timestamp="1500288564559">
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" timestamp="1500290135838">
         <mark key="'" line="26" column="49" />
-        <mark key="[" line="60" column="74" />
-        <mark key="]" line="61" column="79" />
-        <mark key="." line="61" column="79" />
-        <mark key="^" line="61" column="79" />
+        <mark key="[" line="65" column="36" />
+        <mark key="]" line="65" column="68" />
+        <mark key="." line="65" column="68" />
+        <mark key="^" line="65" column="68" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/getsentry/raven/log4j/LambdaSentryAppender.scala" timestamp="1494848303088">
         <mark key="[" line="2" column="32" />
@@ -267,11 +282,21 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1500288685247">
-        <mark key="[" line="88" column="32" />
-        <mark key="]" line="88" column="66" />
-        <mark key="." line="88" column="66" />
-        <mark key="^" line="88" column="66" />
+      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1499169885542">
+        <mark key="[" line="1026" column="27" />
+        <mark key="]" line="1026" column="27" />
+        <mark key="." line="1026" column="27" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1500290357074">
+        <mark key="[" line="78" column="33" />
+        <mark key="]" line="78" column="33" />
+        <mark key="^" line="78" column="33" />
+        <mark key="." line="78" column="33" />
+      </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/resources/application.conf" timestamp="1499676408708">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" timestamp="1499781958249">
         <mark key="[" line="43" column="0" />
@@ -557,8 +582,8 @@
       <jump line="26" column="49" filename="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdoZW4obW9ja01hbmRyaWxsQ2xpZW50LmxvZ2dlci5kZWJ1ZyhhbnlbU3RyaW5nXSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHJyb3JNc2cgIkNvdWxkIG5vdCBnZXQgdXNlciBpbmZvIg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3181,43 +3206,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IHJyb3JNc2cgIkNvdWxkIG5vdCBnZXQgdXNlciBpbmZvIg==</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWBhd3MgZWNyIGdldC1sb2dpbiAtLXJlZ2lvbiBldS13ZXN0LTFgCg==</text>
+        <text encoding="base64">ICBpdCBzaG91bGQgInJldHJ5IG9uIGNvbm5lY3Rpb24gdGltb3V0cyBiZWZvcmUgdGhyb3dpbmcgYW4gZXhjZXB0aW9uIiBpbiB7Ci8vICAgIHdoZW4obW9ja01hbmRyaWxsQ2xpZW50LmdldEluZm8pLnRoZW5SZXR1cm4oRnV0dXJle1RocmVhZC5zbGVlcCgyMDAwKTsgbWFuZHJpbGxJbmZvfSkKICAgIHdoZW4obW9ja01hbmRyaWxsQ2xpZW50LmdldEluZm8pLnRoZW5DYWxsUmVhbE1ldGhvZCgpCiAgICB3aGVuKG1vY2tNYW5kcmlsbENsaWVudC5nZXRVc2Vyc0luZm8pLnRoZW5SZXR1cm4oRnV0dXJlLmZhaWxlZChuZXcgUnVudGltZUV4Y2VwdGlvbigicmFuZG9tIG1lc3NhZ2UiKSkpCiAgICB3aGVuKG1vY2tNYW5kcmlsbENsaWVudC5nZXRTdWJhY2NvdW50TGlzdCkudGhlblJldHVybihGdXR1cmUoTGlzdChzdWJBY2NvdW50KSkpCgogICAgdmFsIGV4Y2VwdGlvbkNhdWdodCA9IGludGVyY2VwdFtSdW50aW1lRXhjZXB0aW9uXSB7CiAgICAgIGhhbmRsZXIubW9uaXRvck1hbmRyaWxsKDMpCiAgICB9CgovLyAgICBhc3NlcnQoZXhjZXB0aW9uQ2F1Z2h0LmdldE1lc3NhZ2UuY29udGFpbnMoIkNvdWxkIG5vdCBnZXQgdXNlciBpbmZvIikpCiAgICBhc3NlcnQoZXhjZXB0aW9uQ2F1Z2h0LmdldENhdXNlLmdldE1lc3NhZ2UuY29udGFpbnMoInJhbmRvbSBtZXNzYWdlIikpCiAgICB2ZXJpZnkobW9ja01hbmRyaWxsQ2xpZW50LCB0aW1lcygzKSkuZ2V0SW5mbwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdoZW4obW9ja01hbmRyaWxsQ2xpZW50LmxvZ2dlci5kZWJ1ZyhhbnlbU3RyaW5nXSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgcHJldHR5RXJyb3JzLl8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWwgbW9ja0xvZ2dlciA9IG1vY2tbTG9nZ2VyXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjbGFzcyBub25Mb2dnaW5nVGVzdE1hbmRyaWxsQ2xpZW50IGV4dGVuZHMgTWFuZHJpbGxDbGllbnQoU29tZShtb2NrTG9nZ2VyKSkK</text>
+        <text encoding="base64">b2JqZWN0IHByZXR0eUVycm9ycyB7CiAgaW1wbGljaXQgY2xhc3MgRXJyb3JNZXNzYWdlRnV0dXJlW0FdKHZhbCBmdXR1cmU6IEZ1dHVyZVtBXSkgZXh0ZW5kcyBBbnlWYWwgewogICAgZGVmIGVycm9yTXNnKGVycm9yOiBTdHJpbmcpOiBGdXR1cmVbQV0gPSBmdXR1cmUucmVjb3ZlcldpdGggewogICAgICBjYXNlIHQ6IFRocm93YWJsZSA9PiBGdXR1cmUuZmFpbGVkKG5ldyBFeGNlcHRpb24oZXJyb3IsIHQpKQogICAgfQogIH0KfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcmludGxuKGFsdGVybmF0aXZlTG9nZ2VyLmdldCkK</text>
+        <text encoding="base64">ICAgIHdoZW4obW9ja01hbmRyaWxsQ2xpZW50LmdldEluZm8pLnRoZW5DYWxsUmVhbE1ldGhvZCgpCiAgICB3aGVuKG1vY2tNYW5kcmlsbENsaWVudC5nZXRVc2Vyc0luZm8pLnRoZW5SZXR1cm4oRnV0dXJlLmZhaWxlZChuZXcgUnVudGltZUV4Y2VwdGlvbigicmFuZG9tIG1lc3NhZ2UiKSkpCiAgICB3aGVuKG1vY2tNYW5kcmlsbENsaWVudC5nZXRTdWJhY2NvdW50TGlzdCkudGhlblJldHVybihGdXR1cmUoTGlzdChzdWJBY2NvdW50KSkpCgogICAgdmFsIGV4Y2VwdGlvbkNhdWdodCA9IGludGVyY2VwdFtSdW50aW1lRXhjZXB0aW9uXSB7CiAgICAgIGhhbmRsZXIubW9uaXRvck1hbmRyaWxsKDMpCiAgICB9CgogICAgYXNzZXJ0KGV4Y2VwdGlvbkNhdWdodC5nZXRDYXVzZS5nZXRNZXNzYWdlLmNvbnRhaW5zKCJyYW5kb20gbWVzc2FnZSIpKQogICAgdmVyaWZ5KG1vY2tNYW5kcmlsbENsaWVudCwgdGltZXMoMykpLmdldEluZm8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgbG9nZ2luZ0VuYWJsZWQgPSBlbmFibGVMb2dnaW5nCg==</text>
+        <text encoding="base64">ICAgIC8vICAgIGFzc2VydChleGNlcHRpb25DYXVnaHQuZ2V0TWVzc2FnZS5jb250YWlucygiQ291bGQgbm90IGdldCB1c2VyIGluZm8iKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgIHdoZW4obW9ja01hbmRyaWxsQ2xpZW50LmdldEluZm8pLnRoZW5SZXR1cm4oRnV0dXJle1RocmVhZC5zbGVlcCgyMDAwKTsgbWFuZHJpbGxJbmZvfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChleGNlcHRpb25DYXVnaHQuZ2V0Q2F1c2UuZ2V0TWVzc2FnZS5jb250YWlucygicmFuZG9tIG1lc3NhZ2UiKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai57TG9nZ2VyLCBMb2dnZXJGYWN0b3J5fQo=</text>
+        <text encoding="base64">Ly8gICAgYXNzZXJ0KGV4Y2VwdGlvbkNhdWdodC5nZXRNZXNzYWdlLmNvbnRhaW5zKCJDb3VsZCBub3QgZ2V0IHVzZXIgaW5mbyIpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
