@@ -101,11 +101,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Handler.scala" timestamp="1500282413826">
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="13" column="56" />
-        <mark key="^" line="13" column="56" />
-        <mark key="." line="13" column="56" />
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Handler.scala" timestamp="1500286566023">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="7" column="56" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/documentation-portal.html" timestamp="1499258783944">
         <mark key="[" line="22" column="22" />
@@ -155,12 +155,12 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" timestamp="1500284773238">
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" timestamp="1500288564559">
         <mark key="'" line="26" column="49" />
-        <mark key="[" line="29" column="44" />
-        <mark key="]" line="29" column="43" />
-        <mark key="." line="29" column="43" />
-        <mark key="^" line="29" column="43" />
+        <mark key="[" line="60" column="74" />
+        <mark key="]" line="61" column="79" />
+        <mark key="." line="61" column="79" />
+        <mark key="^" line="61" column="79" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/getsentry/raven/log4j/LambdaSentryAppender.scala" timestamp="1494848303088">
         <mark key="[" line="2" column="32" />
@@ -267,11 +267,11 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1500283894238">
-        <mark key="[" line="89" column="39" />
-        <mark key="]" line="89" column="39" />
-        <mark key="." line="89" column="39" />
-        <mark key="^" line="56" column="60" />
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1500288685247">
+        <mark key="[" line="88" column="32" />
+        <mark key="]" line="88" column="66" />
+        <mark key="." line="88" column="66" />
+        <mark key="^" line="88" column="66" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" timestamp="1499781958249">
         <mark key="[" line="43" column="0" />
@@ -557,8 +557,8 @@
       <jump line="26" column="49" filename="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dGVzdE1hbmRyaWxsQ2xpZW50IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdoZW4obW9ja01hbmRyaWxsQ2xpZW50LmxvZ2dlci5kZWJ1ZyhhbnlbU3RyaW5nXSkpCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3181,7 +3181,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGVzdE1hbmRyaWxsQ2xpZW50IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
@@ -3190,34 +3190,34 @@
         <text encoding="base64">CWBhd3MgZWNyIGdldC1sb2dpbiAtLXJlZ2lvbiBldS13ZXN0LTFgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoZW4obW9ja01hbmRyaWxsQ2xpZW50LmxvZ2dlci5kZWJ1ZyhhbnlbU3RyaW5nXSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjbGFzcyB0ZXN0TWFuZHJpbGxDbGllbnQgZXh0ZW5kcyBNYW5kcmlsbENsaWVudChTb21lKG1vY2tbTG9nZ2VyXSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YXIgbW9ja0xvZ2dlcjogTG9nZ2VyID0gXwo=</text>
+        <text encoding="base64">ICB2YWwgbW9ja0xvZ2dlciA9IG1vY2tbTG9nZ2VyXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vY2tMb2dnZXIgPSBtb2NrW0xvZ2dlcl0K</text>
+        <text encoding="base64">ICBjbGFzcyBub25Mb2dnaW5nVGVzdE1hbmRyaWxsQ2xpZW50IGV4dGVuZHMgTWFuZHJpbGxDbGllbnQoU29tZShtb2NrTG9nZ2VyKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vY2tMb2dnZXIuCg==</text>
+        <text encoding="base64">ICBwcmludGxuKGFsdGVybmF0aXZlTG9nZ2VyLmdldCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vY2tMb2dnZXIuZGVidWcoIiIpCg==</text>
+        <text encoding="base64">ICB2YWwgbG9nZ2luZ0VuYWJsZWQgPSBlbmFibGVMb2dnaW5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdoZW4obW9ja0xvZ2dlci5kZWJ1ZyhhbnlbU3RyaW5nXSkpLnRoZW5SZXR1cm4oKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgd2hlbihtb2NrTWFuZHJpbGxDbGllbnQuZ2V0SW5mbykudGhlblJldHVybihGdXR1cmV7VGhyZWFkLnNsZWVwKDIwMDApOyBtYW5kcmlsbEluZm99KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai57TG9nZ2VyLCBMb2dnZXJGYWN0b3J5fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
