@@ -407,11 +407,11 @@
       <file name="/Scala Console" timestamp="1494231449884">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500275330884">
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="40" column="55" />
-        <mark key="^" line="40" column="24" />
-        <mark key="." line="40" column="25" />
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
+        <mark key="[" line="68" column="183" />
+        <mark key="]" line="68" column="184" />
+        <mark key="^" line="68" column="184" />
+        <mark key="." line="68" column="184" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/application.conf" timestamp="1498572115128">
         <mark key="[" line="52" column="28" />
