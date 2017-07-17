@@ -20,11 +20,11 @@
         <mark key="^" line="9" column="105" />
         <mark key="." line="9" column="105" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-helloskin/Makefile" timestamp="1499954374078">
-        <mark key="[" line="27" column="41" />
-        <mark key="]" line="27" column="59" />
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/Makefile" timestamp="1500275402389">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="41" />
         <mark key="^" line="27" column="59" />
-        <mark key="." line="27" column="59" />
+        <mark key="." line="27" column="41" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" timestamp="1498108879853">
         <mark key="[" line="134" column="44" />
@@ -83,11 +83,11 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-helloskin/README.md" timestamp="1500274125210">
-        <mark key="[" line="14" column="119" />
-        <mark key="]" line="14" column="117" />
-        <mark key="." line="14" column="117" />
-        <mark key="^" line="14" column="117" />
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/README.md" timestamp="1500275037303">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="11" column="96" />
+        <mark key="^" line="11" column="96" />
+        <mark key="." line="11" column="96" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
@@ -407,11 +407,11 @@
       <file name="/Scala Console" timestamp="1494231449884">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500033065196">
-        <mark key="[" line="30" column="23" />
-        <mark key="]" line="30" column="54" />
-        <mark key="^" line="30" column="54" />
-        <mark key="." line="30" column="54" />
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500275330884">
+        <mark key="[" line="40" column="25" />
+        <mark key="]" line="40" column="55" />
+        <mark key="^" line="40" column="24" />
+        <mark key="." line="40" column="25" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/application.conf" timestamp="1498572115128">
         <mark key="[" line="52" column="28" />
@@ -556,8 +556,8 @@
       <jump line="5" column="8" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiogVGhlIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWBhd3MgZWNyIGdldC1sb2dpbiAtLXJlZ2lvbiBldS13ZXN0LTFgCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3180,43 +3180,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>arn:aws:iam::085816956471:instance-profile/HelloskinPipelineShellCommandEC2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
       </register>
-      <register name="0" type="4">
-        <text>yum install jq`</text>
+      <register name="0" type="2">
+        <text encoding="base64">CWBhd3MgZWNyIGdldC1sb2dpbiAtLXJlZ2lvbiBldS13ZXN0LTFgCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiogVGhlIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CSogVGFza1J1bm5lciBwcm9jZXNzIHN0YXJ0ZWQgKGluIGBzY3JlZW5gKSB1c2luZyBgamF2YSAtY3AgIlRhc2tSdW5uZXItMS4wLmphcjpteXNxbC1jb25uZWN0b3ItamF2YS1iaW4uamFyIiBhbWF6b25hd3MuZGF0YXBpcGVsaW5lLnRhc2tydW5uZXIuTWFpbiAtLWNvbmZpZyBjcmVkZW50aWFscy5qc29uIC0td29ya2VyR3JvdXA9bWhqV29ya2VyR3JvdXAgLS1yZWdpb249ZXUtd2VzdC0xIC0tbG9nVXJpPXMzOi8vbGVvLXBsYXRmb3JtLWRhdGF3YXJlaG91c2UtZXUtd2VzdDEvbWhqLXdnLyAtRGxvZzRqLmRlYnVnPXRydWVgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgInJlc291cmNlUm9sZSI6ICJhcm46YXdzOmlhbTo6MDg1ODE2OTU2NDcxOmluc3RhbmNlLXByb2ZpbGUvRGF0YVdhcmVob3VzZVBpcGVsaW5lUm9sZSIsCg==</text>
+        <text encoding="base64">CSogUHJlcmVxOiBgc3VkbyB5dW0gaW5zdGFsbCBqcWAgZm9yIGAud3JhcC1hd3NjbGkuc2hgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgInJlc291cmNlUm9sZSI6ICJhcm46YXdzOmlhbTo6MDg1ODE2OTU2NDcxOmluc3RhbmNlLXByb2ZpbGUvRGF0YVBpcGVsaW5lRGVmYXVsdFJlc291cmNlUm9sZSIsCg==</text>
+        <text encoding="base64">CSogQWNjZXNzIHVzaW5nIGBzc2ggLWkgIndvcmtlckdyb3VwLnBlbSIgZWMyLXVzZXJAZWMyLTUyLTMwLTE3LTE2LmV1LXdlc3QtMS5jb21wdXRlLmFtYXpvbmF3cy5jb21gIChrZXlmaWxlIGluIDFwYXNzd29yZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAidGVzdC1ncm91cCIsCg==</text>
+        <text encoding="base64">KiBQaXBlbGluZSBydW5zIGpvYnMgdmlhIFRhc2tSdW5uZXIgcHJvY2VzcyBvbiBgZWMyLTUyLTMwLTE3LTE2LmV1LXdlc3QtMS5jb21wdXRlLmFtYXpvbmF3cy5jb21gCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgImtleVBhaXIiIDogIm15LWtleS1wYWlyIgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiogVGhlIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgInJlc291cmNlUm9sZSI6ICJhcm46YXdzOmlhbTo6MDg1ODE2OTU2NDcxOmluc3RhbmNlLXByb2ZpbGUvRGF0YVdhcmVob3VzZVBpcGVsaW5lUm9sZSIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgInJlc291cmNlUm9sZSI6ICJhcm46YXdzOmlhbTo6MDg1ODE2OTU2NDcxOmluc3RhbmNlLXByb2ZpbGUvRGF0YVBpcGVsaW5lRGVmYXVsdFJlc291cmNlUm9sZSIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICAidGVzdC1ncm91cCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImtleVBhaXIiIDogIm15LWtleS1wYWlyIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
