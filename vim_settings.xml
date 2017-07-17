@@ -273,8 +273,11 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/circle.yml" timestamp="1500292805582">
-        <mark key="[" line="8" column="29" />
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/circle.yml" timestamp="1500293745012">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="325" />
+        <mark key="^" line="8" column="325" />
+        <mark key="." line="8" column="325" />
       </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1500290357074">
         <mark key="[" line="78" column="33" />
