@@ -38,11 +38,11 @@
         <mark key="." line="149" column="85" />
         <mark key="^" line="149" column="85" />
       </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/cfn.json" timestamp="1500292454073">
-        <mark key="[" line="19" column="66" />
-        <mark key="]" line="19" column="92" />
-        <mark key="." line="19" column="92" />
-        <mark key="^" line="19" column="92" />
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/cfn.json" timestamp="1500362573713">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="51" />
+        <mark key="." line="5" column="51" />
+        <mark key="^" line="5" column="51" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/ApisModule.scala" timestamp="1496911793525">
         <mark key="[" line="9" column="15" />
@@ -50,7 +50,7 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="/Dummy.scala" timestamp="1494426318982">
+      <file name="/Dummy.scala" timestamp="1500362887645">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/project/Build.scala" timestamp="1498551255596">
@@ -107,11 +107,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Handler.scala" timestamp="1500292437233">
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="36" />
-        <mark key="^" line="17" column="57" />
-        <mark key="." line="19" column="36" />
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Handler.scala" timestamp="1500362962502">
+        <mark key="[" line="36" column="39" />
+        <mark key="]" line="39" column="41" />
+        <mark key="^" line="39" column="41" />
+        <mark key="." line="39" column="41" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/documentation-portal.html" timestamp="1499258783944">
         <mark key="[" line="22" column="22" />
@@ -161,12 +161,12 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" timestamp="1500290135838">
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" timestamp="1500362989959">
         <mark key="'" line="26" column="49" />
-        <mark key="[" line="65" column="36" />
-        <mark key="]" line="65" column="68" />
-        <mark key="." line="65" column="68" />
-        <mark key="^" line="65" column="68" />
+        <mark key="[" line="57" column="47" />
+        <mark key="]" line="57" column="37" />
+        <mark key="." line="57" column="37" />
+        <mark key="^" line="57" column="37" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/getsentry/raven/log4j/LambdaSentryAppender.scala" timestamp="1494848303088">
         <mark key="[" line="2" column="32" />
@@ -569,8 +569,8 @@
       <jump line="26" column="49" filename="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBhd3MgY2xvdWRmb3JtYXRpb24gY3JlYXRlLWNoYW5nZS1zZXQgLS1yZWdpb24gZXUtY2VudHJhbC0xIC0tY2FwYWJpbGl0aWVzIENBUEFCSUxJVFlfSUFNIC0tY2hhbmdlLXNldC1uYW1lIHVwZGF0ZS1tYW5kcmlsbC1tb25pdG9yIC0tc3RhY2stbmFtZSBtYW5kcmlsbC1tb25pdG9yLWxhbWJkYSAtLXRlbXBsYXRlLWJvZHkgZmlsZTovL2Nmbi5qc29uIC0tcGFyYW1ldGVycyBQYXJhbWV0ZXJLZXk9TGFtYmRhRnVuY3Rpb25TM0tleSxQYXJhbWV0ZXJWYWx1ZT1tYW5kcmlsbC1tb25pdG9yLWxhbWJkYS9tYW5kcmlsbC1tb25pdG9yLWxhbWJkYS1hc3NlbWJseS0ke0NJUkNMRV9CUkFOQ0gjImltcHJvIn0uamFyCg==</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3193,7 +3193,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
@@ -3202,34 +3202,34 @@
         <text encoding="base64">ICBpdCBzaG91bGQgInJldHJ5IG9uIGNvbm5lY3Rpb24gdGltb3V0cyBiZWZvcmUgdGhyb3dpbmcgYW4gZXhjZXB0aW9uIiBpbiB7Ci8vICAgIHdoZW4obW9ja01hbmRyaWxsQ2xpZW50LmdldEluZm8pLnRoZW5SZXR1cm4oRnV0dXJle1RocmVhZC5zbGVlcCgyMDAwKTsgbWFuZHJpbGxJbmZvfSkKICAgIHdoZW4obW9ja01hbmRyaWxsQ2xpZW50LmdldEluZm8pLnRoZW5DYWxsUmVhbE1ldGhvZCgpCiAgICB3aGVuKG1vY2tNYW5kcmlsbENsaWVudC5nZXRVc2Vyc0luZm8pLnRoZW5SZXR1cm4oRnV0dXJlLmZhaWxlZChuZXcgUnVudGltZUV4Y2VwdGlvbigicmFuZG9tIG1lc3NhZ2UiKSkpCiAgICB3aGVuKG1vY2tNYW5kcmlsbENsaWVudC5nZXRTdWJhY2NvdW50TGlzdCkudGhlblJldHVybihGdXR1cmUoTGlzdChzdWJBY2NvdW50KSkpCgogICAgdmFsIGV4Y2VwdGlvbkNhdWdodCA9IGludGVyY2VwdFtSdW50aW1lRXhjZXB0aW9uXSB7CiAgICAgIGhhbmRsZXIubW9uaXRvck1hbmRyaWxsKDMpCiAgICB9CgovLyAgICBhc3NlcnQoZXhjZXB0aW9uQ2F1Z2h0LmdldE1lc3NhZ2UuY29udGFpbnMoIkNvdWxkIG5vdCBnZXQgdXNlciBpbmZvIikpCiAgICBhc3NlcnQoZXhjZXB0aW9uQ2F1Z2h0LmdldENhdXNlLmdldE1lc3NhZ2UuY29udGFpbnMoInJhbmRvbSBtZXNzYWdlIikpCiAgICB2ZXJpZnkobW9ja01hbmRyaWxsQ2xpZW50LCB0aW1lcygzKSkuZ2V0SW5mbwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBhd3MgY2xvdWRmb3JtYXRpb24gY3JlYXRlLWNoYW5nZS1zZXQgLS1yZWdpb24gZXUtY2VudHJhbC0xIC0tY2FwYWJpbGl0aWVzIENBUEFCSUxJVFlfSUFNIC0tY2hhbmdlLXNldC1uYW1lIHVwZGF0ZS1tYW5kcmlsbC1tb25pdG9yIC0tc3RhY2stbmFtZSBtYW5kcmlsbC1tb25pdG9yLWxhbWJkYSAtLXRlbXBsYXRlLWJvZHkgZmlsZTovL2Nmbi5qc29uIC0tcGFyYW1ldGVycyBQYXJhbWV0ZXJLZXk9TGFtYmRhRnVuY3Rpb25TM0tleSxQYXJhbWV0ZXJWYWx1ZT1tYW5kcmlsbC1tb25pdG9yLWxhbWJkYS9tYW5kcmlsbC1tb25pdG9yLWxhbWJkYS1hc3NlbWJseS0ke0NJUkNMRV9CUkFOQ0gjImltcHJvIn0uamFyCg==</text>
+        <text encoding="base64">ICAgIHdoZW4obW9ja01hbmRyaWxsQ2xpZW50LmdldFN1YmFjY291bnRMaXN0KS50aGVuUmV0dXJuKEZ1dHVyZShMaXN0KHN1YkFjY291bnQpKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmRzOgo=</text>
+        <text encoding="base64">ICAgICAgLSBhd3MgY2xvdWRmb3JtYXRpb24gY3JlYXRlLWNoYW5nZS1zZXQgLS1yZWdpb24gZXUtY2VudHJhbC0xIC0tY2FwYWJpbGl0aWVzIENBUEFCSUxJVFlfSUFNIC0tY2hhbmdlLXNldC1uYW1lIHVwZGF0ZS1tYW5kcmlsbC1tb25pdG9yIC0tc3RhY2stbmFtZSBtYW5kcmlsbC1tb25pdG9yLWxhbWJkYSAtLXRlbXBsYXRlLWJvZHkgZmlsZTovL2Nmbi5qc29uIC0tcGFyYW1ldGVycyBQYXJhbWV0ZXJLZXk9TGFtYmRhRnVuY3Rpb25TM0tleSxQYXJhbWV0ZXJWYWx1ZT1tYW5kcmlsbC1tb25pdG9yLWxhbWJkYS9tYW5kcmlsbC1tb25pdG9yLWxhbWJkYS1hc3NlbWJseS0ke0NJUkNMRV9CUkFOQ0gjImltcHJvIn0uamFyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJyYW5jaDogaW1wcm92ZW1lbnRzCg==</text>
+        <text encoding="base64">ICAgIGNvbW1hbmRzOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0ZXN0Ogo=</text>
+        <text encoding="base64">ICAgIGJyYW5jaDogaW1wcm92ZW1lbnRzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZXN0Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbXBvcnQgcHJldHR5RXJyb3JzLl8K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBpbXBvcnQgcHJldHR5RXJyb3JzLl8K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">b2JqZWN0IHByZXR0eUVycm9ycyB7CiAgaW1wbGljaXQgY2xhc3MgRXJyb3JNZXNzYWdlRnV0dXJlW0FdKHZhbCBmdXR1cmU6IEZ1dHVyZVtBXSkgZXh0ZW5kcyBBbnlWYWwgewogICAgZGVmIGVycm9yTXNnKGVycm9yOiBTdHJpbmcpOiBGdXR1cmVbQV0gPSBmdXR1cmUucmVjb3ZlcldpdGggewogICAgICBjYXNlIHQ6IFRocm93YWJsZSA9PiBGdXR1cmUuZmFpbGVkKG5ldyBFeGNlcHRpb24oZXJyb3IsIHQpKQogICAgfQogIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdoZW4obW9ja01hbmRyaWxsQ2xpZW50LmdldEluZm8pLnRoZW5DYWxsUmVhbE1ldGhvZCgpCiAgICB3aGVuKG1vY2tNYW5kcmlsbENsaWVudC5nZXRVc2Vyc0luZm8pLnRoZW5SZXR1cm4oRnV0dXJlLmZhaWxlZChuZXcgUnVudGltZUV4Y2VwdGlvbigicmFuZG9tIG1lc3NhZ2UiKSkpCiAgICB3aGVuKG1vY2tNYW5kcmlsbENsaWVudC5nZXRTdWJhY2NvdW50TGlzdCkudGhlblJldHVybihGdXR1cmUoTGlzdChzdWJBY2NvdW50KSkpCgogICAgdmFsIGV4Y2VwdGlvbkNhdWdodCA9IGludGVyY2VwdFtSdW50aW1lRXhjZXB0aW9uXSB7CiAgICAgIGhhbmRsZXIubW9uaXRvck1hbmRyaWxsKDMpCiAgICB9CgogICAgYXNzZXJ0KGV4Y2VwdGlvbkNhdWdodC5nZXRDYXVzZS5nZXRNZXNzYWdlLmNvbnRhaW5zKCJyYW5kb20gbWVzc2FnZSIpKQogICAgdmVyaWZ5KG1vY2tNYW5kcmlsbENsaWVudCwgdGltZXMoMykpLmdldEluZm8K</text>
+        <text encoding="base64">b2JqZWN0IHByZXR0eUVycm9ycyB7CiAgaW1wbGljaXQgY2xhc3MgRXJyb3JNZXNzYWdlRnV0dXJlW0FdKHZhbCBmdXR1cmU6IEZ1dHVyZVtBXSkgZXh0ZW5kcyBBbnlWYWwgewogICAgZGVmIGVycm9yTXNnKGVycm9yOiBTdHJpbmcpOiBGdXR1cmVbQV0gPSBmdXR1cmUucmVjb3ZlcldpdGggewogICAgICBjYXNlIHQ6IFRocm93YWJsZSA9PiBGdXR1cmUuZmFpbGVkKG5ldyBFeGNlcHRpb24oZXJyb3IsIHQpKQogICAgfQogIH0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
