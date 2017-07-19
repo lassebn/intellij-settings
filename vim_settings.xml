@@ -90,7 +90,7 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="/Dummy.scala" timestamp="1500362887645">
+      <file name="/Dummy.scala" timestamp="1500466100700">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/project/Build.scala" timestamp="1498551255596">
@@ -99,7 +99,7 @@
         <mark key="." line="41" column="54" />
         <mark key="^" line="41" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/resources/application.conf" timestamp="1499676408708">
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/resources/application.conf" timestamp="1500466205557">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -145,11 +145,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/application.conf" timestamp="1500464221958">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="21" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/application.conf" timestamp="1500467265153">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/identity/FacebookIdentityService.scala" timestamp="1499178850101">
         <mark key="[" line="79" column="30" />
@@ -285,9 +285,10 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1500463856671">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="38" />
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1500466233125">
+        <mark key="j" line="64" column="1" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="66" column="4" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/requirements.txt" timestamp="1499426450905">
         <mark key="[" line="0" column="19" />
@@ -479,10 +480,12 @@
         <mark key="^" line="53" column="57" />
         <mark key="." line="53" column="57" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" timestamp="1500464149589">
-        <mark key="]" line="14" column="29" />
-        <mark key="." line="14" column="29" />
-        <mark key="^" line="14" column="29" />
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/resources/log4j.properties" timestamp="1500465931234" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" timestamp="1500467049450">
+        <mark key="[" line="32" column="81" />
+        <mark key="]" line="33" column="80" />
+        <mark key="^" line="33" column="80" />
+        <mark key="." line="33" column="80" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/auth/MagicTokenResponseDTO.scala" timestamp="1497875863975">
         <mark key="[" line="8" column="48" />
@@ -611,7 +614,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sqlContext</text>
+        <text>conf</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3234,13 +3237,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sqlContext</text>
+        <text>conf</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLnNldCgic3BhcmsudWkuZW5hYmxlZCIsICJmYWxzZSIpCg==</text>
+        <text encoding="base64">ICAgIGlmIChhcHBDb25maWcuZ2V0Qm9vbGVhbigic3BhcmsubG9jYWxNb2RlIikpIHsKICAgICAgY29uZi5zZXRNYXN0ZXIoImxvY2FsWypdIikKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHZhbCBzcWxDb250ZXh0ID0gbmV3IFNRTENvbnRleHQoc3Bhcmsuc3BhcmtDb250ZXh0KQo=</text>
