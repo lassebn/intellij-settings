@@ -5,14 +5,43 @@
       <mark key="V" line="4" column="4" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/project/plugins.sbt" timestamp="1496128465448">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/User.scala" timestamp="1498108906379">
         <mark key="[" line="30" column="82" />
         <mark key="]" line="30" column="82" />
         <mark key="^" line="30" column="94" />
         <mark key="." line="30" column="82" />
       </file>
+      <file name="$USER_HOME$/Source/psohappy-backend/src/main/resources/application.conf" timestamp="1498551323012">
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/Source/launch-configuration-lambda/src/main/scala/lambda/Main.scala" timestamp="1493887608667">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/deploy-pipeline.py" timestamp="1499949262796">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="33" column="17" />
+        <mark key="." line="33" column="17" />
+        <mark key="^" line="33" column="17" />
+      </file>
       <file name="/a.dummy" timestamp="1499936920460">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1499169885542">
+        <mark key="[" line="1026" column="27" />
+        <mark key="]" line="1026" column="27" />
+        <mark key="." line="1026" column="27" />
       </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/SampleTest.scala" timestamp="1493977610698">
         <mark key="[" line="9" column="99" />
@@ -32,11 +61,22 @@
         <mark key="^" line="134" column="47" />
         <mark key="." line="134" column="47" />
       </file>
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/circle.yml" timestamp="1500365689166">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceUserLockingSpec.scala" timestamp="1495454660991">
         <mark key="[" line="149" column="37" />
         <mark key="]" line="149" column="85" />
         <mark key="." line="149" column="85" />
         <mark key="^" line="149" column="85" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1500290357074">
+        <mark key="[" line="78" column="33" />
+        <mark key="]" line="78" column="33" />
+        <mark key="^" line="78" column="33" />
+        <mark key="." line="78" column="33" />
       </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/cfn.json" timestamp="1500362573713">
         <mark key="[" line="5" column="7" />
@@ -59,10 +99,27 @@
         <mark key="." line="41" column="54" />
         <mark key="^" line="41" column="54" />
       </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/resources/application.conf" timestamp="1499676408708">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" timestamp="1499781958249">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="41" column="32" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/spike-datawarehouse-export/.idea/modules.xml" timestamp="1499329050645">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-commons/testkit/src/main/scala/com/leoilab/testkit/UnitTestSupport.scala" timestamp="1496906532460">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/ecs-deploy/deploy.sh" timestamp="1496835122453">
         <mark key="[" line="16" column="0" />
@@ -82,6 +139,24 @@
         <mark key="^" line="39" column="67" />
         <mark key="." line="39" column="67" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500029575770">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/identity/FacebookIdentityService.scala" timestamp="1499178850101">
+        <mark key="[" line="79" column="30" />
+        <mark key="]" line="79" column="26" />
+        <mark key="." line="79" column="26" />
+        <mark key="^" line="79" column="26" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-commons/README.md" timestamp="1496908722687">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="5" column="40" />
+        <mark key="." line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+      </file>
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/db/StandardMappers.scala" timestamp="1496906775202">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="37" />
@@ -99,6 +174,12 @@
         <mark key="]" line="11" column="96" />
         <mark key="^" line="11" column="96" />
         <mark key="." line="11" column="96" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationFacebookHelper.scala" timestamp="1495446817772">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="13" column="25" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
@@ -124,222 +205,6 @@
       <file name="/" timestamp="1499773789772">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/project/TestHelper.scala" timestamp="1498551365792">
-        <mark key="[" line="124" column="27" />
-        <mark key="]" line="124" column="34" />
-        <mark key="." line="124" column="34" />
-        <mark key="^" line="124" column="34" />
-      </file>
-      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499343086880">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
-        <mark key="[" line="16" column="69" />
-        <mark key="]" line="16" column="70" />
-        <mark key="." line="16" column="70" />
-        <mark key="^" line="12" column="78" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiFacebookLoginTest.scala" timestamp="1495537373788">
-        <mark key="[" line="18" column="81" />
-        <mark key="]" line="18" column="89" />
-        <mark key="^" line="18" column="89" />
-        <mark key="." line="18" column="89" />
-      </file>
-      <file name="$USER_HOME$/Source/studies-and-me/scripts/generate_tickets_and_send_mails.py" timestamp="1498560009342">
-        <mark key="[" line="59" column="32" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1499675489298">
-        <mark key="[" line="138" column="115" />
-        <mark key="]" line="139" column="64" />
-        <mark key="." line="139" column="64" />
-        <mark key="^" line="139" column="64" />
-      </file>
-      <file name="/Python Console" timestamp="1499338031303">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/build.sbt" timestamp="1500290654401">
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="15" column="19" />
-        <mark key="^" line="15" column="18" />
-        <mark key="." line="15" column="19" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" timestamp="1500365025532">
-        <mark key="'" line="26" column="49" />
-        <mark key="[" line="53" column="4" />
-        <mark key="]" line="53" column="4" />
-        <mark key="." line="53" column="4" />
-        <mark key="^" line="64" column="3" />
-      </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/getsentry/raven/log4j/LambdaSentryAppender.scala" timestamp="1494848303088">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="46" />
-        <mark key="." line="2" column="46" />
-        <mark key="^" line="2" column="46" />
-      </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/src/test/scala/com/leoilab/psohappy/PsoHappyRepositorySpec.scala" timestamp="1497244883308">
-        <mark key="[" line="49" column="62" />
-        <mark key="]" line="49" column="85" />
-        <mark key="." line="49" column="85" />
-        <mark key="^" line="49" column="85" />
-      </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/JsonProtocolSpec.scala" timestamp="1496224504096">
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="20" column="5" />
-        <mark key="^" line="20" column="5" />
-        <mark key="." line="20" column="5" />
-      </file>
-      <file name="$USER_HOME$/Source/intouch-backend/intouch-service/src/main/java/com/warefly/intouch/service/EmailService.java" timestamp="1498650963114">
-        <mark key="[" line="86" column="37" />
-        <mark key="]" line="86" column="37" />
-        <mark key="^" line="86" column="37" />
-        <mark key="." line="86" column="37" />
-      </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/README.md" timestamp="1494314384652">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/intouch-backend/intouch-service/src/test/java/com/warefly/intouch/service/EmailServiceTests.java" timestamp="1498651019057">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/ExternalUser.scala" timestamp="1496997085620">
-        <mark key="[" line="6" column="47" />
-      </file>
-      <file name="$USER_HOME$/Source/imagine-backend/circle.yml" timestamp="1496835070851">
-        <mark key="[" line="37" column="31" />
-        <mark key="]" line="37" column="33" />
-        <mark key="." line="37" column="33" />
-        <mark key="^" line="37" column="33" />
-      </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyUser.scala" timestamp="1496996789179">
-        <mark key="[" line="4" column="12" />
-      </file>
-      <file name="$USER_HOME$/Desktop/psohappy-emails/find_deleted_emails.py" timestamp="1499169394708">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/src/test/scala/com/leoilab/psohappy/PsoHappyApiSpec.scala" timestamp="1499328362086">
-        <mark key="[" line="87" column="55" />
-        <mark key="]" line="87" column="54" />
-        <mark key="^" line="87" column="54" />
-        <mark key="." line="87" column="54" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/resources/application.conf" timestamp="1499943876523">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="33" />
-        <mark key="^" line="0" column="33" />
-        <mark key="." line="0" column="33" />
-      </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" timestamp="1496224298461">
-        <mark key="[" line="81" column="98" />
-        <mark key="]" line="81" column="99" />
-        <mark key="." line="81" column="99" />
-        <mark key="^" line="80" column="64" />
-      </file>
-      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499777757680">
-        <mark key="[" line="102" column="20" />
-        <mark key="]" line="102" column="25" />
-        <mark key="." line="102" column="25" />
-        <mark key="^" line="102" column="25" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" timestamp="1499939123462">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="4" column="20" />
-        <mark key="^" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-      </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/project/plugins.sbt" timestamp="1496128465448">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/src/main/resources/application.conf" timestamp="1498551323012">
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-        <mark key="^" line="10" column="31" />
-      </file>
-      <file name="$USER_HOME$/Source/launch-configuration-lambda/src/main/scala/lambda/Main.scala" timestamp="1493887608667">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="5" column="30" />
-        <mark key="^" line="9" column="41" />
-        <mark key="." line="5" column="30" />
-      </file>
-      <file name="$USER_HOME$/Source/datawarehouse-helloskin/deploy-pipeline.py" timestamp="1499949262796">
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="33" column="17" />
-        <mark key="." line="33" column="17" />
-        <mark key="^" line="33" column="17" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1499169885542">
-        <mark key="[" line="1026" column="27" />
-        <mark key="]" line="1026" column="27" />
-        <mark key="." line="1026" column="27" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/circle.yml" timestamp="1500365689166">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1500290357074">
-        <mark key="[" line="78" column="33" />
-        <mark key="]" line="78" column="33" />
-        <mark key="^" line="78" column="33" />
-        <mark key="." line="78" column="33" />
-      </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/resources/application.conf" timestamp="1499676408708">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" timestamp="1499781958249">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="41" column="32" />
-        <mark key="." line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-commons/testkit/src/main/scala/com/leoilab/testkit/UnitTestSupport.scala" timestamp="1496906532460">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-      </file>
-      <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500029575770">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/identity/FacebookIdentityService.scala" timestamp="1499178850101">
-        <mark key="[" line="79" column="30" />
-        <mark key="]" line="79" column="26" />
-        <mark key="." line="79" column="26" />
-        <mark key="^" line="79" column="26" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-commons/README.md" timestamp="1496908722687">
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="5" column="40" />
-        <mark key="." line="5" column="40" />
-        <mark key="^" line="5" column="40" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationFacebookHelper.scala" timestamp="1495446817772">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="13" column="25" />
-      </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/batch_crafting_from_query.py" timestamp="1499780839271">
         <mark key="[" line="41" column="31" />
         <mark key="]" line="41" column="32" />
@@ -348,6 +213,12 @@
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/scripts/send_reminder_mails.py" timestamp="1498470247979">
         <mark key="[" line="13" column="88" />
+      </file>
+      <file name="$USER_HOME$/Source/psohappy-backend/project/TestHelper.scala" timestamp="1498551365792">
+        <mark key="[" line="124" column="27" />
+        <mark key="]" line="124" column="34" />
+        <mark key="." line="124" column="34" />
+        <mark key="^" line="124" column="34" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/build.sbt" timestamp="1496228182614">
         <mark key="[" line="15" column="18" />
@@ -373,6 +244,11 @@
         <mark key="^" line="65" column="69" />
         <mark key="." line="65" column="69" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499343086880">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-commons/clients/src/test/scala/com/leoilab/clients/MembershipsClientSpec.scala" timestamp="1496906801053">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="9" column="27" />
@@ -385,8 +261,44 @@
         <mark key="^" line="75" column="14" />
         <mark key="." line="75" column="14" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
+        <mark key="[" line="16" column="69" />
+        <mark key="]" line="16" column="70" />
+        <mark key="." line="16" column="70" />
+        <mark key="^" line="12" column="78" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiFacebookLoginTest.scala" timestamp="1495537373788">
+        <mark key="[" line="18" column="81" />
+        <mark key="]" line="18" column="89" />
+        <mark key="^" line="18" column="89" />
+        <mark key="." line="18" column="89" />
+      </file>
+      <file name="$USER_HOME$/Source/studies-and-me/scripts/generate_tickets_and_send_mails.py" timestamp="1498560009342">
+        <mark key="[" line="59" column="32" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1499675489298">
+        <mark key="[" line="138" column="115" />
+        <mark key="]" line="139" column="64" />
+        <mark key="." line="139" column="64" />
+        <mark key="^" line="139" column="64" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/requirements.txt" timestamp="1499426450905">
         <mark key="[" line="0" column="19" />
+      </file>
+      <file name="/Python Console" timestamp="1499338031303">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/build.sbt" timestamp="1500290654401">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/test.py" timestamp="1499936746519">
         <mark key="[" line="61" column="0" />
@@ -394,17 +306,48 @@
         <mark key="." line="60" column="29" />
         <mark key="^" line="60" column="29" />
       </file>
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" timestamp="1500365025532">
+        <mark key="'" line="26" column="49" />
+        <mark key="[" line="53" column="4" />
+        <mark key="]" line="53" column="4" />
+        <mark key="." line="53" column="4" />
+        <mark key="^" line="64" column="3" />
+      </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/TestHelper.scala" timestamp="1494498200632">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="3" column="36" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/getsentry/raven/log4j/LambdaSentryAppender.scala" timestamp="1494848303088">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+      </file>
+      <file name="$USER_HOME$/Source/psohappy-backend/src/test/scala/com/leoilab/psohappy/PsoHappyRepositorySpec.scala" timestamp="1497244883308">
+        <mark key="[" line="49" column="62" />
+        <mark key="]" line="49" column="85" />
+        <mark key="." line="49" column="85" />
+        <mark key="^" line="49" column="85" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/notifications/NotificationsAPI.scala" timestamp="1496911551227">
         <mark key="[" line="34" column="40" />
         <mark key="]" line="34" column="56" />
         <mark key="." line="34" column="56" />
         <mark key="^" line="34" column="56" />
+      </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/JsonProtocolSpec.scala" timestamp="1496224504096">
+        <mark key="[" line="19" column="44" />
+        <mark key="]" line="20" column="5" />
+        <mark key="^" line="20" column="5" />
+        <mark key="." line="20" column="5" />
+      </file>
+      <file name="$USER_HOME$/Source/intouch-backend/intouch-service/src/main/java/com/warefly/intouch/service/EmailService.java" timestamp="1498650963114">
+        <mark key="[" line="86" column="37" />
+        <mark key="]" line="86" column="37" />
+        <mark key="^" line="86" column="37" />
+        <mark key="." line="86" column="37" />
       </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/build.sbt" timestamp="1493985068493">
         <mark key="[" line="22" column="57" />
@@ -417,6 +360,18 @@
         <mark key="]" line="6" column="51" />
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="51" />
+      </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/README.md" timestamp="1494314384652">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/intouch-backend/intouch-service/src/test/java/com/warefly/intouch/service/EmailServiceTests.java" timestamp="1498651019057">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/ExternalUser.scala" timestamp="1496997085620">
+        <mark key="[" line="6" column="47" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/docker-compose.yml" timestamp="1498554234973">
         <mark key="[" line="44" column="29" />
@@ -433,11 +388,50 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-ades/build.sbt" timestamp="1500460892193">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/Source/imagine-backend/circle.yml" timestamp="1496835070851">
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="37" column="33" />
+        <mark key="." line="37" column="33" />
+        <mark key="^" line="37" column="33" />
+      </file>
+      <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyUser.scala" timestamp="1496996789179">
+        <mark key="[" line="4" column="12" />
+      </file>
+      <file name="$USER_HOME$/Desktop/psohappy-emails/find_deleted_emails.py" timestamp="1499169394708">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/psohappy-backend/src/test/scala/com/leoilab/psohappy/PsoHappyApiSpec.scala" timestamp="1499328362086">
+        <mark key="[" line="87" column="55" />
+        <mark key="]" line="87" column="54" />
+        <mark key="^" line="87" column="54" />
+        <mark key="." line="87" column="54" />
+      </file>
       <file name="/Dummy.txt" timestamp="1500284789736">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/resources/application.conf" timestamp="1499943876523">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+      </file>
       <file name="/Scala Console" timestamp="1494231449884">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" timestamp="1496224298461">
+        <mark key="[" line="81" column="98" />
+        <mark key="]" line="81" column="99" />
+        <mark key="." line="81" column="99" />
+        <mark key="^" line="80" column="64" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
         <mark key="[" line="68" column="183" />
@@ -450,6 +444,18 @@
         <mark key="]" line="52" column="30" />
         <mark key="^" line="52" column="30" />
         <mark key="." line="52" column="30" />
+      </file>
+      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499777757680">
+        <mark key="[" line="102" column="20" />
+        <mark key="]" line="102" column="25" />
+        <mark key="." line="102" column="25" />
+        <mark key="^" line="102" column="25" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" timestamp="1499939123462">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/resources/logback.xml" timestamp="1494858242809">
         <mark key="[" line="0" column="14" />
@@ -469,6 +475,7 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1500460563148" />
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/resources/db/migration/V3__PsoHappyId_to_ExternalUserId.sql" timestamp="1497006621593">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="9" column="35" />
