@@ -496,11 +496,12 @@
         <mark key="^" line="53" column="57" />
         <mark key="." line="53" column="57" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" timestamp="1500549181590">
-        <mark key="[" line="73" column="48" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" timestamp="1500550638441">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="49" column="0" />
         <mark key="]" line="73" column="45" />
-        <mark key="^" line="73" column="45" />
         <mark key="." line="73" column="45" />
+        <mark key="^" line="73" column="45" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/auth/MagicTokenResponseDTO.scala" timestamp="1497875863975">
         <mark key="[" line="8" column="48" />
@@ -526,8 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="84" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/AWSHelperSpec.scala" />
-      <jump line="44" column="7" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
       <jump line="25" column="110" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
       <jump line="20" column="0" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
       <jump line="54" column="2" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
@@ -626,10 +625,12 @@
       <jump line="95" column="29" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" />
       <jump line="5" column="8" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" />
       <jump line="26" column="49" filename="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
+      <jump line="20" column="61" filename="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3267,28 +3268,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLlNwYXJrU2Vzc2lvbmRkCg==</text>
+        <text encoding="base64">ICAgIHZhbCB0ZXN0U2hlZXQgPSAiMUJ4aU1WczBYUkE1bkZNZEt2QmRCWmpnbVVVcXB0bGJzNzRPZ3ZFMnVwbXMiCiAgICB2YWwgcmFuZ2UgPSAiQ2xhc3MgRGF0YSFBMjpFIgogICAgdmFsIHJlc3BvbnNlID0gZ29vZ2xlU2hlZXRzU2VydmljZS5zcHJlYWRzaGVldHMudmFsdWVzLmdldCh0ZXN0U2hlZXQsIHJhbmdlKS5leGVjdXRlCiAgICB2YWwgdmFsdWVzID0gcmVzcG9uc2UuZ2V0VmFsdWVzCiAgICBpZiAodmFsdWVzID09IG51bGwgfHwgdmFsdWVzLnNpemUgPT0gMCkgU3lzdGVtLm91dC5wcmludGxuKCJObyBkYXRhIGZvdW5kLiIpCiAgICBlbHNlIHsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJOYW1lLCBNYWpvciIpCiAgICAgIGltcG9ydCBzY2FsYS5jb2xsZWN0aW9uLkphdmFDb252ZXJzaW9ucy5fCiAgICAgIGZvciAocm93IDwtIHZhbHVlcykgeyAvLyBQcmludCBjb2x1bW5zIEEgYW5kIEUsIHdoaWNoIGNvcnJlc3BvbmQgdG8gaW5kaWNlcyAwIGFuZCA0LgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCIlcywgJXNcbiIsIHJvdy5nZXQoMCksIHJvdy5nZXQoNCkpCiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnNldFJlZnJlc2hUb2tlbihyZWZyZXNoVG9rZW4pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBjbGllbnRTZWNyZXRzU3RyZWFtID0gZ2V0Q2xhc3MuZ2V0UmVzb3VyY2VBc1N0cmVhbSgiL2NsaWVudF9zZWNyZXQuanNvbiIpCiAgICB2YWwgY2xpZW50U2VjcmV0cyA9IEdvb2dsZUNsaWVudFNlY3JldHMubG9hZChKU09OX0ZBQ1RPUlksIG5ldyBJbnB1dFN0cmVhbVJlYWRlcihjbGllbnRTZWNyZXRzU3RyZWFtKSkKICAgIAogICAgdmFsIAoKICAgIHZhbCBjcmVkZW50aWFscyA9IG5ldyBHb29nbGVDcmVkZW50aWFsKCkKICAgICAgLnNldEFjY2Vzc1Rva2VuKGFjY2Vzc1Rva2VuKQogICAgICAuc2V0UmVmcmVzaFRva2VuKHJlZnJlc2hUb2tlbikK</text>
+        <text encoding="base64">ICAgICAgLnNldEFjY2Vzc1Rva2VuKGFjY2Vzc1Rva2VuKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvKioKICAgICogQnVpbGQgYW5kIHJldHVybiBhbiBhdXRob3JpemVkIFNoZWV0cyBBUEkgY2xpZW50IHNlcnZpY2UuCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjcmVkZW50aWFscyA9IG5ldyBHb29nbGVDcmVkZW50aWFsKCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvKioKICAgICogQ3JlYXRlcyBhbiBhdXRob3JpemVkIENyZWRlbnRpYWwgb2JqZWN0LgogICAgKgogICAgKiBAcmV0dXJuIGFuIGF1dGhvcml6ZWQgQ3JlZGVudGlhbCBvYmplY3QuCiAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24KICAgICovCiAgQHRocm93c1tJT0V4Y2VwdGlvbl0KICBkZWYgYXV0aG9yaXplOiBDcmVkZW50aWFsID0geyAvLyBMb2FkIGNsaWVudCBzZWNyZXRzLgogICAgdmFsIGluID0gZ2V0Q2xhc3MuZ2V0UmVzb3VyY2VBc1N0cmVhbSgiL2NsaWVudF9zZWNyZXQuanNvbiIpCiAgICB2YWwgY2xpZW50U2VjcmV0cyA9IEdvb2dsZUNsaWVudFNlY3JldHMubG9hZChKU09OX0ZBQ1RPUlksIG5ldyBJbnB1dFN0cmVhbVJlYWRlcihpbikpCiAgICAvLyBCdWlsZCBmbG93IGFuZCB0cmlnZ2VyIHVzZXIgYXV0aG9yaXphdGlvbiByZXF1ZXN0LgogICAgdmFsIGZsb3cgPSBuZXcgR29vZ2xlQXV0aG9yaXphdGlvbkNvZGVGbG93LkJ1aWxkZXIoSFRUUF9UUkFOU1BPUlQsIEpTT05fRkFDVE9SWSwgY2xpZW50U2VjcmV0cywgU0NPUEVTKS5zZXREYXRhU3RvcmVGYWN0b3J5KERBVEFfU1RPUkVfRkFDVE9SWSkuc2V0QWNjZXNzVHlwZSgib2ZmbGluZSIpLmJ1aWxkCiAgICB2YWwgY3JlZGVudGlhbCA9IG5ldyBOb3RoaW5nKGZsb3csIG5ldyBOb3RoaW5nKS5hdXRob3JpemUoInVzZXIiKQogICAgU3lzdGVtLm91dC5wcmludGxuKCJDcmVkZW50aWFscyBzYXZlZCB0byAiICsgREFUQV9TVE9SRV9ESVIuZ2V0QWJzb2x1dGVQYXRoKQogICAgY3JlZGVudGlhbAogIH0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLlNwYXJrU2Vzc2lvbmRkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBpLnNlcnZpY2VzLnNoZWV0cy52NC5tb2RlbC5fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBpLmNsaWVudC5qc29uLkpzb25GYWN0b3J5Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjbGllbnRTZWNyZXRzU3RyZWFtID0gZ2V0Q2xhc3MuZ2V0UmVzb3VyY2VBc1N0cmVhbSgiL2NsaWVudF9zZWNyZXQuanNvbiIpCiAgICB2YWwgY2xpZW50U2VjcmV0cyA9IEdvb2dsZUNsaWVudFNlY3JldHMubG9hZChKU09OX0ZBQ1RPUlksIG5ldyBJbnB1dFN0cmVhbVJlYWRlcihjbGllbnRTZWNyZXRzU3RyZWFtKSkKICAgIAogICAgdmFsIAoKICAgIHZhbCBjcmVkZW50aWFscyA9IG5ldyBHb29nbGVDcmVkZW50aWFsKCkKICAgICAgLnNldEFjY2Vzc1Rva2VuKGFjY2Vzc1Rva2VuKQogICAgICAuc2V0UmVmcmVzaFRva2VuKHJlZnJlc2hUb2tlbikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
