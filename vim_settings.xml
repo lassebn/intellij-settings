@@ -215,6 +215,9 @@
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/ExternalUser.scala" timestamp="1496997085620">
         <mark key="[" line="6" column="47" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-ades/project/assembly" timestamp="1500629010496">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/imagine-backend/circle.yml" timestamp="1496835070851">
         <mark key="[" line="37" column="31" />
         <mark key="]" line="37" column="33" />
@@ -304,7 +307,7 @@
         <mark key="]" line="1026" column="27" />
         <mark key="." line="1026" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/project/Build.scala" timestamp="1500625581014" />
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/project/Build.scala" timestamp="1500629382147" />
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/circle.yml" timestamp="1500365689166">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -333,6 +336,7 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/project/assembly.sbt" timestamp="1500629007416" />
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500029575770">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="18" />
@@ -484,14 +488,13 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1500625752964">
+      <file name="/dummy.sql" timestamp="1500627777470">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/build.sbt" timestamp="1500625594281">
-        <mark key="[" line="10" column="51" />
-        <mark key="]" line="11" column="44" />
-        <mark key="." line="11" column="44" />
-        <mark key="^" line="11" column="44" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/build.sbt" timestamp="1500629471191">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1500620902189">
         <mark key="[" line="0" column="0" />
@@ -655,8 +658,8 @@
       <jump line="71" column="0" filename="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>B</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1haW5DbGFzcyBpbiBhc3NlbWJseSA6PSBTb21lKCJkYXRhd2FyZWhvdXNzc2UuYWRlcy5Ecml2ZXIiKQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3279,7 +3282,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>B</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
@@ -3288,34 +3291,34 @@
         <text>&quot;.credentials/ades-datawahouse.sheets&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKHMiQWdncmVnYXRlIGRhdGFmcmFtZTogJHthZ2dyZWdhdGVERi5zaG93KCl9IikK</text>
+        <text encoding="base64">ICAgIG1haW5DbGFzcyBpbiBhc3NlbWJseSA6PSBTb21lKCJkYXRhd2FyZWhvdXNzc2UuYWRlcy5Ecml2ZXIiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKHMiUmVtb3ZpbmcgaGVhZGVyczogJGhlYWRlcnNUb1JlbW92ZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKHMiQWdncmVnYXRlIGRhdGFmcmFtZTogJHthZ2dyZWdhdGVERi5zaG93KCl9IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKHMiUmVtb3ZpbmcgaGVhZGVyczogJGhlYWRlcnNUb1JlbW92ZSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IXNyYy9pdC9yZXNvdXJjZXMvaW1hZ2VzLXByb2Nlc3NlZC9hbHJlYWR5LW5vcm1hbGl6ZWQuanBnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3JjL2l0L3Jlc291cmNlcy9pbWFnZXMtcHJvY2Vzc2VkLyouY3JjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3JjL2l0L3Jlc291cmNlcy9pbWFnZXMtcHJvY2Vzc2VkLyouanBnCg==</text>
+        <text encoding="base64">IXNyYy9pdC9yZXNvdXJjZXMvaW1hZ2VzLXByb2Nlc3NlZC9hbHJlYWR5LW5vcm1hbGl6ZWQuanBnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihFQVNJRXZhbHVhdGlvbi5nZXRIZWFkZXJOYW1lcykK</text>
+        <text encoding="base64">c3JjL2l0L3Jlc291cmNlcy9pbWFnZXMtcHJvY2Vzc2VkLyouY3JjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihoZWFkZXJzKQo=</text>
+        <text encoding="base64">c3JjL2l0L3Jlc291cmNlcy9pbWFnZXMtcHJvY2Vzc2VkLyouanBnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
