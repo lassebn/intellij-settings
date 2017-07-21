@@ -26,6 +26,12 @@
         <mark key="^" line="27" column="59" />
         <mark key="." line="27" column="41" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-ades/.gitignore" timestamp="1500617747422">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="16" />
+        <mark key="." line="27" column="16" />
+        <mark key="^" line="27" column="16" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" timestamp="1498108879853">
         <mark key="[" line="134" column="44" />
         <mark key="]" line="134" column="47" />
@@ -258,13 +264,18 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/log4j.properties" timestamp="1500558739142">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="24" />
-        <mark key="^" line="12" column="24" />
-        <mark key="." line="12" column="24" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/log4j.properties" timestamp="1500618708093">
+        <mark key="[" line="11" column="58" />
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/resources/log4j.properties" timestamp="1500465931234" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/README.md" timestamp="1500619200693">
+        <mark key="[" line="34" column="74" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+      </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/project/plugins.sbt" timestamp="1496128465448">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
@@ -478,7 +489,7 @@
         <mark key="." line="16" column="67" />
         <mark key="^" line="16" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500284789736">
+      <file name="/Dummy.txt" timestamp="1500619355529">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1494231449884">
@@ -508,12 +519,12 @@
         <mark key="^" line="53" column="57" />
         <mark key="." line="53" column="57" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" timestamp="1500563339353">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="69" column="16" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" timestamp="1500618773976">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="30" />
+        <mark key="^" line="6" column="103" />
+        <mark key="." line="28" column="30" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/auth/MagicTokenResponseDTO.scala" timestamp="1497875863975">
         <mark key="[" line="8" column="48" />
@@ -539,7 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="110" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
       <jump line="20" column="0" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
       <jump line="54" column="2" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
       <jump line="128" column="2" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
@@ -639,10 +649,11 @@
       <jump line="26" column="49" filename="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
       <jump line="20" column="61" filename="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" />
+      <jump line="71" column="0" filename="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihFQVNJRXZhbHVhdGlvbi5nZXRIZWFkZXJOYW1lcykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3265,43 +3276,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>row</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
       </register>
       <register name="0" type="4">
-        <text>EASI Dag 1!A2:AE</text>
+        <text>&quot;.credentials/ades-datawahouse.sheets&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihFQVNJRXZhbHVhdGlvbi5nZXRIZWFkZXJOYW1lcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihoZWFkZXJzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZXZhbHVhdGlvbnMK</text>
+        <text encoding="base64">IXNyYy9pdC9yZXNvdXJjZXMvaW1hZ2VzLXByb2Nlc3NlZC9hbHJlYWR5LW5vcm1hbGl6ZWQuanBnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3JjL2l0L3Jlc291cmNlcy9pbWFnZXMtcHJvY2Vzc2VkLyouY3JjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3JjL2l0L3Jlc291cmNlcy9pbWFnZXMtcHJvY2Vzc2VkLyouanBnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBnb29nbGVTaGVldHNTZXJ2aWNlID0gZ2V0R29vZ2xlU2hlZXRzU2VydmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihFQVNJRXZhbHVhdGlvbi5nZXRIZWFkZXJOYW1lcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihoZWFkZXJzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZXZhbHVhdGlvbnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvbGxvd1VwRXZhbHVhdGlvbnMgKz0gZXZhbHVhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3369,6 +3380,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
