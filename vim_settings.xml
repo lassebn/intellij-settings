@@ -65,11 +65,6 @@
         <mark key="." line="41" column="54" />
         <mark key="^" line="41" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/.idea/modules.xml" timestamp="1499329050645">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/imagine-backend/ecs-deploy/deploy.sh" timestamp="1496835122453">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -88,7 +83,7 @@
         <mark key="^" line="39" column="67" />
         <mark key="." line="39" column="67" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/docker-compose.yml" timestamp="1500895371529">
+      <file name="$USER_HOME$/Source/datawarehouse-ades/docker-compose.yml" timestamp="1500896571730">
         <mark key="'" line="26" column="33" />
         <mark key="[" line="37" column="43" />
         <mark key="]" line="38" column="28" />
@@ -143,11 +138,6 @@
         <mark key="." line="124" column="34" />
         <mark key="^" line="124" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499343086880">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
         <mark key="[" line="16" column="69" />
         <mark key="]" line="16" column="70" />
@@ -166,7 +156,7 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1500894332550">
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1500897541749">
         <mark key="j" line="64" column="1" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="66" column="4" />
@@ -195,10 +185,11 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/yarn-remote-client/core-site.xml" timestamp="1500895241486">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/yarn-remote-client/core-site.xml" timestamp="1500897240299">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+        <mark key="^" line="5" column="31" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/getsentry/raven/log4j/LambdaSentryAppender.scala" timestamp="1494848303088">
         <mark key="[" line="2" column="32" />
@@ -256,6 +247,12 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/afd61665-bfef-4909-8041-40e355b174d6/console.sql" timestamp="1500620955150">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/datawarehouse-ades/yarn-remote-client/yarn-site.xml" timestamp="1500897225043">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="5" column="7" />
+        <mark key="^" line="5" column="7" />
+        <mark key="." line="5" column="7" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/test/scala/com/leoilab/psohappy/PsoHappyApiSpec.scala" timestamp="1499328362086">
         <mark key="[" line="87" column="55" />
@@ -323,26 +320,11 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1499169885542">
-        <mark key="[" line="1026" column="27" />
-        <mark key="]" line="1026" column="27" />
-        <mark key="." line="1026" column="27" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/circle.yml" timestamp="1500365689166">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1500290357074">
         <mark key="[" line="78" column="33" />
         <mark key="]" line="78" column="33" />
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
-      </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/resources/application.conf" timestamp="1500559455253">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" timestamp="1499781958249">
         <mark key="[" line="43" column="0" />
@@ -686,8 +668,8 @@
       <jump line="26" column="33" filename="$USER_HOME$/Source/datawarehouse-ades/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3310,7 +3292,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
