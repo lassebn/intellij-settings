@@ -65,11 +65,6 @@
         <mark key="." line="41" column="54" />
         <mark key="^" line="41" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/.idea/modules.xml" timestamp="1499329050645">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/imagine-backend/ecs-deploy/deploy.sh" timestamp="1496835122453">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -88,11 +83,10 @@
         <mark key="^" line="39" column="67" />
         <mark key="." line="39" column="67" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/docker-compose.yml" timestamp="1500879145861">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="24" column="6" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/docker-compose.yml" timestamp="1500885210571">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/db/StandardMappers.scala" timestamp="1496906775202">
         <mark key="[" line="10" column="0" />
@@ -142,11 +136,6 @@
         <mark key="." line="124" column="34" />
         <mark key="^" line="124" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499343086880">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
         <mark key="[" line="16" column="69" />
         <mark key="]" line="16" column="70" />
@@ -172,6 +161,12 @@
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/it/resources/db/init.sql" timestamp="1500620737219">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/GoogleAuthenticationHelper.scala" timestamp="1500883098651">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="12" />
+        <mark key="^" line="23" column="12" />
       </file>
       <file name="/Python Console" timestamp="1499338031303">
         <mark key="[" line="0" column="4" />
@@ -278,11 +273,11 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/README.md" timestamp="1500630988309">
-        <mark key="[" line="34" column="74" />
-        <mark key="]" line="7" column="28" />
-        <mark key="^" line="7" column="28" />
-        <mark key="." line="7" column="28" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/README.md" timestamp="1500884936831">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="23" />
+        <mark key="^" line="44" column="23" />
+        <mark key="." line="44" column="23" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/project/plugins.sbt" timestamp="1496128465448">
         <mark key="[" line="0" column="0" />
@@ -308,26 +303,11 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1499169885542">
-        <mark key="[" line="1026" column="27" />
-        <mark key="]" line="1026" column="27" />
-        <mark key="." line="1026" column="27" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/circle.yml" timestamp="1500365689166">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1500290357074">
         <mark key="[" line="78" column="33" />
         <mark key="]" line="78" column="33" />
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
-      </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/resources/application.conf" timestamp="1500559455253">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" timestamp="1499781958249">
         <mark key="[" line="43" column="0" />
@@ -347,11 +327,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/application.conf" timestamp="1500880472277">
-        <mark key="[" line="3" column="47" />
-        <mark key="]" line="7" column="39" />
-        <mark key="^" line="7" column="39" />
-        <mark key="." line="7" column="39" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/application.conf" timestamp="1500884878703">
+        <mark key="[" line="8" column="86" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="10" column="41" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/identity/FacebookIdentityService.scala" timestamp="1499178850101">
         <mark key="[" line="79" column="30" />
@@ -458,6 +438,12 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/client_secret.json" timestamp="1500883802726">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="355" />
+        <mark key="^" line="0" column="355" />
+        <mark key="." line="0" column="355" />
+      </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/build.sbt" timestamp="1493985068493">
         <mark key="[" line="22" column="57" />
         <mark key="]" line="22" column="55" />
@@ -497,10 +483,11 @@
       <file name="/dummy.sql" timestamp="1500627777470">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/build.sbt" timestamp="1500630768339">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/build.sbt" timestamp="1500884338797">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="50" column="28" />
+        <mark key="." line="50" column="28" />
+        <mark key="^" line="50" column="28" />
       </file>
       <file name="/Dummy.txt" timestamp="1500642709687">
         <mark key="[" line="0" column="0" />
@@ -532,12 +519,11 @@
         <mark key="^" line="53" column="57" />
         <mark key="." line="53" column="57" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" timestamp="1500880998725">
-        <mark key="'" line="122" column="8" />
-        <mark key="[" line="123" column="12" />
-        <mark key="]" line="125" column="57" />
-        <mark key="^" line="125" column="57" />
-        <mark key="." line="125" column="57" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" timestamp="1500883900562">
+        <mark key="[" line="106" column="65" />
+        <mark key="]" line="116" column="14" />
+        <mark key="^" line="116" column="14" />
+        <mark key="." line="116" column="14" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/auth/MagicTokenResponseDTO.scala" timestamp="1497875863975">
         <mark key="[" line="8" column="48" />
@@ -666,7 +652,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHR0eTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgLSAuL2NyZWRlbnRpYWxzL2FkZXMtZGF0YXdhaG91c2Uuc2hlZXRzL1N0b3JlZENyZWRlbnRpYWw6L29wdC9hZGVzLWRhdGF3YXJlaG91c2UvY3JlZGVudGlhbHMvYWRlcy1kYXRhd2Fob3VzZS5zaGVldHMvU3RvcmVkQ3JlZGVudGlhbAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3289,40 +3275,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/opt/ades-datawarehouse/credentials</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;.credentials/ades-datawahouse.sheets&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuXwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHR0eTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgLSAuL2NyZWRlbnRpYWxzL2FkZXMtZGF0YXdhaG91c2Uuc2hlZXRzL1N0b3JlZENyZWRlbnRpYWw6L29wdC9hZGVzLWRhdGF3YXJlaG91c2UvY3JlZGVudGlhbHMvYWRlcy1kYXRhd2Fob3VzZS5zaGVldHMvU3RvcmVkQ3JlZGVudGlhbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUK</text>
+        <text encoding="base64">YXJlIGZvdW5kIGF0IGB+Ly5jcmVkZW50aWFscy9hZGVzLWRhdGF3YWhvdXNlLnNoZWV0c2AuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICBjb21tYW5kOiBzcGFyay1zdWJtaXQgLS1jbGFzcyBjb20ubGVvaWxhYi5kYXRhd2FyZWhvdXNlLmFkZXMuRHJpdmVyIC9vcHQvYWRlcy1kYXRhd2FyZWhvdXNlL2FkZXMtZGF0YXdhcmVob3VzZS1leHBvcnRlci5qYXIK</text>
+        <text encoding="base64">UnVubmluZyB0aGUgZHJpdmVyIHdpbGwgcHJvbXB0IHlvdSB0byBsb2cgaW4gb24gR29vZ2xlLCBpZiBubyBjcmVkZW50aWFscwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHR0eTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIG5ldyBHb29nbGVDcmVkZW50aWFsKCkuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUK</text>
+        <text encoding="base64">Z2V0Q3JlZGVudGlhbHMgOj0gLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQ6IGJhc2gK</text>
+        <text encoding="base64">ICB2YWwgU0NPUEVTID0gTGlzdChTaGVldHNTY29wZXMuU1BSRUFEU0hFRVRTX1JFQURPTkxZKS5hc0phdmEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgSFRUUF9UUkFOU1BPUlQgPSBHb29nbGVOZXRIdHRwVHJhbnNwb3J0Lm5ld1RydXN0ZWRUcmFuc3BvcnQoKQogIHZhbCBKU09OX0ZBQ1RPUlkgPSBKYWNrc29uRmFjdG9yeS5nZXREZWZhdWx0SW5zdGFuY2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1haW5DbGFzcyBpbiBhc3NlbWJseSA6PSBTb21lKCJkYXRhd2FyZWhvdXNzc2UuYWRlcy5Ecml2ZXIiKQo=</text>
+        <text encoding="base64">ICB2YWwgREFUQV9TVE9SRV9ESVIgPSBuZXcgRmlsZShhcHBDb25maWcuZ2V0U3RyaW5nKCJnb29nbGUuY3JlZGVudGlhbHNQYXRoIikpCiAgdmFsIERBVEFfU1RPUkVfRkFDVE9SWSA9IG5ldyBGaWxlRGF0YVN0b3JlRmFjdG9yeShEQVRBX1NUT1JFX0RJUikK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
