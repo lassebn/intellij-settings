@@ -65,6 +65,11 @@
         <mark key="." line="41" column="54" />
         <mark key="^" line="41" column="54" />
       </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/.idea/modules.xml" timestamp="1499329050645">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/imagine-backend/ecs-deploy/deploy.sh" timestamp="1496835122453">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -83,12 +88,11 @@
         <mark key="^" line="39" column="67" />
         <mark key="." line="39" column="67" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/docker-compose.yml" timestamp="1500896571730">
-        <mark key="'" line="26" column="33" />
-        <mark key="[" line="37" column="43" />
-        <mark key="]" line="38" column="28" />
-        <mark key="." line="38" column="28" />
-        <mark key="^" line="38" column="28" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/docker-compose.yml" timestamp="1500905168032">
+        <mark key="[" line="27" column="130" />
+        <mark key="]" line="27" column="130" />
+        <mark key="." line="27" column="130" />
+        <mark key="^" line="27" column="130" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/db/StandardMappers.scala" timestamp="1496906775202">
         <mark key="[" line="10" column="0" />
@@ -138,6 +142,11 @@
         <mark key="." line="124" column="34" />
         <mark key="^" line="124" column="34" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499343086880">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
         <mark key="[" line="16" column="69" />
         <mark key="]" line="16" column="70" />
@@ -161,11 +170,10 @@
         <mark key="[" line="64" column="0" />
         <mark key="]" line="66" column="4" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/src/it/resources/db/init.sql" timestamp="1500894773328">
-        <mark key="[" line="4" column="44" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="7" column="34" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/src/it/resources/db/init.sql" timestamp="1500905297847">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/GoogleAuthenticationHelper.scala" timestamp="1500883098651">
         <mark key="[" line="22" column="14" />
@@ -185,11 +193,10 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/yarn-remote-client/core-site.xml" timestamp="1500897240299">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-        <mark key="^" line="5" column="31" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/yarn-remote-client/core-site.xml" timestamp="1500904961847">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/getsentry/raven/log4j/LambdaSentryAppender.scala" timestamp="1494848303088">
         <mark key="[" line="2" column="32" />
@@ -248,11 +255,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/afd61665-bfef-4909-8041-40e355b174d6/console.sql" timestamp="1500620955150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/yarn-remote-client/yarn-site.xml" timestamp="1500897225043">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="5" column="7" />
-        <mark key="^" line="5" column="7" />
-        <mark key="." line="5" column="7" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/yarn-remote-client/yarn-site.xml" timestamp="1500904971673">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/test/scala/com/leoilab/psohappy/PsoHappyApiSpec.scala" timestamp="1499328362086">
         <mark key="[" line="87" column="55" />
@@ -320,11 +326,26 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1499169885542">
+        <mark key="[" line="1026" column="27" />
+        <mark key="]" line="1026" column="27" />
+        <mark key="." line="1026" column="27" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/circle.yml" timestamp="1500365689166">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1500290357074">
         <mark key="[" line="78" column="33" />
         <mark key="]" line="78" column="33" />
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
+      </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/resources/application.conf" timestamp="1500559455253">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" timestamp="1499781958249">
         <mark key="[" line="43" column="0" />
@@ -497,7 +518,7 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1500895618879">
+      <file name="/dummy.sql" timestamp="1500905551736">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/build.sbt" timestamp="1500884338797">
@@ -668,8 +689,8 @@
       <jump line="26" column="33" filename="$USER_HOME$/Source/datawarehouse-ades/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>localhost</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3307,28 +3328,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">R1JBTlQgQUxMIE9OIGRhdGF3YXJlaG91c2VTcGFya1lhcm4uKiBUTyAnbXlzcWwnQCclJyA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIElGIE5PVCBFWElTVFMgZGF0YXdhcmVob3VzZVNwYXJrWWFybjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25kaXRpb246IHNlcnZpY2VfaGVhbHRoeQogICAgY29tbWFuZDogc3Bhcmstc3VibWl0IC12IC0tY2xhc3MgY29tLmxlb2lsYWIuZGF0YXdhcmVob3VzZS5hZGVzLkRyaXZlciAvb3B0L2FkZXMtZGF0YXdhcmVob3VzZS9hZGVzLWRhdGF3YXJlaG91c2UtZXhwb3J0ZXIuamFyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJVc2luZyBVUkw6ICR1cmwiKQo=</text>
+        <text encoding="base64">ICBzcGFyay15YXJuOgogICAgaW1hZ2U6IHA3aGIvZG9ja2VyLXNwYXJrOjIuMS4xCiAgICBwb3J0czoKICAgICAgLSA0MDQwOjQwNDAKICAgICAgLSA4MDgwOjgwODAKICAgICAgLSA4MDgxOjgwODEKICAgIGVudmlyb25tZW50OgogICAgICAtIE1ZU1FMX0RBVEFXQVJFSE9VU0VfVVJMPWpkYmM6bXlzcWw6Ly9kYjozMzA2L2RhdGF3YXJlaG91c2VTcGFya1lhcm4/dXNlU1NMPWZhbHNlCiAgICAgIC0gWUFSTl9DT05GX0RJUj0iL3lhcm4tcmVtb3RlLWNsaWVudCIKICAgICAgLSBIQURPT1BfVVNFUl9OQU1FPXJvb3QKICAgIHZvbHVtZXM6CiAgICAgIC0gLi90YXJnZXQvc2NhbGEtMi4xMTovb3B0L2FkZXMtZGF0YXdhcmVob3VzZQogICAgICAtIC4veWFybi1yZW1vdGUtY2xpZW50Oi95YXJuLXJlbW90ZS1jbGllbnQKICAgIGRlcGVuZHNfb246CiAgICAgIGRiOgogICAgICAgIGNvbmRpdGlvbjogc2VydmljZV9oZWFsdGh5CiAgICBjb21tYW5kOiBzcGFyay1zdWJtaXQgLXYgLS1kZXBsb3ktbW9kZSBjbHVzdGVyIC0tbWFzdGVyIHlhcm4gLS1jbGFzcyBjb20ubGVvaWxhYi5kYXRhd2FyZWhvdXNlLmFkZXMuRHJpdmVyIC9vcHQvYWRlcy1kYXRhd2FyZWhvdXNlL2FkZXMtZGF0YXdhcmVob3VzZS1leHBvcnRlci5qYXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBHT09HTEVfQ1JFREVOVElBTFNfUEFUSD0iL29wdC9hZGVzLWRhdGF3YXJlaG91c2UvY3JlZGVudGlhbHMvYWRlcy1kYXRhd2Fob3VzZS5zaGVldHMvIgo=</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eT4KICAgICAgICA8bmFtZT55YXJuLnJlc291cmNlbWFuYWdlci5zY2hlZHVsZXIuYWRkcmVzczwvbmFtZT4KICAgICAgICA8dmFsdWU+c3BhcmsteWFybjo4MDMwPC92YWx1ZT4KICAgIDwvcHJvcGVydHk+CiAgICA8cHJvcGVydHk+CiAgICAgICAgPG5hbWU+eWFybi5yZXNvdXJjZW1hbmFnZXIuYWRkcmVzczwvbmFtZT4KICAgICAgICA8dmFsdWU+c3BhcmsteWFybjo4MDMyPC92YWx1ZT4KICAgIDwvcHJvcGVydHk+CiAgICA8cHJvcGVydHk+CiAgICAgICAgPG5hbWU+eWFybi5yZXNvdXJjZW1hbmFnZXIud2ViYXBwLmFkZHJlc3M8L25hbWU+CiAgICAgICAgPHZhbHVlPnNwYXJrLXlhcm46ODA4ODwvdmFsdWU+CiAgICA8L3Byb3BlcnR5PgogICAgPHByb3BlcnR5PgogICAgICAgIDxuYW1lPnlhcm4ucmVzb3VyY2VtYW5hZ2VyLnJlc291cmNlLXRyYWNrZXIuYWRkcmVzczwvbmFtZT4KICAgICAgICA8dmFsdWU+c3BhcmsteWFybjo4MDMxPC92YWx1ZT4KICAgIDwvcHJvcGVydHk+CiAgICA8cHJvcGVydHk+CiAgICAgICAgPG5hbWU+eWFybi5yZXNvdXJjZW1hbmFnZXIuYWRtaW4uYWRkcmVzczwvbmFtZT4KICAgICAgICA8dmFsdWU+c3BhcmsteWFybjo4MDMzPC92YWx1ZT4KICAgIDwvcHJvcGVydHk+CiAgICA8cHJvcGVydHk+CiAgICAgICAgPG5hbWU+eWFybi5hcHBsaWNhdGlvbi5jbGFzc3BhdGg8L25hbWU+CiAgICAgICAgPHZhbHVlPi91c3IvbG9jYWwvaGFkb29wL2V0Yy9oYWRvb3AsIC91c3IvbG9jYWwvaGFkb29wL3NoYXJlL2hhZG9vcC9jb21tb24vKiwgL3Vzci9sb2NhbC9oYWRvb3Avc2hhcmUvaGFkb29wL2NvbW1vbi9saWIvKiwgL3Vzci9sb2NhbC9oYWRvb3Avc2hhcmUvaGFkb29wL2hkZnMvKiwgL3Vzci9sb2NhbC9oYWRvb3Avc2hhcmUvaGFkb29wL2hkZnMvbGliLyosIC91c3IvbG9jYWwvaGFkb29wL3NoYXJlL2hhZG9vcC9tYXByZWR1Y2UvKiwgL3Vzci9sb2NhbC9oYWRvb3Avc2hhcmUvaGFkb29wL21hcHJlZHVjZS9saWIvKiwgL3Vzci9sb2NhbC9oYWRvb3Avc2hhcmUvaGFkb29wL3lhcm4vKiwgL3Vzci9sb2NhbC9oYWRvb3Avc2hhcmUvaGFkb29wL3lhcm4vbGliLyosIC91c3IvbG9jYWwvaGFkb29wL3NoYXJlL3NwYXJrLyo8L3ZhbHVlPgogICAgPC9wcm9wZXJ0eT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSAuL2NyZWRlbnRpYWxzL2FkZXMtZGF0YXdhaG91c2Uuc2hlZXRzL1N0b3JlZENyZWRlbnRpYWw6L29wdC9hZGVzLWRhdGF3YXJlaG91c2UvY3JlZGVudGlhbHMvYWRlcy1kYXRhd2Fob3VzZS5zaGVldHMvU3RvcmVkQ3JlZGVudGlhbAo=</text>
+        <text encoding="base64">ICAgICAgICA8bmFtZT5kZnMuY2xpZW50LnVzZS5sZWdhY3kuYmxvY2tyZWFkZXI8L25hbWU+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXJlIGZvdW5kIGF0IGB+Ly5jcmVkZW50aWFscy9hZGVzLWRhdGF3YWhvdXNlLnNoZWV0c2AuCg==</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UnVubmluZyB0aGUgZHJpdmVyIHdpbGwgcHJvbXB0IHlvdSB0byBsb2cgaW4gb24gR29vZ2xlLCBpZiBubyBjcmVkZW50aWFscwo=</text>
+        <text encoding="base64">ICAgIDwvcHJvcGVydHk+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
