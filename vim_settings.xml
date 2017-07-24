@@ -88,11 +88,11 @@
         <mark key="^" line="39" column="67" />
         <mark key="." line="39" column="67" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/docker-compose.yml" timestamp="1500642911703">
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="33" />
-        <mark key="^" line="24" column="14" />
-        <mark key="." line="21" column="33" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/docker-compose.yml" timestamp="1500879145861">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="24" column="6" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/db/StandardMappers.scala" timestamp="1496906775202">
         <mark key="[" line="10" column="0" />
@@ -184,13 +184,6 @@
         <mark key="]" line="15" column="19" />
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="19" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" timestamp="1500365025532">
-        <mark key="'" line="26" column="49" />
-        <mark key="[" line="53" column="4" />
-        <mark key="]" line="53" column="4" />
-        <mark key="." line="53" column="4" />
-        <mark key="^" line="64" column="3" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/getsentry/raven/log4j/LambdaSentryAppender.scala" timestamp="1494848303088">
         <mark key="[" line="2" column="32" />
@@ -354,11 +347,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/application.conf" timestamp="1500642662519">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="48" />
-        <mark key="^" line="2" column="48" />
-        <mark key="." line="2" column="48" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/application.conf" timestamp="1500880472277">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+        <mark key="." line="7" column="39" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/identity/FacebookIdentityService.scala" timestamp="1499178850101">
         <mark key="[" line="79" column="30" />
@@ -539,12 +532,12 @@
         <mark key="^" line="53" column="57" />
         <mark key="." line="53" column="57" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" timestamp="1500643264777">
+      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" timestamp="1500880998725">
         <mark key="'" line="122" column="8" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="34" column="67" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="123" column="12" />
+        <mark key="]" line="125" column="57" />
+        <mark key="^" line="125" column="57" />
+        <mark key="." line="125" column="57" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/auth/MagicTokenResponseDTO.scala" timestamp="1497875863975">
         <mark key="[" line="8" column="48" />
@@ -672,8 +665,8 @@
       <jump line="122" column="8" filename="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/opt/ades-datawarehouse/credentials</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHR0eTogdHJ1ZQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3305,34 +3298,34 @@
         <text>&quot;.credentials/ades-datawahouse.sheets&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHR0eTogdHJ1ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1haW5DbGFzcyBpbiBhc3NlbWJseSA6PSBTb21lKCJkYXRhd2FyZWhvdXNzc2UuYWRlcy5Ecml2ZXIiKQo=</text>
+        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICBjb21tYW5kOiBzcGFyay1zdWJtaXQgLS1jbGFzcyBjb20ubGVvaWxhYi5kYXRhd2FyZWhvdXNlLmFkZXMuRHJpdmVyIC9vcHQvYWRlcy1kYXRhd2FyZWhvdXNlL2FkZXMtZGF0YXdhcmVob3VzZS1leHBvcnRlci5qYXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKHMiQWdncmVnYXRlIGRhdGFmcmFtZTogJHthZ2dyZWdhdGVERi5zaG93KCl9IikK</text>
+        <text encoding="base64">ICAgIHR0eTogdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKHMiUmVtb3ZpbmcgaGVhZGVyczogJGhlYWRlcnNUb1JlbW92ZSIpCg==</text>
+        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbW1hbmQ6IGJhc2gK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IXNyYy9pdC9yZXNvdXJjZXMvaW1hZ2VzLXByb2Nlc3NlZC9hbHJlYWR5LW5vcm1hbGl6ZWQuanBnCg==</text>
+        <text encoding="base64">ICAgIG1haW5DbGFzcyBpbiBhc3NlbWJseSA6PSBTb21lKCJkYXRhd2FyZWhvdXNzc2UuYWRlcy5Ecml2ZXIiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3JjL2l0L3Jlc291cmNlcy9pbWFnZXMtcHJvY2Vzc2VkLyouY3JjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
