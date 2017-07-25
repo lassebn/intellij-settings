@@ -296,11 +296,11 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/README.md" timestamp="1500894499880">
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="24" column="55" />
-        <mark key="^" line="24" column="55" />
-        <mark key="." line="24" column="55" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/README.md" timestamp="1500980459412">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="38" column="2" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/project/plugins.sbt" timestamp="1496128465448">
         <mark key="[" line="0" column="0" />
@@ -365,11 +365,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/application.conf" timestamp="1500892666945">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="25" />
-        <mark key="^" line="16" column="25" />
-        <mark key="." line="16" column="25" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/application.conf" timestamp="1500979941060">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="10" column="17" />
+        <mark key="." line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/identity/FacebookIdentityService.scala" timestamp="1499178850101">
         <mark key="[" line="79" column="30" />
@@ -518,7 +518,7 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1500974362311">
+      <file name="/dummy.sql" timestamp="1500980128207">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/build.sbt" timestamp="1500884338797">
@@ -557,11 +557,11 @@
         <mark key="^" line="53" column="57" />
         <mark key="." line="53" column="57" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" timestamp="1500974635457">
-        <mark key="[" line="93" column="75" />
-        <mark key="]" line="94" column="90" />
-        <mark key="^" line="94" column="90" />
-        <mark key="." line="94" column="90" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" timestamp="1500979678516">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="28" column="8" />
+        <mark key="^" line="28" column="8" />
+        <mark key="." line="28" column="8" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/auth/MagicTokenResponseDTO.scala" timestamp="1497875863975">
         <mark key="[" line="8" column="48" />
@@ -576,7 +576,7 @@
         <mark key="." line="9" column="35" />
         <mark key="^" line="9" column="35" />
       </file>
-      <file name="/fragment.java" timestamp="1500631499155">
+      <file name="/fragment.java" timestamp="1500979920987">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/IntegrationTestHelper.scala" timestamp="1498551657010">
@@ -689,8 +689,8 @@
       <jump line="26" column="33" filename="$USER_HOME$/Source/datawarehouse-ades/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-local-mode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogRml4IGFjY2VzcyB0byBjbGllbnQgc2VjcmV0Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3313,7 +3313,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-local-mode</text>
+        <text>ya29.GlySBP9sjl-BkYFWfu_HgCxGXlf5lQQIQtiu8722n6LIb-AePmV-Houc8nuJS3rcincXc8R5L2xtiBWP0KvIug27Ngvg64LNwQawED2D2te1h7yv90CghbDXGI2flA</text>
       </register>
       <register name="/" type="4">
         <text>psohappy</text>
@@ -3322,34 +3322,34 @@
         <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIElGIE5PVCBFWElTVFMgZGF0YXdhcmVob3VzZTsKR1JBTlQgQUxMIE9OIGRhdGF3YXJlaG91c2UuKiBUTyAnbXlzcWwnQCclJyA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogRml4IGFjY2VzcyB0byBjbGllbnQgc2VjcmV0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">R1JBTlQgQUxMIE9OIGRhdGF3YXJlaG91c2VTcGFya1lhcm4uKiBUTyAnbXlzcWwnQCclJyA7Cg==</text>
+        <text encoding="base64">ICogRml4IHN0b3JhZ2Ugb2YgR29vZ2xlIGNyZWRlbnRpYWxzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIElGIE5PVCBFWElTVFMgZGF0YXdhcmVob3VzZVNwYXJrWWFybjsK</text>
+        <text encoding="base64">ICogUnVuIGxvY2FsIG1vZGUgU3BhcmsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25kaXRpb246IHNlcnZpY2VfaGVhbHRoeQogICAgY29tbWFuZDogc3Bhcmstc3VibWl0IC12IC0tY2xhc3MgY29tLmxlb2lsYWIuZGF0YXdhcmVob3VzZS5hZGVzLkRyaXZlciAvb3B0L2FkZXMtZGF0YXdhcmVob3VzZS9hZGVzLWRhdGF3YXJlaG91c2UtZXhwb3J0ZXIuamFyCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlIHNidCB0YXNrIHRvIGdldCBjcmVkZW50aWFscwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzcGFyay15YXJuOgogICAgaW1hZ2U6IHA3aGIvZG9ja2VyLXNwYXJrOjIuMS4xCiAgICBwb3J0czoKICAgICAgLSA0MDQwOjQwNDAKICAgICAgLSA4MDgwOjgwODAKICAgICAgLSA4MDgxOjgwODEKICAgIGVudmlyb25tZW50OgogICAgICAtIE1ZU1FMX0RBVEFXQVJFSE9VU0VfVVJMPWpkYmM6bXlzcWw6Ly9kYjozMzA2L2RhdGF3YXJlaG91c2VTcGFya1lhcm4/dXNlU1NMPWZhbHNlCiAgICAgIC0gWUFSTl9DT05GX0RJUj0iL3lhcm4tcmVtb3RlLWNsaWVudCIKICAgICAgLSBIQURPT1BfVVNFUl9OQU1FPXJvb3QKICAgIHZvbHVtZXM6CiAgICAgIC0gLi90YXJnZXQvc2NhbGEtMi4xMTovb3B0L2FkZXMtZGF0YXdhcmVob3VzZQogICAgICAtIC4veWFybi1yZW1vdGUtY2xpZW50Oi95YXJuLXJlbW90ZS1jbGllbnQKICAgIGRlcGVuZHNfb246CiAgICAgIGRiOgogICAgICAgIGNvbmRpdGlvbjogc2VydmljZV9oZWFsdGh5CiAgICBjb21tYW5kOiBzcGFyay1zdWJtaXQgLXYgLS1kZXBsb3ktbW9kZSBjbHVzdGVyIC0tbWFzdGVyIHlhcm4gLS1jbGFzcyBjb20ubGVvaWxhYi5kYXRhd2FyZWhvdXNlLmFkZXMuRHJpdmVyIC9vcHQvYWRlcy1kYXRhd2FyZWhvdXNlL2FkZXMtZGF0YXdhcmVob3VzZS1leHBvcnRlci5qYXIK</text>
+        <text encoding="base64">ICogUGFja2FnaW5nIGphcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eT4KICAgICAgICA8bmFtZT55YXJuLnJlc291cmNlbWFuYWdlci5zY2hlZHVsZXIuYWRkcmVzczwvbmFtZT4KICAgICAgICA8dmFsdWU+c3BhcmsteWFybjo4MDMwPC92YWx1ZT4KICAgIDwvcHJvcGVydHk+CiAgICA8cHJvcGVydHk+CiAgICAgICAgPG5hbWU+eWFybi5yZXNvdXJjZW1hbmFnZXIuYWRkcmVzczwvbmFtZT4KICAgICAgICA8dmFsdWU+c3BhcmsteWFybjo4MDMyPC92YWx1ZT4KICAgIDwvcHJvcGVydHk+CiAgICA8cHJvcGVydHk+CiAgICAgICAgPG5hbWU+eWFybi5yZXNvdXJjZW1hbmFnZXIud2ViYXBwLmFkZHJlc3M8L25hbWU+CiAgICAgICAgPHZhbHVlPnNwYXJrLXlhcm46ODA4ODwvdmFsdWU+CiAgICA8L3Byb3BlcnR5PgogICAgPHByb3BlcnR5PgogICAgICAgIDxuYW1lPnlhcm4ucmVzb3VyY2VtYW5hZ2VyLnJlc291cmNlLXRyYWNrZXIuYWRkcmVzczwvbmFtZT4KICAgICAgICA8dmFsdWU+c3BhcmsteWFybjo4MDMxPC92YWx1ZT4KICAgIDwvcHJvcGVydHk+CiAgICA8cHJvcGVydHk+CiAgICAgICAgPG5hbWU+eWFybi5yZXNvdXJjZW1hbmFnZXIuYWRtaW4uYWRkcmVzczwvbmFtZT4KICAgICAgICA8dmFsdWU+c3BhcmsteWFybjo4MDMzPC92YWx1ZT4KICAgIDwvcHJvcGVydHk+CiAgICA8cHJvcGVydHk+CiAgICAgICAgPG5hbWU+eWFybi5hcHBsaWNhdGlvbi5jbGFzc3BhdGg8L25hbWU+CiAgICAgICAgPHZhbHVlPi91c3IvbG9jYWwvaGFkb29wL2V0Yy9oYWRvb3AsIC91c3IvbG9jYWwvaGFkb29wL3NoYXJlL2hhZG9vcC9jb21tb24vKiwgL3Vzci9sb2NhbC9oYWRvb3Avc2hhcmUvaGFkb29wL2NvbW1vbi9saWIvKiwgL3Vzci9sb2NhbC9oYWRvb3Avc2hhcmUvaGFkb29wL2hkZnMvKiwgL3Vzci9sb2NhbC9oYWRvb3Avc2hhcmUvaGFkb29wL2hkZnMvbGliLyosIC91c3IvbG9jYWwvaGFkb29wL3NoYXJlL2hhZG9vcC9tYXByZWR1Y2UvKiwgL3Vzci9sb2NhbC9oYWRvb3Avc2hhcmUvaGFkb29wL21hcHJlZHVjZS9saWIvKiwgL3Vzci9sb2NhbC9oYWRvb3Avc2hhcmUvaGFkb29wL3lhcm4vKiwgL3Vzci9sb2NhbC9oYWRvb3Avc2hhcmUvaGFkb29wL3lhcm4vbGliLyosIC91c3IvbG9jYWwvaGFkb29wL3NoYXJlL3NwYXJrLyo8L3ZhbHVlPgogICAgPC9wcm9wZXJ0eT4K</text>
+        <text encoding="base64">ICogV3JpdGUgdG8gdGhlIGRhdGF3YXJlaG91c2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bmFtZT5kZnMuY2xpZW50LnVzZS5sZWdhY3kuYmxvY2tyZWFkZXI8L25hbWU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvcHJvcGVydHk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
