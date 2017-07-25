@@ -88,11 +88,11 @@
         <mark key="^" line="39" column="67" />
         <mark key="." line="39" column="67" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/docker-compose.yml" timestamp="1500974257131">
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="14" column="7" />
-        <mark key="." line="14" column="7" />
-        <mark key="^" line="27" column="130" />
+      <file name="$USER_HOME$/Source/datawarehouse-ades/docker-compose.yml" timestamp="1500981888414">
+        <mark key="[" line="4" column="149" />
+        <mark key="]" line="4" column="125" />
+        <mark key="." line="4" column="125" />
+        <mark key="^" line="4" column="125" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/db/StandardMappers.scala" timestamp="1496906775202">
         <mark key="[" line="10" column="0" />
