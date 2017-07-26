@@ -112,6 +112,12 @@
         <mark key="^" line="11" column="96" />
         <mark key="." line="11" column="96" />
       </file>
+      <file name="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/IntegrationTestHelper.scala" timestamp="1501058362548">
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="40" />
+        <mark key="." line="10" column="40" />
+        <mark key="^" line="10" column="40" />
+      </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="26" />
@@ -392,6 +398,13 @@
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/S3DataStoreFactory.scala" timestamp="1500642135079">
         <mark key="[" line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" timestamp="1501059751531">
+        <mark key="'" line="145" column="0" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="^" line="87" column="30" />
+        <mark key="." line="87" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/google-sheets-scala/src/main/resources/google_secrets.json" timestamp="1500541137706">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="42" />
@@ -406,6 +419,12 @@
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/scripts/send_reminder_mails.py" timestamp="1498470247979">
         <mark key="[" line="13" column="88" />
+      </file>
+      <file name="$USER_HOME$/Source/imagine-backend/src/test/scala/com/leoilab/imagine/FunctionalSpec.scala" timestamp="1501057380328">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/build.sbt" timestamp="1496228182614">
         <mark key="[" line="15" column="18" />
@@ -457,6 +476,12 @@
         <mark key="]" line="60" column="29" />
         <mark key="." line="60" column="29" />
         <mark key="^" line="60" column="29" />
+      </file>
+      <file name="$USER_HOME$/Source/imagine-backend/docker-compose.yml" timestamp="1501058629260">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="26" column="43" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/TestHelper.scala" timestamp="1494498200632">
         <mark key="[" line="18" column="0" />
@@ -539,6 +564,7 @@
         <mark key="^" line="68" column="184" />
         <mark key="." line="68" column="184" />
       </file>
+      <file name="$USER_HOME$/Source/imagine-backend/project/Build.scala" timestamp="1501057771276" />
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/application.conf" timestamp="1498572115128">
         <mark key="[" line="52" column="28" />
         <mark key="]" line="52" column="30" />
@@ -569,7 +595,6 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1500640996358" />
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/resources/db/migration/V3__PsoHappyId_to_ExternalUserId.sql" timestamp="1497006621593">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="9" column="35" />
@@ -587,12 +612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="24" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
-      <jump line="60" column="32" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/AWSHelper.scala" />
-      <jump line="144" column="65" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
-      <jump line="949" column="12" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" />
-      <jump line="502" column="39" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" />
-      <jump line="226" column="0" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" />
       <jump line="948" column="0" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" />
       <jump line="1249" column="0" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" />
       <jump line="25" column="0" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/identity/FacebookIdentityServiceSpec.scala" />
@@ -687,10 +706,16 @@
       <jump line="123" column="10" filename="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" />
       <jump line="122" column="8" filename="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" />
       <jump line="26" column="33" filename="$USER_HOME$/Source/datawarehouse-ades/docker-compose.yml" />
+      <jump line="71" column="29" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
+      <jump line="114" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
+      <jump line="121" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
+      <jump line="128" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
+      <jump line="135" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
+      <jump line="145" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjcmVkZW50aWFsc1BhdGggPSAkez9HT09HTEVfQ1JFREVOVElBTFNfUEFUSH0K</text>
+        <text encoding="base64">Ly8gICAgc3R1YkZvcihnZXQodXJsUGF0aE1hdGNoaW5nKCIvdjEvaW1hZ2VzLyhbYS16XSopIikpCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3313,52 +3338,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ya29.GlySBP9sjl-BkYFWfu_HgCxGXlf5lQQIQtiu8722n6LIb-AePmV-Houc8nuJS3rcincXc8R5L2xtiBWP0KvIug27Ngvg64LNwQawED2D2te1h7yv90CghbDXGI2flA</text>
+        <text>200</text>
       </register>
       <register name="/" type="4">
-        <text>psohappy</text>
+        <text>restMock</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIElGIE5PVCBFWElTVFMgZGF0YXdhcmVob3VzZTsKR1JBTlQgQUxMIE9OIGRhdGF3YXJlaG91c2UuKiBUTyAnbXlzcWwnQCclJyA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjcmVkZW50aWFsc1BhdGggPSAkez9HT09HTEVfQ1JFREVOVElBTFNfUEFUSH0K</text>
+        <text encoding="base64">Ly8gICAgc3R1YkZvcihnZXQodXJsUGF0aE1hdGNoaW5nKCIvdjEvaW1hZ2VzLyhbYS16XSopIikpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjcmVkZW50aWFsc1BhdGggPSAiLi9jcmVkZW50aWFscy9hZGVzLWRhdGF3YWhvdXNlLnNoZWV0cyIK</text>
+        <text encoding="base64">ICAgICAgLSByZXN0bW9jawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogRml4IGFjY2VzcyB0byBjbGllbnQgc2VjcmV0Cg==</text>
+        <text encoding="base64">ICAgICAgLSBpbWFnaW5lZGIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogRml4IHN0b3JhZ2Ugb2YgR29vZ2xlIGNyZWRlbnRpYWxzCg==</text>
+        <text encoding="base64">ICAgIGxpbmtzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogUnVuIGxvY2FsIG1vZGUgU3BhcmsK</text>
+        <text encoding="base64">ICB2YWwgcmVzdE1vY2tDbGllbnQgPSBuZXcgTW9ja1NlcnZlckNsaWVudChyZXN0TW9ja0hvc3QsIHJlc3RNb2NrUG9ydCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlIHNidCB0YXNrIHRvIGdldCBjcmVkZW50aWFscwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2Nrc2VydmVyLmNsaWVudC5zZXJ2ZXIuTW9ja1NlcnZlckNsaWVudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogUGFja2FnaW5nIGphcgo=</text>
+        <text encoding="base64">ICAgIHJlc3RNb2NrQ2xpZW50LnJlc2V0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogV3JpdGUgdG8gdGhlIGRhdGF3YXJlaG91c2UK</text>
+        <text encoding="base64">ICAgIHJlc3RNb2NrQ2xpZW50LnJlc2V0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3RNb2NrQ2xpZW50LnJlc2V0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>psohappy</last-search>
+      <last-search>restMock</last-search>
       <last-offset />
-      <last-pattern>psohappy</last-pattern>
+      <last-pattern>restMock</last-pattern>
       <last-replace>notifications</last-replace>
       <last-substitute>psohappy</last-substitute>
       <last-dir>1</last-dir>
@@ -3370,6 +3395,8 @@
         <entry>get</entry>
         <entry>list</entry>
         <entry>psohappy</entry>
+        <entry>mockClient</entry>
+        <entry>restMock</entry>
       </history-search>
       <history-cmd>
         <entry>84</entry>
