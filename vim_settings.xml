@@ -411,6 +411,12 @@
         <mark key="^" line="3" column="76" />
         <mark key="." line="41" column="32" />
       </file>
+      <file name="$USER_HOME$/Source/klikkit-backend/build.sbt" timestamp="1502720174475">
+        <mark key="[" line="41" column="46" />
+        <mark key="]" line="41" column="70" />
+        <mark key="." line="41" column="70" />
+        <mark key="^" line="41" column="70" />
+      </file>
       <file name="$USER_HOME$/Source/studies-and-me/scripts/send_reminder_mails.py" timestamp="1498470247979">
         <mark key="[" line="13" column="88" />
       </file>
@@ -588,7 +594,19 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
+      <file name="$USER_HOME$/Source/klikkit-backend/project/plugins.sbt" timestamp="1502720316494">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="0" column="40" />
+      </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1502699001992" />
+      <file name="$USER_HOME$/Source/klikkit-backend/project/project/plugins.sbt" timestamp="1502719203348">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="66" />
+        <mark key="^" line="2" column="66" />
+        <mark key="." line="2" column="66" />
+      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/resources/db/migration/V3__PsoHappyId_to_ExternalUserId.sql" timestamp="1497006621593">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="9" column="35" />
@@ -709,7 +727,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgc3R1YkZvcihnZXQodXJsUGF0aE1hdGNoaW5nKCIvdjEvaW1hZ2VzLyhbYS16XSopIikpCg==</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20uZnJ1Z2FsbWVjaGFuaWMiICUgImZtLXNidC1zMy1yZXNvbHZlciIgJSAiMC45LjAiKQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3332,43 +3350,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>200</text>
+        <text>pi</text>
       </register>
       <register name="/" type="4">
         <text>restMock</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIElGIE5PVCBFWElTVFMgZGF0YXdhcmVob3VzZTsKR1JBTlQgQUxMIE9OIGRhdGF3YXJlaG91c2UuKiBUTyAnbXlzcWwnQCclJyA7Cg==</text>
+      <register name="0" type="4">
+        <text>https://dl.bintray.com/hmrc/sbt-plugin-releases</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgc3R1YkZvcihnZXQodXJsUGF0aE1hdGNoaW5nKCIvdjEvaW1hZ2VzLyhbYS16XSopIikpCg==</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20uZnJ1Z2FsbWVjaGFuaWMiICUgImZtLXNidC1zMy1yZXNvbHZlciIgJSAiMC45LjAiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSByZXN0bW9jawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBpbWFnaW5lZGIK</text>
+        <text encoding="base64">ICB1cmwoImh0dHBzOi8vZGwuYmludHJheS5jb20vaG1yYy9zYnQtcGx1Z2luLXJlbGVhc2VzIikpKFJlc29sdmVyLml2eVN0eWxlUGF0dGVybnMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpbmtzOgo=</text>
+        <text encoding="base64">cmVzb2x2ZXJzICs9IFJlc29sdmVyLnVybCgiaG1yYy1zYnQtcGx1Z2luLXJlbGVhc2VzIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgcmVzdE1vY2tDbGllbnQgPSBuZXcgTW9ja1NlcnZlckNsaWVudChyZXN0TW9ja0hvc3QsIHJlc3RNb2NrUG9ydCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2Nrc2VydmVyLmNsaWVudC5zZXJ2ZXIuTW9ja1NlcnZlckNsaWVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3RNb2NrQ2xpZW50LnJlc2V0KCkK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3RNb2NrQ2xpZW50LnJlc2V0KCkK</text>
+        <text encoding="base64">ICAiTGVvIGlsYWIgcmVsZWFzZXMiIGF0ICJzMzovL2xlby1wbGF0Zm9ybS1wYWNrYWdlcy9yZWxlYXNlcyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3RNb2NrQ2xpZW50LnJlc2V0KCkK</text>
+        <text encoding="base64">ICAiTGVvIGlsYWIgc25hcHNob3RzIiBhdCAiczM6Ly9sZW8tcGxhdGZvcm0tcGFja2FnZXMvc25hcHNob3RzIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
