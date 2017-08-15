@@ -11,6 +11,13 @@
         <mark key="^" line="30" column="94" />
         <mark key="." line="30" column="82" />
       </file>
+      <file name="$USER_HOME$/Source/klikkit-backend/project/project/TestHelper.scala" timestamp="1502794324989">
+        <mark key="'" line="95" column="163" />
+        <mark key="[" line="134" column="94" />
+        <mark key="]" line="134" column="77" />
+        <mark key="^" line="134" column="77" />
+        <mark key="." line="134" column="77" />
+      </file>
       <file name="/a.dummy" timestamp="1499936920460">
         <mark key="[" line="0" column="0" />
       </file>
@@ -170,11 +177,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend/docker-compose.yml" timestamp="1502791120881">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="1" />
+      <file name="$USER_HOME$/Source/klikkit-backend/docker-compose.yml" timestamp="1502793880595">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
         <mark key="^" line="18" column="1" />
-        <mark key="." line="18" column="1" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/GoogleAuthenticationHelper.scala" timestamp="1500883098651">
         <mark key="[" line="22" column="14" />
@@ -321,11 +328,10 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend/circle.yml" timestamp="1502781726274">
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="27" column="21" />
-        <mark key="^" line="27" column="21" />
-        <mark key="." line="27" column="21" />
+      <file name="$USER_HOME$/Source/klikkit-backend/circle.yml" timestamp="1502796073311">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/deploy-pipeline.py" timestamp="1499949262796">
         <mark key="[" line="31" column="13" />
@@ -418,11 +424,11 @@
         <mark key="^" line="3" column="76" />
         <mark key="." line="41" column="32" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend/build.sbt" timestamp="1502790292134">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="40" column="74" />
+      <file name="$USER_HOME$/Source/klikkit-backend/build.sbt" timestamp="1502796220454">
+        <mark key="[" line="66" column="29" />
+        <mark key="]" line="66" column="40" />
+        <mark key="." line="66" column="40" />
+        <mark key="^" line="66" column="40" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/scripts/send_reminder_mails.py" timestamp="1498470247979">
         <mark key="[" line="13" column="88" />
@@ -525,6 +531,12 @@
         <mark key="]" line="22" column="55" />
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
+      </file>
+      <file name="$USER_HOME$/Source/klikkit-backend/project/TestHelper.scala" timestamp="1502796294975">
+        <mark key="[" line="119" column="30" />
+        <mark key="]" line="120" column="40" />
+        <mark key="^" line="120" column="40" />
+        <mark key="." line="120" column="40" />
       </file>
       <file name="/sbtShell" timestamp="1500540252729">
         <mark key="[" line="0" column="0" />
@@ -636,8 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="948" column="0" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" />
-      <jump line="1249" column="0" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" />
       <jump line="25" column="0" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/identity/FacebookIdentityServiceSpec.scala" />
       <jump line="175" column="85" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" />
       <jump line="42" column="18" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/AWSHelperSpec.scala" />
@@ -736,10 +746,12 @@
       <jump line="128" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
       <jump line="135" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
       <jump line="145" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
+      <jump line="85" column="45" filename="$USER_HOME$/Source/klikkit-backend/project/project/TestHelper.scala" />
+      <jump line="95" column="163" filename="$USER_HOME$/Source/klikkit-backend/project/project/TestHelper.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBrbGlra2l0ZGI6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>pack</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3362,7 +3374,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>pack</text>
       </register>
       <register name="/" type="4">
         <text>restMock</text>
@@ -3371,37 +3383,37 @@
         <text>https://dl.bintray.com/hmrc/sbt-plugin-releases</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBrbGlra2l0ZGI6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiaG1yYy1zYnQtcGx1Z2luLXJlbGVhc2VzIiBhdCAiaHR0cHM6Ly9kbC5iaW50cmF5LmNvbS9obXJjL3NidC1wbHVnaW4tcmVsZWFzZXMiLAo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgaW4gZG9ja2VyIDw8PSAoY29tcGlsZSBpbiBEb2NrZXIpIGRlcGVuZHNPbiBnZW5lcmF0ZURvY3MsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gc2J0IGdlbmVyYXRlRG9jcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiaG1yYy1zYnQtcGx1Z2luLXJlbGVhc2VzIiBhdCAiaHR0cHM6Ly9kbC5iaW50cmF5LmNvbS9obXJjL3NidC1wbHVnaW4tcmVsZWFzZXMiCg==</text>
+        <text encoding="base64">aW1wb3J0IFRlc3RIZWxwZXIuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20uZnJ1Z2FsbWVjaGFuaWMiICUgImZtLXNidC1zMy1yZXNvbHZlciIgJSAiMC45LjAiKQo=</text>
+        <text encoding="base64">Z2VuZXJhdGVEb2NzIGluIFRoaXNCdWlsZCA6PSBUZXN0SGVscGVyLmdlbmVyYXRlRG9jcygpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB1cmwoImh0dHBzOi8vZGwuYmludHJheS5jb20vaG1yYy9zYnQtcGx1Z2luLXJlbGVhc2VzIikpKFJlc29sdmVyLml2eVN0eWxlUGF0dGVybnMpCg==</text>
+        <text encoding="base64">Z2VuZXJhdGVEb2NzIDo9IHRhc2tLZXkoImdlbmVyYXRlRG9jcyIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVzb2x2ZXJzICs9IFJlc29sdmVyLnVybCgiaG1yYy1zYnQtcGx1Z2luLXJlbGVhc2VzIiwK</text>
+        <text encoding="base64">Ly8gIHJlZ2lzdHJ5ID0gU29tZSgiMDg1ZGQ4MTY5NTY0NzEuZGtyLmVjci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbSIpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>41</text>
       </register>
     </registers>
     <search>
@@ -3423,7 +3435,6 @@
         <entry>restMock</entry>
       </history-search>
       <history-cmd>
-        <entry>84</entry>
         <entry>149</entry>
         <entry>71</entry>
         <entry>..</entry>
@@ -3443,6 +3454,7 @@
         <entry>8</entry>
         <entry>53</entry>
         <entry>w</entry>
+        <entry>41</entry>
       </history-cmd>
       <history-expr />
       <history-input />
