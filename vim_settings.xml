@@ -177,11 +177,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend/docker-compose.yml" timestamp="1502793880595">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
+      <file name="$USER_HOME$/Source/klikkit-backend/docker-compose.yml" timestamp="1502799849479">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="15" />
         <mark key="^" line="18" column="1" />
-        <mark key="." line="30" column="0" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/GoogleAuthenticationHelper.scala" timestamp="1500883098651">
         <mark key="[" line="22" column="14" />
@@ -328,10 +328,12 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend/circle.yml" timestamp="1502796073311">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Source/klikkit-backend/circle.yml" timestamp="1502798822460">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="27" column="19" />
+        <mark key="m" line="28" column="3" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="19" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/deploy-pipeline.py" timestamp="1499949262796">
         <mark key="[" line="31" column="13" />
@@ -490,6 +492,12 @@
         <mark key="." line="60" column="29" />
         <mark key="^" line="60" column="29" />
       </file>
+      <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/nginx/push.sh" timestamp="1502799677872">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="4" column="46" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/imagine-backend/docker-compose.yml" timestamp="1501058629260">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -514,11 +522,11 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1502785655564">
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1502799433548">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="79" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/client_secret.json" timestamp="1500883802726">
         <mark key="[" line="0" column="36" />
@@ -594,6 +602,12 @@
         <mark key="]" line="52" column="30" />
         <mark key="^" line="52" column="30" />
         <mark key="." line="52" column="30" />
+      </file>
+      <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/nginx/build.sh" timestamp="1502800115692">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+        <mark key="." line="11" column="14" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/resources/logback.xml" timestamp="1494858242809">
         <mark key="[" line="0" column="14" />
@@ -751,7 +765,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pack</text>
+        <text>/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3374,7 +3388,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pack</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>restMock</text>
@@ -3383,37 +3397,37 @@
         <text>https://dl.bintray.com/hmrc/sbt-plugin-releases</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRvY2tlciBwdXNoIDA4NTgxNjk1NjQ3MS5ka3IuZWNyLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2NvbS5sZW9pbGFiL2tsaWtraXQtbmdpbngK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgaW4gZG9ja2VyIDw8PSAoY29tcGlsZSBpbiBEb2NrZXIpIGRlcGVuZHNPbiBnZW5lcmF0ZURvY3MsCg==</text>
+        <text encoding="base64">ICAgIGRvY2tlciB0YWcgY29tLmxlb2lsYWIva2xpa2tpdC1uZ2lueCAwODU4MTY5NTY0NzEuZGtyLmVjci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9jb20ubGVvaWxhYi9rbGlra2l0LW5naW54Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gc2J0IGdlbmVyYXRlRG9jcwo=</text>
+        <text encoding="base64">ICAgIGRvY2tlciB0YWcgMDg1ODE2OTU2NDcxLmRrci5lY3IuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20vY29tLmxlb2lsYWIva2xpa2tpdCAwODU4MTY5NTY0NzEuZGtyLmVjci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9jb20ubGVvaWxhYi9rbGlra2l0OiRDSVJDTEVfU0hBMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFRlc3RIZWxwZXIuCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Z2VuZXJhdGVEb2NzIGluIFRoaXNCdWlsZCA6PSBUZXN0SGVscGVyLmdlbmVyYXRlRG9jcygpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgaW4gZG9ja2VyIDw8PSAoY29tcGlsZSBpbiBEb2NrZXIpIGRlcGVuZHNPbiBnZW5lcmF0ZURvY3MsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC0gc2J0IGdlbmVyYXRlRG9jcwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Z2VuZXJhdGVEb2NzIDo9IHRhc2tLZXkoImdlbmVyYXRlRG9jcyIpCg==</text>
+        <text encoding="base64">aW1wb3J0IFRlc3RIZWxwZXIuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gIHJlZ2lzdHJ5ID0gU29tZSgiMDg1ZGQ4MTY5NTY0NzEuZGtyLmVjci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbSIpLAo=</text>
+        <text encoding="base64">Z2VuZXJhdGVEb2NzIGluIFRoaXNCdWlsZCA6PSBUZXN0SGVscGVyLmdlbmVyYXRlRG9jcygpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>41</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3453,8 +3467,8 @@
         <entry>48</entry>
         <entry>8</entry>
         <entry>53</entry>
-        <entry>w</entry>
         <entry>41</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
