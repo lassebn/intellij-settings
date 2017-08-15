@@ -170,11 +170,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend/docker-compose.yml" timestamp="1502785216554">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="26" />
-        <mark key="^" line="4" column="26" />
-        <mark key="." line="4" column="26" />
+      <file name="$USER_HOME$/Source/klikkit-backend/docker-compose.yml" timestamp="1502791120881">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/GoogleAuthenticationHelper.scala" timestamp="1500883098651">
         <mark key="[" line="22" column="14" />
@@ -739,7 +739,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAiaG1yYy1zYnQtcGx1Z2luLXJlbGVhc2VzIiBhdCAiaHR0cHM6Ly9kbC5iaW50cmF5LmNvbS9obXJjL3NidC1wbHVnaW4tcmVsZWFzZXMiLAo=</text>
+        <text encoding="base64">CiAgICBrbGlra2l0ZGI6Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3371,34 +3371,34 @@
         <text>https://dl.bintray.com/hmrc/sbt-plugin-releases</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiaG1yYy1zYnQtcGx1Z2luLXJlbGVhc2VzIiBhdCAiaHR0cHM6Ly9kbC5iaW50cmF5LmNvbS9obXJjL3NidC1wbHVnaW4tcmVsZWFzZXMiLAo=</text>
+        <text encoding="base64">CiAgICBrbGlra2l0ZGI6Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiaG1yYy1zYnQtcGx1Z2luLXJlbGVhc2VzIiBhdCAiaHR0cHM6Ly9kbC5iaW50cmF5LmNvbS9obXJjL3NidC1wbHVnaW4tcmVsZWFzZXMiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiaG1yYy1zYnQtcGx1Z2luLXJlbGVhc2VzIiBhdCAiaHR0cHM6Ly9kbC5iaW50cmF5LmNvbS9obXJjL3NidC1wbHVnaW4tcmVsZWFzZXMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20uZnJ1Z2FsbWVjaGFuaWMiICUgImZtLXNidC1zMy1yZXNvbHZlciIgJSAiMC45LjAiKQo=</text>
+        <text encoding="base64">ICAiaG1yYy1zYnQtcGx1Z2luLXJlbGVhc2VzIiBhdCAiaHR0cHM6Ly9kbC5iaW50cmF5LmNvbS9obXJjL3NidC1wbHVnaW4tcmVsZWFzZXMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20uZnJ1Z2FsbWVjaGFuaWMiICUgImZtLXNidC1zMy1yZXNvbHZlciIgJSAiMC45LjAiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1cmwoImh0dHBzOi8vZGwuYmludHJheS5jb20vaG1yYy9zYnQtcGx1Z2luLXJlbGVhc2VzIikpKFJlc29sdmVyLml2eVN0eWxlUGF0dGVybnMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVzb2x2ZXJzICs9IFJlc29sdmVyLnVybCgiaG1yYy1zYnQtcGx1Z2luLXJlbGVhc2VzIiwK</text>
+        <text encoding="base64">ICB1cmwoImh0dHBzOi8vZGwuYmludHJheS5jb20vaG1yYy9zYnQtcGx1Z2luLXJlbGVhc2VzIikpKFJlc29sdmVyLml2eVN0eWxlUGF0dGVybnMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">cmVzb2x2ZXJzICs9IFJlc29sdmVyLnVybCgiaG1yYy1zYnQtcGx1Z2luLXJlbGVhc2VzIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
