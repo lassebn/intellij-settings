@@ -18,9 +18,6 @@
         <mark key="^" line="134" column="77" />
         <mark key="." line="134" column="77" />
       </file>
-      <file name="/a.dummy" timestamp="1499936920460">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/SampleTest.scala" timestamp="1493977610698">
         <mark key="[" line="9" column="99" />
         <mark key="]" line="9" column="105" />
@@ -62,9 +59,6 @@
         <mark key="]" line="9" column="30" />
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1500468207032">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/project/Build.scala" timestamp="1498551255596">
         <mark key="[" line="40" column="107" />
@@ -136,12 +130,6 @@
         <mark key="]" line="40" column="59" />
         <mark key="." line="40" column="59" />
         <mark key="^" line="40" column="59" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/resources/documentation-portal.html" timestamp="1499258783944">
-        <mark key="[" line="22" column="22" />
-      </file>
-      <file name="/" timestamp="1499773789772">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/project/TestHelper.scala" timestamp="1498551365792">
         <mark key="[" line="124" column="27" />
@@ -230,20 +218,11 @@
         <mark key="^" line="86" column="37" />
         <mark key="." line="86" column="37" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/README.md" timestamp="1494314384652">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/intouch-backend/intouch-service/src/test/java/com/warefly/intouch/service/EmailServiceTests.java" timestamp="1498651019057">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/ExternalUser.scala" timestamp="1496997085620">
-        <mark key="[" line="6" column="47" />
-      </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/project/assembly" timestamp="1500629010496">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/circle.yml" timestamp="1496835070851">
         <mark key="[" line="32" column="31" />
@@ -251,17 +230,11 @@
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyUser.scala" timestamp="1496996789179">
-        <mark key="[" line="4" column="12" />
-      </file>
       <file name="$USER_HOME$/Desktop/psohappy-emails/find_deleted_emails.py" timestamp="1499169394708">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/afd61665-bfef-4909-8041-40e355b174d6/console.sql" timestamp="1500620955150">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/yarn-remote-client/yarn-site.xml" timestamp="1500904971673">
         <mark key="[" line="1" column="0" />
@@ -404,9 +377,6 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/S3DataStoreFactory.scala" timestamp="1500642135079">
-        <mark key="[" line="6" column="24" />
-      </file>
       <file name="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" timestamp="1501059751531">
         <mark key="'" line="145" column="0" />
         <mark key="[" line="87" column="0" />
@@ -431,9 +401,6 @@
         <mark key="]" line="66" column="40" />
         <mark key="." line="66" column="40" />
         <mark key="^" line="66" column="40" />
-      </file>
-      <file name="$USER_HOME$/Source/studies-and-me/scripts/send_reminder_mails.py" timestamp="1498470247979">
-        <mark key="[" line="13" column="88" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/src/test/scala/com/leoilab/imagine/FunctionalSpec.scala" timestamp="1501057380328">
         <mark key="[" line="10" column="9" />
@@ -482,9 +449,6 @@
         <mark key="]" line="9" column="13" />
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="13" />
-      </file>
-      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/requirements.txt" timestamp="1499426450905">
-        <mark key="[" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/test.py" timestamp="1499936746519">
         <mark key="[" line="61" column="0" />
@@ -546,9 +510,6 @@
         <mark key="^" line="132" column="77" />
         <mark key="." line="132" column="77" />
       </file>
-      <file name="/sbtShell" timestamp="1500540252729">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingEC2InstanceTerminationMessage.scala" timestamp="1494492598248">
         <mark key="[" line="6" column="50" />
         <mark key="]" line="6" column="51" />
@@ -567,29 +528,17 @@
         <mark key="." line="57" column="29" />
         <mark key="^" line="57" column="29" />
       </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/test/AuthSupport.scala" timestamp="1497018218673">
-        <mark key="[" line="5" column="18" />
-      </file>
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/db/DBComponent.scala" timestamp="1496906582674">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="28" />
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1500980128207">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/build.sbt" timestamp="1500884338797">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="50" column="28" />
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1500989263610">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Scala Console" timestamp="1494231449884">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
         <mark key="[" line="68" column="183" />
@@ -650,9 +599,6 @@
         <mark key="]" line="9" column="35" />
         <mark key="." line="9" column="35" />
         <mark key="^" line="9" column="35" />
-      </file>
-      <file name="/fragment.java" timestamp="1500979920987">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/IntegrationTestHelper.scala" timestamp="1498551657010">
         <mark key="[" line="49" column="0" />
