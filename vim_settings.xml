@@ -39,10 +39,10 @@
         <mark key="^" line="27" column="16" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImagePropertiesServiceFuncSpec.scala" timestamp="1502813110619">
-        <mark key="[" line="29" column="55" />
-        <mark key="]" line="29" column="65" />
-        <mark key="." line="29" column="65" />
-        <mark key="^" line="29" column="65" />
+        <mark key="[" line="28" column="55" />
+        <mark key="]" line="28" column="65" />
+        <mark key="." line="28" column="65" />
+        <mark key="^" line="28" column="65" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" timestamp="1498108879853">
         <mark key="[" line="134" column="44" />
@@ -320,13 +320,6 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend/circle.yml" timestamp="1502798822460">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="27" column="19" />
-        <mark key="m" line="28" column="3" />
-        <mark key="." line="27" column="19" />
-        <mark key="^" line="27" column="19" />
-      </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/deploy-pipeline.py" timestamp="1499949262796">
         <mark key="[" line="31" column="13" />
         <mark key="]" line="33" column="17" />
@@ -375,11 +368,18 @@
         <mark key="." line="5" column="40" />
         <mark key="^" line="5" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImagePropertiesService.scala" timestamp="1502812758209">
-        <mark key="[" line="57" column="15" />
-        <mark key="]" line="57" column="19" />
-        <mark key="." line="57" column="19" />
-        <mark key="^" line="57" column="19" />
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImagePropertiesService.scala" timestamp="1502869933831">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="74" column="8" />
+        <mark key="]" line="62" column="83" />
+        <mark key="." line="62" column="83" />
+        <mark key="^" line="62" column="83" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/CollectionPropertiesRepository.scala" timestamp="1502871134890">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+        <mark key="^" line="10" column="27" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationFacebookHelper.scala" timestamp="1495446817772">
         <mark key="[" line="5" column="24" />
@@ -585,6 +585,12 @@
         <mark key="^" line="11" column="14" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/PropertyServices.scala" timestamp="1502870324446">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="68" column="25" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/resources/logback.xml" timestamp="1494858242809">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="14" />
@@ -621,7 +627,7 @@
         <mark key="." line="9" column="35" />
         <mark key="^" line="9" column="35" />
       </file>
-      <file name="/fragment.java" timestamp="1502806036164">
+      <file name="/fragment.java" timestamp="1502870273437">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/IntegrationTestHelper.scala" timestamp="1498551657010">
@@ -632,7 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/identity/FacebookIdentityServiceSpec.scala" />
       <jump line="175" column="85" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" />
       <jump line="42" column="18" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/AWSHelperSpec.scala" />
       <jump line="43" column="12" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/AWSHelperSpec.scala" />
@@ -732,10 +737,11 @@
       <jump line="145" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
       <jump line="85" column="45" filename="$USER_HOME$/Source/klikkit-backend/project/project/TestHelper.scala" />
       <jump line="95" column="163" filename="$USER_HOME$/Source/klikkit-backend/project/project/TestHelper.scala" />
+      <jump line="27" column="0" filename="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImagePropertiesService.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdoZW4oaW1hZ2VQcm9wZXJ0aWVzUmVwb3NpdG9yeS5zZXQoYW55W19dLCBhbnlbU3RyaW5nXSwgYW55W1N0cmluZ10pKShhbnlbQXV0aEluZm9dKS50aGVuUmV0dXJuKEZ1dHVyZSgoKSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3358,52 +3364,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>restMock</text>
+        <text>\u</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdoZW4oaW1hZ2VQcm9wZXJ0aWVzUmVwb3NpdG9yeS5yZW1vdmUoYW55W0ltYWdlSWRdLCBhbnlbT3B0aW9uW1N0cmluZ11dKShhbnlbQ2xpZW50SWRdKSkudGhlblJldHVybihGdXR1cmUoKCkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdoZW4oaW1hZ2VQcm9wZXJ0aWVzUmVwb3NpdG9yeS5zZXQoYW55W19dLCBhbnlbU3RyaW5nXSwgYW55W1N0cmluZ10pKShhbnlbQXV0aEluZm9dKS50aGVuUmV0dXJuKEZ1dHVyZSgoKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2FuU2V0UHJvcGVydHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcwo=</text>
+        <text encoding="base64">Y2xhc3MgQ29sbGVjdGlvblByb3BlcnRpZXNSZXBvc2l0b3J5IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoZW4oaW1hZ2VQcm9wZXJ0aWVzUmVwb3NpdG9yeS5zZXQoTWF0Y2hlcnMuYW55LCBhbnksIGFueSkoYW55KSkudGhlblJldHVybihGdXR1cmUoKCkpKQo=</text>
+        <text encoding="base64">Y2xhc3MgQ29sbGVjdGlvblByb3BlcnRpZXNSZXBvc2l0b3J5IGV4dGVuZHMgR2VuZXJpY1Byb3BlcnR5UmVwb3NpdG9yeVtDb2xsZWN0aW9uSWRdIHsKICBvdmVycmlkZSBkZWYgcmVtb3ZlKHJlc291cmNlSWQ6IENvbGxlY3Rpb25JZCwgcHJvcGVydHk6IE9wdGlvbltTdHJpbmddKShpbXBsaWNpdCBjbGllbnRJZDogQ2xpZW50SWQpID0gPz8/CgogIG92ZXJyaWRlIGRlZiBzZXQocmVzb3VyY2VJZDogQ29sbGVjdGlvbklkLCBwcm9wZXJ0eTogU3RyaW5nLCB2YWx1ZTogU3RyaW5nKShpbXBsaWNpdCBhdXRoSW5mbzogQXV0aEluZm8pID0gPz8/CgogIG92ZXJyaWRlIGRlZiBnZXQocmVzb3VyY2VJZDogQ29sbGVjdGlvbklkLCBwcm9wZXJ0eTogU3RyaW5nKShpbXBsaWNpdCBjbGllbnRJZDogQ2xpZW50SWQpID0gPz8/CgogIG92ZXJyaWRlIGRlZiBsaXN0QnlJZChyZXNvdXJjZUlkOiBDb2xsZWN0aW9uSWQpKGltcGxpY2l0IGNsaWVudElkOiBDbGllbnRJZCkgPSA/Pz8KfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoZW4oaW1hZ2VQcm9wZXJ0aWVzUmVwb3NpdG9yeS5zZXQoYW55W19dLCBhbnlbU3RyaW5nXSwgYW55W1N0cmluZ10pKShhbnlbQXV0aEluZm9dKS50aGVuUmV0dXJuKEZ1dHVyZSgoKSkpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gIGRlZiBnZXRQcm9wZXJ0eShyZXNvdXJjZUlkOiBCYXNlSWQsIHByb3BlcnR5TmFtZTogU3RyaW5nKShpbXBsaWNpdCBhY2Nlc3NUb2tlbjogQWNjZXNzVG9rZW4pOiBGdXR1cmVbU3RyaW5nXQovLyAgZGVmIGdldFByb3BlcnRpZXMocmVzb3VyY2VJZDogQmFzZUlkKShpbXBsaWNpdCBhY2Nlc3NUb2tlbjogQWNjZXNzVG9rZW4pOiBGdXR1cmVbTWFwW1N0cmluZywgU3RyaW5nXV0KLy8gIGRlZiBvdmVyd3JpdGVQcm9wZXJ0aWVzKHJlc291cmNlSWQ6IEJhc2VJZCwgcHJvcGVydGllczogTWFwW1N0cmluZywgU3RyaW5nXSkoaW1wbGljaXQgYWNjZXNzVG9rZW46IEFjY2Vzc1Rva2VuKTogRnV0dXJlW1VuaXRdCi8vICBkZWYgcmVtb3ZlQWxsKHJlc291cmNlSWQ6IEJhc2VJZCkoaW1wbGljaXQgYWNjZXNzVG9rZW46IEFjY2Vzc1Rva2VuKTogRnV0dXJlW1VuaXRdCi8vICBkZWYgc2V0UHJvcGVydHkocmVzb3VyY2VJZDogQmFzZUlkLCBwcm9wZXJ0eTogU3RyaW5nLCB2YWx1ZTogU3RyaW5nKShpbXBsaWNpdCBhY2Nlc3NUb2tlbjogQWNjZXNzVG9rZW4pOiBGdXR1cmVbVW5pdF0KLy8gIGRlZiByZW1vdmVQcm9wZXJ0eShyZXNvdXJjZUlkOiBCYXNlSWQsIHByb3BlcnR5OiBTdHJpbmcpKGltcGxpY2l0IGFjY2Vzc1Rva2VuOiBBY2Nlc3NUb2tlbik6IEZ1dHVyZVtVbml0XQo=</text>
+        <text encoding="base64">ICAgICAgY2FuU2V0UHJvcGVydHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>/\u</text>
       </register>
     </registers>
     <search>
-      <last-search>restMock</last-search>
+      <last-search>\u</last-search>
       <last-offset />
-      <last-pattern>restMock</last-pattern>
+      <last-pattern>\u</last-pattern>
       <last-replace>notifications</last-replace>
       <last-substitute>psohappy</last-substitute>
       <last-dir>1</last-dir>
@@ -3417,9 +3423,9 @@
         <entry>psohappy</entry>
         <entry>mockClient</entry>
         <entry>restMock</entry>
+        <entry>\u</entry>
       </history-search>
       <history-cmd>
-        <entry>149</entry>
         <entry>71</entry>
         <entry>..</entry>
         <entry>33</entry>
@@ -3439,6 +3445,7 @@
         <entry>53</entry>
         <entry>41</entry>
         <entry>w</entry>
+        <entry>/\u</entry>
       </history-cmd>
       <history-expr />
       <history-input />
