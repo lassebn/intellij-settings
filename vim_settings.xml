@@ -131,6 +131,12 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/src/main/resources/db/migration/V10__collectionProperties.sql" timestamp="1502967470911">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+      </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Handler.scala" timestamp="1500364794475">
         <mark key="[" line="40" column="58" />
         <mark key="]" line="40" column="59" />
@@ -774,8 +780,8 @@
       <jump line="174" column="24" filename="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageApi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgNDAwOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb246ICJQcm9wZXJ0eSB7cHJvcGVydHlOYW1lfSBub3QgZm91bmQgaW4gcmVxdWVzdCBib2R5ICh7cGFyc2VkQm9keX0pIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYm9keTogaW1hZ2VzRXJyb3JSZXNwb25zZQo=</text>
+      <register name="&quot;" type="4">
+        <text>imageid</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3398,7 +3404,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>image</text>
+        <text>imageid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
