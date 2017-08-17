@@ -161,11 +161,10 @@
         <mark key="." line="124" column="34" />
         <mark key="^" line="124" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageApi.scala" timestamp="1502969875070">
-        <mark key="'" line="228" column="0" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageApi.scala" timestamp="1502971128353">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
         <mark key="[" line="16" column="69" />
@@ -301,8 +300,11 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/ImagePropertiesRepository.scala" timestamp="1502958001879">
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/ImagePropertiesRepository.scala" timestamp="1502971042511">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/log4j.properties" timestamp="1500892305967">
         <mark key="[" line="1" column="24" />
@@ -637,10 +639,10 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/PropertyServices.scala" timestamp="1502961261218">
-        <mark key="[" line="64" column="28" />
-        <mark key="]" line="64" column="28" />
-        <mark key="^" line="64" column="28" />
-        <mark key="." line="64" column="28" />
+        <mark key="[" line="71" column="28" />
+        <mark key="]" line="71" column="28" />
+        <mark key="^" line="71" column="28" />
+        <mark key="." line="71" column="28" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/resources/logback.xml" timestamp="1494858242809">
         <mark key="[" line="0" column="14" />
@@ -792,7 +794,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0KENvbGxlY3Rpb25zKTogQXBpIHJvdXRlcyBhcyBpbiBkb2NzLiBWZXJzaW9uIGJ1bXAK</text>
+        <text encoding="base64">Pj4+Pj4+PiBBZGQgY29sbGVjdGlvbiBwcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3415,7 +3417,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>imageid</text>
+        <text encoding="base64">KSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -3424,34 +3426,34 @@
         <text>TODO tests with correct and documented errors</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0KENvbGxlY3Rpb25zKTogQXBpIHJvdXRlcyBhcyBpbiBkb2NzLiBWZXJzaW9uIGJ1bXAK</text>
+        <text encoding="base64">Pj4+Pj4+PiBBZGQgY29sbGVjdGlvbiBwcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgICAgcGF0aFByZWZpeCgiY29sbGVjdGlvbnMiKSB7IC8vIC92MS9pbWFnZXMvY29sbGVjdGlvbnMgVE9ETyB0ZXN0cyB3aXRoIGNvcnJlY3QgYW5kIGRvY3VtZW50ZWQgZXJyb3JzCj09PT09PT0K</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQogICAgdmVyc2lvbiA6PSAiMS4xOCIsCj4+Pj4+Pj4gZmVhdChDb2xsZWN0aW9ucyk6IEFwaSByb3V0ZXMgYXMgaW4gZG9jcy4gVmVyc2lvbiBidW1wCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBBZGQgY29sbGVjdGlvbiBwcm9wZXJ0aWVzCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQogIHZhciBjb2xsZWN0aW9uc1RhYmxlOiBDb2xsZWN0aW9uc1RhYmxlTWV0aG9kcyAgPSBfCj4+Pj4+Pj4gZmVhdChDb2xsZWN0aW9ucyk6IEZ1bGwgU3BlYyBpbiBhcGkucmFtbC4gVjkgbWlncmF0aW9uLiBDb2xsZWN0aW9ucyBpbXBsZW1lbnRlZCB3LyB0ZXN0cyAobm8gaXQ6dGVzdCkK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQpjbGFzcyBDb2xsZWN0aW9uc1RhYmxlU3BlY0ltcGwgQEluamVjdCgpKGM6IENvbmZpZ1ZhbHVlcykgZXh0ZW5kcyBDb2xsZWN0aW9uc1RhYmxlTWV0aG9kcyB3aXRoIE15U1FMREJJbXBsIHsKPj4+Pj4+PiBmZWF0KENvbGxlY3Rpb25zKTogRnVsbCBTcGVjIGluIGFwaS5yYW1sLiBWOSBtaWdyYXRpb24uIENvbGxlY3Rpb25zIGltcGxlbWVudGVkIHcvIHRlc3RzIChubyBpdDp0ZXN0KQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBHZW5lcmFsaXplIHRoZSBzZXJ2aWNlIGxheWVyIGZvciBwcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECnRyYWl0IEltYWdlUHJvcGVydGllc1JlcG9zaXRvcnkgZXh0ZW5kcyBJbWFnZVByb3BlcnRpZXNUYWJsZSB3aXRoIFN0cmljdExvZ2dpbmcgd2l0aCBTcGVjaWFsRXhlY3V0aW9uVGFjdGljcyB7Cj09PT09PT0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQppbXBvcnQgY29tLmxlb2lsYWIuaW1hZ2VzLm1vZGVsLntDb2xsZWN0aW9uQWxyZWFkeUV4aXN0c0V4Y2VwdGlvbiwgQ29sbGVjdGlvbnNUYWJsZU1ldGhvZHN9Cj4+Pj4+Pj4gZmVhdChDb2xsZWN0aW9ucyk6IEZ1bGwgU3BlYyBpbiBhcGkucmFtbC4gVjkgbWlncmF0aW9uLiBDb2xsZWN0aW9ucyBpbXBsZW1lbnRlZCB3LyB0ZXN0cyAobm8gaXQ6dGVzdCkK</text>
+        <text encoding="base64">Pj4+Pj4+PiBHZW5lcmFsaXplIHRoZSBzZXJ2aWNlIGxheWVyIGZvciBwcm9wZXJ0aWVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>5</text>
