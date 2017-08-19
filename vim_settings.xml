@@ -267,12 +267,12 @@
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/ExternalUser.scala" timestamp="1496997085620">
         <mark key="[" line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" timestamp="1503168308492">
+      <file name="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" timestamp="1503170294401">
         <mark key="'" line="67" column="16" />
-        <mark key="[" line="170" column="22" />
-        <mark key="]" line="170" column="22" />
-        <mark key="^" line="170" column="57" />
-        <mark key="." line="170" column="22" />
+        <mark key="[" line="72" column="88" />
+        <mark key="]" line="72" column="88" />
+        <mark key="^" line="72" column="88" />
+        <mark key="." line="72" column="88" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/project/assembly" timestamp="1500629010496">
         <mark key="[" line="0" column="0" />
@@ -330,12 +330,6 @@
         <mark key="]" line="4" column="20" />
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/ImagePropertiesRepository.scala" timestamp="1502979896404">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/log4j.properties" timestamp="1500892305967">
         <mark key="[" line="1" column="24" />
@@ -402,6 +396,9 @@
         <mark key="]" line="2" column="27" />
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1503168980402">
+        <mark key="[" line="52" column="28" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/access/CollectionAccessDirective.scala" timestamp="1503048650120">
         <mark key="[" line="20" column="0" />
@@ -555,11 +552,11 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/CollectionPropertiesApiIntegrationTest.scala" timestamp="1503168009137">
-        <mark key="[" line="55" column="77" />
-        <mark key="]" line="55" column="89" />
-        <mark key="." line="55" column="89" />
-        <mark key="^" line="55" column="89" />
+      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/CollectionPropertiesApiIntegrationTest.scala" timestamp="1503169899461">
+        <mark key="[" line="65" column="39" />
+        <mark key="]" line="65" column="40" />
+        <mark key="^" line="65" column="60" />
+        <mark key="." line="65" column="40" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiCollectionPropertiesFuncSpec.scala" timestamp="1503060306496">
         <mark key="[" line="297" column="84" />
@@ -844,7 +841,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>Forbidden</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3467,7 +3464,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Forbidden</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -3476,34 +3473,34 @@
         <text encoding="base64">ICAgICAgICAgIC8vVG9kbyBpbXBsZW1lbnQgZnVuY3Rpb25hbGl0eSBhbmQgdGVzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgQ29sbGVjdGlvbk5vdEZvdW5kRXhjZXB0aW9uKGludmFsaWRJZDogQ29sbGVjdGlvbklkKSBleHRlbmRzIFJ1bnRpbWVFeGNlcHRpb24ocyJDb2xsZWN0aW9uSWQgJyR7aW52YWxpZElkfScgY291bGQgbm90IGJlIGZvdW5kLiIpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBnZXRQcm9wZXJ0aWVzUmVzcG9uc2UgPSBuZXdVc2VyQXV0aFBpcGVsaW5lKEdldChwcm9wZXJ0aWVzVXJsKSkuZnV0dXJlVmFsdWUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmliZSgiR0VUIikgewogICAgICAgICAgaXQoInNob3VsZCByZXR1cm4gMjAwIE9LIHdoZW4gZ2V0dGluZyBpZHMgb2YgaW1hZ2VzIGluIGEgY29sbGVjdGlvbiIpIHsKICAgICAgICAgICAgLy9Ub2RvIGltcGxlbWVudCBmdW5jdGlvbmFsaXR5IGFuZCB0ZXN0CiAgICAgICAgICB9CiAgICAgICAgICBpdCgic2hvdWxkIHJldHVybiA0MDMgd2hlbiB0cnlpbmcgdG8gYWNjZXNzIGEgY29sbGVjdGlvbiBub3cgb3duZWQgYnkgdGhlIHVzZXIiKQogICAgICAgIH0KICAgICAgICBkZXNjcmliZSgiUE9TVCIpIHsKICAgICAgICAgIC8vVG9kbyBpbXBsZW1lbnQgZnVuY3Rpb25hbGl0eSBhbmQgdGVzdAogICAgICAgIH0KICAgICAgICBkZXNjcmliZSgiREVMRVRFIikgewogICAgICAgICAgLy9Ub2RvIGltcGxlbWVudCBmdW5jdGlvbmFsaXR5IGFuZCB0ZXN0CiAgICAgICAgfQogICAgICAgIGRlc2NyaWJlKCJvbiAve2ltYWdlSWR9IikgewogICAgICAgICAgZGVzY3JpYmUoIkRFTEVURSIpIHsKCiAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgdmFsIGdldFByb3BlcnRpZXNNYXAgPSBnZXRQcm9wZXJ0aWVzUmVzcG9uc2Ugfj4gdW5tYXJzaGFsW01hcFtTdHJpbmcsU3RyaW5nXV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgZ2V0UHJvcGVydGllc1Jlc3BvbnNlLnN0YXR1cyBtdXN0QmUgU3RhdHVzQ29kZXMuT0sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIGdldFByb3BlcnRpZXNSZXNwb25zZSA9IGF1dGhQaXBlbGluZShHZXQocHJvcGVydGllc1VybCkpLmZ1dHVyZVZhbHVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgQ29sbGVjdGlvbk5vdEZvdW5kRXhjZXB0aW9uKGludmFsaWRJZDogQ29sbGVjdGlvbklkKSBleHRlbmRzIFJ1bnRpbWVFeGNlcHRpb24ocyJDb2xsZWN0aW9uSWQgJyR7aW52YWxpZElkfScgY291bGQgbm90IGJlIGZvdW5kLiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmliZSgiR0VUIikgewogICAgICAgICAgaXQoInNob3VsZCByZXR1cm4gMjAwIE9LIHdoZW4gZ2V0dGluZyBpZHMgb2YgaW1hZ2VzIGluIGEgY29sbGVjdGlvbiIpIHsKICAgICAgICAgICAgLy9Ub2RvIGltcGxlbWVudCBmdW5jdGlvbmFsaXR5IGFuZCB0ZXN0CiAgICAgICAgICB9CiAgICAgICAgICBpdCgic2hvdWxkIHJldHVybiA0MDMgd2hlbiB0cnlpbmcgdG8gYWNjZXNzIGEgY29sbGVjdGlvbiBub3cgb3duZWQgYnkgdGhlIHVzZXIiKQogICAgICAgIH0KICAgICAgICBkZXNjcmliZSgiUE9TVCIpIHsKICAgICAgICAgIC8vVG9kbyBpbXBsZW1lbnQgZnVuY3Rpb25hbGl0eSBhbmQgdGVzdAogICAgICAgIH0KICAgICAgICBkZXNjcmliZSgiREVMRVRFIikgewogICAgICAgICAgLy9Ub2RvIGltcGxlbWVudCBmdW5jdGlvbmFsaXR5IGFuZCB0ZXN0CiAgICAgICAgfQogICAgICAgIGRlc2NyaWJlKCJvbiAve2ltYWdlSWR9IikgewogICAgICAgICAgZGVzY3JpYmUoIkRFTEVURSIpIHsKCiAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWwgYWNjZXB0R2V0dGluZ0ltYWdlc0luQ29sbGVjdGlvbiA9IHsgKCkgPT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdoZW4oY29sbGVjdGlvbnNTZXJ2aWNlLikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>5</text>
