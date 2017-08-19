@@ -267,12 +267,12 @@
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/ExternalUser.scala" timestamp="1496997085620">
         <mark key="[" line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" timestamp="1503062496669">
+      <file name="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" timestamp="1503168308492">
         <mark key="'" line="67" column="16" />
-        <mark key="[" line="170" column="51" />
-        <mark key="]" line="170" column="57" />
+        <mark key="[" line="170" column="22" />
+        <mark key="]" line="170" column="22" />
         <mark key="^" line="170" column="57" />
-        <mark key="." line="170" column="57" />
+        <mark key="." line="170" column="22" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/project/assembly" timestamp="1500629010496">
         <mark key="[" line="0" column="0" />
@@ -555,11 +555,11 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/CollectionPropertiesApiIntegrationTest.scala" timestamp="1503062658247">
-        <mark key="[" line="46" column="18" />
-        <mark key="]" line="46" column="59" />
-        <mark key="." line="46" column="59" />
-        <mark key="^" line="46" column="59" />
+      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/CollectionPropertiesApiIntegrationTest.scala" timestamp="1503168009137">
+        <mark key="[" line="55" column="77" />
+        <mark key="]" line="55" column="89" />
+        <mark key="." line="55" column="89" />
+        <mark key="^" line="55" column="89" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiCollectionPropertiesFuncSpec.scala" timestamp="1503060306496">
         <mark key="[" line="297" column="84" />
@@ -638,7 +638,7 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1502968475256">
+      <file name="/dummy.sql" timestamp="1503168160501">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/build.sbt" timestamp="1500884338797">
@@ -844,7 +844,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HttpMethods</text>
+        <text>/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3467,7 +3467,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HttpMethods</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
