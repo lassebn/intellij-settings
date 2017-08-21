@@ -243,11 +243,11 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientCollectionPropertiesIntegrationTest.scala" timestamp="1503300481742">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="25" />
-        <mark key="." line="7" column="25" />
-        <mark key="^" line="7" column="25" />
+      <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientCollectionPropertiesIntegrationTest.scala" timestamp="1503303435265">
+        <mark key="[" line="153" column="72" />
+        <mark key="]" line="153" column="92" />
+        <mark key="." line="153" column="92" />
+        <mark key="^" line="153" column="92" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/JsonProtocolSpec.scala" timestamp="1496224504096">
         <mark key="[" line="19" column="44" />
@@ -343,7 +343,7 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1503297678905" />
+      <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1503302358607" />
       <file name="$USER_HOME$/Source/datawarehouse-ades/README.md" timestamp="1500989023233">
         <mark key="[" line="40" column="3" />
         <mark key="]" line="40" column="3" />
@@ -572,7 +572,6 @@
       <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/CollectionPropertiesApiIntegrationTest.scala" timestamp="1503298690582">
         <mark key="[" line="6" column="22" />
         <mark key="]" line="6" column="22" />
-        <mark key="^" line="98" column="102" />
         <mark key="." line="6" column="22" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiCollectionPropertiesFuncSpec.scala" timestamp="1503060306496">
@@ -856,8 +855,8 @@
       <jump line="67" column="16" filename="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFjY2Vzc1Rva2VuID0gQWNjZXNzVG9rZW4ob3RoZXJVc2VyQWNjZXNzVG9rZW5TdHJpbmcpCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3480,7 +3479,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -3489,34 +3488,34 @@
         <text>UnauthorizedAccessToCollectionException</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbXBvcnQgYWtrYS5odHRwLnNjYWxhZHNsLmNsaWVudC5UcmFuc2Zvcm1lclBpcGVsaW5lU3VwcG9ydC5XaXRoVHJhbnNmb3JtZXJDb25jYXRlbmF0aW9uCg==</text>
+        <text encoding="base64">ICAgIGFjY2Vzc1Rva2VuID0gQWNjZXNzVG9rZW4ob3RoZXJVc2VyQWNjZXNzVG9rZW5TdHJpbmcpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgc3ByYXkuanNvbi5EZWZhdWx0SnNvblByb3RvY29sLl8K</text>
+        <text encoding="base64">ICAgIGFjY2Vzc1Rva2VuID0gQWNjZXNzVG9rZW4ob3RoZXJVc2VyQWNjZXNzVG9rZW5TdHJpbmcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNwcmF5Lmpzb24uXwo=</text>
+        <text encoding="base64">ICAgIGFjY2Vzc1Rva2VuID0gQWNjZXNzVG9rZW4ob3RoZXJVc2VyQWNjZXNzVG9rZW5TdHJpbmcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFjY2Vzc1Rva2VuID0gQWNjZXNzVG9rZW4ob3RoZXJVc2VyQWNjZXNzVG9rZW5TdHJpbmcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNwcmF5Lmh0dHAuXwo=</text>
+        <text encoding="base64">ICBpbXBvcnQgYWtrYS5odHRwLnNjYWxhZHNsLmNsaWVudC5UcmFuc2Zvcm1lclBpcGVsaW5lU3VwcG9ydC5XaXRoVHJhbnNmb3JtZXJDb25jYXRlbmF0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgc3ByYXkuanNvbi5EZWZhdWx0SnNvblByb3RvY29sLl8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IHNwcmF5Lmpzb24uXwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltYWdlc0NsaWVudC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNwcmF5Lmh0dHAuXwo=</text>
       </register>
       <register name=":" type="4">
         <text>5</text>
