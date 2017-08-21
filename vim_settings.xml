@@ -14,6 +14,9 @@
       <file name="/a.dummy" timestamp="1499936920460">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/HttpMethods.scala" timestamp="1503306048642">
+        <mark key="[" line="74" column="3" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/GenericPropertyRepository.scala" timestamp="1502979945998">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -273,12 +276,12 @@
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/ExternalUser.scala" timestamp="1496997085620">
         <mark key="[" line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" timestamp="1503297186791">
+      <file name="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" timestamp="1503305937455">
         <mark key="'" line="67" column="16" />
-        <mark key="[" line="185" column="20" />
-        <mark key="]" line="185" column="33" />
-        <mark key="^" line="185" column="33" />
-        <mark key="." line="185" column="33" />
+        <mark key="[" line="226" column="93" />
+        <mark key="]" line="226" column="93" />
+        <mark key="^" line="226" column="93" />
+        <mark key="." line="226" column="93" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/project/assembly" timestamp="1500629010496">
         <mark key="[" line="0" column="0" />
@@ -665,7 +668,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503298340227">
+      <file name="/Dummy.txt" timestamp="1503304827936">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1494231449884">
@@ -855,8 +858,8 @@
       <jump line="67" column="16" filename="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFjY2Vzc1Rva2VuID0gQWNjZXNzVG9rZW4ob3RoZXJVc2VyQWNjZXNzVG9rZW5TdHJpbmcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>collectionId</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3479,13 +3482,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>collectionId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>UnauthorizedAccessToCollectionException</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZWYgY29sbGVjdGlvblJlc3BvbnNlSGFuZGxlcltUXShzdWNjZXNzOiBQYXJ0aWFsRnVuY3Rpb25bU3RhdHVzQ29kZSwgVF0sIGNvbGxlY3Rpb25JZDogQ29sbGVjdGlvbklkKTogUGFydGlhbEZ1bmN0aW9uW0h0dHBSZXNwb25zZSwgVF0gPSB7CiAgICBjYXNlIHJlc3BvbnNlOiBIdHRwUmVzcG9uc2UgPT4gbWFpblJlc3BvbnNlSGFuZGxlcihzdWNjZXNzLCBuZXcgQ29sbGVjdGlvbk5vdEZvdW5kRXhjZXB0aW9uKGNvbGxlY3Rpb25JZCksIG5ldyBVbmF1dGhvcml6ZWRBY2Nlc3NUb0NvbGxlY3Rpb25FeGNlcHRpb24oY29sbGVjdGlvbklkKSkocmVzcG9uc2UpCiAgICBjYXNlIF8gPT4gdGhyb3cgbmV3IFJlc3BvbnNlSGFuZGxlckV4Y2VwdGlvbgogIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFjY2Vzc1Rva2VuID0gQWNjZXNzVG9rZW4ob3RoZXJVc2VyQWNjZXNzVG9rZW5TdHJpbmcpCg==</text>
