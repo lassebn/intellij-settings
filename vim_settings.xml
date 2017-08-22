@@ -14,14 +14,8 @@
       <file name="/a.dummy" timestamp="1499936920460">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/HttpMethods.scala" timestamp="1503385695543">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="78" column="5" />
-        <mark key="." line="77" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/GenericPropertyRepository.scala" timestamp="1502979945998">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/GenericPropertyRepository.scala" timestamp="1503386765239">
+        <mark key="[" line="14" column="6" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="12" column="97" />
         <mark key="." line="7" column="0" />
@@ -249,11 +243,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientCollectionPropertiesIntegrationTest.scala" timestamp="1503303435265">
-        <mark key="[" line="153" column="72" />
-        <mark key="]" line="153" column="92" />
-        <mark key="." line="153" column="92" />
-        <mark key="^" line="153" column="92" />
+      <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientCollectionPropertiesIntegrationTest.scala" timestamp="1503386700655">
+        <mark key="[" line="138" column="17" />
+        <mark key="]" line="138" column="19" />
+        <mark key="." line="138" column="19" />
+        <mark key="^" line="138" column="19" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/JsonProtocolSpec.scala" timestamp="1496224504096">
         <mark key="[" line="19" column="44" />
@@ -279,21 +273,21 @@
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/ExternalUser.scala" timestamp="1496997085620">
         <mark key="[" line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" timestamp="1503312806124">
+      <file name="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" timestamp="1503386606077">
         <mark key="'" line="67" column="16" />
-        <mark key="[" line="228" column="92" />
-        <mark key="]" line="228" column="91" />
-        <mark key="^" line="228" column="91" />
-        <mark key="." line="228" column="91" />
+        <mark key="[" line="197" column="6" />
+        <mark key="]" line="197" column="8" />
+        <mark key="." line="197" column="8" />
+        <mark key="^" line="197" column="8" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/project/assembly" timestamp="1500629010496">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/CollectionPropertiesRepositorySpec.scala" timestamp="1503052843078">
-        <mark key="[" line="93" column="94" />
-        <mark key="]" line="93" column="103" />
+      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/CollectionPropertiesRepositorySpec.scala" timestamp="1503386857595">
+        <mark key="[" line="104" column="7" />
+        <mark key="]" line="104" column="7" />
         <mark key="^" line="93" column="103" />
-        <mark key="." line="93" column="103" />
+        <mark key="." line="104" column="7" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/circle.yml" timestamp="1496835070851">
         <mark key="[" line="32" column="31" />
@@ -343,6 +337,7 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/ImagePropertiesRepository.scala" timestamp="1503388004163" />
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/log4j.properties" timestamp="1500892305967">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="22" />
@@ -350,11 +345,7 @@
         <mark key="." line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1503384981028">
-        <mark key="'" line="300" column="0" />
         <mark key="[" line="24" column="26" />
-        <mark key="]" line="25" column="1" />
-        <mark key="^" line="25" column="1" />
-        <mark key="." line="25" column="1" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/README.md" timestamp="1500989023233">
         <mark key="[" line="40" column="3" />
@@ -449,7 +440,7 @@
         <mark key="." line="5" column="40" />
         <mark key="^" line="5" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/CollectionPropertiesRepository.scala" timestamp="1503056716050">
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/CollectionPropertiesRepository.scala" timestamp="1503387989723">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -678,7 +669,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503318556283">
+      <file name="/Dummy.txt" timestamp="1503388030343">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1494231449884">
@@ -713,11 +704,11 @@
         <mark key="^" line="11" column="14" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/PropertyServices.scala" timestamp="1502974823688">
-        <mark key="[" line="32" column="43" />
-        <mark key="]" line="33" column="30" />
-        <mark key="^" line="33" column="30" />
-        <mark key="." line="33" column="30" />
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/PropertyServices.scala" timestamp="1503388137499">
+        <mark key="[" line="25" column="51" />
+        <mark key="]" line="25" column="25" />
+        <mark key="^" line="25" column="25" />
+        <mark key="." line="25" column="25" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/resources/logback.xml" timestamp="1494858242809">
         <mark key="[" line="0" column="14" />
@@ -869,8 +860,8 @@
       <jump line="301" column="0" filename="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBlbmRwb2ludCA9IHMiJGltYWdlc1VybC8kcmVzb3VyY2UiCg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3493,7 +3484,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwNmM4YzdiYS0wODE5LTQyMmItOWI5OS0zMjlmYzI0ZjU4MjYiLCJjbGllbnRJZCI6ImltYWdlcyJ9.AbHVEHGtQY1Zcjzb7R-Qh8EzLZGU9EZcjRh6ETu5CIE</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
