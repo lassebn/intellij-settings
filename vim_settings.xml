@@ -68,7 +68,7 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="/Dummy.scala" timestamp="1502812043649">
+      <file name="/Dummy.scala" timestamp="1503405737987">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/GenericPropertiesService.scala" timestamp="1503399842065">
@@ -290,7 +290,7 @@
         <mark key="." line="40" column="95" />
         <mark key="^" line="40" column="95" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" timestamp="1503398900974">
+      <file name="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" timestamp="1503406081646">
         <mark key="'" line="197" column="8" />
         <mark key="[" line="72" column="133" />
         <mark key="]" line="72" column="173" />
@@ -366,11 +366,11 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1503399065249">
-        <mark key="[" line="289" column="22" />
-        <mark key="]" line="289" column="57" />
-        <mark key="^" line="289" column="57" />
-        <mark key="." line="289" column="57" />
+      <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1503405853381">
+        <mark key="[" line="28" column="36" />
+        <mark key="]" line="28" column="307" />
+        <mark key="^" line="28" column="307" />
+        <mark key="." line="28" column="307" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/README.md" timestamp="1500989023233">
         <mark key="[" line="40" column="3" />
@@ -642,7 +642,7 @@
         <mark key="^" line="132" column="77" />
         <mark key="." line="132" column="77" />
       </file>
-      <file name="/sbtShell" timestamp="1500540252729">
+      <file name="/sbtShell" timestamp="1503404542377">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingEC2InstanceTerminationMessage.scala" timestamp="1494492598248">
@@ -872,8 +872,8 @@
       <jump line="197" column="8" filename="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwNmM4YzdiYS0wODE5LTQyMmItOWI5OS0zMjlmYzI0ZjU4MjYiLCJjbGllbnRJZCI6ImltYWdlcyJ9.AbHVEHGtQY1Zcjzb7R-Qh8EzLZGU9EZcjRh6ETu5CIE</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3496,7 +3496,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>imagePropertiesRepository</text>
+        <text>eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwNmM4YzdiYS0wODE5LTQyMmItOWI5OS0zMjlmYzI0ZjU4MjYiLCJjbGllbnRJZCI6ImltYWdlcyJ9.AbHVEHGtQY1Zcjzb7R-Qh8EzLZGU9EZcjRh6ETu5CIE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -3535,7 +3535,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnJlc3QuQXBpRXJyb3IK</text>
       </register>
       <register name=":" type="4">
-        <text>22</text>
+        <text>118</text>
       </register>
     </registers>
     <search>
@@ -3559,7 +3559,6 @@
         <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>58</entry>
         <entry>59</entry>
         <entry>111</entry>
         <entry>314</entry>
@@ -3579,6 +3578,7 @@
         <entry>64</entry>
         <entry>97</entry>
         <entry>22</entry>
+        <entry>118</entry>
       </history-cmd>
       <history-expr />
       <history-input />
