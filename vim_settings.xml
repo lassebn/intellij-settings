@@ -167,7 +167,12 @@
         <mark key="^" line="13" column="106" />
         <mark key="." line="13" column="106" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503399084100" />
+      <file name="$USER_HOME$/Source/platform-images/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503487992585">
+        <mark key="[" line="37" column="81" />
+        <mark key="]" line="37" column="83" />
+        <mark key="^" line="37" column="83" />
+        <mark key="." line="37" column="83" />
+      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/project/TestHelper.scala" timestamp="1498551365792">
         <mark key="[" line="124" column="27" />
         <mark key="]" line="124" column="34" />
@@ -290,12 +295,6 @@
         <mark key="." line="40" column="95" />
         <mark key="^" line="40" column="95" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" timestamp="1503412618319">
-        <mark key="[" line="35" column="30" />
-        <mark key="]" line="35" column="49" />
-        <mark key="." line="35" column="49" />
-        <mark key="^" line="35" column="49" />
-      </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/project/assembly" timestamp="1500629010496">
         <mark key="[" line="0" column="0" />
       </file>
@@ -365,11 +364,11 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1503412827796">
-        <mark key="[" line="40" column="60" />
-        <mark key="]" line="40" column="52" />
-        <mark key="." line="40" column="52" />
-        <mark key="^" line="40" column="52" />
+      <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1503486879920">
+        <mark key="[" line="40" column="59" />
+        <mark key="]" line="40" column="64" />
+        <mark key="." line="40" column="64" />
+        <mark key="^" line="40" column="64" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/README.md" timestamp="1500989023233">
         <mark key="[" line="40" column="3" />
@@ -413,11 +412,11 @@
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/project/Build.scala" timestamp="1503318577223">
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="28" column="19" />
-        <mark key="^" line="28" column="19" />
-        <mark key="." line="28" column="19" />
+      <file name="$USER_HOME$/Source/platform-images/project/Build.scala" timestamp="1503487779798">
+        <mark key="[" line="74" column="53" />
+        <mark key="]" line="74" column="53" />
+        <mark key="^" line="74" column="51" />
+        <mark key="." line="74" column="53" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" timestamp="1499781958249">
         <mark key="[" line="43" column="0" />
@@ -746,6 +745,7 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1503486813191" />
       <file name="$USER_HOME$/Source/klikkit-backend/project/project/plugins.sbt" timestamp="1502719203348">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="66" />
@@ -872,7 +872,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>gif</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3495,7 +3495,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>gif</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -3534,7 +3534,7 @@
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
-        <text>118</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -3558,7 +3558,6 @@
         <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>59</entry>
         <entry>111</entry>
         <entry>314</entry>
         <entry>60</entry>
@@ -3578,6 +3577,7 @@
         <entry>97</entry>
         <entry>22</entry>
         <entry>118</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
