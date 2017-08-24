@@ -418,10 +418,10 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/images3/docker-compose.yml" timestamp="1503570307785">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="66" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Source/images3/docker-compose.yml" timestamp="1503571716286">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="58" />
+        <mark key="." line="4" column="13" />
         <mark key="^" line="6" column="38" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1503486879920">
@@ -555,6 +555,9 @@
         <mark key="]" line="2" column="42" />
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
+      </file>
+      <file name="$USER_HOME$/Source/images3/client/project/README.md" timestamp="1503572306361">
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/batch_crafting_from_query.py" timestamp="1499780839271">
         <mark key="[" line="41" column="31" />
@@ -776,7 +779,7 @@
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503565057690">
+      <file name="/Dummy.txt" timestamp="1503572866037">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1494231449884">
@@ -788,11 +791,11 @@
         <mark key="^" line="68" column="184" />
         <mark key="." line="68" column="184" />
       </file>
-      <file name="$USER_HOME$/Source/images3/project/Build.scala" timestamp="1503563189978">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="38" />
-        <mark key="." line="8" column="38" />
-        <mark key="^" line="8" column="38" />
+      <file name="$USER_HOME$/Source/images3/project/Build.scala" timestamp="1503572148084">
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+        <mark key="^" line="28" column="19" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/raml/api.raml" timestamp="1503401956680">
         <mark key="[" line="271" column="81" />
@@ -978,8 +981,8 @@
       <jump line="66" column="0" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gTUVNQkVSU0hJUFNfVVJMPWh0dHA6Ly9tZW1iZXJzaGlwczo5MDk0L3YxL21lbWJlcnNoaXBzCg==</text>
+      <register name="&quot;" type="4">
+        <text>085816956471.dkr.ecr.eu-west-1.amazonaws.com/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3607,8 +3610,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gTUVNQkVSU0hJUFNfVVJMPWh0dHA6Ly9tZW1iZXJzaGlwczo5MDk0L3YxL21lbWJlcnNoaXBzCg==</text>
+      <register name="0" type="4">
+        <text>085816956471.dkr.ecr.eu-west-1.amazonaws.com/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB2YWwgb3RoZXJVc2VyQWNjZXNzVG9rZW5TdHJpbmcgPSAiZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SjFjMlZ5U1dRaU9pSXdObU00WXpkaVlTMHdPREU1TFRReU1tSXRPV0k1T1Mwek1qbG1ZekkwWmpVNE1qWWlMQ0pqYkdsbGJuUkpaQ0k2SW1sdFlXZGxjeUo5LkFiSFZFSEd0UVkxWmNqemI3Ui1RaDhFekxaR1U5RVpjalJoNkVUdTVDSUUiCg==</text>
