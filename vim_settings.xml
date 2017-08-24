@@ -3636,7 +3636,7 @@
         <text encoding="base64">ICAgIGFjY2Vzc1Rva2VuID0gZ2VuZXJhdGVUZXN0QWNjZXNzVG9rZW4K</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>294</text>
       </register>
     </registers>
     <search>
@@ -3660,8 +3660,6 @@
         <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>111</entry>
-        <entry>314</entry>
         <entry>60</entry>
         <entry>48</entry>
         <entry>8</entry>
@@ -3680,6 +3678,8 @@
         <entry>22</entry>
         <entry>118</entry>
         <entry>wq</entry>
+        <entry>194</entry>
+        <entry>294</entry>
       </history-cmd>
       <history-expr />
       <history-input />
