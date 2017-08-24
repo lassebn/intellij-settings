@@ -418,10 +418,11 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/images3/docker-compose.yml" timestamp="1503566619453">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
+      <file name="$USER_HOME$/Source/images3/docker-compose.yml" timestamp="1503570307785">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="66" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="6" column="38" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1503486879920">
         <mark key="[" line="40" column="59" />
@@ -977,8 +978,8 @@
       <jump line="66" column="0" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIC0gTUVNQkVSU0hJUFNfVVJMPWh0dHA6Ly9tZW1iZXJzaGlwczo5MDk0L3YxL21lbWJlcnNoaXBzCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3601,13 +3602,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICJjb20udHlwZXNhZmUuYWtrYSIgICAgICAgICAgICAgJSUgICJha2thLXRlc3RraXQiICAgICAgICAgICAgICAlIGFra2FWLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gTUVNQkVSU0hJUFNfVVJMPWh0dHA6Ly9tZW1iZXJzaGlwczo5MDk0L3YxL21lbWJlcnNoaXBzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB2YWwgb3RoZXJVc2VyQWNjZXNzVG9rZW5TdHJpbmcgPSAiZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SjFjMlZ5U1dRaU9pSXdObU00WXpkaVlTMHdPREU1TFRReU1tSXRPV0k1T1Mwek1qbG1ZekkwWmpVNE1qWWlMQ0pqYkdsbGJuUkpaQ0k2SW1sdFlXZGxjeUo5LkFiSFZFSEd0UVkxWmNqemI3Ui1RaDhFekxaR1U5RVpjalJoNkVUdTVDSUUiCg==</text>
@@ -3640,7 +3641,7 @@
         <text encoding="base64">ICAgIGFjY2Vzc1Rva2VuID0gZ2VuZXJhdGVUZXN0QWNjZXNzVG9rZW4K</text>
       </register>
       <register name=":" type="4">
-        <text>294</text>
+        <text>39</text>
       </register>
     </registers>
     <search>
@@ -3664,7 +3665,6 @@
         <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>60</entry>
         <entry>48</entry>
         <entry>8</entry>
         <entry>53</entry>
@@ -3684,6 +3684,7 @@
         <entry>wq</entry>
         <entry>194</entry>
         <entry>294</entry>
+        <entry>39</entry>
       </history-cmd>
       <history-expr />
       <history-input />
