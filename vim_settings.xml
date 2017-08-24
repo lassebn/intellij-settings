@@ -126,6 +126,11 @@
         <mark key="^" line="57" column="69" />
         <mark key="." line="57" column="69" />
       </file>
+      <file name="$USER_HOME$/Source/images3/src/main/resources/application.conf" timestamp="1503586938502">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyUserRepository.scala" timestamp="1497244834588">
         <mark key="[" line="39" column="53" />
         <mark key="]" line="39" column="67" />
@@ -162,11 +167,10 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/application.conf" timestamp="1503582213654">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="27" />
-        <mark key="^" line="13" column="27" />
-        <mark key="." line="13" column="27" />
+      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/application.conf" timestamp="1503586709704">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
@@ -228,6 +232,12 @@
         <mark key="]" line="158" column="109" />
         <mark key="." line="158" column="109" />
         <mark key="^" line="158" column="109" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/reference.conf" timestamp="1503586716831">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
         <mark key="[" line="16" column="69" />
@@ -438,15 +448,15 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/images3/src/it/scala/com/leoilab/images/ImageApiIntegrationTest.scala" timestamp="1503582059332">
-        <mark key="[" line="100" column="81" />
-        <mark key="]" line="100" column="80" />
-        <mark key="^" line="100" column="80" />
-        <mark key="." line="100" column="80" />
+      <file name="$USER_HOME$/Source/images3/src/it/scala/com/leoilab/images/ImageApiIntegrationTest.scala" timestamp="1503586084757">
+        <mark key="[" line="152" column="49" />
+        <mark key="]" line="152" column="49" />
+        <mark key="^" line="152" column="49" />
+        <mark key="." line="152" column="49" />
       </file>
-      <file name="$USER_HOME$/Source/images3/docker-compose.yml" timestamp="1503582334840">
+      <file name="$USER_HOME$/Source/images3/docker-compose.yml" timestamp="1503585605857">
         <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="13" />
+        <mark key="]" line="4" column="58" />
         <mark key="." line="4" column="13" />
         <mark key="^" line="6" column="38" />
       </file>
@@ -1015,8 +1025,8 @@
       <jump line="98" column="71" filename="$USER_HOME$/Source/images3/project/Build.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>085816956471.dkr.ecr.eu-west-1.amazonaws.com/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly9zcHJheS5jYW4uY2xpZW50LnBhcnNpbmcubWF4LWNvbnRlbnQtbGVuZ3RoID0gIjUwTSIK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3639,43 +3649,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>085816956471.dkr.ecr.eu-west-1.amazonaws.com/</text>
+        <text>server</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>085816956471.dkr.ecr.eu-west-1.amazonaws.com/</text>
+      <register name="0" type="2">
+        <text encoding="base64">c3ByYXkgewogIGNhbiB7CiAgICBzZXJ2ZXIgewogICAgICByZW1vdGUtYWRkcmVzcy1oZWFkZXIgPSBvbgogICAgICByYXctcmVxdWVzdC11cmktaGVhZGVyID0gb24KICAgICAgcGFyc2luZy5tYXgtY29udGVudC1sZW5ndGggPSAiNTBNIgogICAgICBzZXJ2ZXItaGVhZGVyID0gIiIKICAgIH0KICAgIGNsaWVudCB7CiAgICAgIHBhcnNpbmcubWF4LWNvbnRlbnQtbGVuZ3RoID0gIjUwTSIKICAgICAgcmVxdWVzdC10aW1lb3V0ID0gIjYwcyIKICAgICAgcmVzcG9uc2UtY2h1bmstYWdncmVnYXRpb24tbGltaXQgPSA1bQogICAgfQogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9zcHJheS5jYW4uY2xpZW50LnBhcnNpbmcubWF4LWNvbnRlbnQtbGVuZ3RoID0gIjUwTSIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYWtrYVYgPSAiMi40LjQiCiAgICAgICAgdmFsIHNwcmF5ViA9ICIxLjMuMyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWwgb3RoZXJVc2VyQWNjZXNzVG9rZW5TdHJpbmcgPSAiZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SjFjMlZ5U1dRaU9pSXdObU00WXpkaVlTMHdPREU1TFRReU1tSXRPV0k1T1Mwek1qbG1ZekkwWmpVNE1qWWlMQ0pqYkdsbGJuUkpaQ0k2SW1sdFlXZGxjeUo5LkFiSFZFSEd0UVkxWmNqemI3Ui1RaDhFekxaR1U5RVpjalJoNkVUdTVDSUUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgdXNlckFjY2Vzc1Rva2VuU3RyaW5nID0gImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUoxYzJWeVNXUWlPaUl3Tm1NNFl6ZGlZUzB3T0RFNUxUUXlNbUl0T1dJNU9DMHhNRGxtWXpJMFl6VTRNallpTENKamJHbGxiblJKWkNJNkltbHVkRzkxWTJnaWZRLlVHYzFDaTlwUFVHaE11Mnc1Q2gxRDFzekJ5bHNJTWVCdjM1RDJaMXdQNEUiCg==</text>
+        <text encoding="base64">ICBodHRwIHsKICAgIHBhcnNpbmcgewogICAgICBtYXgtY29udGVudC1sZW5ndGggPSA1MG0KICAgIH0KICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWtrYVYgPSAiMi40LjQiCiAgICAgICAgdmFsIHNwcmF5ViA9ICIxLjMuMyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiZXJyb3IiKQo=</text>
+        <text encoding="base64">ICB2YWwgb3RoZXJVc2VyQWNjZXNzVG9rZW5TdHJpbmcgPSAiZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SjFjMlZ5U1dRaU9pSXdObU00WXpkaVlTMHdPREU1TFRReU1tSXRPV0k1T1Mwek1qbG1ZekkwWmpVNE1qWWlMQ0pqYkdsbGJuUkpaQ0k2SW1sdFlXZGxjeUo5LkFiSFZFSEd0UVkxWmNqemI3Ui1RaDhFekxaR1U5RVpjalJoNkVUdTVDSUUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgZTogVGhyb3dhYmxlID0+Cg==</text>
+        <text encoding="base64">ICB2YWwgdXNlckFjY2Vzc1Rva2VuU3RyaW5nID0gImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUoxYzJWeVNXUWlPaUl3Tm1NNFl6ZGlZUzB3T0RFNUxUUXlNbUl0T1dJNU9DMHhNRGxtWXpJMFl6VTRNallpTENKamJHbGxiblJKWkNJNkltbHVkRzkxWTJnaWZRLlVHYzFDaTlwUFVHaE11Mnc1Q2gxRDFzekJ5bHNJTWVCdjM1RDJaMXdQNEUiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gIHZhbCBvdGhlclVzZXJBY2Nlc3NUb2tlblN0cmluZyA9ICJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKcGMwRmtiV2x1SWpwbVlXeHpaU3dpWTJ4cFpXNTBTV1FpT2lKemRIVmthV1Z6WVc1a2JXVWlMQ0psZUhCcGNtVnpTVzRpT2lJMk1EQWlMQ0pwYzNOMVpXUkJkQ0k2SWpJd01UY3RNRGd0TWpKVU1USTZNelU2TVRSYUlpd2lkWE5sY2tsa0lqb2lOR0poTjJVeE5tRXROamhoTXkwME5UUTRMVGc1T0RVdFptWmhNbVE0TldNelltVmhJbjAuZDhhVWRyb3IzTF95YVlXaEZZSGs4dmVjUkxybnJ0SU9OY1JUNmNoWDFJQSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
