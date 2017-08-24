@@ -438,9 +438,9 @@
         <mark key="^" line="154" column="24" />
         <mark key="." line="154" column="24" />
       </file>
-      <file name="$USER_HOME$/Source/images3/docker-compose.yml" timestamp="1503571716286">
+      <file name="$USER_HOME$/Source/images3/docker-compose.yml" timestamp="1503577301898">
         <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="58" />
+        <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="13" />
         <mark key="^" line="6" column="38" />
       </file>
@@ -1007,8 +1007,8 @@
       <jump line="66" column="0" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>085816956471.dkr.ecr.eu-west-1.amazonaws./</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3631,7 +3631,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>jpgWithFullExif</text>
+        <text>085816956471.dkr.ecr.eu-west-1.amazonaws./</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
