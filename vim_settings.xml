@@ -753,7 +753,7 @@
         <mark key="^" line="132" column="77" />
         <mark key="." line="132" column="77" />
       </file>
-      <file name="/sbtShell" timestamp="1503404542377">
+      <file name="/sbtShell" timestamp="1503584239021">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingEC2InstanceTerminationMessage.scala" timestamp="1494492598248">
@@ -823,12 +823,12 @@
         <mark key="^" line="68" column="184" />
         <mark key="." line="68" column="184" />
       </file>
-      <file name="$USER_HOME$/Source/images3/project/Build.scala" timestamp="1503578665347">
-        <mark key="'" line="8" column="38" />
+      <file name="$USER_HOME$/Source/images3/project/Build.scala" timestamp="1503584428836">
+        <mark key="'" line="98" column="71" />
         <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="38" />
-        <mark key="." line="8" column="38" />
-        <mark key="^" line="8" column="38" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="30" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/raml/api.raml" timestamp="1503401956680">
         <mark key="[" line="271" column="81" />
@@ -883,6 +883,7 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1503583106917" />
       <file name="$USER_HOME$/Source/klikkit-backend/project/project/plugins.sbt" timestamp="1502719203348">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="66" />
@@ -912,7 +913,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1010" column="29" filename="$USER_HOME$/Source/platform-users/src/raml/api.raml" />
       <jump line="117" column="18" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" />
       <jump line="73" column="87" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" />
       <jump line="979" column="93" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" />
@@ -1012,6 +1012,7 @@
       <jump line="209" column="30" filename="$USER_HOME$/Source/images3/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" />
       <jump line="66" column="0" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
       <jump line="8" column="38" filename="$USER_HOME$/Source/images3/project/Build.scala" />
+      <jump line="98" column="71" filename="$USER_HOME$/Source/images3/project/Build.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
