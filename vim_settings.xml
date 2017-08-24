@@ -162,11 +162,11 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/application.conf" timestamp="1503578522673">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="13" column="29" />
-        <mark key="^" line="13" column="29" />
-        <mark key="." line="13" column="29" />
+      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/application.conf" timestamp="1503582213654">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="27" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
@@ -438,13 +438,13 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/images3/src/it/scala/com/leoilab/images/ImageApiIntegrationTest.scala" timestamp="1503575365699">
-        <mark key="[" line="154" column="20" />
-        <mark key="]" line="154" column="24" />
-        <mark key="^" line="154" column="24" />
-        <mark key="." line="154" column="24" />
+      <file name="$USER_HOME$/Source/images3/src/it/scala/com/leoilab/images/ImageApiIntegrationTest.scala" timestamp="1503582059332">
+        <mark key="[" line="100" column="81" />
+        <mark key="]" line="100" column="80" />
+        <mark key="^" line="100" column="80" />
+        <mark key="." line="100" column="80" />
       </file>
-      <file name="$USER_HOME$/Source/images3/docker-compose.yml" timestamp="1503577301898">
+      <file name="$USER_HOME$/Source/images3/docker-compose.yml" timestamp="1503582334840">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="13" />
@@ -798,9 +798,9 @@
       <file name="/dummy.sql" timestamp="1503168160501">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/project/Build.scala" timestamp="1503578531817">
+      <file name="$USER_HOME$/Source/platform-commons/project/Build.scala" timestamp="1503581902211">
         <mark key="'" line="69" column="0" />
-        <mark key="[" line="10" column="20" />
+        <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="28" />
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
@@ -1015,7 +1015,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>085816956471.dkr.ecr.eu-west-1.amazonaws./</text>
+        <text>085816956471.dkr.ecr.eu-west-1.amazonaws.com/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3638,7 +3638,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>085816956471.dkr.ecr.eu-west-1.amazonaws./</text>
+        <text>085816956471.dkr.ecr.eu-west-1.amazonaws.com/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
