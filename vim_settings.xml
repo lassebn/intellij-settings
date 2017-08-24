@@ -418,6 +418,11 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
+      <file name="$USER_HOME$/Source/images3/docker-compose.yml" timestamp="1503566619453">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1503486879920">
         <mark key="[" line="40" column="59" />
         <mark key="]" line="40" column="64" />
@@ -676,7 +681,6 @@
         <mark key="." line="34" column="56" />
         <mark key="^" line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http-core_2.11/srcs/akka-http-core_2.11-2.4.9-sources.jar!/akka/http/scaladsl/model/HttpEntity.scala" timestamp="1503499309304" />
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/ConfigLog.scala" timestamp="1500461629437">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="29" />
@@ -974,7 +978,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;)</text>
+        <text>/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3597,7 +3601,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
