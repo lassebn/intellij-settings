@@ -113,8 +113,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/images3/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" timestamp="1503642427179">
-        <mark key="'" line="95" column="123" />
+      <file name="$USER_HOME$/Source/images3/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" timestamp="1503647621140">
+        <mark key="'" line="130" column="42" />
         <mark key="[" line="46" column="90" />
         <mark key="]" line="46" column="91" />
         <mark key="." line="46" column="91" />
@@ -412,6 +412,12 @@
         <mark key="." line="81" column="99" />
         <mark key="^" line="80" column="64" />
       </file>
+      <file name="$USER_HOME$/Source/images3/README.md" timestamp="1503648087003">
+        <mark key="[" line="60" column="6" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499777757680">
         <mark key="[" line="102" column="20" />
         <mark key="]" line="102" column="25" />
@@ -592,9 +598,10 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/images3/client/project/README.md" timestamp="1503641424592">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="21" column="0" />
+      <file name="$USER_HOME$/Source/images3/client/project/README.md" timestamp="1503647998764">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="41" column="52" />
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
@@ -920,9 +927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="87" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" />
-      <jump line="979" column="93" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" />
-      <jump line="981" column="2" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" />
       <jump line="715" column="239" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
       <jump line="569" column="88" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
       <jump line="19" column="27" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
@@ -1020,10 +1024,13 @@
       <jump line="8" column="38" filename="$USER_HOME$/Source/images3/project/Build.scala" />
       <jump line="98" column="71" filename="$USER_HOME$/Source/images3/project/Build.scala" />
       <jump line="95" column="123" filename="$USER_HOME$/Source/images3/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" />
+      <jump line="130" column="42" filename="$USER_HOME$/Source/images3/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" />
+      <jump line="21" column="0" filename="$USER_HOME$/Source/images3/client/project/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/images3/client/project/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>imageId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyMjIHBsYXRmb3JtLWltYWdlcy1jbGllbnQK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3652,37 +3659,37 @@
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3ByYXkgewogIGNhbiB7CiAgICBzZXJ2ZXIgewogICAgICByZW1vdGUtYWRkcmVzcy1oZWFkZXIgPSBvbgogICAgICByYXctcmVxdWVzdC11cmktaGVhZGVyID0gb24KICAgICAgcGFyc2luZy5tYXgtY29udGVudC1sZW5ndGggPSAiNTBNIgogICAgICBzZXJ2ZXItaGVhZGVyID0gIiIKICAgIH0KICAgIGNsaWVudCB7CiAgICAgIHBhcnNpbmcubWF4LWNvbnRlbnQtbGVuZ3RoID0gIjUwTSIKICAgICAgcmVxdWVzdC10aW1lb3V0ID0gIjYwcyIKICAgICAgcmVzcG9uc2UtY2h1bmstYWdncmVnYXRpb24tbGltaXQgPSA1bQogICAgfQogIH0KfQo=</text>
+        <text encoding="base64">IyMjIHBsYXRmb3JtLWltYWdlcy1jbGllbnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdoZW5SZWFkeShjYWxsKSB7IHJlc3VsdCA9Pgo=</text>
+        <text encoding="base64">VGhlIGxhcmdlIGp1bXAgaW4gdmVyc2lvbiBudW1iZXIgc3RlbXMgZnJvbSBzaGFyaW5nIHZlcnNpb24gbnVtYmVyIHdpdGggdGhlIG1haW4gcHJvamVjdC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBzYXZlQ2FsbDIgPSBpbWFnZXNDbGllbnQuc2F2ZUltYWdlKGltYWdlQnl0ZVN0cmluZykK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoZW5SZWFkeShjYWxsKSB7IHJlc3VsdCA9Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzYXZlQ2FsbDIgPSBpbWFnZXNDbGllbnQuc2F2ZUltYWdlKGltYWdlQnl0ZVN0cmluZykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgY3JlYXRlTWVkaXVtU2l6ZUltYWdlKCk6IEltYWdlSWQgPSB7CiAgICB2YWwgaW1hZ2VCeXRlU3RyaW5nID0gQnl0ZVN0cmluZyhleHBlY3RIZWxwZXIuanBnV2l0aEZ1bGxFeGlmLmJ5dGVzKQogICAgaW1hZ2VzQ2xpZW50LnNhdmVJbWFnZShpbWFnZUJ5dGVTdHJpbmcpLmZ1dHVyZVZhbHVlCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuZGlzY2FyZEVudGl0eUJ5dGVzKCkK</text>
+        <text encoding="base64">ICBkZWYgY3JlYXRlTWVkaXVtU2l6ZUltYWdlKCk6IEltYWdlSWQgPSB7CiAgICB2YWwgaW1hZ2VCeXRlU3RyaW5nID0gQnl0ZVN0cmluZyhleHBlY3RIZWxwZXIuanBnV2l0aEZ1bGxFeGlmLmJ5dGVzKQogICAgaW1hZ2VzQ2xpZW50LnNhdmVJbWFnZShpbWFnZUJ5dGVTdHJpbmcpLmZ1dHVyZVZhbHVlCiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChpbm5lclJlc3VsdC5pc0luc3RhbmNlT2ZbVW5pdF0pIHsK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>195</text>
