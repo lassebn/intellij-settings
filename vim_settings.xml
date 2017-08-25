@@ -233,11 +233,10 @@
         <mark key="." line="158" column="109" />
         <mark key="^" line="158" column="109" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/reference.conf" timestamp="1503586716831">
-        <mark key="[" line="10" column="1" />
+      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/reference.conf" timestamp="1503648693613">
+        <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
         <mark key="[" line="16" column="69" />
@@ -471,6 +470,11 @@
         <mark key="]" line="40" column="3" />
         <mark key="^" line="40" column="3" />
         <mark key="." line="40" column="3" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/apigateway/ApiGatewayIntegrationTest.scala" timestamp="1503650162669">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/project/plugins.sbt" timestamp="1496128465448">
         <mark key="[" line="0" column="0" />
@@ -712,6 +716,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="3" column="36" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1503650215829">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageServiceFuncSpec.scala" timestamp="1503564982107">
         <mark key="[" line="68" column="28" />
@@ -1030,7 +1039,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyMjIHBsYXRmb3JtLWltYWdlcy1jbGllbnQK</text>
+        <text encoding="base64">ICAgICAgY29tbWFuZDoK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3653,7 +3662,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>imageId</text>
+        <text>pipeline</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -3662,34 +3671,34 @@
         <text encoding="base64">IyMjIHBsYXRmb3JtLWltYWdlcy1jbGllbnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29tbWFuZDoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGhlIGxhcmdlIGp1bXAgaW4gdmVyc2lvbiBudW1iZXIgc3RlbXMgZnJvbSBzaGFyaW5nIHZlcnNpb24gbnVtYmVyIHdpdGggdGhlIG1haW4gcHJvamVjdC4K</text>
+        <text encoding="base64">ICAgIGNvbS5naXRodWIudG9tYWtlaHVyc3Qud2lyZW1vY2suY2xpZW50LldpcmVNb2NrLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhbCB1cmwgPSBzInYxL2ltYWdlcy8ke1VVSUQucmFuZG9tVVVJRCgpfSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoZW5SZWFkeShjYWxsKSB7IHJlc3VsdCA9Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzYXZlQ2FsbDIgPSBpbWFnZXNDbGllbnQuc2F2ZUltYWdlKGltYWdlQnl0ZVN0cmluZykK</text>
+        <text encoding="base64">ICAgICAgICAud2l0aEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL29jdGV0LXN0cmVhbSIpKSlpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAud2l0aEJvZHkoImJhZGdlciIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0dWJGb3IoZ2V0KHVybEVxdWFsVG8oIi8iKSkKICAgICAgLndpbGxSZXR1cm4oYVJlc3BvbnNlKCkKICAgICAgICAud2l0aFN0YXR1cygyMDApCiAgICAgICAgLndpdGhCb2R5KCJiYWRnZXIiKQogICAgICAgIC53aXRoSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtIikpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgY3JlYXRlTWVkaXVtU2l6ZUltYWdlKCk6IEltYWdlSWQgPSB7CiAgICB2YWwgaW1hZ2VCeXRlU3RyaW5nID0gQnl0ZVN0cmluZyhleHBlY3RIZWxwZXIuanBnV2l0aEZ1bGxFeGlmLmJ5dGVzKQogICAgaW1hZ2VzQ2xpZW50LnNhdmVJbWFnZShpbWFnZUJ5dGVTdHJpbmcpLmZ1dHVyZVZhbHVlCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">c3ByYXkgewogIGNhbiB7CiAgICBzZXJ2ZXIgewogICAgICByZW1vdGUtYWRkcmVzcy1oZWFkZXIgPSBvbgogICAgICByYXctcmVxdWVzdC11cmktaGVhZGVyID0gb24KICAgICAgcGFyc2luZy5tYXgtY29udGVudC1sZW5ndGggPSAiNTBNIgogICAgICBzZXJ2ZXItaGVhZGVyID0gIiIKICAgIH0KICAgIGNsaWVudCB7CiAgICAgIHBhcnNpbmcubWF4LWNvbnRlbnQtbGVuZ3RoID0gIjUwTSIKICAgICAgcmVxdWVzdC10aW1lb3V0ID0gIjYwcyIKICAgICAgcmVzcG9uc2UtY2h1bmstYWdncmVnYXRpb24tbGltaXQgPSA1bQogICAgfQogIH0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>195</text>
