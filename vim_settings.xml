@@ -20,6 +20,12 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="37" />
       </file>
+      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/rest/api/StatusApi.scala" timestamp="1503907892293">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+      </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/SampleTest.scala" timestamp="1493977610698">
         <mark key="[" line="9" column="99" />
         <mark key="]" line="9" column="105" />
@@ -263,7 +269,7 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1503653555028">
+      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1503907926574">
         <mark key="[" line="32" column="28" />
         <mark key="]" line="32" column="18" />
         <mark key="^" line="32" column="18" />
@@ -478,11 +484,6 @@
         <mark key="^" line="40" column="3" />
         <mark key="." line="40" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/apigateway/ApiGatewayIntegrationTest.scala" timestamp="1503650162669">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/project/plugins.sbt" timestamp="1496128465448">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
@@ -537,6 +538,7 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/concurrent/MDCPropagatingExecutionContext.scala" timestamp="1503907439484" />
       <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1503168980402">
         <mark key="[" line="52" column="28" />
       </file>
@@ -661,7 +663,8 @@
         <mark key="^" line="28" column="15" />
         <mark key="." line="28" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1497954857213">
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1503907931694">
+        <mark key="'" line="465" column="38" />
         <mark key="[" line="362" column="28" />
         <mark key="]" line="362" column="34" />
         <mark key="^" line="362" column="34" />
@@ -841,7 +844,7 @@
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503905369950">
+      <file name="/Dummy.txt" timestamp="1503908520240">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1494231449884">
@@ -913,7 +916,6 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1503583106917" />
       <file name="$USER_HOME$/Source/klikkit-backend/project/project/plugins.sbt" timestamp="1502719203348">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="66" />
@@ -943,7 +945,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="27" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
       <jump line="17" column="18" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
       <jump line="716" column="241" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
       <jump line="717" column="41" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
@@ -1043,6 +1044,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/images3/client/project/README.md" />
       <jump line="67" column="28" filename="$USER_HOME$/Source/platform-users/src/main/resources/application.conf" />
       <jump line="28" column="0" filename="$USER_HOME$/Source/platform-commons/rest/src/main/resources/reference.conf" />
+      <jump line="465" column="38" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
