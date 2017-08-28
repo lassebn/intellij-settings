@@ -538,7 +538,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/concurrent/MDCPropagatingExecutionContext.scala" timestamp="1503907439484" />
+      <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/concurrent/MDCPropagatingExecutionContext.scala" timestamp="1503919251710">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="27" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1503168980402">
         <mark key="[" line="52" column="28" />
       </file>
