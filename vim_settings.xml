@@ -20,11 +20,10 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/rest/api/StatusApi.scala" timestamp="1503907892293">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="9" column="29" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="9" column="29" />
+      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/rest/api/StatusApi.scala" timestamp="1503917174358">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/SampleTest.scala" timestamp="1493977610698">
         <mark key="[" line="9" column="99" />
@@ -630,6 +629,12 @@
         <mark key="." line="66" column="40" />
         <mark key="^" line="66" column="40" />
       </file>
+      <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/concurrent/SpecialExecutionTactics.scala" timestamp="1503917152125">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="4" column="17" />
+      </file>
       <file name="$USER_HOME$/Source/studies-and-me/scripts/send_reminder_mails.py" timestamp="1498470247979">
         <mark key="[" line="13" column="88" />
       </file>
@@ -702,6 +707,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="45" column="55" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/concurrent/Execution.scala" timestamp="1503917164087">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/test.py" timestamp="1499936746519">
         <mark key="[" line="61" column="0" />
@@ -1048,7 +1059,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KiBTZXQgZGVmYXVsdCB2YWx1ZXMgZm9yIHNwcmF5LmNhbi57c2VydmVyLGNsaWVudH0gdG8gc3VwcG9ydCBjb250ZW50IGJvZGllcyBvZiB1cCB0byA1ME1CCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmNvbmN1cnJlbnQuU3BlY2lhbEV4ZWN1dGlvblRhY3RpY3MK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3671,7 +3682,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SNAPSHOT</text>
+        <text encoding="base64">RXhlY3V0aW9uQ29udGV4dCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -3680,34 +3691,34 @@
         <text encoding="base64">c3ByYXkuY2FuLmNsaWVudC5wYXJzaW5nLm1heC1jb250ZW50LWxlbmd0aCA9ICI1ME0iCnNwcmF5LmNhbi5zZXJ2ZXIucGFyc2luZy5tYXgtY29udGVudC1sZW5ndGggPSAiNTBNIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiBTZXQgZGVmYXVsdCB2YWx1ZXMgZm9yIHNwcmF5LmNhbi57c2VydmVyLGNsaWVudH0gdG8gc3VwcG9ydCBjb250ZW50IGJvZGllcyBvZiB1cCB0byA1ME1CCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmNvbmN1cnJlbnQuU3BlY2lhbEV4ZWN1dGlvblRhY3RpY3MK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdXBwb3J0IGNvbnRlbnQgYm9kaWVzIHVwIHRvIDUwTUIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KiBTZXQgZGVmYXVsdCB2YWx1ZXMgZm9yIHNwcmF5LmNhbi57c2VydmVyLGNsaWVudH0gdG8gc3VwcG9ydCBjb250ZW50IGJvZGllcyBvZiB1cCB0byA1ME1CCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdXBwb3J0IGNvbnRlbnQgYm9kaWVzIHVwIHRvIDUwTUIK</text>
+        <text encoding="base64">ICAgIHdpdGggU3BlY2lhbEV4ZWN1dGlvblRhY3RpY3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">KiBTZXQgZGVmYXVsdCB2YWx1ZXMgZm9yIHNwcmF5LmNhbi57c2VydmVyLGNsaWVudH0gdG8gc3VwcG9ydCBjb250ZW50IGJvZGllcyBvZiB1cCB0byA1ME1CCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdXBwb3J0IGNvbnRlbnQgYm9kaWVzIHVwIHRvIDUwTUIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>195</text>
