@@ -269,8 +269,8 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1503907926574">
-        <mark key="[" line="32" column="28" />
+      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1503924595693">
+        <mark key="[" line="32" column="17" />
         <mark key="]" line="32" column="18" />
         <mark key="^" line="32" column="18" />
         <mark key="." line="32" column="18" />
@@ -387,6 +387,12 @@
         <mark key="]" line="98" column="122" />
         <mark key="." line="98" column="122" />
         <mark key="^" line="98" column="122" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/rest/directives/RequestIdDirective.scala" timestamp="1503924224449">
+        <mark key="[" line="15" column="45" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="44" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/circle.yml" timestamp="1496835070851">
         <mark key="[" line="32" column="31" />
@@ -744,11 +750,11 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1503921959374">
-        <mark key="[" line="23" column="46" />
-        <mark key="]" line="23" column="100" />
-        <mark key="." line="23" column="100" />
-        <mark key="^" line="23" column="100" />
+      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1503924813670">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="68" />
+        <mark key="^" line="14" column="68" />
+        <mark key="." line="14" column="68" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageServiceFuncSpec.scala" timestamp="1503564982107">
         <mark key="[" line="68" column="28" />
@@ -1065,8 +1071,8 @@
       <jump line="465" column="38" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmNvbmN1cnJlbnQuU3BlY2lhbEV4ZWN1dGlvblRhY3RpY3MK</text>
+      <register name="&quot;" type="4">
+        <text>35</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3689,7 +3695,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RXhlY3V0aW9uQ29udGV4dCA=</text>
+        <text>35</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
