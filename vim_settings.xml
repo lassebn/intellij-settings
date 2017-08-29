@@ -172,11 +172,11 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/application.conf" timestamp="1503996476637">
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="22" column="43" />
-        <mark key="." line="22" column="43" />
-        <mark key="^" line="17" column="36" />
+      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/application.conf" timestamp="1503997944355">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+        <mark key="^" line="17" column="37" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
