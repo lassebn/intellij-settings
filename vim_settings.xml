@@ -178,11 +178,10 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/application.conf" timestamp="1504007539930">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="26" />
-        <mark key="^" line="1" column="26" />
+      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/application.conf" timestamp="1504019365675">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
@@ -548,12 +547,6 @@
         <mark key="]" line="2" column="27" />
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/concurrent/MDCPropagatingExecutionContext.scala" timestamp="1503919251710">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="27" />
-        <mark key="^" line="18" column="27" />
-        <mark key="." line="18" column="27" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1503168980402">
         <mark key="[" line="52" column="28" />
@@ -1071,8 +1064,8 @@
       <jump line="28" column="23" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBsb2ctY29uZmlnLW9uLXN0YXJ0ID0gIm9uIgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3695,7 +3688,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -3704,34 +3697,34 @@
         <text encoding="base64">c3ByYXkuY2FuLmNsaWVudC5wYXJzaW5nLm1heC1jb250ZW50LWxlbmd0aCA9ICI1ME0iCnNwcmF5LmNhbi5zZXJ2ZXIucGFyc2luZy5tYXgtY29udGVudC1sZW5ndGggPSAiNTBNIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmNvbmN1cnJlbnQuU3BlY2lhbEV4ZWN1dGlvblRhY3RpY3MK</text>
+        <text encoding="base64">ICBsb2ctY29uZmlnLW9uLXN0YXJ0ID0gIm9uIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dAo=</text>
+        <text encoding="base64">ICAgICAgdHlwZSA9ICJjb20ubGVvaWxhYi5jb25jdXJyZW50Lk1EQ1Byb3BhZ2F0aW5nRGlzcGF0Y2hlckNvbmZpZ3VyYXRvciIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dAo=</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQtYmxvY2tpbmctaW8tZGlzcGF0Y2hlciB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpdGggU3BlY2lhbEV4ZWN1dGlvblRhY3RpY3MK</text>
+        <text encoding="base64">ICAgICAgICBNREMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KiBTZXQgZGVmYXVsdCB2YWx1ZXMgZm9yIHNwcmF5LmNhbi57c2VydmVyLGNsaWVudH0gdG8gc3VwcG9ydCBjb250ZW50IGJvZGllcyBvZiB1cCB0byA1ME1CCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdXBwb3J0IGNvbnRlbnQgYm9kaWVzIHVwIHRvIDUwTUIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmNvbmN1cnJlbnQuU3BlY2lhbEV4ZWN1dGlvblRhY3RpY3MK</text>
       </register>
       <register name=":" type="4">
         <text>195</text>
