@@ -823,6 +823,12 @@
         <mark key="^" line="44" column="37" />
         <mark key="." line="44" column="37" />
       </file>
+      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/logback.xml" timestamp="1504021496787">
+        <mark key="[" line="3" column="68" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/GoogleSample.scala" timestamp="1500547898836">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="57" column="29" />
