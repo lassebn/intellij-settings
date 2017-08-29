@@ -172,11 +172,11 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/application.conf" timestamp="1503928836671">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="26" column="1" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/application.conf" timestamp="1503996476637">
+        <mark key="[" line="22" column="42" />
+        <mark key="]" line="22" column="43" />
+        <mark key="." line="22" column="43" />
+        <mark key="^" line="17" column="36" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
@@ -262,18 +262,17 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/rest/RestService.scala" timestamp="1503918090086" />
       <file name="$USER_HOME$/Source/klikkit-backend/docker-compose.yml" timestamp="1502799849479">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
         <mark key="^" line="18" column="1" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1503924595693">
+      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1503996964434">
         <mark key="[" line="32" column="17" />
-        <mark key="]" line="32" column="18" />
-        <mark key="^" line="32" column="18" />
-        <mark key="." line="32" column="18" />
+        <mark key="]" line="32" column="27" />
+        <mark key="^" line="32" column="27" />
+        <mark key="." line="32" column="27" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImagePropertiesServiceFuncSpec.scala" timestamp="1503641604939">
         <mark key="[" line="66" column="0" />
@@ -750,12 +749,6 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1503924813670">
-        <mark key="[" line="14" column="46" />
-        <mark key="]" line="14" column="68" />
-        <mark key="^" line="14" column="68" />
-        <mark key="." line="14" column="68" />
-      </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageServiceFuncSpec.scala" timestamp="1503564982107">
         <mark key="[" line="68" column="28" />
         <mark key="]" line="68" column="52" />
@@ -855,9 +848,9 @@
       <file name="/dummy.sql" timestamp="1503168160501">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/project/Build.scala" timestamp="1503904289655">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="10" column="21" />
+      <file name="$USER_HOME$/Source/platform-commons/project/Build.scala" timestamp="1503996507244">
+        <mark key="'" line="28" column="23" />
+        <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="28" />
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
@@ -940,6 +933,7 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1503996414174" />
       <file name="$USER_HOME$/Source/klikkit-backend/project/project/plugins.sbt" timestamp="1502719203348">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="66" />
@@ -969,7 +963,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="18" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
       <jump line="716" column="241" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
       <jump line="717" column="41" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
       <jump line="722" column="88" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
@@ -1069,10 +1062,11 @@
       <jump line="67" column="28" filename="$USER_HOME$/Source/platform-users/src/main/resources/application.conf" />
       <jump line="28" column="0" filename="$USER_HOME$/Source/platform-commons/rest/src/main/resources/reference.conf" />
       <jump line="465" column="38" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" />
+      <jump line="28" column="23" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>35</text>
+        <text>5</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3695,7 +3689,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>35</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
