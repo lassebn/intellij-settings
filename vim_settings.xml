@@ -125,6 +125,12 @@
         <mark key="." line="46" column="91" />
         <mark key="^" line="46" column="91" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/images/ImagesApi.scala" timestamp="1503999505064">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+      </file>
       <file name="$USER_HOME$/Source/studies-and-me/docker-compose.yml" timestamp="1498722910577">
         <mark key="[" line="57" column="24" />
         <mark key="]" line="57" column="69" />
@@ -172,11 +178,11 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/application.conf" timestamp="1503997944355">
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="17" column="37" />
-        <mark key="." line="17" column="37" />
-        <mark key="^" line="17" column="37" />
+      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/application.conf" timestamp="1504000078673">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="10" column="73" />
+        <mark key="." line="10" column="73" />
+        <mark key="^" line="10" column="73" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
