@@ -91,7 +91,7 @@
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="50" />
       </file>
-      <file name="/Dummy.scala" timestamp="1503564033230">
+      <file name="/Dummy.scala" timestamp="1504536772860">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/GenericPropertiesService.scala" timestamp="1503399842065">
@@ -237,12 +237,12 @@
         <mark key="." line="124" column="34" />
         <mark key="^" line="124" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageApi.scala" timestamp="1504535644961">
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageApi.scala" timestamp="1504537138202">
         <mark key="'" line="308" column="0" />
-        <mark key="[" line="82" column="52" />
-        <mark key="]" line="82" column="47" />
-        <mark key="." line="82" column="47" />
-        <mark key="^" line="82" column="47" />
+        <mark key="[" line="82" column="87" />
+        <mark key="]" line="82" column="105" />
+        <mark key="." line="82" column="105" />
+        <mark key="^" line="82" column="105" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/reference.conf" timestamp="1503903864176">
         <mark key="[" line="10" column="1" />
@@ -760,11 +760,11 @@
         <mark key="^" line="68" column="52" />
         <mark key="." line="68" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiCollectionPropertiesFuncSpec.scala" timestamp="1503409582660">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="207" column="66" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiCollectionPropertiesFuncSpec.scala" timestamp="1504536848509">
+        <mark key="[" line="154" column="69" />
+        <mark key="]" line="155" column="59" />
+        <mark key="^" line="155" column="59" />
+        <mark key="." line="155" column="59" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/notifications/NotificationsAPI.scala" timestamp="1496911551227">
         <mark key="[" line="34" column="40" />
@@ -896,12 +896,6 @@
         <mark key="]" line="271" column="103" />
         <mark key="." line="271" column="103" />
         <mark key="^" line="271" column="103" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/resources/application.conf" timestamp="1503653411595">
-        <mark key="'" line="67" column="28" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/nginx/build.sh" timestamp="1502805047038">
         <mark key="[" line="5" column="0" />
@@ -1077,7 +1071,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">QXV0aG9yaXphdGlvbkZhaWxlZFJlamVjdGlvbiA=</text>
+        <text encoding="base64">IiksIA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3700,7 +3694,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QXV0aG9yaXphdGlvbkZhaWxlZFJlamVjdGlvbiA=</text>
+        <text encoding="base64">IiksIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
