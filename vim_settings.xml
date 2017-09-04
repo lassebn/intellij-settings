@@ -524,11 +524,11 @@
         <mark key="." line="70" column="47" />
         <mark key="^" line="70" column="47" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1504516659102">
-        <mark key="[" line="1267" column="26" />
-        <mark key="]" line="1267" column="78" />
-        <mark key="^" line="1267" column="78" />
-        <mark key="." line="1267" column="78" />
+      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1504517266340">
+        <mark key="[" line="1253" column="49" />
+        <mark key="]" line="1253" column="16" />
+        <mark key="^" line="1253" column="16" />
+        <mark key="." line="1253" column="16" />
       </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1500290357074">
         <mark key="[" line="78" column="33" />
@@ -1077,7 +1077,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Token 123 not found.</text>
+        <text />
       </register>
       <register name="j" type="4">
         <keys>
@@ -3700,7 +3700,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Token 123 not found.</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
