@@ -237,12 +237,12 @@
         <mark key="." line="124" column="34" />
         <mark key="^" line="124" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageApi.scala" timestamp="1503048941060">
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageApi.scala" timestamp="1504535644961">
         <mark key="'" line="308" column="0" />
-        <mark key="[" line="158" column="103" />
-        <mark key="]" line="158" column="109" />
-        <mark key="." line="158" column="109" />
-        <mark key="^" line="158" column="109" />
+        <mark key="[" line="82" column="52" />
+        <mark key="]" line="82" column="47" />
+        <mark key="." line="82" column="47" />
+        <mark key="^" line="82" column="47" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/reference.conf" timestamp="1503903864176">
         <mark key="[" line="10" column="1" />
@@ -872,7 +872,7 @@
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503928343757">
+      <file name="/Dummy.txt" timestamp="1504534268529">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1494231449884">
@@ -1076,8 +1076,8 @@
       <jump line="28" column="23" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIEV4cGFuZExpc3REaWNDb2x1bW5QYW5kYXMobW90aGVyX2RmLCBtb3RoZXJfZGZfa2V5LCBjb2x1bW5fdG9fZXhwYW5kX25hbWUsIGNvbHVtbnNfdG9fa2VlcF9mcm9tX2V4cGFuZGVkX2NvbHVtbiA9IFtdLCBwcmVmaXhfbmFtZV9leHBhbmRlZF9jb2x1bW4gPSAnJyk6Cgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QXV0aG9yaXphdGlvbkZhaWxlZFJlamVjdGlvbiA=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3700,7 +3700,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">QXV0aG9yaXphdGlvbkZhaWxlZFJlamVjdGlvbiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -3817,6 +3817,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
