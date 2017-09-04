@@ -524,11 +524,11 @@
         <mark key="." line="70" column="47" />
         <mark key="^" line="70" column="47" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1504517266340">
-        <mark key="[" line="1253" column="49" />
-        <mark key="]" line="1253" column="16" />
-        <mark key="^" line="1253" column="16" />
-        <mark key="." line="1253" column="16" />
+      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1504521717057">
+        <mark key="[" line="1226" column="48" />
+        <mark key="]" line="1226" column="61" />
+        <mark key="^" line="1226" column="61" />
+        <mark key="." line="1226" column="61" />
       </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1500290357074">
         <mark key="[" line="78" column="33" />
