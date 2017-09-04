@@ -524,6 +524,12 @@
         <mark key="." line="70" column="47" />
         <mark key="^" line="70" column="47" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1504516659102">
+        <mark key="[" line="1267" column="26" />
+        <mark key="]" line="1267" column="78" />
+        <mark key="^" line="1267" column="78" />
+        <mark key="." line="1267" column="78" />
+      </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1500290357074">
         <mark key="[" line="78" column="33" />
         <mark key="]" line="78" column="33" />
@@ -1070,8 +1076,8 @@
       <jump line="28" column="23" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBsb2ctY29uZmlnLW9uLXN0YXJ0ID0gIm9uIgo=</text>
+      <register name="&quot;" type="4">
+        <text>Token 123 not found.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3694,7 +3700,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>Token 123 not found.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -3703,34 +3709,34 @@
         <text encoding="base64">c3ByYXkuY2FuLmNsaWVudC5wYXJzaW5nLm1heC1jb250ZW50LWxlbmd0aCA9ICI1ME0iCnNwcmF5LmNhbi5zZXJ2ZXIucGFyc2luZy5tYXgtY29udGVudC1sZW5ndGggPSAiNTBNIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsb2ctY29uZmlnLW9uLXN0YXJ0ID0gIm9uIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAxMTAyOiB8CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICJjb2RlIjogImVycm9yLTExMDIiLAogICAgICAgICAgICAgICAgICAibXNnIjogIlJlcXVlc3QgaXMgbWlzc2luZyByZXF1aXJlZCBxdWVyeSBwYXJhbWV0ZXIgJ3Rva2VuJyIKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBsb2ctY29uZmlnLW9uLXN0YXJ0ID0gIm9uIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdHlwZSA9ICJjb20ubGVvaWxhYi5jb25jdXJyZW50Lk1EQ1Byb3BhZ2F0aW5nRGlzcGF0Y2hlckNvbmZpZ3VyYXRvciIK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNjCg==</text>
+        <text encoding="base64">ICAgICAgdHlwZSA9ICJjb20ubGVvaWxhYi5jb25jdXJyZW50Lk1EQ1Byb3BhZ2F0aW5nRGlzcGF0Y2hlckNvbmZpZ3VyYXRvciIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQtYmxvY2tpbmctaW8tZGlzcGF0Y2hlciB7Cg==</text>
+        <text encoding="base64">ICAgIGNjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNREMuCg==</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQtYmxvY2tpbmctaW8tZGlzcGF0Y2hlciB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNREMuCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmNvbmN1cnJlbnQuU3BlY2lhbEV4ZWN1dGlvblRhY3RpY3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>195</text>
