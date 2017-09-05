@@ -237,12 +237,12 @@
         <mark key="." line="124" column="34" />
         <mark key="^" line="124" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageApi.scala" timestamp="1504592597878">
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageApi.scala" timestamp="1504599921181">
         <mark key="'" line="308" column="0" />
-        <mark key="[" line="82" column="87" />
-        <mark key="]" line="82" column="105" />
-        <mark key="." line="82" column="105" />
-        <mark key="^" line="82" column="105" />
+        <mark key="[" line="155" column="77" />
+        <mark key="]" line="155" column="105" />
+        <mark key="." line="155" column="105" />
+        <mark key="^" line="155" column="105" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/reference.conf" timestamp="1503903864176">
         <mark key="[" line="10" column="1" />
@@ -542,11 +542,11 @@
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/project/Build.scala" timestamp="1503487779798">
-        <mark key="[" line="74" column="53" />
-        <mark key="]" line="74" column="53" />
-        <mark key="^" line="74" column="51" />
-        <mark key="." line="74" column="53" />
+      <file name="$USER_HOME$/Source/platform-images/project/Build.scala" timestamp="1504599722012">
+        <mark key="[" line="47" column="58" />
+        <mark key="]" line="47" column="84" />
+        <mark key="^" line="47" column="84" />
+        <mark key="." line="47" column="84" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" timestamp="1499781958249">
         <mark key="[" line="43" column="0" />
@@ -735,6 +735,9 @@
         <mark key="]" line="6" column="77" />
         <mark key="^" line="6" column="77" />
         <mark key="." line="6" column="77" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-commons/auth/src/main/scala/com/leoilab/auth/UnauthorizedException.scala" timestamp="1504599002626">
+        <mark key="[" line="4" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/test.py" timestamp="1499936746519">
         <mark key="[" line="61" column="0" />
