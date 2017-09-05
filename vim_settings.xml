@@ -476,6 +476,12 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
+      <file name="$USER_HOME$/Source/platform-commons/clients/src/main/scala/com/leoilab/clients/MembershipsClient.scala" timestamp="1504596478286">
+        <mark key="[" line="96" column="33" />
+        <mark key="]" line="98" column="114" />
+        <mark key="^" line="98" column="114" />
+        <mark key="." line="98" column="114" />
+      </file>
       <file name="$USER_HOME$/Source/images3/docker-compose.yml" timestamp="1503585605857">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="58" />
