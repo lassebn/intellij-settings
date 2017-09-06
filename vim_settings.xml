@@ -238,11 +238,7 @@
         <mark key="^" line="124" column="34" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageApi.scala" timestamp="1504603943828">
-        <mark key="'" line="308" column="0" />
-        <mark key="[" line="133" column="70" />
-        <mark key="]" line="133" column="51" />
-        <mark key="." line="133" column="51" />
-        <mark key="^" line="133" column="51" />
+        <mark key="'" line="302" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/reference.conf" timestamp="1503903864176">
         <mark key="[" line="10" column="1" />
@@ -470,22 +466,11 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/access/MembershipsDirective.scala" timestamp="1504612755319">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageApiFuncSpec.scala" timestamp="1503564766904">
         <mark key="[" line="34" column="28" />
         <mark key="]" line="34" column="52" />
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-commons/clients/src/main/scala/com/leoilab/clients/MembershipsClient.scala" timestamp="1504685096179">
-        <mark key="[" line="108" column="25" />
-        <mark key="]" line="108" column="49" />
-        <mark key="^" line="108" column="49" />
-        <mark key="." line="108" column="49" />
       </file>
       <file name="$USER_HOME$/Source/images3/docker-compose.yml" timestamp="1503585605857">
         <mark key="[" line="4" column="13" />
@@ -707,12 +692,6 @@
         <mark key="]" line="65" column="69" />
         <mark key="^" line="65" column="69" />
         <mark key="." line="65" column="69" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-commons/clients/src/test/scala/com/leoilab/clients/MembershipsClientSpec.scala" timestamp="1504603849770">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="27" />
-        <mark key="^" line="9" column="27" />
-        <mark key="." line="9" column="27" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiDigitigerSpec.scala" timestamp="1496909585827">
         <mark key="[" line="75" column="7" />
