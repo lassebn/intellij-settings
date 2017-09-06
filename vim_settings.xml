@@ -237,8 +237,12 @@
         <mark key="." line="124" column="34" />
         <mark key="^" line="124" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageApi.scala" timestamp="1504603943828">
-        <mark key="'" line="302" column="0" />
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageApi.scala" timestamp="1504697126419">
+        <mark key="'" line="348" column="0" />
+        <mark key="[" line="134" column="4" />
+        <mark key="]" line="134" column="4" />
+        <mark key="^" line="134" column="4" />
+        <mark key="." line="134" column="4" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/resources/reference.conf" timestamp="1503903864176">
         <mark key="[" line="10" column="1" />
@@ -466,8 +470,11 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/access/MembershipsDirective.scala" timestamp="1504694259112">
-        <mark key="[" line="18" column="70" />
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/access/MembershipsDirective.scala" timestamp="1504696716037">
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="12" />
+        <mark key="^" line="25" column="48" />
+        <mark key="." line="25" column="12" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageApiFuncSpec.scala" timestamp="1503564766904">
         <mark key="[" line="34" column="28" />
@@ -868,7 +875,7 @@
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504534268529">
+      <file name="/Dummy.txt" timestamp="1504697215957">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1494231449884">
@@ -964,8 +971,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="716" column="241" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
-      <jump line="717" column="41" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
       <jump line="722" column="88" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
       <jump line="434" column="74" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
@@ -1064,10 +1069,12 @@
       <jump line="28" column="0" filename="$USER_HOME$/Source/platform-commons/rest/src/main/resources/reference.conf" />
       <jump line="465" column="38" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" />
       <jump line="28" column="23" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
+      <jump line="251" column="45" filename="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageApi.scala" />
+      <jump line="348" column="0" filename="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageApi.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isAuthed</text>
+        <text>new UnauthorizedAccessException[ImageId](id)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3690,7 +3697,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isAuthed</text>
+        <text>new UnauthorizedAccessException[ImageId](id)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -3699,37 +3706,37 @@
         <text encoding="base64">ICAgZGVmIGF1dGhvcml6ZVJvdXRlW1QgPDogQmFzZUlkXSh1c2VySWQ6IFVzZXJJZCwgZ3JvdXBJZDogR3JvdXBJZCwgcmVzb3VyY2VJZDogVCkoaW1wbGljaXQgYWNjZXNzVG9rZW46IEFjY2Vzc1Rva2VuKTogRGlyZWN0aXZlMCA9IHsKICAgICBpc0F1dGhvcml6ZWQodXNlcklkLCBncm91cElkKS5mbGF0TWFwW0hOaWxdewogICAgICAgY2FzZSB0cnVlID0+IHBhc3MKICAgICAgIGNhc2UgZmFsc2UgPT4gdGhyb3cgbmV3IFVuYXV0aG9yaXplZEV4Y2VwdGlvbltUXSh1c2VySWQsIHJlc291cmNlSWQsIGFjY2Vzc1Rva2VuLnVzZXJJZCwgYWNjZXNzVG9rZW4uY2xpZW50SWQpCiAgICAgfQogICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgYXV0aG9yaXplUm91dGVbVCA8OiBCYXNlSWRdKHVzZXJJZDogVXNlcklkLCBncm91cElkOiBHcm91cElkLCByZXNvdXJjZUlkOiBUKShpbXBsaWNpdCBhY2Nlc3NUb2tlbjogQWNjZXNzVG9rZW4pOiBEaXJlY3RpdmUwID0gewo=</text>
+        <text encoding="base64">ICAgIHIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZG9BdXRob3JpemVkCiAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVuaXQuCg==</text>
+        <text encoding="base64">ICAgIHIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4dHJhY3QgeyBfID0+Cg==</text>
+        <text encoding="base64">ICBkZWYgYXV0aG9yaXplUm91dGVbVCA8OiBCYXNlSWRdKHVzZXJJZDogVXNlcklkLCBncm91cElkOiBHcm91cElkLCByZXNvdXJjZUlkOiBUKShpbXBsaWNpdCBhY2Nlc3NUb2tlbjogQWNjZXNzVG9rZW4pOiBEaXJlY3RpdmUwID0gewo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ZG9BdXRob3JpemVkCiAg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgZG9BdXRob3JpemVkKGltYWdlSWQ6IEltYWdlSWQsIG1lbWJlcnNoaXBzQ2xpZW50OiBNZW1iZXJzaGlwc0NsaWVudCwgY29sbGVjdGlvbnNTZXJ2aWNlOiBDb2xsZWN0aW9uc1NlcnZpY2UpKGltcGxpY2l0IGFjY2Vzc1Rva2VuOiBBY2Nlc3NUb2tlbik6IEZ1dHVyZVtVbml0XSA9IHsKICAgIGNvbGxlY3Rpb25zU2VydmljZS5nZXRHcm91cElkKGNvbGxlY3Rpb25JZCkuZmxhdE1hcCB7IGNvbGxlY3Rpb25Hcm91cElkID0+CiAgICAgIG1lbWJlcnNoaXBzQ2xpZW50LmF1dGhvcml6ZWRPcGVyYXRpb24oYWNjZXNzVG9rZW4udXNlcklkLCBjb2xsZWN0aW9uR3JvdXBJZCwgY29sbGVjdGlvbklkKQogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgIHVuaXQuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgZG9BdXRob3JpemVkCg==</text>
+        <text encoding="base64">ICAgIGV4dHJhY3QgeyBfID0+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBpc0F1dGhvcml6ZWQoZ3JvdXBJZDogR3JvdXBJZCkoaW1wbGljaXQgYWNjZXNzVG9rZW46IEFjY2Vzc1Rva2VuKTogRnV0dXJlW0Jvb2xlYW5dID0gewogICAgaXNBdXRob3JpemVkKGFjY2Vzc1Rva2VuLnVzZXJJZCwgZ3JvdXBJZCkKICB9Cg==</text>
+        <text encoding="base64">ICBkZWYgZG9BdXRob3JpemVkKGltYWdlSWQ6IEltYWdlSWQsIG1lbWJlcnNoaXBzQ2xpZW50OiBNZW1iZXJzaGlwc0NsaWVudCwgY29sbGVjdGlvbnNTZXJ2aWNlOiBDb2xsZWN0aW9uc1NlcnZpY2UpKGltcGxpY2l0IGFjY2Vzc1Rva2VuOiBBY2Nlc3NUb2tlbik6IEZ1dHVyZVtVbml0XSA9IHsKICAgIGNvbGxlY3Rpb25zU2VydmljZS5nZXRHcm91cElkKGNvbGxlY3Rpb25JZCkuZmxhdE1hcCB7IGNvbGxlY3Rpb25Hcm91cElkID0+CiAgICAgIG1lbWJlcnNoaXBzQ2xpZW50LmF1dGhvcml6ZWRPcGVyYXRpb24oYWNjZXNzVG9rZW4udXNlcklkLCBjb2xsZWN0aW9uR3JvdXBJZCwgY29sbGVjdGlvbklkKQogICAgfQogIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>195</text>
+        <text>181</text>
       </register>
     </registers>
     <search>
@@ -3753,7 +3760,6 @@
         <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>8</entry>
         <entry>53</entry>
         <entry>41</entry>
         <entry>/\u</entry>
@@ -3773,6 +3779,7 @@
         <entry>294</entry>
         <entry>39</entry>
         <entry>195</entry>
+        <entry>181</entry>
       </history-cmd>
       <history-expr />
       <history-input />
