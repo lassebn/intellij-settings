@@ -11,11 +11,11 @@
         <mark key="^" line="30" column="94" />
         <mark key="." line="30" column="82" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/README.md" timestamp="1504706525615">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="30" column="62" />
-        <mark key="^" line="30" column="62" />
-        <mark key="." line="30" column="62" />
+      <file name="$USER_HOME$/Source/platform-images/README.md" timestamp="1504784831020">
+        <mark key="[" line="31" column="52" />
+        <mark key="]" line="31" column="48" />
+        <mark key="^" line="31" column="48" />
+        <mark key="." line="31" column="48" />
       </file>
       <file name="/a.dummy" timestamp="1499936920460">
         <mark key="[" line="0" column="0" />
@@ -350,6 +350,12 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/src/main/resources/application.conf" timestamp="1504783326343">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="54" />
+        <mark key="^" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+      </file>
       <file name="$USER_HOME$/Source/intouch-backend/intouch-service/src/main/java/com/warefly/intouch/service/EmailService.java" timestamp="1498650963114">
         <mark key="[" line="86" column="37" />
         <mark key="]" line="86" column="37" />
@@ -402,6 +408,12 @@
         <mark key="]" line="15" column="44" />
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-images/project/TestHelper.scala" timestamp="1504783629179">
+        <mark key="[" line="76" column="51" />
+        <mark key="]" line="76" column="43" />
+        <mark key="." line="76" column="43" />
+        <mark key="^" line="76" column="43" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/circle.yml" timestamp="1496835070851">
         <mark key="[" line="32" column="31" />
@@ -547,11 +559,11 @@
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/project/Build.scala" timestamp="1504706475469">
+      <file name="$USER_HOME$/Source/platform-images/project/Build.scala" timestamp="1504783964960">
         <mark key="[" line="28" column="21" />
         <mark key="]" line="28" column="19" />
-        <mark key="^" line="28" column="19" />
         <mark key="." line="28" column="19" />
+        <mark key="^" line="28" column="19" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/project/Build.scala" timestamp="1504770431265">
         <mark key="[" line="13" column="71" />
@@ -1090,7 +1102,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICJNRU1CRVJTSElQU19VUkwiIC0+ICJodHRwOi8vbG9jYWxob3N0OjkwOTQvdjEvbWVtYmVyc2hpcHMiCg==</text>
+        <text encoding="base64">ICAgIC5zZXR0aW5ncyhleHBvcnRBV1NDcmVkZW50aWFsc0FzRW52aXJvbm1lbnRWYXJpYWJsZXMgOj0gVGVzdEhlbHBlci5leHBvcnRBd3NDcmVkZW50aWFsc0FzRW52aXJvbm1lbnRWYXJpYWJsZXMoKSkK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3713,43 +3725,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c: ConfigValue</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnJlc3QuQXBpRXJyb3JKc29uUHJvdG9jb2wuXwo=</text>
+        <text encoding="base64">ICAgICJleHBvcnQgQVdTX0FDQ0VTU19LRVlfSUQ9JChhd3MgY29uZmlndXJlIGdldCBhd3NfYWNjZXNzX2tleV9pZCkiLiEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICJNRU1CRVJTSElQU19VUkwiIC0+ICJodHRwOi8vbG9jYWxob3N0OjkwOTQvdjEvbWVtYmVyc2hpcHMiCg==</text>
+        <text encoding="base64">ICAgIC5zZXR0aW5ncyhleHBvcnRBV1NDcmVkZW50aWFsc0FzRW52aXJvbm1lbnRWYXJpYWJsZXMgOj0gVGVzdEhlbHBlci5leHBvcnRBd3NDcmVkZW50aWFsc0FzRW52aXJvbm1lbnRWYXJpYWJsZXMoKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgdXJsID0gc2NhbGEudXRpbC5Qcm9wZXJ0aWVzLmVudk9yRWxzZSgiTUVNQkVSU0hJUFNfVVJMIiwgImh0dHA6Ly9sb2NhbGhvc3Q6OTA5MC92MS9tZW1iZXJzaGlwcyIpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB2YWwgdXJsID0gc2NhbGEudXRpbC5Qcm9wZXJ0aWVzLmVudk9yRWxzZSgiTUVNQkVSU0hJUFNfVVJMIiwgImh0dHA6Ly9sb2NhbGhvc3Q6OTA5MC92MS9tZW1iZXJzaGlwcyIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25maWdWYWx1ZSA9IGMK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkZWYgZXhwb3J0QXdzQ3JlZGVudGlhbHNBc0Vudmlyb25tZW50VmFyaWFibGVzKCk6IFVuaXQgPSB7CiAgICBwcmludGxuKCJFeHBvcnRpbmcgQVdTIGNyZWRlbnRpYWxzIGZvciBEb2NrZXIiKQogICAgImV4cG9ydCBBV1NfU0VDUkVUX0FDQ0VTU19LRVk9JChhd3MgY29uZmlndXJlIGdldCBhd3Nfc2VjcmV0X2FjY2Vzc19rZXkpIi4hCiAgICAiZXhwb3J0IEFXU19BQ0NFU1NfS0VZX0lEPSQoYXdzIGNvbmZpZ3VyZSBnZXQgYXdzX2FjY2Vzc19rZXlfaWQpIi4hCiAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC5zZXR0aW5ncygocnVuIGluIENvbXBpbGUpIDw8PSAocnVuIGluIENvbXBpbGUpIGRlcGVuZHNPbiAoZXhwb3J0QVdTQ3JlZGVudGlhbHNBc0Vudmlyb25tZW50VmFyaWFibGVzLCBib290ZGIpKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBsYXp5IHZhbCBleHBvcnRBV1NDcmVkZW50aWFsc0FzRW52aXJvbm1lbnRWYXJpYWJsZXMgPSB0YXNrS2V5W1VuaXRdKCJXaWxsIHJlYWQgLi9hd3MvY3JlZGVudGlhbHMgYW5kIGV4cG9zZSB0aGVtIGFzIGVudmlyb25tZW50IHZhcmlhYmxlcyBmb3IgZG9ja2VyIikK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gIGRlZiBpc0F1dGhvcml6ZWQoaWQ6IEltYWdlSWQsIG1lbWJlcnNoaXBzQ2xpZW50OiBNZW1iZXJzaGlwc0NsaWVudCwgaW1hZ2VTZXJ2aWNlOiBJbWFnZVNlcnZpY2UpKGltcGxpY2l0IGFjY2Vzc1Rva2VuOiBBY2Nlc3NUb2tlbik6IEZ1dHVyZVtCb29sZWFuXSA9IGZvciB7Ci8vICAgIGltYWdlUmVjIDwtIGltYWdlU2VydmljZS5nZXRSZWNvcmQoaWQpCi8vICAgIGltYWdlQXV0aG9yaXplZCA8LSBtZW1iZXJzaGlwc0NsaWVudC5pc0F1dGhvcml6ZWQoaW1hZ2VSZWMuZ3JvdXBJZCkKLy8gIH0geWllbGQgaW1hZ2VBdXRob3JpemVkCi8vCi8vICBkZWYgaXNBdXRob3JpemVkKGNvbGxlY3Rpb25JZDogQ29sbGVjdGlvbklkLCBtZW1iZXJzaGlwc0NsaWVudDogTWVtYmVyc2hpcHNDbGllbnQsIGNvbGxlY3Rpb25zU2VydmljZTogQ29sbGVjdGlvbnNTZXJ2aWNlKShpbXBsaWNpdCBhY2Nlc3NUb2tlbjogQWNjZXNzVG9rZW4pOiBGdXR1cmVbQm9vbGVhbl0gPSBmb3IgewovLyAgICBjb2xsZWN0aW9uR3JvdXBJZCA8LSBjb2xsZWN0aW9uc1NlcnZpY2UuZ2V0R3JvdXBJZChjb2xsZWN0aW9uSWQpCi8vICAgIGNvbGxlY3Rpb25BdXRob3JpemVkIDwtIG1lbWJlcnNoaXBzQ2xpZW50LmlzQXV0aG9yaXplZChjb2xsZWN0aW9uR3JvdXBJZCkKLy8gIH0geWllbGQgY29sbGVjdGlvbkF1dGhvcml6ZWQK</text>
+        <text encoding="base64">ICAgIHNjYWxhLnV0aWwuZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNwcmF5Lmh0dHB4Lm1hcnNoYWxsaW5nLl8K</text>
+        <text encoding="base64">Ly8gICJNRU1CRVJTSElQU19VUkwiIC0+ICJodHRwOi8vbG9jYWxob3N0OjkwOTQvdjEvbWVtYmVyc2hpcHMiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhdGNoUmVzcG9uc2UuZW50aXR5LmFzU3RyaW5nLnBhcnNlSnNvbi5hc0luc3RhbmNlT2ZbQXBpRXJyb3JdLmNvZGUgbXVzdEJlICJpbWFnZXMtMTAwMSIK</text>
+        <text encoding="base64">ICB2YWwgdXJsID0gc2NhbGEudXRpbC5Qcm9wZXJ0aWVzLmVudk9yRWxzZSgiTUVNQkVSU0hJUFNfVVJMIiwgImh0dHA6Ly9sb2NhbGhvc3Q6OTA5MC92MS9tZW1iZXJzaGlwcyIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>181</text>
