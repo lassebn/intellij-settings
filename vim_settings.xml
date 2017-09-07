@@ -290,6 +290,12 @@
         <mark key="." line="23" column="12" />
         <mark key="^" line="23" column="12" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/project/TestHelper.scala" timestamp="1504771573352">
+        <mark key="[" line="83" column="40" />
+        <mark key="]" line="83" column="41" />
+        <mark key="^" line="83" column="41" />
+        <mark key="." line="83" column="41" />
+      </file>
       <file name="/Python Console" timestamp="1499338031303">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="5" />
@@ -439,12 +445,6 @@
         <mark key="^" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImageApiIntegrationTest.scala" timestamp="1504705085503">
-        <mark key="[" line="202" column="15" />
-        <mark key="]" line="202" column="25" />
-        <mark key="." line="202" column="25" />
-        <mark key="^" line="202" column="25" />
-      </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499777757680">
         <mark key="[" line="102" column="20" />
         <mark key="]" line="102" column="25" />
@@ -474,12 +474,6 @@
         <mark key="]" line="1" column="22" />
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/access/MembershipsDirective.scala" timestamp="1504705412429">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="16" column="1" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageApiFuncSpec.scala" timestamp="1503564766904">
         <mark key="[" line="34" column="28" />
@@ -776,12 +770,6 @@
         <mark key="]" line="27" column="48" />
         <mark key="^" line="21" column="45" />
         <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/CollectionPropertiesApiIntegrationTest.scala" timestamp="1504704413638">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="45" />
-        <mark key="^" line="13" column="45" />
-        <mark key="." line="13" column="45" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/notifications/NotificationsAPI.scala" timestamp="1496911551227">
         <mark key="[" line="34" column="40" />
