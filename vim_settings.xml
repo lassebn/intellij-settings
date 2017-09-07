@@ -187,6 +187,9 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="40" />
       </file>
+      <file name="$USER_HOME$/Source/imagine-backend/src/main/resources/application.conf" timestamp="1504786271763">
+        <mark key="[" line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="26" />
@@ -580,7 +583,7 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1503168980402">
+      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1504786423206">
         <mark key="[" line="52" column="28" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/access/CollectionAccessDirective.scala" timestamp="1503048650120">
@@ -771,12 +774,6 @@
         <mark key="^" line="4" column="46" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/imagine-backend/docker-compose.yml" timestamp="1501058629260">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="26" column="43" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/TestHelper.scala" timestamp="1494498200632">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -926,6 +923,12 @@
         <mark key="]" line="271" column="103" />
         <mark key="." line="271" column="103" />
         <mark key="^" line="271" column="103" />
+      </file>
+      <file name="$USER_HOME$/Source/imagine-backend/project/Build.scala" timestamp="1504786681116">
+        <mark key="[" line="59" column="28" />
+        <mark key="]" line="61" column="82" />
+        <mark key="^" line="61" column="82" />
+        <mark key="." line="61" column="82" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/clients/src/test/resources/application.conf" timestamp="1504776318139">
         <mark key="[" line="0" column="0" />
@@ -1102,7 +1105,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC5zZXR0aW5ncyhleHBvcnRBV1NDcmVkZW50aWFsc0FzRW52aXJvbm1lbnRWYXJpYWJsZXMgOj0gVGVzdEhlbHBlci5leHBvcnRBd3NDcmVkZW50aWFsc0FzRW52aXJvbm1lbnRWYXJpYWJsZXMoKSkK</text>
+        <text encoding="base64">ICAgICAgcG9ydHM6CiAgICAgICAtIDkwOTQ6OTA5NAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3734,34 +3737,34 @@
         <text encoding="base64">ICAgICJleHBvcnQgQVdTX0FDQ0VTU19LRVlfSUQ9JChhd3MgY29uZmlndXJlIGdldCBhd3NfYWNjZXNzX2tleV9pZCkiLiEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5zZXR0aW5ncyhleHBvcnRBV1NDcmVkZW50aWFsc0FzRW52aXJvbm1lbnRWYXJpYWJsZXMgOj0gVGVzdEhlbHBlci5leHBvcnRBd3NDcmVkZW50aWFsc0FzRW52aXJvbm1lbnRWYXJpYWJsZXMoKSkK</text>
+        <text encoding="base64">ICAgICAgcG9ydHM6CiAgICAgICAtIDkwOTQ6OTA5NAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gOTA5MTo5MDkxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgZXhwb3J0QXdzQ3JlZGVudGlhbHNBc0Vudmlyb25tZW50VmFyaWFibGVzKCk6IFVuaXQgPSB7CiAgICBwcmludGxuKCJFeHBvcnRpbmcgQVdTIGNyZWRlbnRpYWxzIGZvciBEb2NrZXIiKQogICAgImV4cG9ydCBBV1NfU0VDUkVUX0FDQ0VTU19LRVk9JChhd3MgY29uZmlndXJlIGdldCBhd3Nfc2VjcmV0X2FjY2Vzc19rZXkpIi4hCiAgICAiZXhwb3J0IEFXU19BQ0NFU1NfS0VZX0lEPSQoYXdzIGNvbmZpZ3VyZSBnZXQgYXdzX2FjY2Vzc19rZXlfaWQpIi4hCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgcG9ydHM6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5zZXR0aW5ncygocnVuIGluIENvbXBpbGUpIDw8PSAocnVuIGluIENvbXBpbGUpIGRlcGVuZHNPbiAoZXhwb3J0QVdTQ3JlZGVudGlhbHNBc0Vudmlyb25tZW50VmFyaWFibGVzLCBib290ZGIpKQo=</text>
+        <text encoding="base64">ICBpbWFnZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsYXp5IHZhbCBleHBvcnRBV1NDcmVkZW50aWFsc0FzRW52aXJvbm1lbnRWYXJpYWJsZXMgPSB0YXNrS2V5W1VuaXRdKCJXaWxsIHJlYWQgLi9hd3MvY3JlZGVudGlhbHMgYW5kIGV4cG9zZSB0aGVtIGFzIGVudmlyb25tZW50IHZhcmlhYmxlcyBmb3IgZG9ja2VyIikK</text>
+        <text encoding="base64">ICAgIC5zZXR0aW5ncyhleHBvcnRBV1NDcmVkZW50aWFsc0FzRW52aXJvbm1lbnRWYXJpYWJsZXMgOj0gVGVzdEhlbHBlci5leHBvcnRBd3NDcmVkZW50aWFsc0FzRW52aXJvbm1lbnRWYXJpYWJsZXMoKSkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNjYWxhLnV0aWwuZQo=</text>
+        <text encoding="base64">ICBkZWYgZXhwb3J0QXdzQ3JlZGVudGlhbHNBc0Vudmlyb25tZW50VmFyaWFibGVzKCk6IFVuaXQgPSB7CiAgICBwcmludGxuKCJFeHBvcnRpbmcgQVdTIGNyZWRlbnRpYWxzIGZvciBEb2NrZXIiKQogICAgImV4cG9ydCBBV1NfU0VDUkVUX0FDQ0VTU19LRVk9JChhd3MgY29uZmlndXJlIGdldCBhd3Nfc2VjcmV0X2FjY2Vzc19rZXkpIi4hCiAgICAiZXhwb3J0IEFXU19BQ0NFU1NfS0VZX0lEPSQoYXdzIGNvbmZpZ3VyZSBnZXQgYXdzX2FjY2Vzc19rZXlfaWQpIi4hCiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICJNRU1CRVJTSElQU19VUkwiIC0+ICJodHRwOi8vbG9jYWxob3N0OjkwOTQvdjEvbWVtYmVyc2hpcHMiCg==</text>
+        <text encoding="base64">ICAgIC5zZXR0aW5ncygocnVuIGluIENvbXBpbGUpIDw8PSAocnVuIGluIENvbXBpbGUpIGRlcGVuZHNPbiAoZXhwb3J0QVdTQ3JlZGVudGlhbHNBc0Vudmlyb25tZW50VmFyaWFibGVzLCBib290ZGIpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgdXJsID0gc2NhbGEudXRpbC5Qcm9wZXJ0aWVzLmVudk9yRWxzZSgiTUVNQkVSU0hJUFNfVVJMIiwgImh0dHA6Ly9sb2NhbGhvc3Q6OTA5MC92MS9tZW1iZXJzaGlwcyIpCg==</text>
+        <text encoding="base64">ICBsYXp5IHZhbCBleHBvcnRBV1NDcmVkZW50aWFsc0FzRW52aXJvbm1lbnRWYXJpYWJsZXMgPSB0YXNrS2V5W1VuaXRdKCJXaWxsIHJlYWQgLi9hd3MvY3JlZGVudGlhbHMgYW5kIGV4cG9zZSB0aGVtIGFzIGVudmlyb25tZW50IHZhcmlhYmxlcyBmb3IgZG9ja2VyIikK</text>
       </register>
       <register name=":" type="4">
         <text>181</text>
