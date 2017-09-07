@@ -187,8 +187,11 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/imagine-backend/src/main/resources/application.conf" timestamp="1504786271763">
-        <mark key="[" line="3" column="23" />
+      <file name="$USER_HOME$/Source/imagine-backend/src/main/resources/application.conf" timestamp="1504787946153">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
@@ -459,6 +462,9 @@
         <mark key="]" line="61" column="0" />
         <mark key="^" line="61" column="0" />
         <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/imagine-backend/README.md" timestamp="1504787366689">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499777757680">
         <mark key="[" line="102" column="20" />
@@ -899,7 +905,7 @@
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504777662750">
+      <file name="/Dummy.txt" timestamp="1504787335205">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1494231449884">
@@ -924,11 +930,11 @@
         <mark key="." line="271" column="103" />
         <mark key="^" line="271" column="103" />
       </file>
-      <file name="$USER_HOME$/Source/imagine-backend/project/Build.scala" timestamp="1504786681116">
-        <mark key="[" line="59" column="28" />
-        <mark key="]" line="61" column="82" />
-        <mark key="^" line="61" column="82" />
-        <mark key="." line="61" column="82" />
+      <file name="$USER_HOME$/Source/imagine-backend/project/Build.scala" timestamp="1504787924776">
+        <mark key="[" line="58" column="31" />
+        <mark key="]" line="58" column="38" />
+        <mark key="^" line="58" column="38" />
+        <mark key="." line="58" column="38" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/clients/src/test/resources/application.conf" timestamp="1504776318139">
         <mark key="[" line="0" column="0" />
@@ -1105,7 +1111,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcG9ydHM6CiAgICAgICAtIDkwOTQ6OTA5NAo=</text>
+        <text encoding="base64">bWVtYmVyc2hpcHMudXJsID0gImh0dHA6Ly9sb2NhbGhvc3Q6OTA5NC92MS9tZW1iZXJzaGlwcyIKbWVtYmVyc2hpcHMudXJsID0gJHs/TUVNQkVSU0hJUFNfVVJMfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3728,13 +3734,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>&quot;http://localhost:9094/v1/memberships&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJleHBvcnQgQVdTX0FDQ0VTU19LRVlfSUQ9JChhd3MgY29uZmlndXJlIGdldCBhd3NfYWNjZXNzX2tleV9pZCkiLiEK</text>
+        <text encoding="base64">bWVtYmVyc2hpcHMudXJsID0gImh0dHA6Ly9sb2NhbGhvc3Q6OTA5NC92MS9tZW1iZXJzaGlwcyIKbWVtYmVyc2hpcHMudXJsID0gJHs/TUVNQkVSU0hJUFNfVVJMfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcG9ydHM6CiAgICAgICAtIDkwOTQ6OTA5NAo=</text>
