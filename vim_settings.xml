@@ -276,11 +276,11 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1504777219965">
-        <mark key="[" line="35" column="28" />
-        <mark key="]" line="35" column="18" />
-        <mark key="^" line="35" column="18" />
-        <mark key="." line="35" column="18" />
+      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1504859107139">
+        <mark key="[" line="35" column="19" />
+        <mark key="]" line="35" column="27" />
+        <mark key="^" line="35" column="27" />
+        <mark key="." line="35" column="27" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImagePropertiesServiceFuncSpec.scala" timestamp="1503641604939">
         <mark key="[" line="66" column="0" />
@@ -903,11 +903,11 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/project/Build.scala" timestamp="1504857995618">
-        <mark key="[" line="85" column="97" />
-        <mark key="]" line="85" column="102" />
-        <mark key="^" line="85" column="102" />
-        <mark key="." line="85" column="102" />
+      <file name="$USER_HOME$/Source/platform-commons/project/Build.scala" timestamp="1504858620965">
+        <mark key="[" line="81" column="77" />
+        <mark key="]" line="81" column="78" />
+        <mark key="^" line="81" column="78" />
+        <mark key="." line="81" column="78" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/build.sbt" timestamp="1500884338797">
         <mark key="[" line="51" column="0" />
@@ -939,11 +939,11 @@
         <mark key="." line="271" column="103" />
         <mark key="^" line="271" column="103" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/config/ConfigValues.scala" timestamp="1504857481544">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="29" />
-        <mark key="^" line="3" column="29" />
-        <mark key="." line="3" column="29" />
+      <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/config/ConfigValues.scala" timestamp="1504858775520">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/clients/src/test/resources/application.conf" timestamp="1504776318139">
         <mark key="[" line="0" column="0" />
@@ -1130,7 +1130,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3762,34 +3762,34 @@
         <text encoding="base64">bWVtYmVyc2hpcHMudXJsID0gImh0dHA6Ly9sb2NhbGhvc3Q6OTA5NC92MS9tZW1iZXJzaGlwcyIKbWVtYmVyc2hpcHMudXJsID0gJHs/TUVNQkVSU0hJUFNfVVJMfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzcyBDb25uZWN0aW9uQ29uZmlnICh1cmw6IFN0cmluZywgdXNlcjogU3RyaW5nLCBwYXNzd29yZDogU3RyaW5nKQo=</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgbWFydGluamVuc2VuIG9uIDE0LzAxLzIwMTcuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IENvbm5lY3Rpb25Db25maWcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtZW1iZXJzaGlwczoKICAgIGltYWdlOiAwODU4MTY5NTY0NzEuZGtyLmVjci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9jb20ubGVvaWxhYi9tZW1iZXJzaGlwcwogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gREJfQ0xVU1RFUjFfVVJMPWpkYmM6bXlzcWw6Ly91c2Vyc2RiL3VzZXJzP3VzZVVuaWNvZGU9eWVzJnVzZVNTTD1mYWxzZQogICAgICAtIERCX0NMVVNURVIxX1VTRVI9bXlzcWwKICAgICAgLSBEQl9DTFVTVEVSMV9QQVNTPW15c3FsCiAgICBwb3J0czoKICAgICAgLSA5MDk0OjkwOTQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2Nrc2VydmVyLmNsaWVudC5zZXJ2ZXIuTW9ja1NlcnZlckNsaWVudAo=</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyBDb25uZWN0aW9uQ29uZmlnICh1cmw6IFN0cmluZywgdXNlcjogU3RyaW5nLCBwYXNzd29yZDogU3RyaW5nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgcmVzdE1vY2tDbGllbnQgPSBuZXcgTW9ja1NlcnZlckNsaWVudChyZXN0TW9ja0hvc3QsIHJlc3RNb2NrUG9ydCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAib3JnLm1vY2stc2VydmVyIiAlICJtb2Nrc2VydmVyLWNsaWVudC1qYXZhIiAlICIzLjEwLjQiCg==</text>
+        <text encoding="base64">ICBtZW1iZXJzaGlwczoKICAgIGltYWdlOiAwODU4MTY5NTY0NzEuZGtyLmVjci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9jb20ubGVvaWxhYi9tZW1iZXJzaGlwcwogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gREJfQ0xVU1RFUjFfVVJMPWpkYmM6bXlzcWw6Ly91c2Vyc2RiL3VzZXJzP3VzZVVuaWNvZGU9eWVzJnVzZVNTTD1mYWxzZQogICAgICAtIERCX0NMVVNURVIxX1VTRVI9bXlzcWwKICAgICAgLSBEQl9DTFVTVEVSMV9QQVNTPW15c3FsCiAgICBwb3J0czoKICAgICAgLSA5MDk0OjkwOTQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgcmVzdG1vY2s6CiAgICBpbWFnZTogamFtZXNkYmxvb20vbW9ja3NlcnZlcgogICAgcG9ydHM6CiAgICAgIC0gMTA4MDoxMDgwCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2Nrc2VydmVyLmNsaWVudC5zZXJ2ZXIuTW9ja1NlcnZlckNsaWVudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHN0YXR1c1VzZXJzID0gcyJjdXJsIC0tb3V0cHV0IC9kZXYvbnVsbCAtLXNpbGVudCAtLWZhaWwgaHR0cDovL2xvY2FsaG9zdDo5MDkwL3YxIi4hCg==</text>
+        <text encoding="base64">ICB2YWwgcmVzdE1vY2tDbGllbnQgPSBuZXcgTW9ja1NlcnZlckNsaWVudChyZXN0TW9ja0hvc3QsIHJlc3RNb2NrUG9ydCkK</text>
       </register>
       <register name=":" type="4">
         <text>181</text>
