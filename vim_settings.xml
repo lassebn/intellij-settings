@@ -354,11 +354,6 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/resources/application.conf" timestamp="1504788003386">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/intouch-backend/intouch-service/src/main/java/com/warefly/intouch/service/EmailService.java" timestamp="1498650963114">
         <mark key="[" line="86" column="37" />
         <mark key="]" line="86" column="37" />
@@ -404,10 +399,10 @@
         <mark key="^" line="98" column="122" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/project/TestHelper.scala" timestamp="1504783629179">
-        <mark key="[" line="76" column="51" />
-        <mark key="]" line="76" column="43" />
-        <mark key="." line="76" column="43" />
-        <mark key="^" line="76" column="43" />
+        <mark key="[" line="71" column="51" />
+        <mark key="]" line="71" column="43" />
+        <mark key="." line="71" column="43" />
+        <mark key="^" line="71" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/afd61665-bfef-4909-8041-40e355b174d6/console.sql" timestamp="1500620955150">
         <mark key="[" line="0" column="0" />
@@ -489,6 +484,12 @@
         <mark key="]" line="1" column="22" />
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/access/MembershipsDirective.scala" timestamp="1504868387021">
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="30" column="74" />
+        <mark key="." line="30" column="74" />
+        <mark key="^" line="30" column="74" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageApiFuncSpec.scala" timestamp="1503564766904">
         <mark key="[" line="34" column="28" />
@@ -1132,7 +1133,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RUNTIME_ENVIRONMENT</text>
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3755,7 +3756,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>RUNTIME_ENVIRONMENT</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -3764,34 +3765,34 @@
         <text encoding="base64">bWVtYmVyc2hpcHMudXJsID0gImh0dHA6Ly9sb2NhbGhvc3Q6OTA5NC92MS9tZW1iZXJzaGlwcyIKbWVtYmVyc2hpcHMudXJsID0gJHs/TUVNQkVSU0hJUFNfVVJMfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBhbmRUaHJvd0V4Y2VwdGlvbklmU29tZShleGNlcHRpb246IEV4Y2VwdGlvbik6IE9wdGlvbltBXSA9IG9wdGlvbiBtYXRjaCB7CiAgICAgIGNhc2UgTm9uZSA9PiBOb25lCiAgICAgIGNhc2UgU29tZShfKSA9PiB0aHJvdyBleGNlcHRpb24KICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgdXJsID0gc2NhbGEudXRpbC5Qcm9wZXJ0aWVzLmVudk9yRWxzZSgiTUVNQkVSU0hJUFNfVVJMIiwgImh0dHA6Ly9sb2NhbGhvc3Q6OTA5MC92MS9tZW1iZXJzaGlwcyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAqCg==</text>
+        <text encoding="base64">ICB2YWwgdXJsID0gc2NhbGEudXRpbC5Qcm9wZXJ0aWVzLmVudk9yRWxzZSgiTUVNQkVSU0hJUFNfVVJMIiwgImh0dHA6Ly9sb2NhbGhvc3Q6OTA5MC92MS9tZW1iZXJzaGlwcyIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgbWFydGluamVuc2VuIG9uIDE0LzAxLzIwMTcuCg==</text>
+        <text encoding="base64">ICAqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IENvbm5lY3Rpb25Db25maWcK</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgbWFydGluamVuc2VuIG9uIDE0LzAxLzIwMTcuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IENvbm5lY3Rpb25Db25maWcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzcyBDb25uZWN0aW9uQ29uZmlnICh1cmw6IFN0cmluZywgdXNlcjogU3RyaW5nLCBwYXNzd29yZDogU3RyaW5nKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y2FzZSBjbGFzcyBDb25uZWN0aW9uQ29uZmlnICh1cmw6IFN0cmluZywgdXNlcjogU3RyaW5nLCBwYXNzd29yZDogU3RyaW5nKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtZW1iZXJzaGlwczoKICAgIGltYWdlOiAwODU4MTY5NTY0NzEuZGtyLmVjci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9jb20ubGVvaWxhYi9tZW1iZXJzaGlwcwogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gREJfQ0xVU1RFUjFfVVJMPWpkYmM6bXlzcWw6Ly91c2Vyc2RiL3VzZXJzP3VzZVVuaWNvZGU9eWVzJnVzZVNTTD1mYWxzZQogICAgICAtIERCX0NMVVNURVIxX1VTRVI9bXlzcWwKICAgICAgLSBEQl9DTFVTVEVSMV9QQVNTPW15c3FsCiAgICBwb3J0czoKICAgICAgLSA5MDk0OjkwOTQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>181</text>
