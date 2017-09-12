@@ -625,8 +625,12 @@
         <mark key="." line="79" column="26" />
         <mark key="^" line="79" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/README.md" timestamp="1504862429640">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Source/platform-commons/README.md" timestamp="1505220487647">
+        <mark key="'" line="22" column="68" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/CollectionPropertiesRepository.scala" timestamp="1503400247887">
         <mark key="[" line="52" column="0" />
@@ -1013,7 +1017,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="15" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/mail/MailService.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/mail/MailService.scala" />
       <jump line="301" column="0" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/mail/MailServiceSpec.scala" />
       <jump line="69" column="34" filename="$USER_HOME$/Source/studies-and-me/src/raml/api.raml" />
@@ -1113,6 +1116,7 @@
       <jump line="96" column="0" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
       <jump line="81" column="78" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
       <jump line="384" column="14" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" />
+      <jump line="22" column="68" filename="$USER_HOME$/Source/platform-commons/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
