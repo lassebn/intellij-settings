@@ -487,12 +487,6 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/clients/src/main/scala/com/leoilab/clients/MembershipsClient.scala" timestamp="1504861042846">
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="22" column="56" />
-        <mark key="." line="22" column="56" />
-        <mark key="^" line="22" column="56" />
-      </file>
       <file name="$USER_HOME$/Source/images3/docker-compose.yml" timestamp="1503585605857">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="58" />
@@ -633,9 +627,6 @@
       </file>
       <file name="$USER_HOME$/Source/platform-commons/README.md" timestamp="1504862429640">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="74" />
-        <mark key="." line="3" column="74" />
-        <mark key="^" line="3" column="74" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/CollectionPropertiesRepository.scala" timestamp="1503400247887">
         <mark key="[" line="52" column="0" />
@@ -746,10 +737,10 @@
         <mark key="." line="75" column="14" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/clients/src/test/scala/com/leoilab/clients/MembershipsClientSpec.scala" timestamp="1504861207725">
-        <mark key="[" line="152" column="39" />
-        <mark key="]" line="152" column="52" />
-        <mark key="^" line="152" column="52" />
-        <mark key="." line="152" column="52" />
+        <mark key="[" line="32" column="39" />
+        <mark key="]" line="32" column="52" />
+        <mark key="^" line="32" column="52" />
+        <mark key="." line="32" column="52" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/auth/src/main/scala/com/leoilab/auth/AuthInfo.scala" timestamp="1504857932094">
         <mark key="[" line="23" column="48" />
@@ -920,7 +911,7 @@
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505140265892">
+      <file name="/Dummy.txt" timestamp="1505219063008">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1494231449884">
