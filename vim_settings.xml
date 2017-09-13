@@ -416,12 +416,12 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" timestamp="1505213868273">
-        <mark key="'" line="379" column="14" />
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="23" />
-        <mark key="^" line="22" column="23" />
-        <mark key="." line="22" column="23" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" timestamp="1505307339395">
+        <mark key="'" line="382" column="14" />
+        <mark key="[" line="343" column="15" />
+        <mark key="]" line="344" column="23" />
+        <mark key="^" line="344" column="23" />
+        <mark key="." line="344" column="23" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" timestamp="1496224298461">
         <mark key="[" line="81" column="98" />
@@ -523,11 +523,11 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserRepository.scala" timestamp="1505305659777">
-        <mark key="[" line="37" column="11" />
-        <mark key="]" line="38" column="124" />
-        <mark key="." line="38" column="124" />
-        <mark key="^" line="38" column="124" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserRepository.scala" timestamp="1505307312977">
+        <mark key="[" line="36" column="319" />
+        <mark key="]" line="37" column="19" />
+        <mark key="^" line="37" column="19" />
+        <mark key="." line="37" column="19" />
       </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/main/scala/lambda/Main.scala" timestamp="1493887608667">
         <mark key="[" line="5" column="30" />
@@ -878,6 +878,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserRepositorySpec.scala" timestamp="1505307525272">
+        <mark key="[" line="45" column="15" />
+        <mark key="]" line="45" column="49" />
+        <mark key="^" line="45" column="49" />
+        <mark key="." line="45" column="49" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/GoogleSample.scala" timestamp="1500547898836">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="57" column="29" />
@@ -1119,8 +1125,8 @@
       <jump line="22" column="68" filename="$USER_HOME$/Source/platform-commons/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB0aGlzOiBEQkNvbXBvbmVudCA9Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>User</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3743,7 +3749,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>User</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
