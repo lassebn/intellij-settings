@@ -56,12 +56,6 @@
         <mark key="." line="56" column="53" />
         <mark key="^" line="56" column="53" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" timestamp="1505310605886">
-        <mark key="[" line="81" column="89" />
-        <mark key="]" line="81" column="83" />
-        <mark key="^" line="81" column="83" />
-        <mark key="." line="81" column="83" />
-      </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceUserLockingSpec.scala" timestamp="1495454660991">
         <mark key="[" line="149" column="37" />
         <mark key="]" line="149" column="85" />
