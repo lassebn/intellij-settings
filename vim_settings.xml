@@ -798,11 +798,11 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1505464014440">
-        <mark key="[" line="56" column="12" />
-        <mark key="]" line="56" column="12" />
-        <mark key="." line="56" column="12" />
-        <mark key="^" line="56" column="12" />
+      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1505466503991">
+        <mark key="[" line="43" column="35" />
+        <mark key="]" line="43" column="36" />
+        <mark key="." line="43" column="36" />
+        <mark key="^" line="43" column="36" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageServiceFuncSpec.scala" timestamp="1503564982107">
         <mark key="[" line="68" column="28" />
