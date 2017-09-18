@@ -5,6 +5,11 @@
       <mark key="V" line="4" column="4" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Source/platform-users/ecs-deploy/capitalize-keys.py" timestamp="1505735675510">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/User.scala" timestamp="1498108906379">
         <mark key="[" line="30" column="82" />
         <mark key="]" line="30" column="82" />
@@ -131,6 +136,12 @@
         <mark key="^" line="119" column="58" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/ecs-deploy/deploy.sh" timestamp="1505735886144">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="140" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyUserRepository.scala" timestamp="1497244834588">
         <mark key="[" line="39" column="53" />
         <mark key="]" line="39" column="67" />
@@ -251,17 +262,17 @@
         <mark key="." line="390" column="32" />
         <mark key="^" line="390" column="32" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1505721672551" />
       <file name="$USER_HOME$/Source/klikkit-backend/docker-compose.yml" timestamp="1502799849479">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
         <mark key="^" line="18" column="1" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1505213178003">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1505736126500">
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="29" column="5" />
+        <mark key="." line="29" column="5" />
+        <mark key="^" line="29" column="5" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImagePropertiesServiceFuncSpec.scala" timestamp="1503641604939">
         <mark key="[" line="66" column="0" />
@@ -373,6 +384,12 @@
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/project/assembly" timestamp="1500629010496">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-template.json" timestamp="1505735805647">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="82" column="125" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/rest/directives/RequestIdDirective.scala" timestamp="1503924224449">
         <mark key="[" line="15" column="45" />
@@ -546,11 +563,6 @@
         <mark key="." line="70" column="47" />
         <mark key="^" line="70" column="47" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1505462152731">
-        <mark key="[" line="398" column="0" />
-        <mark key="]" line="398" column="0" />
-        <mark key="." line="398" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/studies-and-me/project/TestHelper.scala" timestamp="1504790654842">
         <mark key="[" line="111" column="56" />
         <mark key="]" line="111" column="44" />
@@ -580,6 +592,12 @@
         <mark key="]" line="8" column="29" />
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="29" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/project/plugins.sbt" timestamp="1505736060386">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="88" />
+        <mark key="^" line="10" column="62" />
+        <mark key="." line="10" column="62" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/project/Build.scala" timestamp="1504770431265">
         <mark key="[" line="13" column="71" />
@@ -745,11 +763,11 @@
         <mark key="." line="15" column="19" />
         <mark key="^" line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/circle.yml" timestamp="1495527564379">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="28" column="15" />
-        <mark key="^" line="28" column="15" />
-        <mark key="." line="28" column="15" />
+      <file name="$USER_HOME$/Source/platform-users/circle.yml" timestamp="1505735242948">
+        <mark key="[" line="43" column="31" />
+        <mark key="]" line="43" column="33" />
+        <mark key="." line="43" column="33" />
+        <mark key="^" line="43" column="33" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiDigitigerSpec.scala" timestamp="1496909585827">
         <mark key="[" line="75" column="7" />
@@ -953,7 +971,7 @@
         <mark key="." line="235" column="93" />
         <mark key="^" line="235" column="93" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505731040344">
+      <file name="/Dummy.txt" timestamp="1505736091613">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1494231449884">
@@ -1025,6 +1043,7 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1505734866057" />
       <file name="$USER_HOME$/Source/klikkit-backend/project/project/plugins.sbt" timestamp="1502719203348">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="66" />
@@ -1051,6 +1070,12 @@
         <mark key="]" line="49" column="0" />
         <mark key="^" line="50" column="17" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-definition-migrate-template.json" timestamp="1505735739661">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1157,7 +1182,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VyaW1hZ2VfaWQgPSAiMjA1ZWVjMzItMzFhMC00OWMyLTlhMzYtZWYwNDI0ZTk0MzhkIgo=</text>
+        <text encoding="base64">ICAiTGVvIGlsYWIgcmVsZWFzZXMiIGF0ICJzMzovL2xlby1wbGF0Zm9ybS1wYWNrYWdlcy9yZWxlYXNlcyIK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3780,43 +3805,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mysql</text>
+        <text>-r deploy/requirements_deploy.txt</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybCA9ICJqZGJjOm15c3FsOi8vcHI4NDk4czNoZ3IxYWMuY2J2bG16amp1eG90LmV1LWNlbnRyYWwtMS5yZHMuYW1hem9uYXdzLmNvbS91c2Vycz91c2VTU0w9ZmFsc2UiCg==</text>
+        <text encoding="base64">ICAiTGVvIGlsYWIgc25hcHNob3RzIiBhdCAiczM6Ly9zMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9sZW8tcGxhdGZvcm0tcGFja2FnZXMvc25hcHNob3RzIiwKICAiTGVvIGlsYWIgcmVsZWFzZXMiIGF0ICJzMzovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2xlby1wbGF0Zm9ybS1wYWNrYWdlcy9yZWxlYXNlcyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VyaW1hZ2VfaWQgPSAiMjA1ZWVjMzItMzFhMC00OWMyLTlhMzYtZWYwNDI0ZTk0MzhkIgo=</text>
+        <text encoding="base64">ICAiTGVvIGlsYWIgcmVsZWFzZXMiIGF0ICJzMzovL2xlby1wbGF0Zm9ybS1wYWNrYWdlcy9yZWxlYXNlcyIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVybCA9ICJqZGJjOm15c3FsOi8vcHI4NDk4czNoZ3IxYWMuY2J2bG16amp1eG90LmV1LWNlbnRyYWwtMS5yZHMuYW1hem9uYXdzLmNvbS9pbWFnZXM/dXNlU1NMPWZhbHNlIgogICAgdXJsID0gJHs/TVlTUUxfSU1BR0VTX1VSTH0K</text>
+        <text encoding="base64">ICAiTGVvIGlsYWIgc25hcHNob3RzIiBhdCAiczM6Ly9sZW8tcGxhdGZvcm0tcGFja2FnZXMvc25hcHNob3RzIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVybCA9ICJqZGJjOm15c3FsOi8vcHI4NDk4czNoZ3IxYWMuY2J2bG16amp1eG90LmV1LWNlbnRyYWwtMS5yZHMuYW1hem9uYXdzLmNvbS9pbWFnZXM/dXNlU1NMPWZhbHNlIgogICAgdXJsID0gJHs/TVlTUUxfSU1BR0VTX1VSTH0K</text>
+        <text encoding="base64">cHl0aG9uIC4uL2RlcGxveS9kZXBsb3kucHkgJFRBU0tfVEVNUExBVEUgJENPTkZJR19ZTUwgLS1kZXBsb3kgLS1hdHRlbXB0cyA0MCAtLXBhdXNlIDMwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QucHJvcC5UYWJsZURyaXZlblByb3BlcnR5Q2hlY2tzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIkltYWdlIjogIjA4NTgxNjk1NjQ3MS5ka3IuZWNyLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2NvbS5sZW9pbGFiL3VzZXJzLW5naW54Ont7IENJUkNMRV9TSEExIH19IiwgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBEbyBub3QgY3JlYXRlIHVzZXIgd2hlbiBtZW1iZXJzaGlwIGNsaWVudCBmYWlscwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIkltYWdlIjogIjA4NTgxNjk1NjQ3MS5ka3IuZWNyLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2NvbS5sZW9pbGFiL3VzZXJzOnt7IENJUkNMRV9TSEExIH19IiwgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmNsaWVudHMue01lbWJlcnNoaXBzQ2xpZW50LCBVbmV4cGVjdGVkTWVtYmVyc2hpcFJlc3BvbnNlRXhjZXB0aW9ufQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgYm90bzMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQue0Z1dHVyZSwgUHJvbWlzZX0K</text>
+        <text encoding="base64">cmVzb2x2ZXJzICsrPSBTZXEoCiAgIkxlbyBpbGFiIHNuYXBzaG90cyIgYXQgInMzOi8vbGVvLXBsYXRmb3JtLXBhY2thZ2VzL3NuYXBzaG90cyIsCiAgIkxlbyBpbGFiIHJlbGVhc2VzIiBhdCAiczM6Ly9sZW8tcGxhdGZvcm0tcGFja2FnZXMvcmVsZWFzZXMiCikK</text>
       </register>
       <register name=":" type="4">
         <text>326</text>
