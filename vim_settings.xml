@@ -293,6 +293,12 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="19" />
       </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/it/scala/DriverIntegrationTest.scala" timestamp="1505723589488">
+        <mark key="[" line="152" column="47" />
+        <mark key="]" line="152" column="46" />
+        <mark key="^" line="152" column="46" />
+        <mark key="." line="152" column="46" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UsersExceptionHandler.scala" timestamp="1505462140915">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -416,12 +422,12 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" timestamp="1505716758024">
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" timestamp="1505725023166">
         <mark key="'" line="342" column="61" />
-        <mark key="[" line="352" column="90" />
-        <mark key="]" line="354" column="43" />
-        <mark key="^" line="354" column="43" />
-        <mark key="." line="354" column="43" />
+        <mark key="[" line="355" column="113" />
+        <mark key="]" line="355" column="125" />
+        <mark key="^" line="355" column="125" />
+        <mark key="." line="355" column="125" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" timestamp="1496224298461">
         <mark key="[" line="81" column="98" />
@@ -653,6 +659,12 @@
         <mark key="]" line="13" column="25" />
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
+      </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/it/resources/db/init.sql" timestamp="1505723726342">
+        <mark key="[" line="47" column="272" />
+        <mark key="]" line="47" column="307" />
+        <mark key="." line="47" column="307" />
+        <mark key="^" line="47" column="307" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/IntegrationTestHelper.scala" timestamp="1503298453554">
         <mark key="[" line="11" column="46" />
@@ -1136,7 +1148,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">XSA=</text>
+        <text>00002e9e-e4be-4662-a4cd-f5b3162a2ed7</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3759,7 +3771,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">XSA=</text>
+        <text>00002e9e-e4be-4662-a4cd-f5b3162a2ed7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
