@@ -251,6 +251,7 @@
         <mark key="." line="390" column="32" />
         <mark key="^" line="390" column="32" />
       </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1505721672551" />
       <file name="$USER_HOME$/Source/klikkit-backend/docker-compose.yml" timestamp="1502799849479">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
@@ -1003,7 +1004,6 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1505200912432" />
       <file name="$USER_HOME$/Source/klikkit-backend/project/project/plugins.sbt" timestamp="1502719203348">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="66" />
