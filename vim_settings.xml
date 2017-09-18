@@ -660,11 +660,11 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/it/resources/db/init.sql" timestamp="1505723726342">
-        <mark key="[" line="47" column="272" />
-        <mark key="]" line="47" column="307" />
-        <mark key="." line="47" column="307" />
-        <mark key="^" line="47" column="307" />
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/it/resources/db/init.sql" timestamp="1505726179411">
+        <mark key="[" line="117" column="139" />
+        <mark key="]" line="117" column="139" />
+        <mark key="." line="117" column="139" />
+        <mark key="^" line="117" column="327" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/IntegrationTestHelper.scala" timestamp="1503298453554">
         <mark key="[" line="11" column="46" />
@@ -1148,7 +1148,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>00002e9e-e4be-4662-a4cd-f5b3162a2ed7</text>
+        <text>7549b3de-6007-406b-87ee-1db6ede3ed34</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3771,7 +3771,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>00002e9e-e4be-4662-a4cd-f5b3162a2ed7</text>
+        <text>7549b3de-6007-406b-87ee-1db6ede3ed34</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
