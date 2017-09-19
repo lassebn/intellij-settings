@@ -370,6 +370,7 @@
         <mark key="^" line="3" column="96" />
         <mark key="." line="3" column="96" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/project/project/plugins.sbt" timestamp="1505813911828" />
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/README.md" timestamp="1494314384652">
         <mark key="[" line="0" column="0" />
       </file>
@@ -971,7 +972,7 @@
         <mark key="." line="235" column="93" />
         <mark key="^" line="235" column="93" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505736091613">
+      <file name="/Dummy.txt" timestamp="1505813904867">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1494231449884">
