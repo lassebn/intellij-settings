@@ -136,11 +136,10 @@
         <mark key="^" line="119" column="58" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/ecs-deploy/deploy.sh" timestamp="1505735886144">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="20" column="140" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Source/platform-users/ecs-deploy/deploy.sh" timestamp="1505807821845">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyUserRepository.scala" timestamp="1497244834588">
         <mark key="[" line="39" column="53" />
@@ -763,11 +762,11 @@
         <mark key="." line="15" column="19" />
         <mark key="^" line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/circle.yml" timestamp="1505735242948">
-        <mark key="[" line="43" column="31" />
-        <mark key="]" line="43" column="33" />
-        <mark key="." line="43" column="33" />
-        <mark key="^" line="43" column="33" />
+      <file name="$USER_HOME$/Source/platform-users/circle.yml" timestamp="1505807876901">
+        <mark key="[" line="39" column="31" />
+        <mark key="]" line="43" column="43" />
+        <mark key="." line="43" column="43" />
+        <mark key="^" line="43" column="43" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiDigitigerSpec.scala" timestamp="1496909585827">
         <mark key="[" line="75" column="7" />
@@ -826,11 +825,11 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1505466503991">
-        <mark key="[" line="43" column="35" />
-        <mark key="]" line="43" column="36" />
-        <mark key="." line="43" column="36" />
-        <mark key="^" line="43" column="36" />
+      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1505806230133">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="40" column="36" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageServiceFuncSpec.scala" timestamp="1503564982107">
         <mark key="[" line="68" column="28" />
@@ -1182,7 +1181,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NhbGFzdHlsZSIgJSUgInNjYWxhc3R5bGUtc2J0LXBsdWdpbiIgJSAiMS4yIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3805,7 +3804,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-r deploy/requirements_deploy.txt</text>
+        <text>sbt &quot;set taskDefinition := \&quot;${TASK_TEMPLATE}\&quot;&quot; &quot;set environmentVariables := \&quot;${CONFIG_YML}\&quot;&quot; &quot;set deployTag := \&quot;${CIRCLE_SHA1}\&quot;&quot; deploy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -3814,31 +3813,31 @@
         <text encoding="base64">ICAiTGVvIGlsYWIgc25hcHNob3RzIiBhdCAiczM6Ly9zMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9sZW8tcGxhdGZvcm0tcGFja2FnZXMvc25hcHNob3RzIiwKICAiTGVvIGlsYWIgcmVsZWFzZXMiIGF0ICJzMzovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2xlby1wbGF0Zm9ybS1wYWNrYWdlcy9yZWxlYXNlcyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NhbGFzdHlsZSIgJSUgInNjYWxhc3R5bGUtc2J0LXBsdWdpbiIgJSAiMS4yIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiTGVvIGlsYWIgcmVsZWFzZXMiIGF0ICJzMzovL2xlby1wbGF0Zm9ybS1wYWNrYWdlcy9yZWxlYXNlcyIK</text>
+        <text encoding="base64">ICAgICAgbWVtX2xpbWl0OiA1MTJtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiTGVvIGlsYWIgc25hcHNob3RzIiBhdCAiczM6Ly9sZW8tcGxhdGZvcm0tcGFja2FnZXMvc25hcHNob3RzIiwK</text>
+        <text encoding="base64">ICAgICAgbWVtX2xpbWl0OiA1MTJtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHl0aG9uIC4uL2RlcGxveS9kZXBsb3kucHkgJFRBU0tfVEVNUExBVEUgJENPTkZJR19ZTUwgLS1kZXBsb3kgLS1hdHRlbXB0cyA0MCAtLXBhdXNlIDMwCg==</text>
+        <text encoding="base64">ICAgICAgbWVtX2xpbWl0OiA2NG0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIkltYWdlIjogIjA4NTgxNjk1NjQ3MS5ka3IuZWNyLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2NvbS5sZW9pbGFiL3VzZXJzLW5naW54Ont7IENJUkNMRV9TSEExIH19IiwgCg==</text>
+        <text encoding="base64">ICAgICAgbWVtX2xpbWl0OiAyNTZtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIkltYWdlIjogIjA4NTgxNjk1NjQ3MS5ka3IuZWNyLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2NvbS5sZW9pbGFiL3VzZXJzOnt7IENJUkNMRV9TSEExIH19IiwgCg==</text>
+        <text encoding="base64">ICAgICAgbWVtX2xpbWl0OiA1MTJtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbWVtX2xpbWl0OiA1MTJtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgYm90bzMK</text>
+        <text encoding="base64">ICAgICAgbWVtX2xpbWl0OiAyNTZtCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
