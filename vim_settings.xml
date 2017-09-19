@@ -136,10 +136,11 @@
         <mark key="^" line="119" column="58" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/ecs-deploy/deploy.sh" timestamp="1505807821845">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Source/platform-users/ecs-deploy/deploy.sh" timestamp="1505808999368">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+        <mark key="^" line="21" column="22" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyUserRepository.scala" timestamp="1497244834588">
         <mark key="[" line="39" column="53" />
