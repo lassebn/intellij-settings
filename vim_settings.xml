@@ -136,6 +136,12 @@
         <mark key="^" line="37" column="83" />
         <mark key="." line="37" column="83" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/.github/PULL_REQUEST_TEMPLATE.md" timestamp="1505915401287">
+        <mark key="[" line="7" column="60" />
+        <mark key="]" line="7" column="45" />
+        <mark key="^" line="7" column="45" />
+        <mark key="." line="7" column="45" />
+      </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
         <mark key="[" line="16" column="69" />
         <mark key="]" line="16" column="70" />
@@ -840,11 +846,11 @@
         <mark key="^" line="2" column="71" />
         <mark key="." line="2" column="71" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/project/Build.scala" timestamp="1504788024347">
-        <mark key="[" line="8" column="38" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="8" column="29" />
+      <file name="$USER_HOME$/Source/platform-images/project/Build.scala" timestamp="1505915448988">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="18" />
+        <mark key="." line="28" column="18" />
+        <mark key="^" line="28" column="18" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/project/plugins.sbt" timestamp="1505737229620">
         <mark key="[" line="11" column="0" />
@@ -1182,7 +1188,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Int</text>
+        <text>1.29.3</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3805,7 +3811,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Int</text>
+        <text>1.29.3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
