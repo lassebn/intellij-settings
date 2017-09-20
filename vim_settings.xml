@@ -268,6 +268,12 @@
         <mark key="." line="390" column="32" />
         <mark key="^" line="390" column="32" />
       </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1505911324923">
+        <mark key="[" line="50" column="57" />
+        <mark key="]" line="50" column="59" />
+        <mark key="^" line="50" column="59" />
+        <mark key="." line="50" column="59" />
+      </file>
       <file name="$USER_HOME$/Source/klikkit-backend/docker-compose.yml" timestamp="1502799849479">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
@@ -1187,8 +1193,8 @@
       <jump line="24" column="7" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Int</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3811,7 +3817,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sbt &quot;set taskDefinition := \&quot;${TASK_TEMPLATE}\&quot;&quot; &quot;set environmentVariables := \&quot;${CONFIG_YML}\&quot;&quot; &quot;set deployTag := \&quot;${CIRCLE_SHA1}\&quot;&quot; deploy</text>
+        <text>Int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
