@@ -5,11 +5,6 @@
       <mark key="V" line="4" column="4" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Source/platform-users/ecs-deploy/capitalize-keys.py" timestamp="1505735675510">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1499936920460">
         <mark key="[" line="0" column="0" />
       </file>
@@ -446,11 +441,11 @@
         <mark key="." line="86" column="69" />
         <mark key="^" line="86" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1502805055304">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="79" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="140" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/client_secret.json" timestamp="1500883802726">
         <mark key="[" line="0" column="36" />
@@ -500,7 +495,7 @@
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505813904867">
+      <file name="/Dummy.txt" timestamp="1505916594827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
@@ -545,7 +540,12 @@
         <mark key="^" line="28" column="8" />
         <mark key="." line="28" column="8" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1505734866057" />
+      <file name="$USER_HOME$/Source/klikkit-backend/project/plugins.sbt" timestamp="1505916627824">
+        <mark key="[" line="13" column="59" />
+        <mark key="]" line="14" column="75" />
+        <mark key="^" line="14" column="75" />
+        <mark key="." line="14" column="75" />
+      </file>
       <file name="$USER_HOME$/Source/images3/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503565055763">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="54" />
@@ -822,6 +822,12 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="5" column="30" />
       </file>
+      <file name="$USER_HOME$/Source/klikkit-backend/circle.yml" timestamp="1505916508870">
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="37" column="32" />
+        <mark key="^" line="37" column="32" />
+        <mark key="." line="37" column="32" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/deploy-pipeline.py" timestamp="1499949262796">
         <mark key="[" line="31" column="13" />
         <mark key="]" line="33" column="17" />
@@ -909,11 +915,11 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend/build.sbt" timestamp="1502796220454">
-        <mark key="[" line="66" column="29" />
-        <mark key="]" line="66" column="40" />
-        <mark key="." line="66" column="40" />
-        <mark key="^" line="66" column="40" />
+      <file name="$USER_HOME$/Source/klikkit-backend/build.sbt" timestamp="1505916580655">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="22" column="57" />
+        <mark key="." line="22" column="57" />
+        <mark key="^" line="22" column="57" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/concurrent/SpecialExecutionTactics.scala" timestamp="1503917152125">
         <mark key="[" line="1" column="0" />
@@ -926,6 +932,12 @@
         <mark key="]" line="4" column="28" />
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/cf-task-template.json" timestamp="1505917408598">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="82" column="127" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/CollectionsServiceFuncSpec.scala" timestamp="1503564905543">
         <mark key="[" line="15" column="72" />
@@ -1065,11 +1077,11 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend/project/project/plugins.sbt" timestamp="1502719203348">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="66" />
-        <mark key="^" line="2" column="66" />
-        <mark key="." line="2" column="66" />
+      <file name="$USER_HOME$/Source/klikkit-backend/project/project/plugins.sbt" timestamp="1505916645386">
+        <mark key="[" line="2" column="67" />
+        <mark key="]" line="2" column="63" />
+        <mark key="^" line="2" column="63" />
+        <mark key="." line="2" column="63" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/resources/db/migration/V3__PsoHappyId_to_ExternalUserId.sql" timestamp="1497006621593">
         <mark key="[" line="9" column="24" />
@@ -1187,8 +1199,8 @@
       <jump line="24" column="7" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1.29.3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIkltYWdlIjogIjA4NTgxNjk1NjQ3MS5ka3IuZWNyLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2NvbS5sZW9pbGFiL2tsaWtraXQtbmdpbng6e3sgQ0lSQ0xFX1NIQTEgfX0iLAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3820,34 +3832,34 @@
         <text encoding="base64">ICAiTGVvIGlsYWIgc25hcHNob3RzIiBhdCAiczM6Ly9zMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9sZW8tcGxhdGZvcm0tcGFja2FnZXMvc25hcHNob3RzIiwKICAiTGVvIGlsYWIgcmVsZWFzZXMiIGF0ICJzMzovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2xlby1wbGF0Zm9ybS1wYWNrYWdlcy9yZWxlYXNlcyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIkltYWdlIjogIjA4NTgxNjk1NjQ3MS5ka3IuZWNyLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2NvbS5sZW9pbGFiL2tsaWtraXQtbmdpbng6e3sgQ0lSQ0xFX1NIQTEgfX0iLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbWVtX2xpbWl0OiA1MTJtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIkltYWdlIjogIjA4NTgxNjk1NjQ3MS5ka3IuZWNyLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2NvbS5sZW9pbGFiL2tsaWtraXQ6e3sgQ0lSQ0xFX1NIQTEgfX0iLCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbWVtX2xpbWl0OiA1MTJtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIkltYWdlIjogIjA4NTgxNjk1NjQ3MS5ka3IuZWNyLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2NvbS5sZW9pbGFiL2tsaWtraXQtbmdpbng6e3sgQ0lSQ0xFX1NIQTEgfX0iLCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbWVtX2xpbWl0OiA2NG0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIkltYWdlIjogIjA4NTgxNjk1NjQ3MS5ka3IuZWNyLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2NvbS5sZW9pbGFiL2tsaWtraXQ6e3sgQ0lSQ0xFX1NIQTEgfX0iLCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWVtX2xpbWl0OiAyNTZtCg==</text>
+        <text encoding="base64">cHl0aG9uIC4uL2RlcGxveS9kZXBsb3kucHkgJFRBU0tfVEVNUExBVEUgJENPTkZJR19ZTUwgLS1kZXBsb3kgLS1hdHRlbXB0cyA0MCAtLXBhdXNlIDUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbWVtX2xpbWl0OiA1MTJtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbWVtX2xpbWl0OiA1MTJtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbWVtX2xpbWl0OiAyNTZtCg==</text>
+        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgLXIgZGVwbG95L3JlcXVpcmVtZW50c19kZXBsb3kudHh0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gdGFyIC14emYgZGVwbG95LXYyLjMudGFyLmd6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>167</text>
