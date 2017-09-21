@@ -422,7 +422,11 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/README.md" timestamp="1505978840938" />
+      <file name="$USER_HOME$/Source/platform-memberships/README.md" timestamp="1505981285707">
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiCollectionPropertiesFuncSpec.scala" timestamp="1504702904716">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="48" />
@@ -1199,8 +1203,8 @@
       <jump line="24" column="7" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBbIF0gVmVyc2lvbiBidW1wZWQ6IERvZXMgdGhlIHZlcnNpb24gaW4gYGJ1aWxkLnNidGAgYW5kIEdpdGh1YiBjb3JyZXNwb25kIGFzIHRoZXkgc2hvdWxkPwo=</text>
+      <register name="&quot;" type="4">
+        <text>([PR 17](https://github.com/leoilab/platform-memberships/pull/17), [PR 18](https://github.com/leoilab/platform-memberships/pull/18))</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3823,7 +3827,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1.29.3</text>
+        <text>([PR 17](https://github.com/leoilab/platform-memberships/pull/17), [PR 18](https://github.com/leoilab/platform-memberships/pull/18))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
