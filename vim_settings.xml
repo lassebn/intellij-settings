@@ -334,12 +334,6 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-helloskin/task/shopify-to-warehouse.py" timestamp="1505474935335">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="63" column="13" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/identity/FacebookIdentityService.scala" timestamp="1499178850101">
         <mark key="[" line="79" column="30" />
         <mark key="]" line="79" column="26" />
