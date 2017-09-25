@@ -5,10 +5,11 @@
       <mark key="V" line="4" column="4" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1506087199660">
-        <mark key="]" line="16" column="28" />
-        <mark key="^" line="16" column="28" />
-        <mark key="." line="16" column="28" />
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1506319302847">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="4" column="5" />
       </file>
       <file name="/a.dummy" timestamp="1499936920460">
         <mark key="[" line="0" column="0" />
