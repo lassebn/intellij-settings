@@ -5,12 +5,12 @@
       <mark key="V" line="4" column="4" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1506414706522">
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1506418104879">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="87" />
-        <mark key="]" line="50" column="87" />
-        <mark key="^" line="50" column="87" />
-        <mark key="." line="50" column="87" />
+        <mark key="[" line="124" column="32" />
+        <mark key="]" line="124" column="37" />
+        <mark key="." line="124" column="37" />
+        <mark key="^" line="124" column="37" />
       </file>
       <file name="/a.dummy" timestamp="1499936920460">
         <mark key="[" line="0" column="0" />
@@ -1123,7 +1123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="20" filename="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/PsoHappyApiIntegrationTest.scala" />
       <jump line="38" column="24" filename="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/PsoHappyApiIntegrationTest.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/PsoHappyApiIntegrationTest.scala" />
       <jump line="323" column="0" filename="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/PsoHappyApiIntegrationTest.scala" />
@@ -1222,11 +1221,12 @@
       <jump line="24" column="7" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" />
       <jump line="27" column="66" filename="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" />
       <jump line="28" column="0" filename="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" />
+      <jump line="40" column="62" filename="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Any</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oIiQiKQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3849,43 +3849,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Any</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBhcHBDb25maWcgPSBDb25maWdGYWN0b3J5LmxvYWQoKQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihzIkdldHRpbmcgcGFnZSAkY3VycmVudFBhZ2UiKQogICAgICB2YWwgcmVzcG9uc2UgPSBIdHRwKGdldEZvcm1FbnRyaWVzVXJsKGZvcm1JZGVudGlmaWVyKSkuYXV0aCh1c2VybmFtZSwgcGFzc3dvcmQpLmFzU3RyaW5nLmJvZHkKICAgICAgdmFsIGpzb24gPSBmcm9tSlNPTltXdWZvb0VudHJpZXNSZXNwb25zZV0ocmVzcG9uc2UpCiAgICAgIHZhbCBlbnRyaWVzID0ganNvbi50b09wdGlvbi5nZXQuRW50cmllcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBXdWZvb0pzb24uXwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIiQiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBXdWZvb0pzb24uXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBXdWZvb0pzb24uXwo=</text>
+        <text encoding="base64">ICAgIHNxbENvbnRleHQuc3BhcmtDb250ZXh0LnBhcmFsbGVsaXplKGVudHJ5UmVzcG9uc2VzLmZsYXR0ZW4pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBjdXJyZW50UGFnZSA9IDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBlbnRyeVJlc3BvbnNlcyA9IExpc3RbTGlzdFtXdWZvb0VudHJ5XV0oKQogICAgd2hpbGUgKGN1cnJlbnRQYWdlIDw9IHBhZ2VzKSB7CiAgICAgIHByaW50bG4ocyJHZXR0aW5nIHBhZ2UgJGN1cnJlbnRQYWdlIikKICAgICAgdmFsIHJlc3BvbnNlID0gSHR0cChnZXRGb3JtRW50cmllc1VybChmb3JtSWRlbnRpZmllcikpLmF1dGgodXNlcm5hbWUsIHBhc3N3b3JkKS5hc1N0cmluZy5ib2R5CiAgICAgIHZhbCBqc29uID0gZnJvbUpTT05bV3Vmb29FbnRyaWVzUmVzcG9uc2VdKHJlc3BvbnNlKQogICAgICB2YWwgZW50cmllcyA9IGpzb24udG9PcHRpb24uZ2V0LkVudHJpZXMKICAgICAgY3VycmVudFBhZ2UgKz0gMQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gIGRlZiBpbXBvcnREYXRhRnJvbVd1Zm9vKHNwYXJrOiBTcGFya1Nlc3Npb24pID0gewo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihzIkpTT046ICRqc29uIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBhcHBDb25maWcgPSBDb25maWdGYWN0b3J5LmxvYWQoKQoKICAgIHZhbCBiYXNlVXJsID0gYXBwQ29uZmlnLmdldFN0cmluZygid3Vmb28udXJsIikKICAgIHZhbCB1c2VybmFtZSA9IGFwcENvbmZpZy5nZXRTdHJpbmcoInd1Zm9vLnVzZXJuYW1lIikKICAgIHZhbCBwYXNzd29yZCA9IGFwcENvbmZpZy5nZXRTdHJpbmcoInd1Zm9vLnBhc3N3b3JkIikKICAgIGRlZiBnZXRGb3JtRmllbGRzVXJsKGZvcm06IFN0cmluZykgPSBzIiRiYXNlVXJsL2Zvcm1zLyRmb3JtL2ZpZWxkcy5qc29uIgogICAgZGVmIGdldEZvcm1FbnRyaWVzVXJsKGZvcm06IFN0cmluZykgPSBzIiRiYXNlVXJsL2Zvcm1zLyRmb3JtL2VudHJpZXMuanNvbiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
