@@ -5,12 +5,12 @@
       <mark key="V" line="4" column="4" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1506668728260">
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1506676053418">
         <mark key="'" line="32" column="122" />
-        <mark key="[" line="93" column="109" />
-        <mark key="]" line="93" column="20" />
-        <mark key="." line="93" column="20" />
-        <mark key="^" line="93" column="20" />
+        <mark key="[" line="84" column="38" />
+        <mark key="]" line="85" column="20" />
+        <mark key="." line="85" column="20" />
+        <mark key="^" line="85" column="20" />
       </file>
       <file name="/a.dummy" timestamp="1499936920460">
         <mark key="[" line="0" column="0" />
@@ -505,7 +505,7 @@
         <mark key="." line="57" column="29" />
         <mark key="^" line="57" column="29" />
       </file>
-      <file name="/dummy.sql" timestamp="1505733004278">
+      <file name="/dummy.sql" timestamp="1506675878138">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="2" />
@@ -1003,6 +1003,7 @@
         <mark key="." line="43" column="43" />
         <mark key="^" line="43" column="43" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/72d80ebb-27e7-44a8-94fb-de25d76933a2/console_1.sql" timestamp="1506675809468" />
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/CollectionsServiceFuncSpec.scala" timestamp="1503409543204">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -1240,7 +1241,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihjKQo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIF86IFRocm93YWJsZSA9PiBjCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3863,43 +3864,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.union(dateUpdatedMapping)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>topLevelFields ++ subFields2)</text>
+      <register name="0" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihjKQo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIF86IFRocm93YWJsZSA9PiBjCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgIGZpZWxkTmFtZU1hcC5zaG93KGZhbHNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbnRyaWJzLm14LlMzT2JqZWN0TXhNQmVhbgo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIlVwZGF0ZWQgZmllbGRzIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsucmRkLlJERAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpZWxkTmFtZU1hcC5zaG93KDEwMCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgcHJpbnRsbihoZXApCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGhlcCA9IGVudHJpZXMuY29sdW1ucy5tYXAoYyA9PiBjb2woYykuYXMoZmllbGROYW1lTWFwLmZpbHRlcihmaWVsZE5hbWVNYXAoIklEIikgPT09IGMpLmZpcnN0KCkuZ2V0U3RyaW5nKDEpKSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZpZWxkcy5zaG93KGZhbHNlKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oIkZpZWxkcyIpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGVudHJpZXMuc2hvdyhmYWxzZSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkNvbHVtbnMiKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRlVXBkYXRlZE1hcHBpbmcgPSBzcGFyay5yZWFkLmpzb24oc3Bhcmsuc3BhcmtDb250ZXh0Lm1ha2VSREQodG9KU09OW0hlYWRlck1hcHBpbmddKEhlYWRlck1hcHBpbmcoIkRhdGVVcGRhdGVkIiwgIkRhdGUgVXBkYXRlZCIsICIiKSkgOjogTmlsKSkK</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
