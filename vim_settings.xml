@@ -5,11 +5,12 @@
       <mark key="V" line="4" column="4" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1506607932629">
-        <mark key="'" line="34" column="122" />
-        <mark key="[" line="91" column="22" />
-        <mark key="]" line="160" column="0" />
-        <mark key="." line="160" column="0" />
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1506665517755">
+        <mark key="'" line="32" column="122" />
+        <mark key="[" line="88" column="89" />
+        <mark key="]" line="88" column="95" />
+        <mark key="." line="88" column="95" />
+        <mark key="^" line="88" column="95" />
       </file>
       <file name="/a.dummy" timestamp="1499936920460">
         <mark key="[" line="0" column="0" />
@@ -786,7 +787,7 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/datawarehouse/Driver.scala" timestamp="1506582980490">
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/datawarehouse/Driver.scala" timestamp="1506609650877">
         <mark key="[" line="248" column="27" />
         <mark key="]" line="248" column="26" />
         <mark key="." line="248" column="26" />
@@ -1239,7 +1240,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFsbEZpZWxkc0RGLnNob3coKQo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5zaG93KCkK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3871,34 +3872,34 @@
         <text>topLevelFields ++ subFields2)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFsbEZpZWxkc0RGLnNob3coKQo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5zaG93KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsbEZpZWxkc0RGLnByaW50U2NoZW1hKCkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbnRyaWJzLm14LlMzT2JqZWN0TXhNQmVhbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRmLnNob3coKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsucmRkLlJERAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRmLnByaW50U2NoZW1hKCkK</text>
+        <text encoding="base64">ICAgIGZpZWxkTmFtZU1hcC5zaG93KDEwMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpZWxkTmFtZU1hcC5zaG93KHMK</text>
+        <text encoding="base64">Ly8gICAgcHJpbnRsbihoZXApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpZWxkTmFtZU1hcC5maWx0ZXIoJCJJRCIgPT09ICIiKQo=</text>
+        <text encoding="base64">Ly8gICAgdmFsIGhlcCA9IGVudHJpZXMuY29sdW1ucy5tYXAoYyA9PiBjb2woYykuYXMoZmllbGROYW1lTWFwLmZpbHRlcihmaWVsZE5hbWVNYXAoIklEIikgPT09IGMpLmZpcnN0KCkuZ2V0U3RyaW5nKDEpKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oIkNvbHVtbnMiKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9jYXNlIGNsYXNzIFd1Zm9vRW50cnkoRW50cnlJZDogU3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgIGVudHJpZXMuc2hvdygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
