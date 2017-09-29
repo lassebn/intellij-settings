@@ -5,12 +5,12 @@
       <mark key="V" line="4" column="4" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1506665517755">
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1506668728260">
         <mark key="'" line="32" column="122" />
-        <mark key="[" line="88" column="89" />
-        <mark key="]" line="88" column="95" />
-        <mark key="." line="88" column="95" />
-        <mark key="^" line="88" column="95" />
+        <mark key="[" line="93" column="109" />
+        <mark key="]" line="93" column="20" />
+        <mark key="." line="93" column="20" />
+        <mark key="^" line="93" column="20" />
       </file>
       <file name="/a.dummy" timestamp="1499936920460">
         <mark key="[" line="0" column="0" />
@@ -1240,7 +1240,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihjKQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3872,34 +3872,34 @@
         <text>topLevelFields ++ subFields2)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihjKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbnRyaWJzLm14LlMzT2JqZWN0TXhNQmVhbgo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5zaG93KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsucmRkLlJERAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbnRyaWJzLm14LlMzT2JqZWN0TXhNQmVhbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpZWxkTmFtZU1hcC5zaG93KDEwMCkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsucmRkLlJERAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgcHJpbnRsbihoZXApCg==</text>
+        <text encoding="base64">ICAgIGZpZWxkTmFtZU1hcC5zaG93KDEwMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGhlcCA9IGVudHJpZXMuY29sdW1ucy5tYXAoYyA9PiBjb2woYykuYXMoZmllbGROYW1lTWFwLmZpbHRlcihmaWVsZE5hbWVNYXAoIklEIikgPT09IGMpLmZpcnN0KCkuZ2V0U3RyaW5nKDEpKSkK</text>
+        <text encoding="base64">Ly8gICAgcHJpbnRsbihoZXApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIGhlcCA9IGVudHJpZXMuY29sdW1ucy5tYXAoYyA9PiBjb2woYykuYXMoZmllbGROYW1lTWFwLmZpbHRlcihmaWVsZE5hbWVNYXAoIklEIikgPT09IGMpLmZpcnN0KCkuZ2V0U3RyaW5nKDEpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkNvbHVtbnMiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVudHJpZXMuc2hvdygpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkNvbHVtbnMiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
