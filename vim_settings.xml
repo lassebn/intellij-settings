@@ -266,11 +266,11 @@
         <mark key="^" line="51" column="14" />
         <mark key="." line="51" column="14" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/resources/application.conf" timestamp="1506344053187">
-        <mark key="[" line="42" column="14" />
-        <mark key="]" line="42" column="14" />
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/resources/application.conf" timestamp="1506941726231">
+        <mark key="[" line="40" column="14" />
+        <mark key="]" line="40" column="13" />
         <mark key="^" line="40" column="13" />
-        <mark key="." line="42" column="14" />
+        <mark key="." line="40" column="13" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/log4j.properties" timestamp="1500892305967">
         <mark key="[" line="1" column="24" />
