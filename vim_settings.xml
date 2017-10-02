@@ -5,12 +5,12 @@
       <mark key="V" line="4" column="4" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1506940489065">
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1506947619578">
         <mark key="'" line="32" column="122" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
-        <mark key="^" line="101" column="24" />
+        <mark key="[" line="150" column="3" />
+        <mark key="]" line="150" column="11" />
+        <mark key="." line="150" column="11" />
+        <mark key="^" line="150" column="11" />
       </file>
       <file name="/a.dummy" timestamp="1499936920460">
         <mark key="[" line="0" column="0" />
@@ -202,6 +202,9 @@
         <mark key="]" line="20" column="5" />
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
+      </file>
+      <file name="/a.sql" timestamp="1506947801914">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/README.md" timestamp="1494314384652">
         <mark key="[" line="0" column="0" />
@@ -505,7 +508,7 @@
         <mark key="." line="57" column="29" />
         <mark key="^" line="57" column="29" />
       </file>
-      <file name="/dummy.sql" timestamp="1506685290929">
+      <file name="/dummy.sql" timestamp="1506947930587">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="2" />
@@ -625,7 +628,7 @@
         <mark key="." line="149" column="85" />
         <mark key="^" line="149" column="85" />
       </file>
-      <file name="/Dummy.scala" timestamp="1506343550794">
+      <file name="/Dummy.scala" timestamp="1506943147907">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/GenericPropertiesService.scala" timestamp="1503399842065">
@@ -1245,8 +1248,8 @@
       <jump line="33" column="122" filename="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>result</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3869,7 +3872,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>value match {</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
