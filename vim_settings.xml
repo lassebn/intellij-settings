@@ -507,7 +507,7 @@
         <mark key="." line="57" column="29" />
         <mark key="^" line="57" column="29" />
       </file>
-      <file name="/dummy.sql" timestamp="1507034534817">
+      <file name="/dummy.sql" timestamp="1507037038435">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -746,6 +746,9 @@
         <mark key="]" line="15" column="19" />
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="19" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1507037040184">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-import/project/Build.scala" timestamp="1507027643444">
         <mark key="[" line="71" column="0" />
