@@ -5,11 +5,11 @@
       <mark key="V" line="4" column="4" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1507028086172">
-        <mark key="[" line="249" column="46" />
-        <mark key="]" line="249" column="44" />
-        <mark key="^" line="249" column="44" />
-        <mark key="." line="249" column="44" />
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1507033175936">
+        <mark key="[" line="233" column="53" />
+        <mark key="]" line="233" column="72" />
+        <mark key="." line="233" column="72" />
+        <mark key="^" line="233" column="72" />
       </file>
       <file name="/a.dummy" timestamp="1499936920460">
         <mark key="[" line="0" column="0" />
@@ -202,7 +202,7 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="/a.sql" timestamp="1507020215795">
+      <file name="/a.sql" timestamp="1507031773902">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/README.md" timestamp="1494314384652">
@@ -507,7 +507,7 @@
         <mark key="." line="57" column="29" />
         <mark key="^" line="57" column="29" />
       </file>
-      <file name="/dummy.sql" timestamp="1507020236957">
+      <file name="/dummy.sql" timestamp="1507032089853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="2" />
@@ -1241,8 +1241,8 @@
       <jump line="33" column="122" filename="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBGaXJzdCBiYXNpYyB2ZXJzaW9uIHRhbGtpbmcgdG8gV3Vmb28gQVBJCg==</text>
+      <register name="&quot;" type="4">
+        <text>totalEntries</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3865,7 +3865,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>entries</text>
+        <text>totalEntries</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -3874,34 +3874,34 @@
         <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5zcWxDb250ZXh0LmltcGxpY2l0cy5TdHJpbmdUb0NvbHVtbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBGaXJzdCBiYXNpYyB2ZXJzaW9uIHRhbGtpbmcgdG8gV3Vmb28gQVBJCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50bG4ocyJFbnRyaWVzIHNvIGZhcjogJHt0b3RhbEVudHJpZXMuc2l6ZX0iKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCB0b3RhbEVudHJpZXMgPSByZXNwb25zZXMgKysgZW50cmllcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50bG4ocyJFbnRyaWVzIHNvIGZhcjogJHt0b3RhbEVudHJpZXMuc2l6ZX0iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCB0b3RhbEVudHJpZXMgPSByZXNwb25zZXMgKysgZW50cmllcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICJvcmcuYXBhY2hlLmhhZG9vcCIgJSAiaGFkb29wLWF3cyIgJSAiMi44LjEiIGV4Y2x1ZGVBbGwgRXhjbHVzaW9uUnVsZShvcmdhbml6YXRpb24gPSAiY29tLnN1bi5qZXJzZXkiKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiBGaXJzdCBiYXNpYyB2ZXJzaW9uIHRhbGtpbmcgdG8gV3Vmb28gQVBJCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkZpZWxkcyIpCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpZWxkcy5zaG93KGZhbHNlKQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>180</text>
