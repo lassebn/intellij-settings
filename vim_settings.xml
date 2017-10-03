@@ -5,12 +5,12 @@
       <mark key="V" line="4" column="4" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1507015726561">
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1507020444590">
         <mark key="'" line="32" column="122" />
-        <mark key="[" line="150" column="21" />
-        <mark key="]" line="256" column="26" />
-        <mark key="." line="256" column="26" />
-        <mark key="^" line="256" column="26" />
+        <mark key="[" line="103" column="52" />
+        <mark key="]" line="105" column="23" />
+        <mark key="." line="105" column="23" />
+        <mark key="^" line="105" column="23" />
       </file>
       <file name="/a.dummy" timestamp="1499936920460">
         <mark key="[" line="0" column="0" />
@@ -203,7 +203,7 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="/a.sql" timestamp="1507018761571">
+      <file name="/a.sql" timestamp="1507020215795">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/README.md" timestamp="1494314384652">
@@ -508,7 +508,7 @@
         <mark key="." line="57" column="29" />
         <mark key="^" line="57" column="29" />
       </file>
-      <file name="/dummy.sql" timestamp="1507017280671">
+      <file name="/dummy.sql" timestamp="1507020236957">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="2" />
@@ -526,7 +526,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506334779574">
+      <file name="/Dummy.txt" timestamp="1507020539828">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
