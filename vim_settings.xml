@@ -5,11 +5,10 @@
       <mark key="V" line="4" column="4" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1507212098837">
-        <mark key="[" line="152" column="78" />
-        <mark key="]" line="152" column="104" />
-        <mark key="^" line="152" column="104" />
-        <mark key="." line="152" column="104" />
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1507237838788">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1499936920460">
         <mark key="[" line="0" column="0" />
@@ -62,6 +61,7 @@
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="50" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-import/wiremock/mappings/logBackboneUserIn.json" timestamp="1507234045110" />
       <file name="$USER_HOME$/Source/psohappy-backend/project/Build.scala" timestamp="1498551255596">
         <mark key="[" line="40" column="107" />
         <mark key="]" line="41" column="54" />
@@ -121,6 +121,9 @@
         <mark key="]" line="6" column="23" />
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/72d80ebb-27e7-44a8-94fb-de25d76933a2/console_2.sql" timestamp="1507237185908">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/" timestamp="1499773789772">
         <mark key="[" line="0" column="0" />
@@ -224,6 +227,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/afd61665-bfef-4909-8041-40e355b174d6/console.sql" timestamp="1500620955150">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-import/wiremock/mappings/wufooGetUKBaselineEntries.json" timestamp="1507236859136">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+      </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/resources/application.conf" timestamp="1499943876523">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
@@ -263,11 +272,11 @@
         <mark key="^" line="51" column="14" />
         <mark key="." line="51" column="14" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/resources/application.conf" timestamp="1507027691873">
-        <mark key="[" line="47" column="1" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="0" />
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/resources/application.conf" timestamp="1507238109119">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="54" column="30" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/log4j.properties" timestamp="1500892305967">
         <mark key="[" line="1" column="24" />
@@ -451,6 +460,13 @@
         <mark key="^" line="21" column="45" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-import/wiremock/mappings/wufooGetUKBaselineFields.json" timestamp="1507236853390">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="71" />
+        <mark key="]" line="3" column="72" />
+        <mark key="^" line="3" column="72" />
+        <mark key="." line="3" column="72" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/ConfigLog.scala" timestamp="1500461629437">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="29" />
@@ -505,7 +521,7 @@
         <mark key="." line="57" column="29" />
         <mark key="^" line="57" column="29" />
       </file>
-      <file name="/dummy.sql" timestamp="1507212787450">
+      <file name="/dummy.sql" timestamp="1507237212046">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -690,6 +706,9 @@
         <mark key="^" line="13" column="106" />
         <mark key="." line="13" column="106" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/it/scala/DriverIntegrationTest.scala" timestamp="1507237168581">
+        <mark key="[" line="209" column="2" />
+      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/project/TestHelper.scala" timestamp="1498551365792">
         <mark key="[" line="124" column="27" />
         <mark key="]" line="124" column="34" />
@@ -748,9 +767,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1507042463149">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-import/project/Build.scala" timestamp="1507027643444">
-        <mark key="^" line="11" column="29" />
-      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/test/scala/com/leoilab/psohappy/PsoHappyRepositorySpec.scala" timestamp="1497244883308">
         <mark key="[" line="49" column="62" />
         <mark key="]" line="49" column="85" />
@@ -787,10 +803,10 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/datawarehouse/Driver.scala" timestamp="1507131164390">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/datawarehouse/Driver.scala" timestamp="1507237527428">
+        <mark key="[" line="344" column="5" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/CollectionPropertiesRepositorySpec.scala" timestamp="1503402385616">
         <mark key="[" line="98" column="119" />
@@ -891,6 +907,7 @@
         <mark key="." line="111" column="44" />
         <mark key="^" line="111" column="44" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-import/wiremock/mappings/wufooGetUKBaselineEntryCount.json" timestamp="1507236596948" />
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/db/ConnectionConfig.scala" timestamp="1504857376981">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="71" />
@@ -1148,7 +1165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/PsoHappyApiIntegrationTest.scala" />
       <jump line="113" column="6" filename="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyApi.scala" />
       <jump line="64" column="12" filename="$USER_HOME$/Source/psohappy-backend/src/raml/api.raml" />
       <jump line="44" column="144" filename="$USER_HOME$/Source/spike-datawarehouse-export/src/it/resources/db/init.sql" />
@@ -1248,10 +1264,11 @@
       <jump line="153" column="0" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiDigitigerSpec.scala" />
       <jump line="21" column="35" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/datawarehouse-import/wiremock/mappings/wufooGetUKBaselineFields.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHZhbHVlcyA9PiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwYXNzd29yZCA9ICI0VVQtQVdCLWRlci10UkYiCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3874,7 +3891,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIHZhbHVlcyA9PiA=</text>
+        <text>MQ7P-WOIU-DGHF-0O8A</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -3883,34 +3900,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcmVzaGFwZWQuZGlzdGluY3QoKS5zZWxlY3RFeHByKAovLyAgICAgICJjYXN0KElkIGFzIEJpZ0ludCkgSWQiLAovLyAgICAgICJFbWFpbCIsCi8vICAgICAgImNhc3QoQWdlIGFzIEludCkgQWdlIiwKLy8gICAgICAiR2VuZGVyIiwKLy8gICAgICAiQ292ZXJhZ2UiLAovLyAgICAgICJTZXZlcml0eSIsCi8vICAgICAgIkFsbCBjb25kaXRpb25zIiwKLy8gICAgICAiQ29uZGl0aW9uIiwKLy8gICAgICAiQWxsIHN5bXB0b21zIiwKLy8gICAgICAiU3ltcHRvbSIsCi8vICAgICAgIkFsbCBhcmVhcyIsCi8vICAgICAgIkFyZWEiLAovLyAgICAgICJjYXN0KENvbXBsZXRlU3VibWlzc2lvbiBhcyBCb29sZWFuKSBDb21wbGV0ZVN1Ym1pc3Npb24iLAovLyAgICAgICJjYXN0KERhdGVDcmVhdGVkIGFzIFRpbWVzdGFtcCkgRGF0ZUNyZWF0ZWQiLAovLyAgICAgICJJUCIKLy8gICAgKQo=</text>
+        <text encoding="base64">ICBwYXNzd29yZCA9ICI0VVQtQVdCLWRlci10UkYiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVudHJpZXMuc2hvdyhmYWxzZSkK</text>
+        <text encoding="base64">ICB1c2VybmFtZSA9ICJNUTdQLVdPSVUtREdIRi0wTzhBIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVudHJpZXMucHJpbnRTY2hlbWEoKQo=</text>
+        <text encoding="base64">ICB1cmwgPSAiaHR0cHM6Ly9oZWxsb3NraW4ud3Vmb28uZXUvYXBpL3YzIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkVudHJpZXMiKQo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5zaG93KGZhbHNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBkdW1teSA9IGdldENoZWNrYm94Q29sdW1uTmFtZXMoZmllbGRzKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBnZXRDaGVja2JveENvbHVtbk5hbWVzKGZpZWxkczogRGF0YUZyYW1lKShpbXBsaWNpdCBzcGFyazogU3BhcmtTZXNzaW9uKTogTGlzdFtTdHJpbmddID0gewogICAgaW1wb3J0IHNwYXJrLnNxbENvbnRleHQuaW1wbGljaXRzLlN0cmluZ1RvQ29sdW1uCiAgICB2YWwgY2hlY2tib3hGaWVsZHMgPSBmaWVsZHMuZmlsdGVyKCQiVHlwZSIgPT09ICJjaGVja2JveCIpLnNlbGVjdCgiSUQiLCAiVGl0bGUiLCAiTGFiZWwiLCAiUGFyZW50RmllbGQiKQogICAgdmFsIHBhcmVudElkcyA9IGNoZWNrYm94RmllbGRzLmdyb3VwQnkoJCJQYXJlbnRGaWVsZCIpLmNvdW50KCkKICAgIHBhcmVudElkcy5zaG93KGZhbHNlKQogICAgY2hlY2tib3hGaWVsZHMuY29sdW1ucy5tYXAoYyA9PiBoZWFkZXJUZXh0RnJvbVRpdGxlQW5kTGFiZWwoZmllbGRzLCBjKSkudG9MaXN0CiAgfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE1hdGguYWJzKGZpcnN0IC0gc2Vjb25kKQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBzYXZlVG9EYXRhYmFzZShkZjogRGF0YUZyYW1lLCB0YWJsZU5hbWU6IFN0cmluZyk6IFVuaXQgPSB7CiAgICB2YWwgcHJvcCA9IG5ldyBqYXZhLnV0aWwuUHJvcGVydGllcwogICAgcHJvcC5zZXRQcm9wZXJ0eSgiZHJpdmVyIiwgImNvbS5teXNxbC5jai5qZGJjLkRyaXZlciIpCiAgICBwcm9wLnNldFByb3BlcnR5KCJ1c2VyIiwgYXBwQ29uZmlnLmdldFN0cmluZygiZGIuZGF0YXdhcmVob3VzZS51c2VyIikpCiAgICBwcm9wLnNldFByb3BlcnR5KCJwYXNzd29yZCIsIGFwcENvbmZpZy5nZXRTdHJpbmcoImRiLmRhdGF3YXJlaG91c2UucGFzc3dvcmQiKSkKCiAgICBkZi53cml0ZS5tb2RlKCJvdmVyd3JpdGUiKS5qZGJjKGFwcENvbmZpZy5nZXRTdHJpbmcoImRiLmRhdGF3YXJlaG91c2UudXJsIiksIHRhYmxlTmFtZSwgcHJvcCkKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0QWJzb2x1dGVEaWZmZXJlbmNlKGZpcnN0OiBMb25nLCBzZWNvbmQ6IExvbmcpOiBMb25nID0gewo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkdldHRpbmcgZmllbGRzIikK</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
