@@ -5,11 +5,11 @@
       <mark key="V" line="4" column="4" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1507202519198">
-        <mark key="[" line="98" column="40" />
-        <mark key="]" line="101" column="21" />
-        <mark key="." line="101" column="21" />
-        <mark key="^" line="101" column="21" />
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1507203382583">
+        <mark key="[" line="226" column="29" />
+        <mark key="]" line="226" column="32" />
+        <mark key="." line="226" column="32" />
+        <mark key="^" line="226" column="32" />
       </file>
       <file name="/a.dummy" timestamp="1499936920460">
         <mark key="[" line="0" column="0" />
@@ -505,7 +505,7 @@
         <mark key="." line="57" column="29" />
         <mark key="^" line="57" column="29" />
       </file>
-      <file name="/dummy.sql" timestamp="1507042461956">
+      <file name="/dummy.sql" timestamp="1507203527944">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -1250,8 +1250,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBkdW1teSA9IGdldENoZWNrYm94Q29sdW1uTmFtZXMoZmllbGRzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>)).</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3874,7 +3874,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>aaa</text>
+        <text>)).</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
