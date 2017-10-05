@@ -293,7 +293,8 @@
         <mark key="^" line="40" column="3" />
         <mark key="." line="40" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/ProfileSpec.scala" timestamp="1507191082794">
+      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/ProfileSpec.scala" timestamp="1507194374167">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="311" column="50" />
         <mark key="]" line="311" column="56" />
         <mark key="." line="311" column="56" />
@@ -401,7 +402,8 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiDigitigerSpec.scala" timestamp="1496909585827">
+      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiDigitigerSpec.scala" timestamp="1507194390703">
+        <mark key="'" line="153" column="0" />
         <mark key="[" line="75" column="7" />
         <mark key="]" line="75" column="14" />
         <mark key="^" line="75" column="14" />
@@ -492,10 +494,10 @@
         <mark key="^" line="6" column="51" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserRepositorySpec.scala" timestamp="1505311775456">
-        <mark key="[" line="54" column="11" />
-        <mark key="]" line="54" column="29" />
-        <mark key="^" line="54" column="29" />
-        <mark key="." line="54" column="29" />
+        <mark key="[" line="56" column="11" />
+        <mark key="]" line="56" column="29" />
+        <mark key="^" line="56" column="29" />
+        <mark key="." line="56" column="29" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/GoogleSample.scala" timestamp="1500547898836">
         <mark key="[" line="28" column="0" />
@@ -610,17 +612,17 @@
         <mark key="." line="56" column="53" />
         <mark key="^" line="56" column="53" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" timestamp="1505716376972">
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="1439" column="68" />
-        <mark key="^" line="1439" column="68" />
-        <mark key="." line="1439" column="68" />
+      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" timestamp="1507194099639">
+        <mark key="[" line="850" column="38" />
+        <mark key="]" line="1440" column="68" />
+        <mark key="^" line="1440" column="68" />
+        <mark key="." line="1440" column="68" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceUserLockingSpec.scala" timestamp="1495454660991">
-        <mark key="[" line="149" column="37" />
-        <mark key="]" line="149" column="85" />
-        <mark key="." line="149" column="85" />
-        <mark key="^" line="149" column="85" />
+        <mark key="[" line="150" column="37" />
+        <mark key="]" line="150" column="85" />
+        <mark key="." line="150" column="85" />
+        <mark key="^" line="150" column="85" />
       </file>
       <file name="/Dummy.scala" timestamp="1506943147907">
         <mark key="[" line="0" column="0" />
@@ -694,11 +696,12 @@
         <mark key="." line="124" column="34" />
         <mark key="^" line="124" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" timestamp="1505215041106">
-        <mark key="[" line="390" column="24" />
-        <mark key="]" line="390" column="32" />
-        <mark key="." line="390" column="32" />
-        <mark key="^" line="390" column="32" />
+      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" timestamp="1507194544440">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="63" column="13" />
+        <mark key="]" line="63" column="7" />
+        <mark key="." line="63" column="7" />
+        <mark key="^" line="63" column="7" />
       </file>
       <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1505911324923">
         <mark key="[" line="50" column="57" />
@@ -711,6 +714,12 @@
         <mark key="]" line="9" column="15" />
         <mark key="^" line="18" column="1" />
         <mark key="." line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1507194936253">
+        <mark key="[" line="130" column="21" />
+        <mark key="]" line="130" column="18" />
+        <mark key="^" line="130" column="18" />
+        <mark key="." line="130" column="18" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/GoogleAuthenticationHelper.scala" timestamp="1500883098651">
         <mark key="[" line="22" column="14" />
@@ -1139,17 +1148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/PsoHappyApiIntegrationTest.scala" />
-      <jump line="322" column="0" filename="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/PsoHappyApiIntegrationTest.scala" />
-      <jump line="107" column="43" filename="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/PsoHappyApiIntegrationTest.scala" />
-      <jump line="111" column="155" filename="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/PsoHappyApiIntegrationTest.scala" />
-      <jump line="91" column="4" filename="$USER_HOME$/Source/studies-and-me/frontend/index.html" />
-      <jump line="16511" column="333" filename="$USER_HOME$/Desktop/psohappy-emails/emails_full_set.json" />
-      <jump line="174" column="18" filename="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyApi.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyApi.scala" />
-      <jump line="206" column="0" filename="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyApi.scala" />
-      <jump line="312" column="69" filename="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/PsoHappyApiIntegrationTest.scala" />
-      <jump line="342" column="69" filename="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/PsoHappyApiIntegrationTest.scala" />
       <jump line="4" column="0" filename="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/PsoHappyApiIntegrationTest.scala" />
       <jump line="113" column="6" filename="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyApi.scala" />
       <jump line="64" column="12" filename="$USER_HOME$/Source/psohappy-backend/src/raml/api.raml" />
@@ -1239,6 +1237,17 @@
       <jump line="104" column="42" filename="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" />
       <jump line="105" column="31" filename="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" />
       <jump line="33" column="122" filename="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" />
+      <jump line="257" column="56" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/ProfileSpec.scala" />
+      <jump line="29" column="6" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiDigitigerSpec.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiDigitigerSpec.scala" />
+      <jump line="386" column="5" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" />
+      <jump line="20" column="30" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" />
+      <jump line="258" column="61" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/ProfileSpec.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/ProfileSpec.scala" />
+      <jump line="109" column="38" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiDigitigerSpec.scala" />
+      <jump line="153" column="0" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiDigitigerSpec.scala" />
+      <jump line="21" column="35" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
