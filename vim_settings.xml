@@ -196,6 +196,7 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/core/src/main/scala/com/leoilab/users/user/ProfileDTO.scala" timestamp="1507191785363" />
       <file name="/a.sql" timestamp="1507034121429">
         <mark key="[" line="0" column="0" />
       </file>
@@ -292,8 +293,8 @@
         <mark key="^" line="40" column="3" />
         <mark key="." line="40" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/ProfileSpec.scala" timestamp="1505221919682">
-        <mark key="[" line="311" column="29" />
+      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/ProfileSpec.scala" timestamp="1507191082794">
+        <mark key="[" line="311" column="50" />
         <mark key="]" line="311" column="56" />
         <mark key="." line="311" column="56" />
         <mark key="^" line="311" column="56" />
@@ -394,6 +395,12 @@
         <mark key="^" line="65" column="69" />
         <mark key="." line="65" column="69" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1507191276489">
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="11" column="49" />
+        <mark key="." line="11" column="49" />
+        <mark key="^" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiDigitigerSpec.scala" timestamp="1496909585827">
         <mark key="[" line="75" column="7" />
         <mark key="]" line="75" column="14" />
@@ -435,11 +442,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="3" column="36" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-memberships/README.md" timestamp="1505981285707">
-        <mark key="]" line="1" column="26" />
-        <mark key="^" line="1" column="26" />
-        <mark key="." line="1" column="26" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiCollectionPropertiesFuncSpec.scala" timestamp="1504702904716">
         <mark key="[" line="27" column="0" />
@@ -519,7 +521,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507020539828">
+      <file name="/Dummy.txt" timestamp="1507191672654">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
@@ -831,6 +833,12 @@
         <mark key="]" line="34" column="52" />
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/.idea/modules/platform-users-client.iml" timestamp="1507191656077">
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+        <mark key="^" line="21" column="3" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/project/plugins.sbt" timestamp="1496128465448">
         <mark key="[" line="0" column="0" />
@@ -1233,8 +1241,8 @@
       <jump line="33" column="122" filename="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>aaa</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3857,13 +3865,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>aaa</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGl0bGUgPSBnZXRWYWx1ZUF0Q29sdW1uSW5kZXhJZk5vdE51bGwoZmllbGROYW1lTWFwLCBjLCAxKQogICAgICAgIHZhbCBsYWJlbCA9IGdldFZhbHVlQXRDb2x1bW5JbmRleElmTm90TnVsbChmaWVsZE5hbWVNYXAsIGMsIDIpCiAgICAgICAgdmFsIGhlYWRlciA9ICh0aXRsZSwgbGFiZWwpIG1hdGNoIHsKICAgICAgICAgIGNhc2UgKFNvbWUodGl0bGVUZXh0KSwgU29tZShsYWJlbFRleHQpKSA9PiBzIiR7dGl0bGVUZXh0LnRha2UoMzApfSAoJHtsYWJlbFRleHQudGFrZSgyMCl9KSIKICAgICAgICAgIGNhc2UgKFNvbWUodGl0bGVUZXh0KSwgXykgPT4gdGl0bGVUZXh0LnRha2UoNjApCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3896,7 +3904,7 @@
         <text encoding="base64">ICAgIGFzc2VydChnZXRBYnNvbHV0ZURpZmZlcmVuY2UodXNlclByb3BlcnRpZXNSZXN1bHQuY291bnQsIHVzZXJQcm9wZXJ0aWVzRmluYWxSZXN1bHQuY291bnQpID4gNSkK</text>
       </register>
       <register name=":" type="4">
-        <text>180</text>
+        <text>12</text>
       </register>
     </registers>
     <search>
@@ -3921,7 +3929,6 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
-        <entry>12</entry>
         <entry>5</entry>
         <entry>127</entry>
         <entry>155</entry>
@@ -3940,6 +3947,7 @@
         <entry>326</entry>
         <entry>167</entry>
         <entry>180</entry>
+        <entry>12</entry>
       </history-cmd>
       <history-expr />
       <history-input />
