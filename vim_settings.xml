@@ -5,10 +5,11 @@
       <mark key="V" line="4" column="4" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1507237838788">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1507297857066">
+        <mark key="[" line="214" column="25" />
+        <mark key="]" line="204" column="60" />
+        <mark key="." line="204" column="60" />
+        <mark key="^" line="204" column="60" />
       </file>
       <file name="/a.dummy" timestamp="1499936920460">
         <mark key="[" line="0" column="0" />
@@ -132,11 +133,6 @@
         <mark key="]" line="37" column="83" />
         <mark key="^" line="37" column="83" />
         <mark key="." line="37" column="83" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/.github/PULL_REQUEST_TEMPLATE.md" timestamp="1505982881318">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
         <mark key="[" line="16" column="69" />
@@ -270,11 +266,11 @@
         <mark key="^" line="51" column="14" />
         <mark key="." line="51" column="14" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/resources/application.conf" timestamp="1507238109119">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="54" column="30" />
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/resources/application.conf" timestamp="1507297156135">
+        <mark key="[" line="58" column="14" />
+        <mark key="]" line="58" column="28" />
+        <mark key="^" line="58" column="28" />
+        <mark key="." line="58" column="28" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/log4j.properties" timestamp="1500892305967">
         <mark key="[" line="1" column="24" />
@@ -552,11 +548,6 @@
         <mark key="^" line="58" column="29" />
         <mark key="." line="58" column="29" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/.github/PULL_REQUEST_TEMPLATE.md" timestamp="1505978480253">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/nginx/build.sh" timestamp="1502805047038">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -802,12 +793,12 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/datawarehouse/Driver.scala" timestamp="1507295595306">
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/datawarehouse/Driver.scala" timestamp="1507296517869">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="352" column="60" />
-        <mark key="]" line="352" column="69" />
-        <mark key="." line="352" column="69" />
-        <mark key="^" line="352" column="69" />
+        <mark key="[" line="351" column="62" />
+        <mark key="]" line="352" column="60" />
+        <mark key="." line="352" column="60" />
+        <mark key="^" line="352" column="60" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/CollectionPropertiesRepositorySpec.scala" timestamp="1503402385616">
         <mark key="[" line="98" column="119" />
@@ -1268,7 +1259,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;overwrite&quot;</text>
+        <text>wufoo</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3891,7 +3882,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;overwrite&quot;</text>
+        <text>wufoo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
