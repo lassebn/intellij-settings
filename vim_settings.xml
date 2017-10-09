@@ -1015,6 +1015,12 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
       </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/project/TestHelper.scala" timestamp="1507540897202">
+        <mark key="[" line="120" column="34" />
+        <mark key="]" line="120" column="32" />
+        <mark key="^" line="120" column="32" />
+        <mark key="." line="120" column="32" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiFuncSpec.scala" timestamp="1504701831390">
         <mark key="[" line="379" column="0" />
         <mark key="]" line="379" column="62" />
@@ -1072,7 +1078,7 @@
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="/sbtShell" timestamp="1503584239021">
+      <file name="/sbtShell" timestamp="1507540106992">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/testkit/src/main/scala/com/leoilab/testkit/AuthSupport.scala" timestamp="1503561827606">
