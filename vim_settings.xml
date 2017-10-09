@@ -1015,11 +1015,11 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/project/TestHelper.scala" timestamp="1507540897202">
-        <mark key="[" line="120" column="34" />
-        <mark key="]" line="120" column="32" />
-        <mark key="^" line="120" column="32" />
-        <mark key="." line="120" column="32" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/project/TestHelper.scala" timestamp="1507541773233">
+        <mark key="[" line="132" column="78" />
+        <mark key="]" line="132" column="77" />
+        <mark key="^" line="132" column="77" />
+        <mark key="." line="132" column="77" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiFuncSpec.scala" timestamp="1504701831390">
         <mark key="[" line="379" column="0" />
@@ -1071,6 +1071,12 @@
         <mark key="]" line="34" column="56" />
         <mark key="." line="34" column="56" />
         <mark key="^" line="34" column="56" />
+      </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/docker-compose.yml" timestamp="1507541847384">
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="18" />
+        <mark key="^" line="26" column="18" />
+        <mark key="." line="26" column="18" />
       </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/build.sbt" timestamp="1493985068493">
         <mark key="[" line="22" column="57" />
