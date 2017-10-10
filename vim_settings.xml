@@ -310,10 +310,10 @@
         <mark key="^" line="10" column="31" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserRepository.scala" timestamp="1505310522589">
-        <mark key="[" line="40" column="73" />
-        <mark key="]" line="40" column="87" />
-        <mark key="^" line="40" column="87" />
-        <mark key="." line="40" column="87" />
+        <mark key="[" line="35" column="73" />
+        <mark key="]" line="35" column="87" />
+        <mark key="^" line="35" column="87" />
+        <mark key="." line="35" column="87" />
       </file>
       <file name="$USER_HOME$/Source/spike-datawarehouse-export/project/Build.scala" timestamp="1506086002280">
         <mark key="[" line="15" column="13" />
@@ -531,7 +531,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507620157071">
+      <file name="/Dummy.txt" timestamp="1507627826943">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
@@ -558,11 +558,11 @@
         <mark key="^" line="51" column="41" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationTestHelper.scala" timestamp="1505463406253">
-        <mark key="[" line="48" column="30" />
-        <mark key="]" line="48" column="77" />
-        <mark key="^" line="48" column="77" />
-        <mark key="." line="48" column="77" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationTestHelper.scala" timestamp="1507627867721">
+        <mark key="[" line="42" column="74" />
+        <mark key="]" line="42" column="103" />
+        <mark key="^" line="42" column="103" />
+        <mark key="." line="42" column="103" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" timestamp="1500979678516">
         <mark key="[" line="27" column="31" />
