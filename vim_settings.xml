@@ -3937,7 +3937,7 @@
         <text encoding="base64">ICBkZWYgd2FpdEZvclJlYWR5RGF0YWJhc2UoY29udGFpbmVyTmFtZTogU3RyaW5nKTogVW5pdCA9IHsKICAgIHZhbCBvdXRwdXQ6IExpc3RCdWZmZXJbU3RyaW5nXSA9IExpc3RCdWZmZXIoKQoKICAgIC8qIFdlJ3JlIG9ubHkgaW50ZXJlc3RlZCBpbiByZWFkaW5nIHN0dWZmIG9uIHN0ZGVyciBmcm9tIG15c3FsICovCiAgICB2YWwgbG9nZ2VyID0gUHJvY2Vzc0xvZ2dlcigKICAgICAgKHN0ZG91dDogU3RyaW5nKSA9PiAoKSwKICAgICAgKHN0ZGVycjogU3RyaW5nKSA9PiBvdXRwdXQuYXBwZW5kKHN0ZGVycikKICAgICkKCiAgICBzImRvY2tlciBsb2dzIC1mICRjb250YWluZXJOYW1lIiBsaW5lc18hIGxvZ2dlcgoKICAgIHdhaXRVbnRpbFRydWUoMTIwLnNlY29uZHMpIHsKICAgICAgb3V0cHV0LmNvdW50KF8ubWF0Y2hlcygiLipteXNxbGQ6IHJlYWR5IGZvciBjb25uZWN0aW9ucy4qIikpID49IDIKICAgIH0KICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>12</text>
+        <text>106</text>
       </register>
     </registers>
     <search>
@@ -3961,7 +3961,6 @@
         <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>5</entry>
         <entry>127</entry>
         <entry>155</entry>
@@ -3981,6 +3980,7 @@
         <entry>167</entry>
         <entry>180</entry>
         <entry>12</entry>
+        <entry>106</entry>
       </history-cmd>
       <history-expr />
       <history-input />
