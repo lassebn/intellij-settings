@@ -310,10 +310,10 @@
         <mark key="^" line="10" column="31" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserRepository.scala" timestamp="1505310522589">
-        <mark key="[" line="35" column="73" />
-        <mark key="]" line="35" column="87" />
-        <mark key="^" line="35" column="87" />
-        <mark key="." line="35" column="87" />
+        <mark key="[" line="40" column="73" />
+        <mark key="]" line="40" column="87" />
+        <mark key="^" line="40" column="87" />
+        <mark key="." line="40" column="87" />
       </file>
       <file name="$USER_HOME$/Source/spike-datawarehouse-export/project/Build.scala" timestamp="1506086002280">
         <mark key="[" line="15" column="13" />
@@ -600,12 +600,6 @@
         <mark key="]" line="3" column="14" />
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/User.scala" timestamp="1507620216712">
-        <mark key="[" line="34" column="6" />
-        <mark key="]" line="34" column="10" />
-        <mark key="^" line="34" column="10" />
-        <mark key="." line="34" column="10" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/README.md" timestamp="1505983226510">
         <mark key="[" line="41" column="43" />
