@@ -371,11 +371,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/test/scala/com/leoilab/infrastructure/OperationsSpec.scala" timestamp="1507640376961">
-        <mark key="[" line="120" column="82" />
-        <mark key="]" line="120" column="84" />
-        <mark key="^" line="120" column="84" />
-        <mark key="." line="120" column="84" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/test/scala/com/leoilab/infrastructure/OperationsSpec.scala" timestamp="1507705001529">
+        <mark key="[" line="75" column="174" />
+        <mark key="]" line="75" column="176" />
+        <mark key="^" line="75" column="176" />
+        <mark key="." line="75" column="176" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/application.conf" timestamp="1500989283462">
         <mark key="[" line="2" column="0" />
@@ -656,11 +656,11 @@
         <mark key="^" line="19" column="54" />
         <mark key="." line="19" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1507703617618">
-        <mark key="[" line="109" column="95" />
-        <mark key="]" line="110" column="80" />
-        <mark key="^" line="110" column="80" />
-        <mark key="." line="110" column="80" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1507704909010">
+        <mark key="[" line="56" column="153" />
+        <mark key="]" line="56" column="180" />
+        <mark key="^" line="56" column="180" />
+        <mark key="." line="56" column="180" />
       </file>
       <file name="/Dummy.scala" timestamp="1506943147907">
         <mark key="[" line="0" column="0" />
@@ -830,11 +830,11 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/AwsTasks.scala" timestamp="1507639953517">
-        <mark key="[" line="126" column="38" />
-        <mark key="]" line="126" column="37" />
-        <mark key="^" line="126" column="37" />
-        <mark key="." line="126" column="37" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/AwsTasks.scala" timestamp="1507704622932">
+        <mark key="[" line="126" column="66" />
+        <mark key="]" line="126" column="47" />
+        <mark key="^" line="126" column="47" />
+        <mark key="." line="126" column="47" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/CollectionPropertiesRepositorySpec.scala" timestamp="1503402385616">
         <mark key="[" line="98" column="119" />
@@ -1009,6 +1009,12 @@
         <mark key="]" line="2" column="42" />
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
+      </file>
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/test/scala/com/leoilab/infrastructure/AwsTasksSpec.scala" timestamp="1507704946245">
+        <mark key="[" line="268" column="77" />
+        <mark key="]" line="268" column="94" />
+        <mark key="^" line="268" column="94" />
+        <mark key="." line="268" column="94" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/build.sbt" timestamp="1505916580655">
         <mark key="[" line="21" column="32" />
@@ -1321,8 +1327,8 @@
       <jump line="20" column="0" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/docs/DocsApi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3945,7 +3951,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3Q29uZmlnSGFzaCA=</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
