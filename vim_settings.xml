@@ -62,11 +62,11 @@
         <mark key="." line="41" column="54" />
         <mark key="^" line="41" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/sbt-test/sbt-platform-services-infrastructure/deploy-sanity-check/test" timestamp="1507632688803">
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="8" />
-        <mark key="." line="28" column="8" />
-        <mark key="^" line="28" column="8" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/sbt-test/sbt-platform-services-infrastructure/deploy-sanity-check/test" timestamp="1507707286950">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="7" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/core/src/test/scala/com/leoilab/core/LocalDateFormatSpec.scala" timestamp="1503561600283">
         <mark key="[" line="2" column="0" />
@@ -371,11 +371,8 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/test/scala/com/leoilab/infrastructure/OperationsSpec.scala" timestamp="1507705001529">
-        <mark key="[" line="75" column="174" />
-        <mark key="]" line="75" column="176" />
-        <mark key="^" line="75" column="176" />
-        <mark key="." line="75" column="176" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/test/scala/com/leoilab/infrastructure/OperationsSpec.scala" timestamp="1507708723703">
+        <mark key="[" line="144" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/application.conf" timestamp="1500989283462">
         <mark key="[" line="2" column="0" />
@@ -656,11 +653,11 @@
         <mark key="^" line="19" column="54" />
         <mark key="." line="19" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1507704909010">
-        <mark key="[" line="56" column="153" />
-        <mark key="]" line="56" column="180" />
-        <mark key="^" line="56" column="180" />
-        <mark key="." line="56" column="180" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1507708420498">
+        <mark key="[" line="113" column="38" />
+        <mark key="]" line="113" column="96" />
+        <mark key="^" line="113" column="96" />
+        <mark key="." line="113" column="96" />
       </file>
       <file name="/Dummy.scala" timestamp="1506943147907">
         <mark key="[" line="0" column="0" />
@@ -1327,8 +1324,8 @@
       <jump line="20" column="0" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/docs/DocsApi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PiBkZXBsb3kK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3951,13 +3948,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>ConfigurationMD5</text>
+      <register name="0" type="2">
+        <text encoding="base64">PiBkZXBsb3kK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB9Cg==</text>
