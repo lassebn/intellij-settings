@@ -319,6 +319,12 @@
         <mark key="^" line="40" column="3" />
         <mark key="." line="40" column="3" />
       </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/nginx/build.sh" timestamp="1507883472706">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/resources/application.conf" timestamp="1498551323012">
         <mark key="[" line="31" column="29" />
         <mark key="]" line="10" column="31" />
@@ -1096,12 +1102,6 @@
         <mark key="]" line="34" column="56" />
         <mark key="." line="34" column="56" />
         <mark key="^" line="34" column="56" />
-      </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/docker-compose.yml" timestamp="1507541847384">
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="18" />
-        <mark key="^" line="26" column="18" />
-        <mark key="." line="26" column="18" />
       </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/build.sbt" timestamp="1493985068493">
         <mark key="[" line="22" column="57" />
