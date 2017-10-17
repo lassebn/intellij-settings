@@ -1237,12 +1237,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ScheduleRepository.scala" timestamp="1508232536960">
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ScheduleRepository.scala" timestamp="1508234133170">
         <mark key="'" line="24" column="20" />
-        <mark key="[" line="59" column="7" />
-        <mark key="]" line="65" column="25" />
-        <mark key="." line="65" column="25" />
-        <mark key="^" line="59" column="7" />
+        <mark key="[" line="68" column="142" />
+        <mark key="]" line="68" column="142" />
+        <mark key="." line="68" column="142" />
+        <mark key="^" line="68" column="142" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/scripts/docker/runapp.sh" timestamp="1507545305805">
         <mark key="[" line="2" column="21" />
