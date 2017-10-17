@@ -163,6 +163,12 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/UnitTestSupport.scala" timestamp="1508224212835">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImagePropertiesServiceFuncSpec.scala" timestamp="1503641604939">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -192,6 +198,9 @@
         <mark key="]" line="66" column="120" />
         <mark key="^" line="66" column="120" />
         <mark key="." line="66" column="120" />
+      </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/raml/api.raml" timestamp="1508228814428">
+        <mark key="[" line="183" column="60" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientCollectionPropertiesIntegrationTest.scala" timestamp="1503398979480">
         <mark key="[" line="162" column="22" />
@@ -381,10 +390,11 @@
       <file name="$USER_HOME$/Source/platform-users/project/Build.scala" timestamp="1504770431265">
         <mark key="[" line="13" column="71" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/Reminder.scala" timestamp="1508219304527">
-        <mark key="]" line="24" column="44" />
-        <mark key="." line="24" column="44" />
-        <mark key="^" line="24" column="44" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/Reminder.scala" timestamp="1508227432681">
+        <mark key="[" line="46" column="35" />
+        <mark key="]" line="46" column="28" />
+        <mark key="." line="46" column="28" />
+        <mark key="^" line="46" column="28" />
       </file>
       <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/resources/application.conf" timestamp="1505730634297">
         <mark key="[" line="25" column="16" />
@@ -397,6 +407,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="17" column="44" />
+      </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/TestHelper.scala" timestamp="1508224198668">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/application.conf" timestamp="1500989283462">
         <mark key="[" line="2" column="0" />
@@ -478,6 +494,12 @@
         <mark key="]" line="41" column="54" />
         <mark key="^" line="41" column="54" />
         <mark key="." line="41" column="54" />
+      </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/.github/PULL_REQUEST_TEMPLATE.md" timestamp="1508223672922">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="9" column="65" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/test.py" timestamp="1499936746519">
         <mark key="[" line="61" column="0" />
@@ -586,7 +608,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508149906203">
+      <file name="/Dummy.txt" timestamp="1508224220212">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
@@ -646,10 +668,6 @@
         <mark key="]" line="78" column="0" />
         <mark key="^" line="78" column="0" />
         <mark key="." line="78" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ClickRepository.scala" timestamp="1508155469518">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="47" column="2" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/wiremock/mappings/klikkitV3docs.json" timestamp="1507548141033">
         <mark key="[" line="3" column="15" />
@@ -792,6 +810,12 @@
         <mark key="." line="148" column="19" />
         <mark key="^" line="147" column="18" />
       </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/FunUnitTestSupport.scala" timestamp="1508224186142">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/GoogleAuthenticationHelper.scala" timestamp="1500883098651">
         <mark key="[" line="22" column="14" />
         <mark key="]" line="23" column="12" />
@@ -819,17 +843,23 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1507042463149">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ReminderRepositorySpec.scala" timestamp="1508220225094">
-        <mark key="[" line="121" column="34" />
-        <mark key="]" line="121" column="44" />
-        <mark key="." line="121" column="44" />
-        <mark key="^" line="121" column="44" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ReminderRepositorySpec.scala" timestamp="1508224832952">
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="35" column="11" />
+        <mark key="^" line="35" column="11" />
+        <mark key="." line="35" column="11" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/HashUtil.scala" timestamp="1507639974428">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="1" />
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
+      </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ApiSpecHelper.scala" timestamp="1508224157199">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/test/scala/com/leoilab/psohappy/PsoHappyRepositorySpec.scala" timestamp="1497244883308">
         <mark key="[" line="49" column="62" />
@@ -1071,10 +1101,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ReminderSpec.scala" timestamp="1508218984852">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ReminderSpec.scala" timestamp="1508227794829">
+        <mark key="[" line="41" column="22" />
+        <mark key="k" line="95" column="15" />
+        <mark key="]" line="77" column="36" />
+        <mark key="." line="77" column="36" />
+        <mark key="^" line="77" column="36" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/src/test/scala/com/leoilab/imagine/FunctionalSpec.scala" timestamp="1501057380328">
         <mark key="[" line="10" column="9" />
@@ -1175,7 +1207,7 @@
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="/sbtShell" timestamp="1508221542675">
+      <file name="/sbtShell" timestamp="1508224856845">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/testkit/src/main/scala/com/leoilab/testkit/AuthSupport.scala" timestamp="1503561827606">
@@ -1388,7 +1420,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;org.scala-lang.modules&quot; %% &quot;scala-xml&quot; % &quot;1.0.5&quot;</text>
+        <text>someCronString</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4011,43 +4043,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;org.scala-lang.modules&quot; %% &quot;scala-xml&quot; % &quot;1.0.5&quot;</text>
+        <text>someCronString</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>yyyy-MM-dd'T'HH:mm:ss.SSS'['ZZZ']'</text>
+        <text encoding="base64">ICAgIHZhbCByZW1pbmRlcklkID0gUmVtaW5kZXJJZC5nZW5lcmF0ZQogICAgdmFsIGFjdGl2aXR5SWQgPSBBY3Rpdml0eUlkLmdlbmVyYXRlCiAgICB2YWwgc3RhcnREYXRlID0gRGF0ZVRpbWUubm93KCkKICAgIHZhbCBlbmREYXRlID0gc3RhcnREYXRlLnBsdXNZZWFycygxKQogICAgdmFsIGNyb25TdHJpbmcgPSAiMCAwIDEyICogKiA/Ig==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCByZW1pbmRlcklkID0gUmVtaW5kZXJJZC5nZW5lcmF0ZQogICAgdmFsIGFjdGl2aXR5SWQgPSBBY3Rpdml0eUlkLmdlbmVyYXRlCiAgICB2YWwgc3RhcnREYXRlID0gRGF0ZVRpbWUubm93KCkKICAgIHZhbCBlbmREYXRlID0gc3RhcnREYXRlLnBsdXNZZWFycygxKQogICAgdmFsIGNyb25TdHJpbmcgPSAiMCAwIDEyICogKiA/IgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQogIGRlc2NyaWJlKCJSZW1pbmRlckRUTyBjb252ZXJzaW9uIHRvIFJlbWluZGVyIikgewogICAgdmFsIHBhcmVudEFjdGl2aXR5SWQgPSBBY3Rpdml0eUlkLmdlbmVyYXRlCiAgICB2YWwgcmVtaW5kZXJJZCA9IFJlbWluZGVySWQuZ2VuZXJhdGUKICAgIHZhbCBjcm9uU3RyaW5nID0gIlNvbWVDcm9uU3RyaW5nIgoKICAgIGl0KCJzaG91bGQgY29udmVydCBmcm9tIGp1c3QgYSBjcm9uU3RyaW5nIikgewogICAgICB2YWwgcmVtaW5kZXJEVE8gPSBSZW1pbmRlckRUTyhjcm9uU3RyaW5nKQogICAgICB2YWwgcmVtaW5kZXIgPSByZW1pbmRlckRUTy50b1JlbWluZGVyKHJlbWluZGVySWQsIHBhcmVudEFjdGl2aXR5SWQpCgogICAgICBhc3NlcnQocmVtaW5kZXIuaWQgPT0gcmVtaW5kZXJJZCkKICAgICAgYXNzZXJ0KHJlbWluZGVyLmNyb25TdHJpbmcgPT0gY3JvblN0cmluZykKICAgICAgYXNzZXJ0KHJlbWluZGVyLmlzQWN0aXZlKQogICAgICByZW1pbmRlci5lbmREYXRlIG1hdGNoIHsKICAgICAgICBjYXNlIFNvbWUoXykgPT4gYXNzZXJ0KGZhbHNlKQogICAgICAgIGNhc2UgTm9uZSA9PiBhc3NlcnQodHJ1ZSkKICAgICAgfQogICAgfQoKICAgIGl0KCJzaG91bGQgY29udmVydCBmcm9tIGZ1bGx5IHNwZWNpZmllZCBvYmplY3QiKSB7CiAgICAgIHZhbCBzb21lRGF0ZSA9IERhdGVUaW1lLm5vdwogICAgICB2YWwgcmVtaW5kZXJEVE8gPSBSZW1pbmRlckRUTyhjcm9uU3RyaW5nLAogICAgICAgIGlkID0gU29tZShyZW1pbmRlcklkKSwKICAgICAgICBpc0FjdGl2ZSA9IFNvbWUoZmFsc2UpLAogICAgICAgIHN0YXJ0RGF0ZSA9IFNvbWUoc29tZURhdGUpLAogICAgICAgIGVuZERhdGUgPSBTb21lKHNvbWVEYXRlLnBsdXNZZWFycygxKSkKICAgICAgKQogICAgICB2YWwgcmVtaW5kZXIgPSByZW1pbmRlckRUTy50b1JlbWluZGVyKHJlbWluZGVySWQsIHBhcmVudEFjdGl2aXR5SWQpCiAgICAgIGFzc2VydChyZW1pbmRlci5jcm9uU3RyaW5nID09IGNyb25TdHJpbmcpCiAgICAgIGFzc2VydCghcmVtaW5kZXIuaXNBY3RpdmUpCiAgICAgIGFzc2VydChyZW1pbmRlci5zdGFydERhdGUgPT0gc29tZURhdGUpCiAgICAgIGFzc2VydChyZW1pbmRlci5lbmREYXRlLmNvbnRhaW5zKHNvbWVEYXRlLnBsdXNZZWFycygxKSkpCiAgICB9CgogICAgaXQoInNob3VsZCBnZW5lcmF0ZSBhIG5ldyByZW1pbmRlciBpZCBpZiBub25lIGlzIHByb3ZpZGVkIikgewogICAgICB2YWwgcmVtaW5kZXJEVE8gPSBSZW1pbmRlckRUTyhjcm9uU3RyaW5nKQogICAgICB2YWwgcmVtaW5kZXIgPSByZW1pbmRlckRUTy50b1JlbWluZGVyKHBhcmVudEFjdGl2aXR5SWQpCgogICAgICBhc3NlcnQoIXJlbWluZGVyLmlkLmlkLmlzRW1wdHkpCiAgICAgIGFzc2VydChyZW1pbmRlci5jcm9uU3RyaW5nID09IGNyb25TdHJpbmcpCiAgICAgIGFzc2VydChyZW1pbmRlci5pc0FjdGl2ZSkKICAgICAgcmVtaW5kZXIuZW5kRGF0ZSBtYXRjaCB7CiAgICAgICAgY2FzZSBTb21lKF8pID0+IGFzc2VydChmYWxzZSkKICAgICAgICBjYXNlIE5vbmUgPT4gYXNzZXJ0KHRydWUpCiAgICAgIH0KICAgIH0KICB9Cj4+Pj4+Pj4gQWRkIFJlbWluZGVyUmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KCmNhc2UgY2xhc3MgUmVtaW5kZXIoCiAgICAgICAgICAgICAgICAgICAgIGlkOiBSZW1pbmRlcklkLAogICAgICAgICAgICAgICAgICAgICBpc0FjdGl2ZTogQm9vbGVhbiwKICAgICAgICAgICAgICAgICAgICAgY3JvblN0cmluZzogU3RyaW5nLAogICAgICAgICAgICAgICAgICAgICBzdGFydERhdGU6IERhdGVUaW1lLAogICAgICAgICAgICAgICAgICAgICBlbmREYXRlOiBPcHRpb25bRGF0ZVRpbWVdLAogICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eUlkOiBBY3Rpdml0eUlkLAogICAgICAgICAgICAgICAgICAgICBkZWxldGVkOiBCb29sZWFuID0gZmFsc2UKICAgICAgICAgICAgICAgICAgICkgewogIGRlZiB0b0RUTyA9IHsKICAgIFJlbWluZGVyRFRPKAogICAgICBpZCA9IFNvbWUoaWQpLAogICAgICBjcm9uU3RyaW5nID0gY3JvblN0cmluZywKICAgICAgaXNBY3RpdmUgPSBTb21lKGlzQWN0aXZlKSwKICAgICAgc3RhcnREYXRlID0gU29tZShzdGFydERhdGUpLAogICAgICBlbmREYXRlID0gZW5kRGF0ZQogICAgKQogIH0KfQoKPj4+Pj4+PiBBZGQgUmVtaW5kZXJSZXBvc2l0b3J5Cg==</text>
+        <text encoding="base64">ICAgIHZhbCByZW1pbmRlcklkID0gUmVtaW5kZXJJZC5nZW5lcmF0ZQogICAgdmFsIGFjdGl2aXR5SWQgPSBBY3Rpdml0eUlkLmdlbmVyYXRlCiAgICB2YWwgc3RhcnREYXRlID0gRGF0ZVRpbWUubm93KCkKICAgIHZhbCBlbmREYXRlID0gc3RhcnREYXRlLnBsdXNZZWFycygxKQogICAgdmFsIGNyb25TdHJpbmcgPSAiMCAwIDEyICogKiA/Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICBpc0FjdGl2ZSA9IHRoaXMuaXNBY3RpdmUuZ2V0T3JFbHNlKHRydWUpLAogICAgICBzdGFydERhdGUgPSB0aGlzLnN0YXJ0RGF0ZS5nZXRPckVsc2UoRGF0ZVRpbWUubm93KSwKICAgICAgZW5kRGF0ZSA9IHRoaXMuZW5kRGF0ZSwKICAgICAgYWN0aXZpdHlJZCA9IGFjdGl2aXR5SWQKICAgICkKICB9CiAgZGVmIHRvUmVtaW5kZXIoYWN0aXZpdHlJZDogQWN0aXZpdHlJZCk6IFJlbWluZGVyID0gewogICAgdmFsIHJlbWluZGVySWQgPSBpZCBtYXRjaCB7CiAgICAgIGNhc2UgU29tZShpZCkgPT4gaWQKICAgICAgY2FzZSBOb25lID0+IFJlbWluZGVySWQuZ2VuZXJhdGUKICAgIH0KICAgIHRvUmVtaW5kZXIocmVtaW5kZXJJZCwgYWN0aXZpdHlJZCkKPj4+Pj4+PiBBZGQgUmVtaW5kZXJSZXBvc2l0b3J5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCByZW1pbmRlcklkID0gUmVtaW5kZXJJZC5nZW5lcmF0ZQogICAgdmFsIGFjdGl2aXR5SWQgPSBBY3Rpdml0eUlkLmdlbmVyYXRlCiAgICB2YWwgc3RhcnREYXRlID0gRGF0ZVRpbWUubm93KCkKICAgIHZhbCBlbmREYXRlID0gc3RhcnREYXRlLnBsdXNZZWFycygxKQogICAgdmFsIGNyb25TdHJpbmcgPSAiMCAwIDEyICogKiA/Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgUmVtaW5kZXJSZXBvc2l0b3J5Cg==</text>
+        <text encoding="base64">ICAgIHZhbCByZW1pbmRlcklkID0gUmVtaW5kZXJJZC5nZW5lcmF0ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgUmVtaW5kZXJSZXBvc2l0b3J5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZW1pbmRlckRUTy4pCg==</text>
       </register>
       <register name=":" type="4">
         <text>106</text>
