@@ -287,11 +287,11 @@
         <mark key="." line="81" column="99" />
         <mark key="^" line="80" column="64" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ScheduleRepositorySpec.scala" timestamp="1508243563096">
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
-        <mark key="^" line="13" column="26" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ScheduleRepositorySpec.scala" timestamp="1508245405313">
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="24" column="37" />
+        <mark key="." line="24" column="37" />
+        <mark key="^" line="24" column="37" />
       </file>
       <file name="$USER_HOME$/Source/images3/README.md" timestamp="1503648087003">
         <mark key="[" line="60" column="6" />
@@ -653,7 +653,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1508221479197" />
       <file name="$USER_HOME$/Source/images3/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503565055763">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="54" />
@@ -1229,12 +1228,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ScheduleRepository.scala" timestamp="1508242820538">
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ScheduleRepository.scala" timestamp="1508245631564">
         <mark key="'" line="24" column="20" />
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="44" column="36" />
-        <mark key="." line="44" column="36" />
-        <mark key="^" line="44" column="36" />
+        <mark key="[" line="57" column="11" />
+        <mark key="]" line="57" column="15" />
+        <mark key="." line="57" column="15" />
+        <mark key="^" line="57" column="15" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/scripts/docker/runapp.sh" timestamp="1507545305805">
         <mark key="[" line="2" column="21" />
@@ -1271,6 +1270,12 @@
         <mark key="]" line="271" column="103" />
         <mark key="." line="271" column="103" />
         <mark key="^" line="271" column="103" />
+      </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/resources/db/migration/V5__Schedules.sql" timestamp="1508244948485">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="23" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/config/ConfigValues.scala" timestamp="1504858775520">
         <mark key="[" line="7" column="0" />
@@ -1427,8 +1432,8 @@
       <jump line="24" column="20" filename="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ScheduleRepository.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4051,7 +4056,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Click</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
