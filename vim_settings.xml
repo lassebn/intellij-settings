@@ -199,7 +199,7 @@
         <mark key="^" line="66" column="120" />
         <mark key="." line="66" column="120" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/raml/api.raml" timestamp="1508228814428">
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/raml/api.raml" timestamp="1508229917506">
         <mark key="[" line="183" column="60" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientCollectionPropertiesIntegrationTest.scala" timestamp="1503398979480">
@@ -390,11 +390,11 @@
       <file name="$USER_HOME$/Source/platform-users/project/Build.scala" timestamp="1504770431265">
         <mark key="[" line="13" column="71" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/Reminder.scala" timestamp="1508227432681">
-        <mark key="[" line="46" column="35" />
-        <mark key="]" line="46" column="28" />
-        <mark key="." line="46" column="28" />
-        <mark key="^" line="46" column="28" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/Reminder.scala" timestamp="1508230065036">
+        <mark key="[" line="43" column="41" />
+        <mark key="]" line="43" column="62" />
+        <mark key="." line="43" column="62" />
+        <mark key="^" line="43" column="62" />
       </file>
       <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/resources/application.conf" timestamp="1505730634297">
         <mark key="[" line="25" column="16" />
@@ -1101,12 +1101,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ReminderSpec.scala" timestamp="1508227794829">
-        <mark key="[" line="41" column="22" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ReminderSpec.scala" timestamp="1508230098841">
+        <mark key="[" line="64" column="59" />
         <mark key="k" line="95" column="15" />
-        <mark key="]" line="77" column="36" />
-        <mark key="." line="77" column="36" />
-        <mark key="^" line="77" column="36" />
+        <mark key="]" line="64" column="68" />
+        <mark key="." line="64" column="68" />
+        <mark key="^" line="64" column="68" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/src/test/scala/com/leoilab/imagine/FunctionalSpec.scala" timestamp="1501057380328">
         <mark key="[" line="10" column="9" />
