@@ -473,11 +473,11 @@
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/requirements.txt" timestamp="1499426450905">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/build.sbt" timestamp="1508221137494">
-        <mark key="[" line="40" column="20" />
-        <mark key="]" line="40" column="26" />
-        <mark key="^" line="40" column="26" />
-        <mark key="." line="40" column="26" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/build.sbt" timestamp="1508221536718">
+        <mark key="[" line="41" column="1" />
+        <mark key="]" line="41" column="54" />
+        <mark key="^" line="41" column="54" />
+        <mark key="." line="41" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/test.py" timestamp="1499936746519">
         <mark key="[" line="61" column="0" />
@@ -631,6 +631,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1508221479197" />
       <file name="$USER_HOME$/Source/images3/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503565055763">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="54" />
@@ -1105,11 +1106,11 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/project/TestHelper.scala" timestamp="1508220492422">
-        <mark key="[" line="146" column="26" />
-        <mark key="]" line="146" column="25" />
-        <mark key="^" line="146" column="25" />
-        <mark key="." line="146" column="25" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/project/TestHelper.scala" timestamp="1508221919512">
+        <mark key="[" line="93" column="182" />
+        <mark key="]" line="93" column="238" />
+        <mark key="^" line="93" column="238" />
+        <mark key="." line="93" column="238" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiFuncSpec.scala" timestamp="1504701831390">
         <mark key="[" line="379" column="0" />
@@ -1162,13 +1163,19 @@
         <mark key="." line="34" column="56" />
         <mark key="^" line="34" column="56" />
       </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/docker-compose.yml" timestamp="1508221801342">
+        <mark key="[" line="41" column="83" />
+        <mark key="]" line="41" column="83" />
+        <mark key="^" line="41" column="83" />
+        <mark key="." line="41" column="83" />
+      </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/build.sbt" timestamp="1493985068493">
         <mark key="[" line="22" column="57" />
         <mark key="]" line="22" column="55" />
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="/sbtShell" timestamp="1507897480987">
+      <file name="/sbtShell" timestamp="1508221542675">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/testkit/src/main/scala/com/leoilab/testkit/AuthSupport.scala" timestamp="1503561827606">
@@ -1381,7 +1388,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWQg</text>
+        <text>&quot;org.scala-lang.modules&quot; %% &quot;scala-xml&quot; % &quot;1.0.5&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4004,7 +4011,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWQg</text>
+        <text>&quot;org.scala-lang.modules&quot; %% &quot;scala-xml&quot; % &quot;1.0.5&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
