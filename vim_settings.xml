@@ -962,11 +962,11 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitService.scala" timestamp="1508316891611">
-        <mark key="[" line="70" column="31" />
-        <mark key="]" line="29" column="57" />
-        <mark key="^" line="29" column="57" />
-        <mark key="." line="29" column="57" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitService.scala" timestamp="1508320329170">
+        <mark key="[" line="83" column="62" />
+        <mark key="]" line="83" column="62" />
+        <mark key="^" line="83" column="62" />
+        <mark key="." line="83" column="62" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageApiFuncSpec.scala" timestamp="1503564766904">
         <mark key="[" line="34" column="28" />
@@ -1446,8 +1446,8 @@
       <jump line="24" column="20" filename="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ScheduleRepository.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgYmluZGluZ3MK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4070,7 +4070,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DateTime</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -4079,34 +4079,34 @@
         <text encoding="base64">ICAgIHZhbCByZW1pbmRlcklkID0gUmVtaW5kZXJJZC5nZW5lcmF0ZQogICAgdmFsIGFjdGl2aXR5SWQgPSBBY3Rpdml0eUlkLmdlbmVyYXRlCiAgICB2YWwgc3RhcnREYXRlID0gRGF0ZVRpbWUubm93KCkKICAgIHZhbCBlbmREYXRlID0gc3RhcnREYXRlLnBsdXNZZWFycygxKQogICAgdmFsIGNyb25TdHJpbmcgPSAiMCAwIDEyICogKiA/Ig==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgYmluZGluZ3MK</text>
+        <text encoding="base64">ICB0cnkgewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIGU6IEFjdGl2aXR5Tm90Rm91bmRFeGNlcHRpb24gPT4gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgYmluZGluZ3MK</text>
+        <text encoding="base64">ICB9IGNhdGNoIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBBZGQgYmluZGluZ3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG86IGJpbmQgcmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG86IGJpbmQgc2VydmljZQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBBZGQgYmluZGluZ3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuRGF0ZVRpbWUK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>106</text>
