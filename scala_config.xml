@@ -1,0 +1,5 @@
+<application>
+  <component name="ScalaApplicationSettings">
+    <option name="COPY_SCALADOC" value="false" />
+  </component>
+</application>

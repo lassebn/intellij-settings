@@ -425,6 +425,12 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitModule.scala" timestamp="1508315813340">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="45" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/identity/FacebookIdentityService.scala" timestamp="1499178850101">
         <mark key="[" line="79" column="30" />
         <mark key="]" line="79" column="26" />
@@ -908,6 +914,7 @@
         <mark key="." line="98" column="122" />
         <mark key="^" line="98" column="122" />
       </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ProductRepository.scala" timestamp="1508315713312" />
       <file name="$USER_HOME$/Source/platform-images/project/TestHelper.scala" timestamp="1504783629179">
         <mark key="[" line="71" column="51" />
         <mark key="]" line="71" column="43" />
@@ -953,6 +960,12 @@
         <mark key="]" line="4" column="20" />
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitService.scala" timestamp="1508315876730">
+        <mark key="[" line="45" column="74" />
+        <mark key="]" line="45" column="73" />
+        <mark key="^" line="45" column="73" />
+        <mark key="." line="45" column="73" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageApiFuncSpec.scala" timestamp="1503564766904">
         <mark key="[" line="34" column="28" />
@@ -1049,6 +1062,12 @@
       </file>
       <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1504786423206">
         <mark key="[" line="52" column="28" />
+      </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" timestamp="1508314009536">
+        <mark key="[" line="193" column="56" />
+        <mark key="]" line="193" column="96" />
+        <mark key="." line="193" column="96" />
+        <mark key="^" line="193" column="96" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500029575770">
         <mark key="[" line="5" column="19" />
@@ -1228,12 +1247,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ScheduleRepository.scala" timestamp="1508245631564">
-        <mark key="'" line="24" column="20" />
-        <mark key="[" line="57" column="11" />
-        <mark key="]" line="57" column="15" />
-        <mark key="." line="57" column="15" />
-        <mark key="^" line="57" column="15" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ScheduleRepository.scala" timestamp="1508315793011">
+        <mark key="'" line="26" column="20" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="81" column="13" />
+        <mark key="." line="81" column="13" />
+        <mark key="^" line="81" column="13" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/scripts/docker/runapp.sh" timestamp="1507545305805">
         <mark key="[" line="2" column="21" />
@@ -1316,11 +1335,11 @@
         <mark key="." line="9" column="35" />
         <mark key="^" line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ReminderRepository.scala" timestamp="1508219315206">
-        <mark key="[" line="25" column="17" />
-        <mark key="]" line="27" column="114" />
-        <mark key="." line="27" column="114" />
-        <mark key="^" line="27" column="114" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ReminderRepository.scala" timestamp="1508315744394">
+        <mark key="[" line="74" column="7" />
+        <mark key="]" line="74" column="6" />
+        <mark key="." line="74" column="6" />
+        <mark key="^" line="74" column="6" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/IntegrationTestHelper.scala" timestamp="1498551657010">
         <mark key="[" line="49" column="0" />
@@ -1432,8 +1451,8 @@
       <jump line="24" column="20" filename="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ScheduleRepository.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIHRvZG86IGJpbmQgcmVwb3NpdG9yeQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4056,7 +4075,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>DateTime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -4065,34 +4084,34 @@
         <text encoding="base64">ICAgIHZhbCByZW1pbmRlcklkID0gUmVtaW5kZXJJZC5nZW5lcmF0ZQogICAgdmFsIGFjdGl2aXR5SWQgPSBBY3Rpdml0eUlkLmdlbmVyYXRlCiAgICB2YWwgc3RhcnREYXRlID0gRGF0ZVRpbWUubm93KCkKICAgIHZhbCBlbmREYXRlID0gc3RhcnREYXRlLnBsdXNZZWFycygxKQogICAgdmFsIGNyb25TdHJpbmcgPSAiMCAwIDEyICogKiA/Ig==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRvZG86IGJpbmQgcmVwb3NpdG9yeQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiZ2V0dGluZyBieSBidXR0b25JZCIgc2hvdWxkICJyZXR1cm4gYW4gZW1wdHkgbGlzdCB3aGVuIG5vIHNjaGVkdWxlcyBhcmUgcmVnaXN0ZXJlZCIgaW4gewogICAgdmFsIHJldHVybmVkTGlzdCA9IHNjaGVkdWxlUmVwb3NpdG9yeS5nZXRGb3JCdXR0b24oc2NoZWR1bGUuYnV0dG9uSWQpLmZ1dHVyZVZhbHVlCiAgICBhc3NlcnQocmV0dXJuZWRMaXN0LmlzRW1wdHkpCiAgfQoKICBpdCBzaG91bGQgInJldHVybiBhIGxpc3Qgb2YgcmVnaXN0ZXJlZCBzY2hlZHVsZXMiIGluIHsKICAgIHZhbCBzY2hlZHVsZTIgPSBzY2hlZHVsZS5jb3B5KHNjaGVkdWxlSWQgPSBTY2hlZHVsZUlkLmdlbmVyYXRlKQogICAgdmFsIHNjaGVkdWxlMyA9IHNjaGVkdWxlLmNvcHkoc2NoZWR1bGVJZCA9IFNjaGVkdWxlSWQuZ2VuZXJhdGUpCiAgICBzY2hlZHVsZVJlcG9zaXRvcnkucmVnaXN0ZXIoc2NoZWR1bGUpLmZ1dHVyZVZhbHVlCiAgICBzY2hlZHVsZVJlcG9zaXRvcnkucmVnaXN0ZXIoc2NoZWR1bGUyKS5mdXR1cmVWYWx1ZQogICAgc2NoZWR1bGVSZXBvc2l0b3J5LnJlZ2lzdGVyKHNjaGVkdWxlMykuZnV0dXJlVmFsdWUKICAgIHZhbCByZXR1cm5lZExpc3QgPSBzY2hlZHVsZVJlcG9zaXRvcnkuZ2V0Rm9yQnV0dG9uKHNjaGVkdWxlLmJ1dHRvbklkKS5mdXR1cmVWYWx1ZQogICAgcmV0dXJuZWRMaXN0LnNpemUgc2hvdWxkQmUgMwogICAgYXNzZXJ0KHNjaGVkdWxlSXNJbkxpc3Qoc2NoZWR1bGUsIHJldHVybmVkTGlzdCkpCiAgICBhc3NlcnQoc2NoZWR1bGVJc0luTGlzdChzY2hlZHVsZTIsIHJldHVybmVkTGlzdCkpCiAgICBhc3NlcnQoc2NoZWR1bGVJc0luTGlzdChzY2hlZHVsZTMsIHJldHVybmVkTGlzdCkpCiAgfQoKICBpdCBzaG91bGQgIm5vdCByZXR1cm4gZGVsZXRlZCBzY2hlZHVsZXMiIGluIHsKICAgIHZhbCBzY2hlZHVsZTIgPSBzY2hlZHVsZS5jb3B5KHNjaGVkdWxlSWQgPSBTY2hlZHVsZUlkLmdlbmVyYXRlKQogICAgdmFsIHNjaGVkdWxlMyA9IHNjaGVkdWxlLmNvcHkoc2NoZWR1bGVJZCA9IFNjaGVkdWxlSWQuZ2VuZXJhdGUpCiAgICBzY2hlZHVsZVJlcG9zaXRvcnkucmVnaXN0ZXIoc2NoZWR1bGUpLmZ1dHVyZVZhbHVlCiAgICBzY2hlZHVsZVJlcG9zaXRvcnkucmVnaXN0ZXIoc2NoZWR1bGUyKS5mdXR1cmVWYWx1ZQogICAgc2NoZWR1bGVSZXBvc2l0b3J5LnJlZ2lzdGVyKHNjaGVkdWxlMykuZnV0dXJlVmFsdWUKICAgIHNjaGVkdWxlUmVwb3NpdG9yeS5kZWxldGUoc2NoZWR1bGUuc2NoZWR1bGVJZCkuZnV0dXJlVmFsdWUKICAgIHZhbCByZXR1cm5lZExpc3QgPSBzY2hlZHVsZVJlcG9zaXRvcnkuZ2V0Rm9yQnV0dG9uKHNjaGVkdWxlLmJ1dHRvbklkKS5mdXR1cmVWYWx1ZQogICAgcmV0dXJuZWRMaXN0LnNpemUgc2hvdWxkQmUgMgogICAgYXNzZXJ0KHNjaGVkdWxlSXNJbkxpc3Qoc2NoZWR1bGUyLCByZXR1cm5lZExpc3QpKQogICAgYXNzZXJ0KHNjaGVkdWxlSXNJbkxpc3Qoc2NoZWR1bGUzLCByZXR1cm5lZExpc3QpKQogIH0KCiAgaXQgc2hvdWxkICJyZXR1cm4gYW4gZW1wdHkgbGlzdCBpZiBidXR0b25JZCBkb2VzIG5vdCBleGlzdCIgaW4gewogICAgdmFsIHJldHVybmVkTGlzdCA9IHNjaGVkdWxlUmVwb3NpdG9yeS5nZXRGb3JCdXR0b24oQnV0dG9uSWQuZ2VuZXJhdGUpLmZ1dHVyZVZhbHVlCiAgICBhc3NlcnQocmV0dXJuZWRMaXN0LmlzRW1wdHkpCiAgfQo=</text>
+        <text encoding="base64">ICAgIC8vIHRvZG86IGJpbmQgc2VydmljZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGF0ZXRpbWUgPSBEYXRlVGltZS5ub3csIGR1cmF0aW9uID0gMiwgaXNNYW51YWwgPSBmYWxzZQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuRGF0ZVRpbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZpdHlJZCA9IEFjdGl2aXR5SWQuZ2VuZXJhdGUsIGJ1dHRvbklkID0gQnV0dG9uSWQuZ2VuZXJhdGUsIHNjaGVkdWxlSWQgPSBTY2hlZHVsZUlkLmdlbmVyYXRlLAo=</text>
+        <text encoding="base64">aW1wb3J0IHNwcmF5Lmh0dHAuXwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgZGVmIHNjaGVkdWxlSXNJbkxpc3Qoc2NoZWR1bGU6IFNjaGVkdWxlLCBsaXN0OiBMaXN0W1NjaGVkdWxlXSk6IEJvb2xlYW4gPSB7CiAgICBsaXN0LmV4aXN0cyhjID0+IGNvbXBhcmVTY2hlZHVsZXMoYywgc2NoZWR1bGUpKQogIH0K</text>
+        <text encoding="base64">ICAiZ2V0dGluZyBieSBidXR0b25JZCIgc2hvdWxkICJyZXR1cm4gYW4gZW1wdHkgbGlzdCB3aGVuIG5vIHNjaGVkdWxlcyBhcmUgcmVnaXN0ZXJlZCIgaW4gewogICAgdmFsIHJldHVybmVkTGlzdCA9IHNjaGVkdWxlUmVwb3NpdG9yeS5nZXRGb3JCdXR0b24oc2NoZWR1bGUuYnV0dG9uSWQpLmZ1dHVyZVZhbHVlCiAgICBhc3NlcnQocmV0dXJuZWRMaXN0LmlzRW1wdHkpCiAgfQoKICBpdCBzaG91bGQgInJldHVybiBhIGxpc3Qgb2YgcmVnaXN0ZXJlZCBzY2hlZHVsZXMiIGluIHsKICAgIHZhbCBzY2hlZHVsZTIgPSBzY2hlZHVsZS5jb3B5KHNjaGVkdWxlSWQgPSBTY2hlZHVsZUlkLmdlbmVyYXRlKQogICAgdmFsIHNjaGVkdWxlMyA9IHNjaGVkdWxlLmNvcHkoc2NoZWR1bGVJZCA9IFNjaGVkdWxlSWQuZ2VuZXJhdGUpCiAgICBzY2hlZHVsZVJlcG9zaXRvcnkucmVnaXN0ZXIoc2NoZWR1bGUpLmZ1dHVyZVZhbHVlCiAgICBzY2hlZHVsZVJlcG9zaXRvcnkucmVnaXN0ZXIoc2NoZWR1bGUyKS5mdXR1cmVWYWx1ZQogICAgc2NoZWR1bGVSZXBvc2l0b3J5LnJlZ2lzdGVyKHNjaGVkdWxlMykuZnV0dXJlVmFsdWUKICAgIHZhbCByZXR1cm5lZExpc3QgPSBzY2hlZHVsZVJlcG9zaXRvcnkuZ2V0Rm9yQnV0dG9uKHNjaGVkdWxlLmJ1dHRvbklkKS5mdXR1cmVWYWx1ZQogICAgcmV0dXJuZWRMaXN0LnNpemUgc2hvdWxkQmUgMwogICAgYXNzZXJ0KHNjaGVkdWxlSXNJbkxpc3Qoc2NoZWR1bGUsIHJldHVybmVkTGlzdCkpCiAgICBhc3NlcnQoc2NoZWR1bGVJc0luTGlzdChzY2hlZHVsZTIsIHJldHVybmVkTGlzdCkpCiAgICBhc3NlcnQoc2NoZWR1bGVJc0luTGlzdChzY2hlZHVsZTMsIHJldHVybmVkTGlzdCkpCiAgfQoKICBpdCBzaG91bGQgIm5vdCByZXR1cm4gZGVsZXRlZCBzY2hlZHVsZXMiIGluIHsKICAgIHZhbCBzY2hlZHVsZTIgPSBzY2hlZHVsZS5jb3B5KHNjaGVkdWxlSWQgPSBTY2hlZHVsZUlkLmdlbmVyYXRlKQogICAgdmFsIHNjaGVkdWxlMyA9IHNjaGVkdWxlLmNvcHkoc2NoZWR1bGVJZCA9IFNjaGVkdWxlSWQuZ2VuZXJhdGUpCiAgICBzY2hlZHVsZVJlcG9zaXRvcnkucmVnaXN0ZXIoc2NoZWR1bGUpLmZ1dHVyZVZhbHVlCiAgICBzY2hlZHVsZVJlcG9zaXRvcnkucmVnaXN0ZXIoc2NoZWR1bGUyKS5mdXR1cmVWYWx1ZQogICAgc2NoZWR1bGVSZXBvc2l0b3J5LnJlZ2lzdGVyKHNjaGVkdWxlMykuZnV0dXJlVmFsdWUKICAgIHNjaGVkdWxlUmVwb3NpdG9yeS5kZWxldGUoc2NoZWR1bGUuc2NoZWR1bGVJZCkuZnV0dXJlVmFsdWUKICAgIHZhbCByZXR1cm5lZExpc3QgPSBzY2hlZHVsZVJlcG9zaXRvcnkuZ2V0Rm9yQnV0dG9uKHNjaGVkdWxlLmJ1dHRvbklkKS5mdXR1cmVWYWx1ZQogICAgcmV0dXJuZWRMaXN0LnNpemUgc2hvdWxkQmUgMgogICAgYXNzZXJ0KHNjaGVkdWxlSXNJbkxpc3Qoc2NoZWR1bGUyLCByZXR1cm5lZExpc3QpKQogICAgYXNzZXJ0KHNjaGVkdWxlSXNJbkxpc3Qoc2NoZWR1bGUzLCByZXR1cm5lZExpc3QpKQogIH0KCiAgaXQgc2hvdWxkICJyZXR1cm4gYW4gZW1wdHkgbGlzdCBpZiBidXR0b25JZCBkb2VzIG5vdCBleGlzdCIgaW4gewogICAgdmFsIHJldHVybmVkTGlzdCA9IHNjaGVkdWxlUmVwb3NpdG9yeS5nZXRGb3JCdXR0b24oQnV0dG9uSWQuZ2VuZXJhdGUpLmZ1dHVyZVZhbHVlCiAgICBhc3NlcnQocmV0dXJuZWRMaXN0LmlzRW1wdHkpCiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgY29tcGFyZVNjaGVkdWxlcyhjMTogU2NoZWR1bGUsIGMyOiBTY2hlZHVsZSk6IEJvb2xlYW4gPSB7CiAgICAvLyBjb21wYXJpbmcgZXZlcnl0aGluZyBidXQgZGF0ZXRpbWVzCiAgICBjMS5lcXVhbHMoYzIuY29weShkYXRldGltZSA9IGMxLmRhdGV0aW1lKSkKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZGF0ZXRpbWUgPSBEYXRlVGltZS5ub3csIGR1cmF0aW9uID0gMiwgaXNNYW51YWwgPSBmYWxzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBpc0FjdGl2ZSA9IGNvbHVtbltCb29sZWFuXSgiaXNBY3RpdmUiKQogICAgdmFsIGNyb25TdHJpbmcgPSBjb2x1bW5bU3RyaW5nXSgiY3JvblN0cmluZyIpCiAgICB2YWwgc3RhcnREYXRlID0gY29sdW1uW0RhdGVUaW1lXSgic3RhcnREYXRlIikKICAgIHZhbCBlbmREYXRlID0gY29sdW1uW09wdGlvbltEYXRlVGltZV1dKCJlbmREYXRlIikKICAgIHZhbCBhY3Rpdml0eUlkID0gY29sdW1uW0FjdGl2aXR5SWRdKCJhY3Rpdml0eUlkIikKICAgIHZhbCBkZWxldGVkID0gY29sdW1uW0Jvb2xlYW5dKCJkZWxldGVkIikK</text>
+        <text encoding="base64">ICAgICAgYWN0aXZpdHlJZCA9IEFjdGl2aXR5SWQuZ2VuZXJhdGUsIGJ1dHRvbklkID0gQnV0dG9uSWQuZ2VuZXJhdGUsIHNjaGVkdWxlSWQgPSBTY2hlZHVsZUlkLmdlbmVyYXRlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>106</text>
