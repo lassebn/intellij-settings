@@ -648,7 +648,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508224220212">
+      <file name="/Dummy.txt" timestamp="1508398530071">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
@@ -907,7 +907,7 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ApiSpecHelper.scala" timestamp="1508395956440">
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ApiSpecHelper.scala" timestamp="1508398128154">
         <mark key="]" line="26" column="31" />
         <mark key="." line="26" column="31" />
         <mark key="^" line="26" column="31" />
@@ -1152,6 +1152,12 @@
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/S3DataStoreFactory.scala" timestamp="1500642135079">
         <mark key="[" line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitServiceRemindersSpec.scala" timestamp="1508400419447">
+        <mark key="[" line="81" column="74" />
+        <mark key="]" line="81" column="75" />
+        <mark key="^" line="81" column="75" />
+        <mark key="." line="81" column="75" />
+      </file>
       <file name="$USER_HOME$/Source/google-sheets-scala/src/main/resources/google_secrets.json" timestamp="1500541137706">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="42" />
@@ -1176,6 +1182,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="4" column="17" />
       </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ReminderSpec.scala" timestamp="1508397540863" />
       <file name="$USER_HOME$/Source/imagine-backend/src/test/scala/com/leoilab/imagine/FunctionalSpec.scala" timestamp="1501057380328">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="4" column="28" />
@@ -1506,8 +1513,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/KlikkitApiIntegrationTestReminders.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>// TODO: this leaks info, should be unauthorized exception</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4130,43 +4137,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>// TODO: this leaks info, should be unauthorized exception</text>
+        <text>activityId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3BvbnNlQXNbQXBpRXJyb3JdLmNvZGUgc2hvdWxkQmUgImtsaWtraXQtNDIwMiIKICAgICAgICAgIHJlc3BvbnNlQXNbQXBpRXJyb3JdLm1zZyBzaG91bGQgc3RhcnRXaXRoKHVuYXV0aG9yaXplZEVycm9yUHJlZml4KQo=</text>
+        <text encoding="base64">ICAgICAgaXQoInNob3VsZCBkZWxldGUgdGhlIHNpbmdsZSByZW1pbmRlciB3aGVuIGl0IGV4aXN0cyIpIHsKICAgICAgICB3aGVuKHJlbWluZGVyUmVwb3NpdG9yeS5kZWxldGUoYW55W1JlbWluZGVySWRdKShhbnlbQ2xpZW50SWRdKSkudGhlblJldHVybihGdXR1cmUoMSkpCgogICAgICAgIHZhbCByZW1pbmRlcklkID0gUmVtaW5kZXJJZC5nZW5lcmF0ZQogICAgICAgIGtsaWtraXRTZXJ2aWNlLmRlbGV0ZVJlbWluZGVyKHJlbWluZGVySWQpLmZ1dHVyZVZhbHVlCgogICAgICAgIHZlcmlmeShyZW1pbmRlclJlcG9zaXRvcnksIHRpbWVzKDEpKS5kZWxldGUocmVtaW5kZXJJZCkoYWNjZXNzVG9rZW4pCiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFjdGl2aXR5SWQgPSBBY3Rpdml0eUlkLmdlbmVyYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gIGRlZiBnZXRVbmF1dGhvcml6ZWRFcnJvck1lc3NhZ2UoYWN0aXZpdHlJZDogQWN0aXZpdHlJZCwgdXNlcklkOiBVc2VySWQsIGNsaWVudElkOiBDbGllbnRJZCkgPSBzIlVuYXV0aG9yaXplZCBhY2Nlc3MgdG8gb2JqZWN0ICRhY3Rpdml0eUlkIG9uIGJlaGFsZiBvZiAkdXNlcklkLiBJbml0aWF0ZWQgYnkgdXNlciAkdXNlcklkIGZvciBjbGllbnQgJGNsaWVudElkLiIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB2YXIgYWN0aXZpdHlJZDogQWN0aXZpdHlJZCA9IF8K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlc2NyaWJlKCJ3aGVuIGdldHRpbmcgYSBzcGVjaWZpYyByZW1pbmRlciIpIHsKICAgICAgaXQoInNob3VsZCBnZXQgdGhhdCByZW1pbmRlciIpIHsKICAgICAgICB2YWwgcmVtaW5kZXJJZCA9IFJlbWluZGVySWQuZ2VuZXJhdGUKICAgICAgICB3aGVuKHJlbWluZGVyUmVwb3NpdG9yeS5nZXQoYW55W1JlbWluZGVySWRdKShhbnlbQWNjZXNzVG9rZW5dKSkudGhlblJldHVybihGdXR1cmUoZ2VuZXJhdGVOZXdSZW1pbmRlckRUTy50b1JlbWluZGVyKHVzZXJJZCwgQWN0aXZpdHlJZC5nZW5lcmF0ZSwgcmVtaW5kZXJJZCkpKQoKCiAgICAgICAgdmVyaWZ5KHJlbWluZGVyUmVwb3NpdG9yeSwgdGltZXMoMSkpLmdldChyZW1pbmRlcklkKShhY2Nlc3NUb2tlbikKICAgICAgfQogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgYWN0aXZpdHlJZCA9IEFjdGl2aXR5SWQuZ2VuZXJhdGUK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChnZXRSZXNwb25zZTIucmVtaW5kZXJzLnNpemUgPT0gMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCByZW1pbmRlcklkID0gcmVtaW5kZXJSZXNwb25zZS5pZAo=</text>
+        <text encoding="base64">ICAgIHdpdGggQXBpU3BlY0hlbHBlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCByZW1pbmRlcklkID0gcmVtaW5kZXJSZXNwb25zZS5pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZW1pbmRlclJlc3BvbnNlKDEpLmNyb25TdHJpbmcgPT0gY3JvblN0cmluZzIpCg==</text>
+        <text encoding="base64">ICBkZWYgZ2VuZXJhdGVSZW1pbmRlciA9IE5ld1JlbWluZGVyRFRPKCIwIDAgMTIgMS8xICogPyAqIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFjdGl2aXR5SWQgPSBBY3Rpdml0eUlkLmdlbmVyYXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>106</text>
