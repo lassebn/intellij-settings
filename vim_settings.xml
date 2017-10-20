@@ -17,9 +17,6 @@
         <mark key="^" line="27" column="44" />
         <mark key="." line="27" column="44" />
       </file>
-      <file name="/a.dummy" timestamp="1499936920460">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/GenericPropertyRepository.scala" timestamp="1503391770596">
         <mark key="[" line="10" column="69" />
         <mark key="]" line="10" column="37" />
@@ -151,12 +148,6 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/72d80ebb-27e7-44a8-94fb-de25d76933a2/console_2.sql" timestamp="1507237185908">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/" timestamp="1499773789772">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503487992585">
         <mark key="[" line="37" column="81" />
         <mark key="]" line="37" column="83" />
@@ -235,15 +226,6 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="/a.sql" timestamp="1507034121429">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/README.md" timestamp="1494314384652">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/ExternalUser.scala" timestamp="1496997085620">
-        <mark key="[" line="6" column="47" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/71de73c0-626d-418a-9a34-179cf0e44ab0/console.sql" timestamp="1508150187441">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="21" />
@@ -256,9 +238,6 @@
         <mark key="^" line="17" column="116" />
         <mark key="." line="17" column="116" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/project/assembly" timestamp="1500629010496">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-template.json" timestamp="1505735805647">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
@@ -270,9 +249,6 @@
         <mark key="]" line="15" column="44" />
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/afd61665-bfef-4909-8041-40e355b174d6/console.sql" timestamp="1500620955150">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-import/wiremock/mappings/wufooGetUKBaselineEntries.json" timestamp="1507236859136">
         <mark key="[" line="16" column="33" />
@@ -315,9 +291,6 @@
         <mark key="]" line="61" column="0" />
         <mark key="^" line="61" column="0" />
         <mark key="." line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/imagine-backend/README.md" timestamp="1504787366689">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/rest/DateTimeJsonProtocol.scala" timestamp="1504857979022">
         <mark key="[" line="3" column="47" />
@@ -420,9 +393,6 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/project/Build.scala" timestamp="1504770431265">
-        <mark key="[" line="13" column="71" />
-      </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/Reminder.scala" timestamp="1508413612207">
         <mark key="[" line="48" column="29" />
         <mark key="]" line="48" column="37" />
@@ -495,9 +465,6 @@
         <mark key="^" line="3" column="76" />
         <mark key="." line="41" column="32" />
       </file>
-      <file name="$USER_HOME$/Source/studies-and-me/scripts/send_reminder_mails.py" timestamp="1498470247979">
-        <mark key="[" line="13" column="88" />
-      </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/coffee_clicks.py" timestamp="1499937397992">
         <mark key="[" line="65" column="36" />
         <mark key="]" line="65" column="69" />
@@ -516,9 +483,6 @@
         <mark key="^" line="32" column="52" />
         <mark key="." line="32" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/auth/src/main/scala/com/leoilab/auth/AuthInfo.scala" timestamp="1504857932094">
-        <mark key="[" line="23" column="48" />
-      </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/rest/auth/MembershipsDirective.scala" timestamp="1508396548243">
         <mark key="[" line="33" column="77" />
         <mark key="]" line="33" column="76" />
@@ -530,9 +494,6 @@
         <mark key="]" line="9" column="13" />
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="13" />
-      </file>
-      <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/requirements.txt" timestamp="1499426450905">
-        <mark key="[" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/build.sbt" timestamp="1508325322702">
         <mark key="[" line="33" column="66" />
@@ -612,7 +573,7 @@
         <mark key="^" line="132" column="77" />
         <mark key="." line="132" column="77" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiRemindersSpec.scala" timestamp="1508509656273">
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiRemindersSpec.scala" timestamp="1508511207706">
         <mark key="[" line="54" column="191" />
         <mark key="]" line="54" column="195" />
         <mark key="^" line="54" column="195" />
@@ -665,9 +626,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1508418587409">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
         <mark key="[" line="68" column="183" />
@@ -729,9 +687,6 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="18" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1508336194410">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-definition-migrate-template.json" timestamp="1505735739661">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="78" column="0" />
@@ -791,9 +746,6 @@
         <mark key="]" line="118" column="0" />
         <mark key="^" line="121" column="121" />
         <mark key="." line="118" column="0" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1508337462234">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/GenericPropertiesService.scala" timestamp="1503399842065">
         <mark key="[" line="21" column="0" />
@@ -938,9 +890,6 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1507042463149">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ReminderRepositorySpec.scala" timestamp="1508487450660">
         <mark key="[" line="150" column="23" />
         <mark key="]" line="150" column="23" />
@@ -1018,9 +967,6 @@
         <mark key="]" line="32" column="33" />
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
-      </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyUser.scala" timestamp="1496996789179">
-        <mark key="[" line="4" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/psohappy-emails/find_deleted_emails.py" timestamp="1499169394708">
         <mark key="[" line="5" column="0" />
@@ -1148,9 +1094,6 @@
         <mark key="^" line="10" column="82" />
         <mark key="." line="10" column="82" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/.github/PULL_REQUEST_TEMPLATE.md" timestamp="1505915156699">
-        <mark key="[" line="9" column="66" />
-      </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/get_images_and_cutouts_from_query.py" timestamp="1499781958249">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -1162,9 +1105,6 @@
         <mark key="]" line="2" column="27" />
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1504786423206">
-        <mark key="[" line="52" column="28" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" timestamp="1508497559033">
         <mark key="[" line="118" column="54" />
@@ -1201,9 +1141,6 @@
         <mark key="]" line="37" column="9" />
         <mark key="." line="37" column="9" />
         <mark key="^" line="37" column="9" />
-      </file>
-      <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/S3DataStoreFactory.scala" timestamp="1500642135079">
-        <mark key="[" line="6" column="24" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitServiceRemindersSpec.scala" timestamp="1508496174303">
         <mark key="[" line="32" column="26" />
@@ -1313,9 +1250,6 @@
         <mark key="^" line="6" column="77" />
         <mark key="." line="6" column="77" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/auth/src/main/scala/com/leoilab/auth/UnauthorizedException.scala" timestamp="1504599002626">
-        <mark key="[" line="4" column="40" />
-      </file>
       <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1505806230133">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -1345,9 +1279,6 @@
         <mark key="]" line="22" column="55" />
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
-      </file>
-      <file name="/sbtShell" timestamp="1508395322084">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/testkit/src/main/scala/com/leoilab/testkit/AuthSupport.scala" timestamp="1503561827606">
         <mark key="[" line="32" column="48" />
@@ -1385,9 +1316,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/test/AuthSupport.scala" timestamp="1497018218673">
-        <mark key="[" line="5" column="18" />
-      </file>
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/db/DBComponent.scala" timestamp="1496906582674">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="28" />
@@ -1399,9 +1327,6 @@
         <mark key="]" line="235" column="93" />
         <mark key="." line="235" column="93" />
         <mark key="^" line="235" column="93" />
-      </file>
-      <file name="/Scala Console" timestamp="1494231449884">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/raml/api.raml" timestamp="1503401956680">
         <mark key="[" line="271" column="81" />
@@ -1444,9 +1369,6 @@
         <mark key="]" line="2" column="63" />
         <mark key="^" line="2" column="63" />
         <mark key="." line="2" column="63" />
-      </file>
-      <file name="$USER_HOME$/Source/datawarehouse-import/wiremock/mappings/wufooGetUKEfficacyEntryCount.json" timestamp="1507486400749">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/resources/db/migration/V3__PsoHappyId_to_ExternalUserId.sql" timestamp="1497006621593">
         <mark key="[" line="9" column="24" />
