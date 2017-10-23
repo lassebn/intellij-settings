@@ -1009,11 +1009,11 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitService.scala" timestamp="1508766705911">
-        <mark key="[" line="120" column="32" />
-        <mark key="]" line="113" column="15" />
-        <mark key="." line="113" column="15" />
-        <mark key="^" line="113" column="15" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitService.scala" timestamp="1508768365382">
+        <mark key="[" line="123" column="27" />
+        <mark key="]" line="123" column="27" />
+        <mark key="." line="123" column="27" />
+        <mark key="^" line="123" column="27" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageApiFuncSpec.scala" timestamp="1503564766904">
         <mark key="[" line="34" column="28" />
@@ -1501,7 +1501,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">RXhpc3RpbmdBY3Rpdml0eUR0b0FuZEdyb3VwSWQg</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4124,7 +4124,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">RXhpc3RpbmdBY3Rpdml0eUR0b0FuZEdyb3VwSWQg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
