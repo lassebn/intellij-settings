@@ -369,9 +369,7 @@
         <mark key="^" line="32" column="87" />
         <mark key="." line="32" column="87" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitServiceActivitiesSpec.scala" timestamp="1508752499651">
-        <mark key="^" line="18" column="43" />
-      </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitServiceActivitiesSpec.scala" timestamp="1508767289403" />
       <file name="$USER_HOME$/Source/spike-datawarehouse-export/project/Build.scala" timestamp="1506086002280">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="32" />
@@ -1011,8 +1009,8 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitService.scala" timestamp="1508752449135">
-        <mark key="[" line="111" column="57" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitService.scala" timestamp="1508766705911">
+        <mark key="[" line="120" column="32" />
         <mark key="]" line="113" column="15" />
         <mark key="." line="113" column="15" />
         <mark key="^" line="113" column="15" />
@@ -1503,7 +1501,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Activity</text>
+        <text />
       </register>
       <register name="j" type="4">
         <keys>
@@ -4126,13 +4124,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Activity</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVzY3JpYmUoInNob3VsZCBmYWlsIHdoZW4iKSB7CiAgICAgICAgaXQoInRoZSBwcm9kdWN0IGNhbm5vdCBiZSByZWdpc3RlcmVkIikgewoKICAgICAgICB9CgogICAgICAgIGl0KCJ0aGUgYnV0dG9ucyBjYW5ub3QgYmUgcmVnaXN0ZXJlZCIpIHsKCiAgICAgICAgfQoKICAgICAgICBpdCgidGhlIHNjaGVkdWxlcyBjYW5ub3QgYmUgcmVnaXN0ZXJlZCIpIHsKCiAgICAgICAgfQoKICAgICAgICBpdCgidGhlIHJlbWluZGVycyBjYW5ub3QgYmUgcmVnaXN0ZXJlZCIpIHsKCiAgICAgICAgfQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFNldHVwRGVsZXRlQWN0aXZpdHlNb2NrKGZhaWxQcm9kdWN0ID0gdHJ1ZSkKCiAgICAgICAgICB2YWwgZXhjZXB0aW9uID0ga2xpa2tpdFNlcnZpY2UuZGVsZXRlQWN0aXZpdHkoQWN0aXZpdHlJZC5nZW5lcmF0ZSkuZmFpbGVkLmZ1dHVyZVZhbHVlCiAgICAgICAgICBleGNlcHRpb24gc2hvdWxkQmUgYW5bUnVudGltZUV4Y2VwdGlvbl0KICAgICAgICAgIGV4Y2VwdGlvbi5nZXRNZXNzYWdlIHNob3VsZEJlIGFjdGl2aXR5Tm90RGVsZXRlZE1lc3NhZ2UK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB2YWwgcHJvZHVjdCA9IE5ld1Byb2R1Y3REVE8oInByb3RvcGljIiwgU29tZSgiTGVvIFBoYXJtYSIpLCBTb21lKCI0MDE4Njc4MDQ3MDYzIikpCg==</text>
