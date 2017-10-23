@@ -369,7 +369,7 @@
         <mark key="^" line="32" column="87" />
         <mark key="." line="32" column="87" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitServiceActivitiesSpec.scala" timestamp="1508749139544">
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitServiceActivitiesSpec.scala" timestamp="1508752499651">
         <mark key="^" line="18" column="43" />
       </file>
       <file name="$USER_HOME$/Source/spike-datawarehouse-export/project/Build.scala" timestamp="1506086002280">
@@ -1011,7 +1011,7 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitService.scala" timestamp="1508746513823">
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitService.scala" timestamp="1508752449135">
         <mark key="[" line="111" column="57" />
         <mark key="]" line="113" column="15" />
         <mark key="." line="113" column="15" />
@@ -1502,8 +1502,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/KlikkitApiIntegrationTestReminders.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YWwgcHJvZHVjdCA9IE5ld1Byb2R1Y3REVE8oInByb3RvcGljIiwgU29tZSgiTGVvIFBoYXJtYSIpLCBTb21lKCI0MDE4Njc4MDQ3MDYzIikpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Activity</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4126,7 +4126,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>registered</text>
+        <text>Activity</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
