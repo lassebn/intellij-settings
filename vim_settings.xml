@@ -459,11 +459,11 @@
         <mark key="." line="996" column="2" />
         <mark key="^" line="996" column="2" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/KlikkitApiIntegrationTestActivities.scala" timestamp="1508775573704">
-        <mark key="[" line="102" column="15" />
-        <mark key="]" line="111" column="37" />
-        <mark key="^" line="111" column="37" />
-        <mark key="." line="111" column="37" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/KlikkitApiIntegrationTestActivities.scala" timestamp="1508777400164">
+        <mark key="[" line="116" column="140" />
+        <mark key="]" line="116" column="140" />
+        <mark key="^" line="116" column="140" />
+        <mark key="." line="116" column="140" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/batch_crafting_from_query.py" timestamp="1499780839271">
         <mark key="[" line="41" column="31" />
@@ -688,11 +688,11 @@
         <mark key="^" line="33" column="54" />
         <mark key="." line="33" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/resources/application.conf" timestamp="1508339857028">
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="18" column="36" />
-        <mark key="^" line="18" column="36" />
-        <mark key="." line="18" column="36" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/resources/application.conf" timestamp="1508776810790">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="37" />
+        <mark key="^" line="17" column="37" />
+        <mark key="." line="17" column="37" />
       </file>
       <file name="/fragment.java" timestamp="1508745329841">
         <mark key="[" line="0" column="0" />
