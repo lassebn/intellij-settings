@@ -221,11 +221,11 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/IntegrationTestHelper.scala" timestamp="1508821135888">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="25" />
-        <mark key="^" line="25" column="1" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/IntegrationTestHelper.scala" timestamp="1508825700415">
+        <mark key="[" line="43" column="123" />
+        <mark key="]" line="43" column="121" />
+        <mark key="." line="43" column="121" />
+        <mark key="^" line="43" column="121" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/71de73c0-626d-418a-9a34-179cf0e44ab0/console.sql" timestamp="1508150187441">
         <mark key="[" line="0" column="12" />
@@ -461,11 +461,11 @@
         <mark key="." line="996" column="2" />
         <mark key="^" line="996" column="2" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/KlikkitApiIntegrationTestActivities.scala" timestamp="1508821436773">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="76" column="2" />
-        <mark key="^" line="76" column="2" />
-        <mark key="." line="76" column="2" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/KlikkitApiIntegrationTestActivities.scala" timestamp="1508827553887">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="25" column="34" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/batch_crafting_from_query.py" timestamp="1499780839271">
         <mark key="[" line="41" column="31" />
@@ -1287,7 +1287,7 @@
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="/sbtShell" timestamp="1508745362568">
+      <file name="/sbtShell" timestamp="1508823433853">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/testkit/src/main/scala/com/leoilab/testkit/AuthSupport.scala" timestamp="1503561827606">
@@ -1373,6 +1373,12 @@
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
+      </file>
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/KlikkitApiIntegrationTestReminders.scala" timestamp="1508827812359">
+        <mark key="[" line="57" column="69" />
+        <mark key="]" line="57" column="68" />
+        <mark key="." line="57" column="68" />
+        <mark key="^" line="57" column="68" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/project/project/plugins.sbt" timestamp="1505916645386">
         <mark key="[" line="2" column="67" />
@@ -1503,7 +1509,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb2xvcjEgPSBTb21lKCJ0ZXN0LWNvbG9yLSIgKyByYW5kb21TdHJpbmcoOCkpCg==</text>
+        <text encoding="base64">ICAgIHdpdGggU3ByYXlKc29uU3VwcG9ydAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4126,34 +4132,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>newActivityDTO.toActivity(userId).toDTO(newActivityDTO.buttons, Map(), newActivityDTO.reminders, newActivityDTO.schedules, newActivityDTO.product)</text>
+        <text>activityId2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc3lzdGVtID0gQWN0b3JTeXN0ZW0oKQogIGltcG9ydCBzeXN0ZW0uZGlzcGF0Y2hlcgo=</text>
+        <text encoding="base64">ICB2YWwgcGlwZWxpbmU6IEh0dHBSZXF1ZXN0ID0+IEZ1dHVyZVtIdHRwUmVzcG9uc2VdID0gc2VuZFJlY2VpdmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb2xvcjEgPSBTb21lKCJ0ZXN0LWNvbG9yLSIgKyByYW5kb21TdHJpbmcoOCkpCg==</text>
+        <text encoding="base64">ICAgIHdpdGggU3ByYXlKc29uU3VwcG9ydAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgdGltZW91dDogVGltZW91dCA9IFRpbWVvdXQoNjAsIFRpbWVVbml0LlNFQ09ORFMpCg==</text>
+        <text encoding="base64">ICAgIHdpdGggU2NhbGFGdXR1cmVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggU3ByYXlKc29uU3VwcG9ydAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc3lzdGVtID0gQWN0b3JTeXN0ZW0oKQogIGltcG9ydCBzeXN0ZW0uZGlzcGF0Y2hlcgo=</text>
+        <text encoding="base64">ICAgIHdpdGggU2NhbGFGdXR1cmVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBhY3Rpdml0eTFEVE8gPSBOZXdBY3Rpdml0eURUTyhhY3Rpdml0eU5hbWUxKQo=</text>
+        <text encoding="base64">ICAgIGF1dGhJbmZvID0gQXV0aEluZm8odXNlcklkID0gdXNlcklkLCBjbGllbnRJZCA9IGNsaWVudElkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgY2xpZW50SWQ6IENsaWVudElkID0gQ2xpZW50cy5LbGlra2l0CiAgaW1wbGljaXQgdmFsIGltcGxpY2l0Q2xpZW50SWQ6IENsaWVudElkID0gY2xpZW50SWQKCiAgdmFyIHVzZXJJZDogVXNlcklkID0gXwogIHZhciBhdXRoSW5mbyA9IEF1dGhJbmZvKHVzZXJJZCA9IHVzZXJJZCwgY2xpZW50SWQgPSBjbGllbnRJZCkK</text>
+        <text encoding="base64">ICAgIHVzZXJJZCA9IFVzZXJJZC5nZW5lcmF0ZQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -4165,7 +4171,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>106</text>
+        <text>58</text>
       </register>
     </registers>
     <search>
@@ -4189,7 +4195,6 @@
         <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>5</entry>
         <entry>127</entry>
         <entry>155</entry>
         <entry>233</entry>
@@ -4209,6 +4214,7 @@
         <entry>180</entry>
         <entry>12</entry>
         <entry>106</entry>
+        <entry>58</entry>
       </history-cmd>
       <history-expr />
       <history-input />
