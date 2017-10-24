@@ -581,11 +581,11 @@
         <mark key="^" line="132" column="77" />
         <mark key="." line="132" column="77" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiRemindersSpec.scala" timestamp="1508511207706">
-        <mark key="[" line="54" column="191" />
-        <mark key="]" line="54" column="195" />
-        <mark key="^" line="54" column="195" />
-        <mark key="." line="54" column="195" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiRemindersSpec.scala" timestamp="1508831922871">
+        <mark key="[" line="152" column="67" />
+        <mark key="]" line="151" column="36" />
+        <mark key="^" line="151" column="36" />
+        <mark key="." line="151" column="36" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingEC2InstanceTerminationMessage.scala" timestamp="1494492598248">
         <mark key="[" line="6" column="50" />
@@ -1014,11 +1014,11 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitService.scala" timestamp="1508772280729">
-        <mark key="[" line="12" column="101" />
-        <mark key="]" line="75" column="25" />
-        <mark key="." line="75" column="25" />
-        <mark key="^" line="75" column="25" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitService.scala" timestamp="1508831511314">
+        <mark key="[" line="223" column="2" />
+        <mark key="]" line="223" column="1" />
+        <mark key="." line="223" column="1" />
+        <mark key="^" line="223" column="1" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageApiFuncSpec.scala" timestamp="1503564766904">
         <mark key="[" line="34" column="28" />
@@ -1032,11 +1032,11 @@
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiSpec.scala" timestamp="1508509914251">
-        <mark key="[" line="148" column="12" />
-        <mark key="]" line="158" column="5" />
-        <mark key="^" line="158" column="5" />
-        <mark key="." line="158" column="5" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiSpec.scala" timestamp="1508831695180">
+        <mark key="[" line="69" column="124" />
+        <mark key="]" line="69" column="207" />
+        <mark key="^" line="69" column="207" />
+        <mark key="." line="69" column="207" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/PlatformServicesInfrastructurePlugin.scala" timestamp="1507703270540">
         <mark key="[" line="38" column="30" />
@@ -1116,8 +1116,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" timestamp="1508772701487">
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" timestamp="1508831531647">
         <mark key="'" line="92" column="26" />
+        <mark key="[" line="178" column="109" />
+        <mark key="]" line="178" column="79" />
+        <mark key="^" line="178" column="79" />
+        <mark key="." line="178" column="79" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500029575770">
         <mark key="[" line="5" column="19" />
@@ -1508,8 +1512,8 @@
       <jump line="92" column="26" filename="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpdGggU3ByYXlKc29uU3VwcG9ydAo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4132,7 +4136,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>activityId2</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
