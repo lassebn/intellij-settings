@@ -1275,11 +1275,11 @@
         <mark key="." line="34" column="56" />
         <mark key="^" line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/docker-compose.yml" timestamp="1508339808195">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="14" column="36" />
-        <mark key="^" line="14" column="36" />
-        <mark key="." line="14" column="36" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/docker-compose.yml" timestamp="1508829982195">
+        <mark key="[" line="37" column="52" />
+        <mark key="]" line="37" column="67" />
+        <mark key="^" line="37" column="67" />
+        <mark key="." line="37" column="67" />
       </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/build.sbt" timestamp="1493985068493">
         <mark key="[" line="22" column="57" />
