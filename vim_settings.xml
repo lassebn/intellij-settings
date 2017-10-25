@@ -203,11 +203,11 @@
         <mark key="^" line="66" column="120" />
         <mark key="." line="66" column="120" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/raml/api.raml" timestamp="1508843488698">
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="265" column="0" />
-        <mark key="^" line="260" column="35" />
-        <mark key="." line="265" column="0" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/raml/api.raml" timestamp="1508923124507">
+        <mark key="[" line="362" column="19" />
+        <mark key="]" line="362" column="20" />
+        <mark key="^" line="362" column="20" />
+        <mark key="." line="362" column="20" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientCollectionPropertiesIntegrationTest.scala" timestamp="1503398979480">
         <mark key="[" line="162" column="22" />
@@ -581,8 +581,11 @@
         <mark key="^" line="132" column="77" />
         <mark key="." line="132" column="77" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiRemindersSpec.scala" timestamp="1508831922871">
-        <mark key="[" line="70" column="67" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiRemindersSpec.scala" timestamp="1508924609001">
+        <mark key="[" line="185" column="77" />
+        <mark key="]" line="185" column="76" />
+        <mark key="^" line="185" column="76" />
+        <mark key="." line="185" column="76" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingEC2InstanceTerminationMessage.scala" timestamp="1494492598248">
         <mark key="[" line="6" column="50" />
@@ -1107,12 +1110,11 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" timestamp="1508918369238">
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" timestamp="1508924513113">
         <mark key="'" line="92" column="26" />
-        <mark key="[" line="104" column="88" />
-        <mark key="]" line="104" column="87" />
-        <mark key="^" line="104" column="87" />
-        <mark key="." line="104" column="87" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500029575770">
         <mark key="[" line="5" column="19" />
@@ -1282,7 +1284,7 @@
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="/sbtShell" timestamp="1508823433853">
+      <file name="/sbtShell" timestamp="1508922774856">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/testkit/src/main/scala/com/leoilab/testkit/AuthSupport.scala" timestamp="1503561827606">
@@ -1503,8 +1505,8 @@
       <jump line="92" column="26" filename="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getUrl3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEZ1dHVyZSh0cnVlKQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4127,7 +4129,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getUrl3</text>
+        <text>new ReminderNotFoundException(ReminderId.generate)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -4136,34 +4138,34 @@
         <text encoding="base64">ICBkZWYgYXV0aG9yaXplZFBpcGVsaW5lOiBIdHRwUmVxdWVzdCA9PiBGdXR1cmVbSHR0cFJlc3BvbnNlXSA9IGFkZFNTTCB+PiBhZGRIZWFkZXIoIlgtQ2xpZW50LUlkIiwgY2xpZW50SWQudG9TdHJpbmcpIH4+IGFkZEhlYWRlcigiQXV0aG9yaXphdGlvbiIsIHMiQmVhcmVyICRhY2Nlc3NUb2tlbiIpIH4+IHBpcGVsaW5lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBnZXRVcmwzID0gcyIkYmFzZVVybC9hY3Rpdml0aWVzLyRhY3Rpdml0eUlkIgo=</text>
+        <text encoding="base64">ICAgIEZ1dHVyZSh0cnVlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCB1bnJlZ2lzdGVyVXJsID0gcyIkYmFzZVVybC9hY3Rpdml0aWVzLyRhY3Rpdml0eUlkL3JlbWluZGVycyIK</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YXR1cyBzaG91bGRCZSBTdGF0dXNDb2Rlcy5PSwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBnZXRVcmwyID0gcyIkYmFzZVVybC9hY3Rpdml0aWVzLyRhY3Rpdml0eUlkIgo=</text>
+        <text encoding="base64">ICAgICAgICByZW1pbmRlcklzRGVsZXRlZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBnZXRVcmwxID0gcyIkYmFzZVVybC9hY3Rpdml0aWVzLyRhY3Rpdml0eUlkIgo=</text>
+        <text encoding="base64">ICAgICAgICByZW1pbmRlcklzRm91bmQoUmVtaW5kZXJJZC5nZW5lcmF0ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB1cmwgPSBzIiRiYXNlVXJsL2FjdGl2aXRpZXMvJGFjdGl2aXR5SWQvcmVtaW5kZXJzIgo=</text>
+        <text encoding="base64">ICAgIHZhbCBnZXRVcmwzID0gcyIkYmFzZVVybC9hY3Rpdml0aWVzLyRhY3Rpdml0eUlkIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCB1cmwgPSBzIiRiYXNlVXJsL2FjdGl2aXRpZXMvJGFjdGl2aXR5SWQvcmVtaW5kZXJzIgo=</text>
+        <text encoding="base64">ICAgIHZhbCB1bnJlZ2lzdGVyVXJsID0gcyIkYmFzZVVybC9hY3Rpdml0aWVzLyRhY3Rpdml0eUlkL3JlbWluZGVycyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCB1bnJlZ2lzdGVyVXJsID0gcyIkYmFzZVVybC9hY3Rpdml0aWVzLyRhY3Rpdml0eUlkL3JlbWluZGVycy8kcmVtaW5kZXJJZCIK</text>
+        <text encoding="base64">ICAgIHZhbCBnZXRVcmwyID0gcyIkYmFzZVVybC9hY3Rpdml0aWVzLyRhY3Rpdml0eUlkIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBnZXRBY3Rpdml0eVVybCA9IHMiJGJhc2VVcmwvYWN0aXZpdGllcy8kYWN0aXZpdHlJZCIK</text>
+        <text encoding="base64">ICAgIHZhbCBnZXRVcmwxID0gcyIkYmFzZVVybC9hY3Rpdml0aWVzLyRhY3Rpdml0eUlkIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBjcm9uU3RyaW5nID0gIjAgMCAxMiAqICogPyIK</text>
+        <text encoding="base64">ICAgIHZhbCB1cmwgPSBzIiRiYXNlVXJsL2FjdGl2aXRpZXMvJGFjdGl2aXR5SWQvcmVtaW5kZXJzIgo=</text>
       </register>
       <register name=":" type="4">
         <text>58</text>
