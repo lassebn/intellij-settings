@@ -71,11 +71,11 @@
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="50" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiActivitiesSpec.scala" timestamp="1508846112852">
-        <mark key="[" line="119" column="50" />
-        <mark key="]" line="119" column="55" />
-        <mark key="^" line="119" column="55" />
-        <mark key="." line="119" column="55" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiActivitiesSpec.scala" timestamp="1508918213613">
+        <mark key="[" line="124" column="1" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/project/Build.scala" timestamp="1498551255596">
         <mark key="[" line="40" column="107" />
@@ -1107,12 +1107,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" timestamp="1508844969543">
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" timestamp="1508918369238">
         <mark key="'" line="92" column="26" />
-        <mark key="[" line="75" column="7" />
-        <mark key="]" line="75" column="8" />
-        <mark key="^" line="75" column="8" />
-        <mark key="." line="75" column="8" />
+        <mark key="[" line="104" column="88" />
+        <mark key="]" line="104" column="87" />
+        <mark key="^" line="104" column="87" />
+        <mark key="." line="104" column="87" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500029575770">
         <mark key="[" line="5" column="19" />
