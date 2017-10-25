@@ -72,10 +72,9 @@
         <mark key="^" line="48" column="50" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiActivitiesSpec.scala" timestamp="1508932689093">
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="0" />
-        <mark key="^" line="13" column="41" />
-        <mark key="." line="216" column="0" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/project/Build.scala" timestamp="1498551255596">
         <mark key="[" line="40" column="107" />
@@ -462,10 +461,10 @@
         <mark key="^" line="996" column="2" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/KlikkitApiIntegrationTestActivities.scala" timestamp="1508914675120">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="182" />
-        <mark key="^" line="74" column="42" />
-        <mark key="." line="74" column="42" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="182" />
+        <mark key="^" line="78" column="42" />
+        <mark key="." line="78" column="42" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/batch_crafting_from_query.py" timestamp="1499780839271">
         <mark key="[" line="41" column="31" />
@@ -580,12 +579,6 @@
         <mark key="]" line="132" column="77" />
         <mark key="^" line="132" column="77" />
         <mark key="." line="132" column="77" />
-      </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiRemindersSpec.scala" timestamp="1508932970629">
-        <mark key="[" line="130" column="38" />
-        <mark key="]" line="130" column="46" />
-        <mark key="^" line="130" column="46" />
-        <mark key="." line="130" column="46" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingEC2InstanceTerminationMessage.scala" timestamp="1494492598248">
         <mark key="[" line="6" column="50" />
@@ -1026,12 +1019,6 @@
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiSpec.scala" timestamp="1508932408223">
-        <mark key="[" line="108" column="47" />
-        <mark key="]" line="115" column="49" />
-        <mark key="^" line="115" column="49" />
-        <mark key="." line="115" column="49" />
-      </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/PlatformServicesInfrastructurePlugin.scala" timestamp="1507703270540">
         <mark key="[" line="38" column="30" />
         <mark key="]" line="39" column="22" />
@@ -1371,12 +1358,6 @@
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
-      </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/KlikkitApiIntegrationTestReminders.scala" timestamp="1508934258165">
-        <mark key="[" line="88" column="23" />
-        <mark key="]" line="88" column="41" />
-        <mark key="^" line="88" column="41" />
-        <mark key="." line="88" column="41" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/project/project/plugins.sbt" timestamp="1505916645386">
         <mark key="[" line="2" column="67" />
