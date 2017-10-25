@@ -462,10 +462,10 @@
         <mark key="^" line="996" column="2" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/KlikkitApiIntegrationTestActivities.scala" timestamp="1508836178706">
-        <mark key="[" line="78" column="39" />
-        <mark key="]" line="78" column="42" />
-        <mark key="^" line="78" column="42" />
-        <mark key="." line="78" column="42" />
+        <mark key="[" line="74" column="39" />
+        <mark key="]" line="74" column="42" />
+        <mark key="^" line="74" column="42" />
+        <mark key="." line="74" column="42" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/batch_crafting_from_query.py" timestamp="1499780839271">
         <mark key="[" line="41" column="31" />
@@ -683,6 +683,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1508910771784" />
       <file name="$USER_HOME$/Source/images3/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503565055763">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="54" />
@@ -1009,12 +1010,6 @@
         <mark key="]" line="4" column="20" />
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
-      </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitService.scala" timestamp="1508844867637">
-        <mark key="[" line="138" column="35" />
-        <mark key="]" line="138" column="43" />
-        <mark key="." line="138" column="43" />
-        <mark key="^" line="138" column="43" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageApiFuncSpec.scala" timestamp="1503564766904">
         <mark key="[" line="34" column="28" />
