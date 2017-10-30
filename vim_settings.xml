@@ -203,11 +203,11 @@
         <mark key="^" line="66" column="120" />
         <mark key="." line="66" column="120" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/raml/api.raml" timestamp="1509374398605">
-        <mark key="[" line="55" column="19" />
-        <mark key="]" line="276" column="19" />
-        <mark key="^" line="276" column="19" />
-        <mark key="." line="276" column="19" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/raml/api.raml" timestamp="1509380115873">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="^" line="308" column="56" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientCollectionPropertiesIntegrationTest.scala" timestamp="1503398979480">
         <mark key="[" line="162" column="22" />
@@ -1126,12 +1126,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" timestamp="1509377858455">
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" timestamp="1509380035800">
         <mark key="'" line="72" column="2" />
         <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="53" />
-        <mark key="." line="157" column="53" />
-        <mark key="^" line="157" column="53" />
+        <mark key="]" line="131" column="31" />
+        <mark key="." line="131" column="31" />
+        <mark key="^" line="131" column="31" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500029575770">
         <mark key="[" line="5" column="19" />
@@ -1523,7 +1523,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJpZCI6ICJiOTJiZWZiZC01ODQxLTRjOWYtOWRhMy1iOGQwMzVlNTQ5MWQiLAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4146,7 +4146,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>product: Option[ProductDTO]</text>
+        <text>scheduleId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -4155,34 +4155,34 @@
         <text encoding="base64">ICAiVGhlIGtsaWtraXQgYXBpIiBzaG91bGQgImFsbG93IHVzZXJzIHRvIHVwZGF0ZSBhbiBhY3Rpdml0eSIgaW4gewogICAgdmFsIGFjdGl2aXR5SWQgPSByZWdpc3RlckFjdGl2aXR5KGFjY2Vzc1Rva2VuID0gYWNjZXNzVG9rZW4pCgogICAgdmFsIG5ld0FjdGl2aXR5TmFtZSA9ICJ1cGRhdGVkQWN0aXZpdHlOYW1lIgogICAgdmFsIGFjdGl2aXR5RFRPID0gVXBkYXRlQWN0aXZpdHlEVE8oaWQgPSBhY3Rpdml0eUlkLCBuYW1lID0gbmV3QWN0aXZpdHlOYW1lKQogICAgdmFsIHVwZGF0ZVVybCA9IHMiJGJhc2VVcmwvYWN0aXZpdGllcy8kYWN0aXZpdHlJZCIKICAgIHZhbCB1cGRhdGVSZXNwb25zZSA9IGF1dGhvcml6ZWRQaXBlbGluZShQdXQodXBkYXRlVXJsLCBhY3Rpdml0eURUTykpLmZ1dHVyZVZhbHVlCiAgICBwcmludGxuKHVwZGF0ZVJlc3BvbnNlLm1lc3NhZ2UpCiAgICBwcmludGxuKHVwZGF0ZVJlc3BvbnNlLmVudGl0eS5hc1N0cmluZykKICAgIHVwZGF0ZVJlc3BvbnNlLnN0YXR1cyBtdXN0QmUgU3RhdHVzQ29kZXMuT0sKCiAgICB2YWwgZ2V0VXJsID0gcyIkYmFzZVVybC9hY3Rpdml0aWVzLyRhY3Rpdml0eUlkIgogICAgdmFsIGdldFBpcGVsaW5lID0gYXV0aG9yaXplZFBpcGVsaW5lIH4+IHVubWFyc2hhbFtBY3Rpdml0eURUT10KICAgIHZhbCBnZXRSZXNwb25zZSA9IGdldFBpcGVsaW5lKEdldChnZXRVcmwpKS5mdXR1cmVWYWx1ZQogICAgZ2V0UmVzcG9uc2UubmFtZSBtdXN0QmUgbmV3QWN0aXZpdHlOYW1lCiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJpZCI6ICJiOTJiZWZiZC01ODQxLTRjOWYtOWRhMy1iOGQwMzVlNTQ5MWQiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdldFJlc3BvbnNlLm5hbWUgbXVzdEJlIG5ld0FjdGl2aXR5TmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0aW1lc09mVGhlRGF5IjogWyIxMjowMCJdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBnZXRSZXNwb25zZSA9IGdldFBpcGVsaW5lKEdldChnZXRVcmwpKS5mdXR1cmVWYWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJmcmVxdWVuY3kiOiAid2hlbk5lZWRlZCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBnZXRQaXBlbGluZSA9IGF1dGhvcml6ZWRQaXBlbGluZSB+PiB1bm1hcnNoYWxbQWN0aXZpdHlEVE9dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJkYXlzIjogWyJtb25kYXkiLCAid2VkbmVzZGF5IiwgImZyaWRheSJdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBnZXRVcmwgPSBzIiRiYXNlVXJsL2FjdGl2aXRpZXMvJGFjdGl2aXR5SWQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjbGlja3NQZXJEYXkiOiAxLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4odXBkYXRlUmVzcG9uc2UuZW50aXR5LmFzU3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJlbmREYXRlIjogIjIwMTctMDgtMDhUMTA6MjQ6MzEuMTQyWiIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4odXBkYXRlUmVzcG9uc2UubWVzc2FnZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJzdGFydERhdGUiOiAiMjAxNy0wNS0wOFQxMDoyNDozMS4xNDJaIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4odXBkYXRlUmVzcG9uc2UuZW50aXR5LmFzU3RyaW5nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4odXBkYXRlUmVzcG9uc2UubWVzc2FnZSkK</text>
+        <text encoding="base64">ICAgIGdldFJlc3BvbnNlLm5hbWUgbXVzdEJlIG5ld0FjdGl2aXR5TmFtZQo=</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
