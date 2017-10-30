@@ -947,11 +947,11 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/AwsTasks.scala" timestamp="1507795634137">
-        <mark key="[" line="27" column="79" />
-        <mark key="]" line="27" column="79" />
-        <mark key="^" line="27" column="79" />
-        <mark key="." line="27" column="79" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/AwsTasks.scala" timestamp="1509347069276">
+        <mark key="[" line="128" column="138" />
+        <mark key="]" line="128" column="137" />
+        <mark key="^" line="128" column="137" />
+        <mark key="." line="128" column="137" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/CollectionPropertiesRepositorySpec.scala" timestamp="1503402385616">
         <mark key="[" line="98" column="119" />
