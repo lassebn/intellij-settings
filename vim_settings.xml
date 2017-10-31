@@ -676,11 +676,11 @@
         <mark key="^" line="51" column="41" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ActivityRepositorySpec.scala" timestamp="1509446945385">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="90" column="30" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ActivityRepositorySpec.scala" timestamp="1509456682362">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="113" column="30" />
         <mark key="^" line="43" column="27" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" timestamp="1500979678516">
         <mark key="[" line="27" column="31" />
@@ -827,11 +827,11 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ActivitySpec.scala" timestamp="1509447613607">
-        <mark key="[" line="128" column="18" />
-        <mark key="]" line="128" column="16" />
-        <mark key="." line="128" column="16" />
-        <mark key="^" line="128" column="16" />
+      <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ActivitySpec.scala" timestamp="1509456819319">
+        <mark key="[" line="128" column="16" />
+        <mark key="]" line="128" column="18" />
+        <mark key="." line="128" column="18" />
+        <mark key="^" line="128" column="18" />
       </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Handler.scala" timestamp="1500364794475">
         <mark key="[" line="40" column="58" />
@@ -1535,7 +1535,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>newActivityName</text>
+        <text>s</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4158,13 +4158,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>newActivityName</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCB1cGRhdGVVcmwgPSBzIiRiYXNlVXJsL2FjdGl2aXRpZXMvJGFjdGl2aXR5SWQiCiAgICB2YWwgdXBkYXRlUmVzcG9uc2UgPSBhdXRob3JpemVkUGlwZWxpbmUoUHV0KHVwZGF0ZVVybCwgYWN0aXZpdHlEVE8pKS5mdXR1cmVWYWx1ZQogICAgdXBkYXRlUmVzcG9uc2Uuc3RhdHVzIG11c3RCZSBTdGF0dXNDb2Rlcy5PSwoKICAgIHZhbCBnZXRVcmwgPSBzIiRiYXNlVXJsL2FjdGl2aXRpZXMvJGFjdGl2aXR5SWQiCiAgICB2YWwgZ2V0UGlwZWxpbmUgPSBhdXRob3JpemVkUGlwZWxpbmUgfj4gdW5tYXJzaGFsW0FjdGl2aXR5RFRPXQogICAgdmFsIGdldFJlc3BvbnNlID0gZ2V0UGlwZWxpbmUoR2V0KGdldFVybCkpLmZ1dHVyZVZhbHVlCiAgICBnZXRSZXNwb25zZS5uYW1lIG11c3RCZSBuZXdBY3Rpdml0eU5hbWUK</text>
+        <text encoding="base64">ICAgICAgcHJvZHVjdE5hbWUgPSAic29tZVByb2R1Y3ROYW1lIiwKICAgICAgcHJvZHVjdE1hbnVmYWN0dXJlciA9ICJzb21lTWFudWZhY3R1cmVyIiwKICAgICAgcHJvZHVjdEVhbiA9ICIxMjM0NTY3OCIsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmFpbFByb2R1Y3Q6IEJvb2xlYW4gPSBmYWxzZSwK</text>
