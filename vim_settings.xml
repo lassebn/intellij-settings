@@ -23,6 +23,7 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="37" />
       </file>
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/DummyService.scala" timestamp="1509630992168" />
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/SampleTest.scala" timestamp="1493977610698">
         <mark key="[" line="9" column="99" />
         <mark key="]" line="9" column="105" />
@@ -419,6 +420,9 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/graphql/GraphqlSchemaDefinition.scala" timestamp="1509631254312">
+        <mark key="[" line="15" column="32" />
+      </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/Reminder.scala" timestamp="1508413612207">
         <mark key="[" line="48" column="29" />
         <mark key="]" line="48" column="37" />
@@ -496,6 +500,12 @@
         <mark key="]" line="41" column="32" />
         <mark key="^" line="3" column="76" />
         <mark key="." line="41" column="32" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/users/UsersService" timestamp="1509631289996">
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="29" />
+        <mark key="^" line="28" column="20" />
+        <mark key="." line="28" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/coffee_clicks.py" timestamp="1499937397992">
         <mark key="[" line="65" column="36" />
@@ -710,7 +720,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1509537317906" />
       <file name="$USER_HOME$/Source/images3/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503565055763">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="54" />
@@ -1206,11 +1215,6 @@
         <mark key="^" line="13" column="101" />
         <mark key="." line="13" column="101" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/.gitignore" timestamp="1509540094213">
-        <mark key="]" line="15" column="26" />
-        <mark key="^" line="15" column="26" />
-        <mark key="." line="15" column="26" />
-      </file>
       <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationFacebookHelper.scala" timestamp="1495446817772">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="13" column="25" />
@@ -1606,8 +1610,8 @@
       <jump line="64" column="2" filename="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgQEdyYXBoCg==</text>
+      <register name="&quot;" type="4">
+        <text>generate</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4230,7 +4234,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Your unique user id</text>
+        <text>generate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
