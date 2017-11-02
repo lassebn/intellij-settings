@@ -23,6 +23,12 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="37" />
       </file>
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/DummyService.scala" timestamp="1509638794768">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+      </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/SampleTest.scala" timestamp="1493977610698">
         <mark key="[" line="9" column="99" />
         <mark key="]" line="9" column="105" />
@@ -419,11 +425,11 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/graphql/GraphqlSchemaDefinition.scala" timestamp="1509633887071">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="15" column="4" />
-        <mark key="^" line="15" column="4" />
-        <mark key="." line="15" column="4" />
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/graphql/GraphqlSchemaDefinition.scala" timestamp="1509636378599">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="41" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="14" column="41" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/Reminder.scala" timestamp="1508413612207">
         <mark key="[" line="48" column="29" />
@@ -491,6 +497,7 @@
         <mark key="." line="996" column="2" />
         <mark key="^" line="996" column="2" />
       </file>
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/models/DummyEntity.scala" timestamp="1509638474250" />
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/KlikkitApiIntegrationTestActivities.scala" timestamp="1509450925796">
         <mark key="[" line="110" column="27" />
         <mark key="]" line="113" column="43" />
@@ -873,10 +880,11 @@
         <mark key="." line="128" column="18" />
         <mark key="^" line="128" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/models/db/users/MeEntity.scala" timestamp="1509630416429">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/models/db/users/MeEntity.scala" timestamp="1509638541752">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="6" column="4" />
       </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Handler.scala" timestamp="1500364794475">
         <mark key="[" line="40" column="58" />
@@ -1105,10 +1113,10 @@
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/project/Dependencies.scala" timestamp="1509629725217">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Source/platform-graphql/project/Dependencies.scala" timestamp="1509638729178">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/PlatformServicesInfrastructurePlugin.scala" timestamp="1507703270540">
         <mark key="[" line="38" column="30" />
@@ -1164,11 +1172,11 @@
         <mark key="." line="111" column="44" />
         <mark key="^" line="111" column="44" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/src/test/scala/com/leoilab/BaseServiceTest.scala" timestamp="1509543831176">
-        <mark key="[" line="23" column="2" />
-        <mark key="]" line="23" column="16" />
-        <mark key="." line="23" column="16" />
-        <mark key="^" line="23" column="16" />
+      <file name="$USER_HOME$/Source/platform-graphql/src/test/scala/com/leoilab/BaseServiceTest.scala" timestamp="1509636152954">
+        <mark key="[" line="28" column="79" />
+        <mark key="]" line="28" column="92" />
+        <mark key="." line="28" column="92" />
+        <mark key="^" line="28" column="92" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/db/ConnectionConfig.scala" timestamp="1504857376981">
         <mark key="[" line="2" column="6" />
@@ -1356,6 +1364,13 @@
         <mark key="^" line="6" column="77" />
         <mark key="." line="6" column="77" />
       </file>
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/UsersService.scala" timestamp="1509638609109">
+        <mark key="b" line="24" column="71" />
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="35" />
+        <mark key="^" line="18" column="35" />
+        <mark key="." line="18" column="35" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1505806230133">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -1406,6 +1421,12 @@
         <mark key="]" line="3" column="20" />
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/Main.scala" timestamp="1509636018086">
+        <mark key="[" line="29" column="82" />
+        <mark key="]" line="29" column="92" />
+        <mark key="^" line="29" column="92" />
+        <mark key="." line="29" column="92" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ScheduleRepository.scala" timestamp="1508482310223">
         <mark key="[" line="45" column="47" />
@@ -1614,7 +1635,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgVXNlcnNTZXJ2aWNlLmdyYXBocWxGaWVsZHMK</text>
+        <text encoding="base64">ICBmaW5hbCB2YWwgdXNlcnNDbGllbnQgPSAiMS4zLjMiCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4237,7 +4258,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>UsersService</text>
+        <text>ObjectTypeDescription(&quot;The authorized user&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -4246,34 +4267,34 @@
         <text encoding="base64">ICB1c2Vyc2RiOgogICAgICBpbWFnZTogMDg1ODE2OTU2NDcxLmRrci5lY3IuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20vY29tLmxlb2lsYWIvbXlzcWw6NS43LjE5CiAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgLSBNWVNRTF9VU0VSPW15c3FsCiAgICAgICAgICAtIE1ZU1FMX1BBU1NXT1JEPW15c3FsCiAgICAgICAgICAtIE1ZU1FMX0RBVEFCQVNFPXVzZXJzCiAgICAgICAgICAtIE1ZU1FMX1JPT1RfUEFTU1dPUkQ9c2VjcmV0CiAgICAgIHBvcnRzOgogICAgICAgICAgLSAxOTA5MDozMzA2Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgVXNlcnNTZXJ2aWNlLmdyYXBocWxGaWVsZHMK</text>
+        <text encoding="base64">ICBmaW5hbCB2YWwgdXNlcnNDbGllbnQgPSAiMS4zLjMiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgVXNlcnNTZXJ2aWNlLmdyYXBncWxGaWVsZHMK</text>
+        <text encoding="base64">ICAgICAgTWFwKCJza2luIGRpc2Vhc2UiIC0+ICJQc29yaWFzaXMiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlcnZpY2VzLnVzZXJzLlVzZXJzU2VydmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgQEdyYXBoUUxEZXNjcmlwdGlvbihkZXNjcmlwdGlvbiA9ICJZb3VyIHVzZXIgcHJvcGVydGllcyIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgQEdyYXBoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgQEdyYXBoUUxEZXNjcmlwdGlvbihkZXNjcmlwdGlvbiA9ICJZb3VyIGVtYWlsIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcm9maWxlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgQEdyYXBoUUxEZXNjcmlwdGlvbihkZXNjcmlwdGlvbiA9ICJZb3VyIHVzZXJuYW1lIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgQEdyYXBoUUxEZXNjcmlwdGlvbihkZXNjcmlwdGlvbiA9ICJZb3VyIHVuaXF1ZSB1c2VyIGlkIikK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB2YWwgdXNlcnNDbGllbnQgPSAiY29tLmxlb2lsYWIiICUlICJwbGF0Zm9ybS11c2Vycy1jbGllbnQiICUgIjEuMy4zIgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBAR3JhcGhRTEZpZWxkCiAgZGVmIGFkZFVzZXJuYW1lKHVzZXJzbmFtZTogU3RyaW5nKTogRnV0dXJlW01lRW50aXR5XSA9IHsKICAgIHJldHVybiBGdXR1cmUobmV3IE1lRW50aXR5KAogICAgICBpZCA9IFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nLAogICAgICB1c2VybmFtZSA9ICJVcGRhdGVkIHVzZXJuYW1lIiwKICAgICAgZW1haWwgPSAiZW1haWxAbWFpbGluYXRvci5jb20iLAogICAgICBNYXAoInNraW4gZGlzZWFzZSIgLT4gIlBzb3JpYXNpcyIpCiAgICApKQogIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExpYnJhcnkudXNlcnNDbGllbnQsCg==</text>
+        <text encoding="base64">ICAgICAgVXNlcnNTZXJ2aWNlLmdyYXBocWxGaWVsZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgVXNlcnNTZXJ2aWNlLmdyYXBncWxGaWVsZHMK</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
