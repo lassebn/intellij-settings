@@ -365,6 +365,12 @@
         <mark key="^" line="40" column="3" />
         <mark key="." line="40" column="3" />
       </file>
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/UsersService" timestamp="1509629280924">
+        <mark key="[" line="2" column="64" />
+        <mark key="]" line="2" column="65" />
+        <mark key="^" line="2" column="65" />
+        <mark key="." line="2" column="65" />
+      </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/nginx/build.sh" timestamp="1507883472706">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="5" column="36" />
@@ -659,7 +665,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509544505708">
+      <file name="/Dummy.txt" timestamp="1509629192691">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
@@ -854,6 +860,11 @@
         <mark key="]" line="128" column="18" />
         <mark key="." line="128" column="18" />
         <mark key="^" line="128" column="18" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/models/db/users/MeEntity.scala" timestamp="1509630416429">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Handler.scala" timestamp="1500364794475">
         <mark key="[" line="40" column="58" />
@@ -1059,11 +1070,10 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/build.sbt" timestamp="1509544735139">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="11" column="41" />
-        <mark key="." line="11" column="41" />
-        <mark key="^" line="11" column="41" />
+      <file name="$USER_HOME$/Source/platform-graphql/build.sbt" timestamp="1509629717165">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitService.scala" timestamp="1509446170992">
         <mark key="[" line="139" column="89" />
@@ -1083,11 +1093,10 @@
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/project/Dependencies.scala" timestamp="1509540686325">
-        <mark key="[" line="39" column="71" />
-        <mark key="]" line="40" column="61" />
-        <mark key="^" line="40" column="61" />
-        <mark key="." line="40" column="61" />
+      <file name="$USER_HOME$/Source/platform-graphql/project/Dependencies.scala" timestamp="1509629725217">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/PlatformServicesInfrastructurePlugin.scala" timestamp="1507703270540">
         <mark key="[" line="38" column="30" />
@@ -1597,8 +1606,8 @@
       <jump line="64" column="2" filename="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dXNlcnNkYiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgQEdyYXBoCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4221,7 +4230,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXNlcnNkYiA=</text>
+        <text>Your unique user id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -4230,34 +4239,34 @@
         <text encoding="base64">ICB1c2Vyc2RiOgogICAgICBpbWFnZTogMDg1ODE2OTU2NDcxLmRrci5lY3IuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20vY29tLmxlb2lsYWIvbXlzcWw6NS43LjE5CiAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgLSBNWVNRTF9VU0VSPW15c3FsCiAgICAgICAgICAtIE1ZU1FMX1BBU1NXT1JEPW15c3FsCiAgICAgICAgICAtIE1ZU1FMX0RBVEFCQVNFPXVzZXJzCiAgICAgICAgICAtIE1ZU1FMX1JPT1RfUEFTU1dPUkQ9c2VjcmV0CiAgICAgIHBvcnRzOgogICAgICAgICAgLSAxOTA5MDozMzA2Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgQEdyYXBoCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkYlByb2Nlc3MuZ2V0UHJvY2Vzc0lkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwcm9maWxlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnV0aWxzLkluTWVtb3J5UG9zdGdyZXNTdG9yYWdlLl8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICB2YWwgdXNlcnNDbGllbnQgPSAiY29tLmxlb2lsYWIiICUlICJwbGF0Zm9ybS11c2Vycy1jbGllbnQiICUgIjEuMy4zIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGVzdE9wdGlvbnMgaW4gSW50ZWdyYXRpb25UZXN0IDo9IFNlcSgKICAgICAgICBUZXN0cy5TZXR1cCgoKSA9PiBUZXN0SGVscGVyLnJ1bkludGVncmF0aW9uVGVzdFN0YWNrKCkpLAogICAgICAgIFRlc3RzLkNsZWFudXAoKCkgPT4gVGVzdEhlbHBlci5zdG9wSW50ZWdyYXRpb25UZXN0U3RhY2soKSkKICAgICAgKQogICAgICB0ZXN0IGluIEludGVncmF0aW9uVGVzdCA8PD0gKHRlc3QgaW4gSW50ZWdyYXRpb25UZXN0KS5kZXBlbmRzT24oZG9ja2VyKSwKICAgICAgdGVzdE9ubHkgaW4gSW50ZWdyYXRpb25UZXN0IDw8PSAodGVzdE9ubHkgaW4gSW50ZWdyYXRpb25UZXN0KS5kZXBlbmRzT24oZG9ja2VyKQo=</text>
+        <text encoding="base64">ICAgIExpYnJhcnkudXNlcnNDbGllbnQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZ2VuZXJhdGVEb2NzIDo9IFRlc3RIZWxwZXIuZ2VuZXJhdGVEb2NzKCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGF6eSB2YWwgcm9vdCA9CiAgUHJvamVjdCgidXNlcnMiLCBmaWxlKCIuIikpCiAgICAuc2V0dGluZ3MoYmFzaWNTZXR0aW5nczogXyopCiAgICAuc2V0dGluZ3MocHVibGlzaEFydGlmYWN0IDo9IGZhbHNlKQogICAgLmNvbmZpZ3MoIEludGVncmF0aW9uVGVzdCApCiAgICAuc2V0dGluZ3MoIERlZmF1bHRzLml0U2V0dGluZ3MgOiBfKikKICAgIC5zZXR0aW5ncyhib290ZGIgOj0gVGVzdEhlbHBlci5ydW5EZXZlbG9wbWVudFN0YWNrKCkpCiAgICAuc2V0dGluZ3MoKHJ1biBpbiBDb21waWxlKSA8PD0gKHJ1biBpbiBDb21waWxlKSBkZXBlbmRzT24gYm9vdGRiKQogICAgLnNldHRpbmdzKAo=</text>
+        <text encoding="base64">ICBkYlByb2Nlc3MuZ2V0UHJvY2Vzc0lkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5zZXR0aW5ncyhsaWJyYXJ5RGVwZW5kZW5jaWVzICsrPSB7CiAgICAgIFNlcSgKICAgICAgICAiY29tLmxlb2lsYWIiICUlICJwbGF0Zm9ybS1tZW1iZXJzaGlwcy1jbGllbnQiICUgbWVtYmVyc2hpcHNWLAogICAgICAgICJjb20ubGVvaWxhYiIgJSUgInBsYXRmb3JtLWNvbW1vbnMtcmVzdCIgJSBpTGFiViB3aXRoU291cmNlcygpLAogICAgICAgICJjb20ubGVvaWxhYiIgJSUgInBsYXRmb3JtLWNvbW1vbnMtdGVzdGtpdCIgJSBpTGFiViB3aXRoU291cmNlcygpLAogICAgICAgICJjb20ucmVzdGZiIiAlICJyZXN0ZmIiICUgIjEuMzguMCIsCiAgICAgICAgImNvbS5udWxhYi1pbmMiICUgInp4Y3ZibiIgJSAiMS4yLjIiLAogICAgICAgICJjb20uZ2l0aHViLnRvbWFrZWh1cnN0IiAlICJ3aXJlbW9jayIgJSAiMi41LjEiCiAgICAgICkKICAgIH0pCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnV0aWxzLkluTWVtb3J5UG9zdGdyZXNTdG9yYWdlLl8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5hZ2dyZWdhdGUoY29yZSwgY2xpZW50KQo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
