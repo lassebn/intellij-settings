@@ -23,7 +23,6 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/DummyService.scala" timestamp="1509630992168" />
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/SampleTest.scala" timestamp="1493977610698">
         <mark key="[" line="9" column="99" />
         <mark key="]" line="9" column="105" />
@@ -366,11 +365,11 @@
         <mark key="^" line="40" column="3" />
         <mark key="." line="40" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/UsersService" timestamp="1509629280924">
-        <mark key="[" line="2" column="64" />
-        <mark key="]" line="2" column="65" />
-        <mark key="^" line="2" column="65" />
-        <mark key="." line="2" column="65" />
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/UsersService" timestamp="1509633092203">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="24" column="49" />
+        <mark key="^" line="24" column="49" />
+        <mark key="." line="24" column="49" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/nginx/build.sh" timestamp="1507883472706">
         <mark key="[" line="5" column="34" />
@@ -420,11 +419,11 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/graphql/GraphqlSchemaDefinition.scala" timestamp="1509632691520">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="0" column="31" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="31" />
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/graphql/GraphqlSchemaDefinition.scala" timestamp="1509633887071">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="15" column="4" />
+        <mark key="^" line="15" column="4" />
+        <mark key="." line="15" column="4" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/Reminder.scala" timestamp="1508413612207">
         <mark key="[" line="48" column="29" />
@@ -678,7 +677,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509629192691">
+      <file name="/Dummy.txt" timestamp="1509633498085">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
@@ -723,6 +722,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1509632793035" />
       <file name="$USER_HOME$/Source/images3/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503565055763">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="54" />
@@ -1613,8 +1613,8 @@
       <jump line="64" column="2" filename="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>generate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgVXNlcnNTZXJ2aWNlLmdyYXBocWxGaWVsZHMK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4237,7 +4237,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>generate</text>
+        <text>UsersService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -4246,34 +4246,34 @@
         <text encoding="base64">ICB1c2Vyc2RiOgogICAgICBpbWFnZTogMDg1ODE2OTU2NDcxLmRrci5lY3IuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20vY29tLmxlb2lsYWIvbXlzcWw6NS43LjE5CiAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgLSBNWVNRTF9VU0VSPW15c3FsCiAgICAgICAgICAtIE1ZU1FMX1BBU1NXT1JEPW15c3FsCiAgICAgICAgICAtIE1ZU1FMX0RBVEFCQVNFPXVzZXJzCiAgICAgICAgICAtIE1ZU1FMX1JPT1RfUEFTU1dPUkQ9c2VjcmV0CiAgICAgIHBvcnRzOgogICAgICAgICAgLSAxOTA5MDozMzA2Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgQEdyYXBoCg==</text>
+        <text encoding="base64">ICAgICAgVXNlcnNTZXJ2aWNlLmdyYXBocWxGaWVsZHMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcm9maWxlOgo=</text>
+        <text encoding="base64">ICAgICAgVXNlcnNTZXJ2aWNlLmdyYXBncWxGaWVsZHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlcnZpY2VzLnVzZXJzLlVzZXJzU2VydmljZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgdXNlcnNDbGllbnQgPSAiY29tLmxlb2lsYWIiICUlICJwbGF0Zm9ybS11c2Vycy1jbGllbnQiICUgIjEuMy4zIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgQEdyYXBoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExpYnJhcnkudXNlcnNDbGllbnQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwcm9maWxlOgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkYlByb2Nlc3MuZ2V0UHJvY2Vzc0lkCg==</text>
+        <text encoding="base64">ICB2YWwgdXNlcnNDbGllbnQgPSAiY29tLmxlb2lsYWIiICUlICJwbGF0Zm9ybS11c2Vycy1jbGllbnQiICUgIjEuMy4zIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnV0aWxzLkluTWVtb3J5UG9zdGdyZXNTdG9yYWdlLl8K</text>
+        <text encoding="base64">ICAgIExpYnJhcnkudXNlcnNDbGllbnQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
