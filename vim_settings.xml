@@ -275,6 +275,11 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/models/db/images/Image.scala" timestamp="1509983489281">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-import/wiremock/mappings/wufooGetUKBaselineEntries.json" timestamp="1507236859136">
         <mark key="[" line="16" column="33" />
         <mark key="]" line="17" column="30" />
@@ -574,6 +579,12 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/images/DeferredImagesService.scala" timestamp="1509984209932">
+        <mark key="[" line="30" column="30" />
+        <mark key="]" line="30" column="30" />
+        <mark key="^" line="30" column="30" />
+        <mark key="." line="30" column="30" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiCollectionPropertiesFuncSpec.scala" timestamp="1504702904716">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="48" />
@@ -848,11 +859,11 @@
         <mark key="." line="4" column="125" />
         <mark key="^" line="4" column="125" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/users/UsersService.scala" timestamp="1509979286788">
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="36" column="34" />
-        <mark key="^" line="36" column="34" />
-        <mark key="." line="36" column="34" />
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/users/UsersService.scala" timestamp="1509983443522">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="31" column="65" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/README.md" timestamp="1500275037303">
         <mark key="[" line="10" column="2" />
@@ -1637,7 +1648,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>grapqlType</text>
+        <text>List</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4260,7 +4271,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>grapqlType</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -4269,34 +4280,34 @@
         <text encoding="base64">ICB1c2Vyc2RiOgogICAgICBpbWFnZTogMDg1ODE2OTU2NDcxLmRrci5lY3IuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20vY29tLmxlb2lsYWIvbXlzcWw6NS43LjE5CiAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgLSBNWVNRTF9VU0VSPW15c3FsCiAgICAgICAgICAtIE1ZU1FMX1BBU1NXT1JEPW15c3FsCiAgICAgICAgICAtIE1ZU1FMX0RBVEFCQVNFPXVzZXJzCiAgICAgICAgICAtIE1ZU1FMX1JPT1RfUEFTU1dPUkQ9c2VjcmV0CiAgICAgIHBvcnRzOgogICAgICAgICAgLSAxOTA5MDozMzA2Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXJndW1lbnRzID0gTGlzdCgpLgo=</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICBwcm9wZXJ0aWVzOiBNYXBbU3RyaW5nLCBTdHJpbmddCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNhbmdyaWEubWFjcm9zLmRlcml2ZS5fCg==</text>
+        <text encoding="base64">Y2xhc3MgSW1hZ2Ugewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcmludGxuKFNjaGVtYVJlbmRlcmVyLnJlbmRlclNjaGVtYShhcGlTY2hlbWEpKQo=</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyBJbWFnZShpZDogU3RyaW5nLCBwcmVzaWduZWRVcmw6IFN0cmluZykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmaW5hbCB2YWwgdXNlcnNDbGllbnQgPSAiMS4zLjMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgTWFwKCJza2luIGRpc2Vhc2UiIC0+ICJQc29yaWFzaXMiKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">QWRkRmllbGRzKEZpZWxkKCJpbWFnZXMiLCBpbWFnZUdRTFR5cGUsCiAgICAgICAgcmVzb2x2ZSA9IF8gPT4gSW1hZ2UoInNvbWUgaW1hZ2UgaWQiLCAicHJlc2lnbmVkIHVybCIpCiAgICAp</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgQEdyYXBoUUxEZXNjcmlwdGlvbihkZXNjcmlwdGlvbiA9ICJZb3VyIHVzZXIgcHJvcGVydGllcyIpCg==</text>
+        <text encoding="base64">ICApLmhlYWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgQEdyYXBoUUxEZXNjcmlwdGlvbihkZXNjcmlwdGlvbiA9ICJZb3VyIGVtYWlsIikK</text>
+        <text encoding="base64">ICAgICAgYXJndW1lbnRzID0gTGlzdCgpLgo=</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
