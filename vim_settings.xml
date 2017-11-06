@@ -848,11 +848,11 @@
         <mark key="." line="4" column="125" />
         <mark key="^" line="4" column="125" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/users/UsersService.scala" timestamp="1509978267380">
-        <mark key="[" line="30" column="19" />
-        <mark key="]" line="30" column="18" />
-        <mark key="^" line="30" column="18" />
-        <mark key="." line="30" column="18" />
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/users/UsersService.scala" timestamp="1509979286788">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="36" column="34" />
+        <mark key="^" line="36" column="34" />
+        <mark key="." line="36" column="34" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/README.md" timestamp="1500275037303">
         <mark key="[" line="10" column="2" />
@@ -1637,7 +1637,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>grapqlType</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4260,7 +4260,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>grapqlType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
