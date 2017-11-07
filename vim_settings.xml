@@ -1113,10 +1113,11 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/build.sbt" timestamp="1509629717165">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Source/platform-graphql/build.sbt" timestamp="1510063531557">
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+        <mark key="^" line="33" column="26" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitService.scala" timestamp="1509446170992">
         <mark key="[" line="139" column="89" />
@@ -1136,10 +1137,11 @@
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/project/Dependencies.scala" timestamp="1509638729178">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Source/platform-graphql/project/Dependencies.scala" timestamp="1510063510804">
+        <mark key="[" line="48" column="68" />
+        <mark key="]" line="49" column="89" />
+        <mark key="." line="49" column="89" />
+        <mark key="^" line="49" column="89" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/PlatformServicesInfrastructurePlugin.scala" timestamp="1507703270540">
         <mark key="[" line="38" column="30" />
@@ -1195,11 +1197,11 @@
         <mark key="." line="111" column="44" />
         <mark key="^" line="111" column="44" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/graphql/GraphqlRoute.scala" timestamp="1510062261450">
-        <mark key="[" line="39" column="131" />
-        <mark key="]" line="41" column="85" />
-        <mark key="^" line="39" column="129" />
-        <mark key="." line="41" column="85" />
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/graphql/GraphqlRoute.scala" timestamp="1510064311290">
+        <mark key="[" line="24" column="53" />
+        <mark key="]" line="55" column="50" />
+        <mark key="^" line="55" column="50" />
+        <mark key="." line="55" column="50" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/test/scala/com/leoilab/BaseServiceTest.scala" timestamp="1510059581279">
         <mark key="[" line="32" column="107" />
@@ -1670,7 +1672,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>SlowLog.extension :: Nil</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4293,7 +4295,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>SlowLog.extension :: Nil</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
