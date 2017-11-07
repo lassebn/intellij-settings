@@ -1195,11 +1195,11 @@
         <mark key="." line="111" column="44" />
         <mark key="^" line="111" column="44" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/graphql/GraphqlRoute.scala" timestamp="1510037878667">
-        <mark key="[" line="38" column="71" />
-        <mark key="]" line="38" column="57" />
-        <mark key="^" line="38" column="57" />
-        <mark key="." line="38" column="57" />
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/graphql/GraphqlRoute.scala" timestamp="1510062261450">
+        <mark key="[" line="39" column="131" />
+        <mark key="]" line="41" column="85" />
+        <mark key="^" line="39" column="129" />
+        <mark key="." line="41" column="85" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/test/scala/com/leoilab/BaseServiceTest.scala" timestamp="1510059581279">
         <mark key="[" line="32" column="107" />
@@ -1669,8 +1669,8 @@
       <jump line="64" column="2" filename="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dC5JbXBsaWNpdHMuZ2xvYmFsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4293,7 +4293,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
