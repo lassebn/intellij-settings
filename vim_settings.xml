@@ -1489,11 +1489,12 @@
         <mark key="." line="235" column="93" />
         <mark key="^" line="235" column="93" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/README.md" timestamp="1510147527576">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="0" column="33" />
-        <mark key="." line="0" column="33" />
-        <mark key="^" line="0" column="33" />
+      <file name="$USER_HOME$/Source/platform-graphql/README.md" timestamp="1510148621077">
+        <mark key="'" line="8" column="27" />
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="8" column="96" />
+        <mark key="." line="8" column="96" />
+        <mark key="^" line="8" column="96" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/users/UserPropertiesService.scala" timestamp="1510138117587">
         <mark key="[" line="9" column="0" />
@@ -1569,7 +1570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="47" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" />
       <jump line="111" column="4" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" />
       <jump line="95" column="29" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" />
       <jump line="5" column="8" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" />
@@ -1669,6 +1669,7 @@
       <jump line="92" column="26" filename="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" />
       <jump line="67" column="12" filename="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" />
       <jump line="64" column="2" filename="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitApi.scala" />
+      <jump line="8" column="27" filename="$USER_HOME$/Source/platform-graphql/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
