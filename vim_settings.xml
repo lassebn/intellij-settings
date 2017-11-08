@@ -1197,7 +1197,6 @@
         <mark key="." line="111" column="44" />
         <mark key="^" line="111" column="44" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/graphql/GraphqlRoute.scala" timestamp="1510138621264" />
       <file name="$USER_HOME$/Source/platform-graphql/src/test/scala/com/leoilab/BaseServiceTest.scala" timestamp="1510059581279">
         <mark key="[" line="32" column="107" />
         <mark key="]" line="32" column="129" />
@@ -1490,8 +1489,8 @@
         <mark key="." line="235" column="93" />
         <mark key="^" line="235" column="93" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/README.md" timestamp="1510147015547">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Source/platform-graphql/README.md" timestamp="1510147527576">
+        <mark key="[" line="6" column="20" />
         <mark key="]" line="0" column="33" />
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
