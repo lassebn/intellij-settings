@@ -5,11 +5,11 @@
       <mark key="V" line="4" column="4" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1510215887321">
-        <mark key="[" line="155" column="85" />
-        <mark key="]" line="155" column="77" />
-        <mark key="^" line="155" column="77" />
-        <mark key="." line="155" column="77" />
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/WufooImporter.scala" timestamp="1510217148624">
+        <mark key="[" line="128" column="71" />
+        <mark key="]" line="128" column="73" />
+        <mark key="^" line="128" column="73" />
+        <mark key="." line="128" column="73" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/Schedule.scala" timestamp="1508232449991">
         <mark key="[" line="26" column="44" />
@@ -1672,8 +1672,8 @@
       <jump line="8" column="27" filename="$USER_HOME$/Source/platform-graphql/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLndpdGhDb2x1bW4oIkRhdGUgQ3JlYXRlZCIsICQiRGF0ZSBDcmVhdGVkIi5jYXN0KHNxbC50eXBlcy5UaW1lc3RhbXBUeXBlKSkK</text>
+      <register name="&quot;" type="4">
+        <text>yyyy-MM-dd HH:mm:ss</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4296,7 +4296,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SlowLog.extension :: Nil</text>
+        <text>yyyy-MM-dd HH:mm:ss</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
