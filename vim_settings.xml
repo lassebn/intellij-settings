@@ -924,11 +924,11 @@
         <mark key="^" line="13" column="106" />
         <mark key="." line="13" column="106" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/it/scala/DriverIntegrationTest.scala" timestamp="1510324557995">
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="^" line="24" column="31" />
-        <mark key="." line="182" column="0" />
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/it/scala/DriverIntegrationTest.scala" timestamp="1510330057096">
+        <mark key="[" line="29" column="84" />
+        <mark key="]" line="29" column="80" />
+        <mark key="." line="29" column="80" />
+        <mark key="^" line="29" column="80" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/project/TestHelper.scala" timestamp="1498551365792">
         <mark key="[" line="124" column="27" />
@@ -1524,9 +1524,9 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/datawarehouse/ImageNormalization.scala" timestamp="1510321380537">
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/datawarehouse/ImageNormalization.scala" timestamp="1510325725003">
         <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="42" />
+        <mark key="]" line="43" column="0" />
         <mark key="^" line="6" column="35" />
         <mark key="." line="43" column="0" />
       </file>
@@ -1671,7 +1671,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBmaWxlID0gRmlsZShTb3VyY2UuZnJvbUlucHV0U3RyZWFtKGdldENsYXNzLmdldFJlc291cmNlQXNTdHJlYW0oImltYWdlcy1wcm9jZXNzZWQvYWxyZWFkeS1ub3JtYWxpemVkLmpwZyIpKSkK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4294,7 +4294,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>integrationtest</text>
+        <text>new File(&quot;src/it/resources/images-processed/already-normalized.jpg&quot;).lastModified()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
@@ -4303,34 +4303,34 @@
         <text encoding="base64">ICAgICAgICBJT1V0aWxzLmNvcHkoaW5wdXQsIGRlc3RpbmF0aW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBmaWxlID0gRmlsZShTb3VyY2UuZnJvbUlucHV0U3RyZWFtKGdldENsYXNzLmdldFJlc291cmNlQXNTdHJlYW0oImltYWdlcy1wcm9jZXNzZWQvYWxyZWFkeS1ub3JtYWxpemVkLmpwZyIpKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIElPVXRpbHMuY29weShpbnB1dCwgZGVzdGluYXRpb24pCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ob3JpZ2luYWxGb3JtYXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgYXNzZXJ0KG9yaWdpbmFsRXhpZiA9PSBwcm9jZXNzZWRFeGlmKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHByb2Nlc3NlZEV4aWYgPSBwcm9jZXNzZWRJbWFnZS5tZXRhZGF0YQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ob3JpZ2luYWxGb3JtYXQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHByb2Nlc3NlZEltYWdlID0gSW1hZ2UuZnJvbVN0cmVhbShwcm9jZXNzZWRTdHJlYW0pCg==</text>
+        <text encoding="base64">Ly8gICAgYXNzZXJ0KG9yaWdpbmFsRXhpZiA9PSBwcm9jZXNzZWRFeGlmKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIG9yaWdpbmFsRXhpZiA9IG9yaWdpbmFsSW1hZ2UubWV0YWRhdGEK</text>
+        <text encoding="base64">Ly8gICAgdmFsIHByb2Nlc3NlZEV4aWYgPSBwcm9jZXNzZWRJbWFnZS5tZXRhZGF0YQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIG9yaWdpbmFsSW1hZ2UgPSBJbWFnZS5mcm9tU3RyZWFtKG9yaWdpbmFsU3RyZWFtKQo=</text>
+        <text encoding="base64">Ly8gICAgdmFsIHByb2Nlc3NlZEltYWdlID0gSW1hZ2UuZnJvbVN0cmVhbShwcm9jZXNzZWRTdHJlYW0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
