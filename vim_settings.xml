@@ -1395,11 +1395,11 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/datawarehouse/NormalizationMain.scala" timestamp="1510310950202">
-        <mark key="[" line="24" column="88" />
-        <mark key="]" line="25" column="51" />
-        <mark key="." line="25" column="51" />
-        <mark key="^" line="25" column="51" />
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/datawarehouse/NormalizationMain.scala" timestamp="1510311824793">
+        <mark key="[" line="23" column="51" />
+        <mark key="]" line="24" column="49" />
+        <mark key="." line="24" column="49" />
+        <mark key="^" line="24" column="49" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1505806230133">
         <mark key="[" line="85" column="0" />
