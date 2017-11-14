@@ -1044,11 +1044,11 @@
         <mark key="^" line="128" column="137" />
         <mark key="." line="128" column="137" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/datawarehouse/Driver.scala" timestamp="1510653564167">
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="0" />
-        <mark key="^" line="83" column="8" />
-        <mark key="." line="291" column="0" />
+      <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/datawarehouse/Driver.scala" timestamp="1510655211513">
+        <mark key="[" line="358" column="64" />
+        <mark key="]" line="360" column="45" />
+        <mark key="^" line="360" column="45" />
+        <mark key="." line="360" column="45" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/CollectionPropertiesRepositorySpec.scala" timestamp="1503402385616">
         <mark key="[" line="98" column="119" />
