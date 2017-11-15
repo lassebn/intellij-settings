@@ -107,12 +107,14 @@
         <mark key="^" line="119" column="58" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/ImageTable.scala" timestamp="1510754792406" />
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyUserRepository.scala" timestamp="1497244834588">
         <mark key="[" line="39" column="53" />
         <mark key="]" line="39" column="67" />
         <mark key="^" line="39" column="67" />
         <mark key="." line="39" column="67" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageServiceFuncSpec.scala" timestamp="1510756252954">
+        <mark key="[" line="109" column="9" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/db/StandardMappers.scala" timestamp="1496906775202">
         <mark key="[" line="10" column="0" />
@@ -696,7 +698,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510755961571">
+      <file name="/Dummy.txt" timestamp="1510756102333">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
@@ -1390,11 +1392,11 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageStoreSpec.scala" timestamp="1510755956491">
-        <mark key="[" line="68" column="62" />
-        <mark key="]" line="69" column="47" />
-        <mark key="^" line="69" column="47" />
-        <mark key="." line="69" column="47" />
+      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageStoreSpec.scala" timestamp="1510756096656">
+        <mark key="[" line="65" column="91" />
+        <mark key="]" line="66" column="98" />
+        <mark key="^" line="66" column="98" />
+        <mark key="." line="66" column="98" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/CollectionsServiceFuncSpec.scala" timestamp="1503409543204">
         <mark key="[" line="7" column="0" />
