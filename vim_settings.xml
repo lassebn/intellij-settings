@@ -783,10 +783,10 @@
         <mark key="^" line="126" column="52" />
         <mark key="." line="126" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/README.md" timestamp="1510827552458">
-        <mark key="[" line="42" column="23" />
-        <mark key="]" line="42" column="62" />
-        <mark key="." line="42" column="62" />
+      <file name="$USER_HOME$/Source/platform-images/README.md" timestamp="1510835870630">
+        <mark key="[" line="29" column="6" />
+        <mark key="]" line="29" column="7" />
+        <mark key="." line="29" column="7" />
         <mark key="^" line="42" column="62" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ProductRepositorySpec.scala" timestamp="1508499335390">
