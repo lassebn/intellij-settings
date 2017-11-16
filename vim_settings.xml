@@ -689,7 +689,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510756102333">
+      <file name="/Dummy.txt" timestamp="1510824339818">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
@@ -901,6 +901,12 @@
         <mark key="]" line="40" column="59" />
         <mark key="." line="40" column="59" />
         <mark key="^" line="40" column="59" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/ImageMetadata.scala" timestamp="1510824247161">
+        <mark key="[" line="94" column="43" />
+        <mark key="]" line="94" column="70" />
+        <mark key="^" line="94" column="70" />
+        <mark key="." line="94" column="70" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/documentation-portal.html" timestamp="1507549304244">
         <mark key="[" line="19" column="0" />
@@ -1118,11 +1124,11 @@
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageService.scala" timestamp="1510822534324">
-        <mark key="[" line="88" column="57" />
-        <mark key="]" line="74" column="97" />
-        <mark key="^" line="74" column="97" />
-        <mark key="." line="74" column="97" />
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageService.scala" timestamp="1510823669728">
+        <mark key="[" line="89" column="4" />
+        <mark key="]" line="89" column="3" />
+        <mark key="^" line="89" column="3" />
+        <mark key="." line="89" column="3" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitService.scala" timestamp="1509446170992">
         <mark key="[" line="139" column="89" />
@@ -1679,8 +1685,8 @@
       <jump line="8" column="27" filename="$USER_HOME$/Source/platform-graphql/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5zY2FsYWxvZ2dpbmcuTGF6eUxvZ2dpbmcK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4303,13 +4309,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>No updates</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KiBObyB1cGRhdGVzCg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggewogICAgICBjYXNlIGVycm9yOiBFeGNlcHRpb24gPT4gdGhyb3cgbmV3IEltYWdlUHJvY2Vzc2luZ0V4Y2VwdGlvbihpbWFnZUlkLCBlcnJvci5nZXRNZXNzYWdlKQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5zY2FsYWxvZ2dpbmcuTGF6eUxvZ2dpbmcK</text>
