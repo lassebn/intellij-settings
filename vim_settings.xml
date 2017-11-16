@@ -173,11 +173,11 @@
         <mark key="." line="16" column="70" />
         <mark key="^" line="12" column="78" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiFacebookLoginTest.scala" timestamp="1505465140739">
-        <mark key="[" line="18" column="81" />
-        <mark key="]" line="18" column="89" />
-        <mark key="^" line="18" column="89" />
-        <mark key="." line="18" column="89" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiFacebookLoginTest.scala" timestamp="1510840156639">
+        <mark key="[" line="50" column="48" />
+        <mark key="]" line="50" column="46" />
+        <mark key="^" line="50" column="46" />
+        <mark key="." line="50" column="46" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/scripts/generate_tickets_and_send_mails.py" timestamp="1498560009342">
         <mark key="[" line="59" column="32" />
@@ -711,7 +711,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510839110222">
+      <file name="/Dummy.txt" timestamp="1510840247210">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
@@ -762,7 +762,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1510320373839" />
       <file name="$USER_HOME$/Source/images3/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503565055763">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="54" />
@@ -979,11 +978,11 @@
         <mark key="^" line="50" column="59" />
         <mark key="." line="50" column="59" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" timestamp="1510839467909">
-        <mark key="[" line="278" column="13" />
-        <mark key="]" line="278" column="13" />
-        <mark key="." line="278" column="13" />
-        <mark key="^" line="278" column="13" />
+      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" timestamp="1510840279834">
+        <mark key="[" line="107" column="73" />
+        <mark key="]" line="114" column="72" />
+        <mark key="." line="114" column="72" />
+        <mark key="^" line="114" column="72" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/docker-compose.yml" timestamp="1502799849479">
         <mark key="[" line="9" column="15" />
@@ -1714,7 +1713,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c2hvdWxkIA==</text>
+        <text encoding="base64">KyA=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4337,7 +4336,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2hvdWxkIA==</text>
+        <text encoding="base64">KyA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZVw+</text>
