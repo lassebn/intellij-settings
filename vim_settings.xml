@@ -1262,10 +1262,12 @@
         <mark key="^" line="2" column="71" />
         <mark key="." line="2" column="71" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-import/docker-compose.yml" timestamp="1510924068900">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Source/datawarehouse-import/docker-compose.yml" timestamp="1510925955602">
+        <mark key="'" line="42" column="32" />
+        <mark key="[" line="49" column="10" />
+        <mark key="]" line="75" column="53" />
+        <mark key="." line="75" column="53" />
+        <mark key="^" line="75" column="53" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/project/Build.scala" timestamp="1510827225386">
         <mark key="[" line="28" column="19" />
@@ -1623,7 +1625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="8" filename="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" />
       <jump line="26" column="49" filename="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/test/scala/com/leoilab/infrastructure/lambda/MainSpec.scala" />
       <jump line="20" column="61" filename="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" />
@@ -1723,6 +1724,7 @@
       <jump line="8" column="27" filename="$USER_HOME$/Source/platform-graphql/README.md" />
       <jump line="14" column="14" filename="$USER_HOME$/Source/datawarehouse-import/yarn-remote-client/core-site.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/datawarehouse-import/yarn-remote-client/core-site.xml" />
+      <jump line="42" column="32" filename="$USER_HOME$/Source/datawarehouse-import/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4352,7 +4354,7 @@
         <text encoding="base64">KyA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wbGV0ZVw+</text>
+        <text encoding="base64">XDwyMTIyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBzdGF0dXMgc2hvdWxkIGJlKFN0YXR1c0NvZGVzLkJhZFJlcXVlc3QpCiAgICAgICAgICAgICAgcmVzcG9uc2VBc1tBcGlFcnJvcl0uY29kZSBzaG91bGRCZSAiaW1hZ2VzLTEwMTgiCg==</text>
@@ -4392,12 +4394,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21wbGV0ZVw+</last-search>
+      <last-search encoding="base64">XDwyMTIyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wbGV0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDwyMTIyXD4=</last-pattern>
       <last-replace>notifications</last-replace>
       <last-substitute>psohappy</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -4410,6 +4412,8 @@
         <entry>restMock</entry>
         <entry>\u</entry>
         <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
+        <entry encoding="base64">XDxkb2NrZXJcPg==</entry>
+        <entry encoding="base64">XDwyMTIyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>155</entry>
