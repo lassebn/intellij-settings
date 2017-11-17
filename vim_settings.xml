@@ -727,7 +727,7 @@
         <mark key="^" line="68" column="184" />
         <mark key="." line="68" column="184" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/models/db/users/UserProperty.scala" timestamp="1510059263513">
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/models/db/users/UserProperty.scala" timestamp="1510927954575">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="8" column="23" />
         <mark key="." line="8" column="23" />
@@ -884,7 +884,7 @@
         <mark key="." line="4" column="125" />
         <mark key="^" line="4" column="125" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/users/UsersService.scala" timestamp="1510138216765">
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/users/UsersService.scala" timestamp="1510928178111">
         <mark key="[" line="43" column="64" />
         <mark key="]" line="43" column="69" />
         <mark key="." line="43" column="69" />
@@ -920,7 +920,7 @@
         <mark key="." line="128" column="18" />
         <mark key="^" line="128" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/models/db/users/MeEntity.scala" timestamp="1510058863833">
+      <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/models/db/users/MeEntity.scala" timestamp="1510927894884">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="12" column="27" />
         <mark key="." line="12" column="27" />
