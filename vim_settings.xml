@@ -1262,12 +1262,12 @@
         <mark key="^" line="2" column="71" />
         <mark key="." line="2" column="71" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-import/docker-compose.yml" timestamp="1511166027668">
+      <file name="$USER_HOME$/Source/datawarehouse-import/docker-compose.yml" timestamp="1511169780176">
         <mark key="'" line="42" column="32" />
         <mark key="[" line="51" column="36" />
-        <mark key="]" line="52" column="43" />
-        <mark key="." line="52" column="43" />
-        <mark key="^" line="52" column="43" />
+        <mark key="]" line="52" column="33" />
+        <mark key="." line="52" column="33" />
+        <mark key="^" line="52" column="33" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/project/Build.scala" timestamp="1510827225386">
         <mark key="[" line="28" column="19" />
@@ -1728,7 +1728,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBIQURPT1BfVVNFUl9OQU1FPXJvb3QK</text>
+        <text encoding="base64">ICAgICAgLSBTUEFSS19TVEFSVF9JTlRFR1JBVEVfV0lUSF9ZQVJOPXRydWUK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4360,34 +4360,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICBzdGF0dXMgc2hvdWxkIGJlKFN0YXR1c0NvZGVzLkJhZFJlcXVlc3QpCiAgICAgICAgICAgICAgcmVzcG9uc2VBc1tBcGlFcnJvcl0uY29kZSBzaG91bGRCZSAiaW1hZ2VzLTEwMTgiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBIQURPT1BfVVNFUl9OQU1FPXJvb3QK</text>
+        <text encoding="base64">ICAgICAgLSBTUEFSS19TVEFSVF9JTlRFR1JBVEVfV0lUSF9ZQVJOPXRydWUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIDUwMDEwOjUwMDEwCg==</text>
+        <text encoding="base64">ICAgICAgLSBIQURPT1BfVVNFUl9OQU1FPXJvb3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIDUwMDEwOjUwMDEwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2VBc1tMb2dpblJlc3BvbnNlRFRPXS5hdXRoVG9rZW4gc2hvdWxkQmUgYWNjZXNzVG9rZW4udG9TdHJpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2VBc1tMb2dpblJlc3BvbnNlRFRPXS5hdXRoLmFjY2Vzc1Rva2VuIHNob3VsZEJlIGFjY2Vzc1Rva2VuLnRvU3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgcmVzcG9uc2VBc1tMb2dpblJlc3BvbnNlRFRPXS5hdXRoVG9rZW4gc2hvdWxkQmUgYWNjZXNzVG9rZW4udG9TdHJpbmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF1dGhUb2tlbiA9IGFjY2Vzc1Rva2VuLnRvU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgcmVzcG9uc2VBc1tMb2dpblJlc3BvbnNlRFRPXS5hdXRoLmFjY2Vzc1Rva2VuIHNob3VsZEJlIGFjY2Vzc1Rva2VuLnRvU3RyaW5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVzZXJJZCA9IHVzZXIuaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGF1dGhUb2tlbiA9IGFjY2Vzc1Rva2VuLnRvU3RyaW5nLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBAZGVwcmVjYXRlZCgidXNlIGF1dGguYWNjZXNzVG9rZW4gaW5zdGVhZCIsICIxLjAiKSBhdXRoVG9rZW46IFN0cmluZywK</text>
+        <text encoding="base64">ICAgICAgICAgIHVzZXJJZCA9IHVzZXIuaWQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBAZGVwcmVjYXRlZCgidXNlIHVzZXIuaWQgaW5zdGVhZCIsICIxLjAiKSB1c2VySWQ6IFVzZXJJZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBAZGVwcmVjYXRlZCgidXNlIGF1dGguYWNjZXNzVG9rZW4gaW5zdGVhZCIsICIxLjAiKSBhdXRoVG9rZW46IFN0cmluZywK</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
