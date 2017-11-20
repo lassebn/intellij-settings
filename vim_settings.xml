@@ -1262,12 +1262,12 @@
         <mark key="^" line="2" column="71" />
         <mark key="." line="2" column="71" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-import/docker-compose.yml" timestamp="1511173072710">
+      <file name="$USER_HOME$/Source/datawarehouse-import/docker-compose.yml" timestamp="1511180906738">
         <mark key="'" line="42" column="32" />
-        <mark key="[" line="51" column="36" />
-        <mark key="]" line="52" column="33" />
-        <mark key="." line="52" column="33" />
-        <mark key="^" line="52" column="33" />
+        <mark key="[" line="52" column="34" />
+        <mark key="]" line="53" column="28" />
+        <mark key="." line="53" column="28" />
+        <mark key="^" line="53" column="28" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/project/Build.scala" timestamp="1510827225386">
         <mark key="[" line="28" column="19" />
