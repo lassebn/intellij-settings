@@ -1269,13 +1269,6 @@
         <mark key="^" line="2" column="71" />
         <mark key="." line="2" column="71" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-import/docker-compose.yml" timestamp="1511185979053">
-        <mark key="'" line="42" column="32" />
-        <mark key="[" line="49" column="38" />
-        <mark key="]" line="49" column="33" />
-        <mark key="^" line="49" column="33" />
-        <mark key="." line="49" column="33" />
-      </file>
       <file name="$USER_HOME$/Source/platform-images/project/Build.scala" timestamp="1510827225386">
         <mark key="[" line="28" column="19" />
         <mark key="]" line="28" column="20" />
