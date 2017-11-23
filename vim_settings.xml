@@ -337,11 +337,11 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-imagine/circle.yml" timestamp="1511442437750">
-        <mark key="[" line="29" column="153" />
-        <mark key="]" line="29" column="160" />
-        <mark key="." line="29" column="160" />
-        <mark key="^" line="29" column="160" />
+      <file name="$USER_HOME$/Source/datawarehouse-imagine/circle.yml" timestamp="1511446341257">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+        <mark key="^" line="25" column="34" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499777757680">
         <mark key="[" line="102" column="20" />
@@ -553,11 +553,11 @@
         <mark key="^" line="24" column="56" />
         <mark key="." line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-imagine/src/main/scala/datawarehouse/Driver.scala" timestamp="1511358045001">
-        <mark key="[" line="418" column="84" />
-        <mark key="]" line="419" column="39" />
-        <mark key="^" line="419" column="39" />
-        <mark key="." line="419" column="39" />
+      <file name="$USER_HOME$/Source/datawarehouse-imagine/src/main/scala/datawarehouse/Driver.scala" timestamp="1511447134118">
+        <mark key="[" line="419" column="42" />
+        <mark key="]" line="420" column="13" />
+        <mark key="^" line="420" column="13" />
+        <mark key="." line="420" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/coffee_clicks.py" timestamp="1499937397992">
         <mark key="[" line="65" column="36" />
@@ -1139,6 +1139,12 @@
         <mark key="." line="71" column="43" />
         <mark key="^" line="71" column="43" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-imagine/test-staging.sh" timestamp="1511447076270">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/imagine-backend/circle.yml" timestamp="1496835070851">
         <mark key="[" line="32" column="31" />
         <mark key="]" line="32" column="33" />
@@ -1205,11 +1211,11 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-imagine/test-emr.sh" timestamp="1511443741732">
+      <file name="$USER_HOME$/Source/datawarehouse-imagine/test-emr.sh" timestamp="1511446087349">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="32" column="3" />
-        <mark key="." line="1" column="0" />
+        <mark key="]" line="2" column="137" />
+        <mark key="." line="2" column="137" />
+        <mark key="^" line="2" column="137" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/.idea/modules/platform-users-client.iml" timestamp="1507191656077">
         <mark key="[" line="21" column="38" />
@@ -1748,7 +1754,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2V0IC14Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4371,7 +4377,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TERMIMATION_STATE</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyMTIyXD4=</text>
@@ -4380,34 +4386,34 @@
         <text encoding="base64">ICAgIGJyYW5jaDogW21hc3Rlcl0KICAgIGNvbW1hbmRzOgogICAgICAgIC0gYXdzIC0tcmVnaW9uIGV1LWNlbnRyYWwtMSBzMyBjcCBzMzovL2xlby1wbGF0Zm9ybS1jb25maWcvY29uZmlnL2RhdGF3YXJlaG91c2UvYXBwbGljYXRpb24uY29uZiBzcmMvbWFpbi9yZXNvdXJjZXMvYXBwbGljYXRpb24uY29uZgogICAgICAgIC0gc2J0IGNsZWFuIGFzc2VtYmx5CiAgICAgICAgLSBhd3MgLS1yZWdpb24gZXUtY2VudHJhbC0xIHMzIGNwIHRhcmdldC9zY2FsYS0yLjExL2RhdGF3YXJlaG91c2VleHBvcnRlci5qYXIgczM6Ly9sZW8tcGxhdGZvcm0tY29uZmlnL2NvbmZpZy9kYXRhd2FyZWhvdXNlL2RhdGF3YXJlaG91c2VleHBvcnRlci5qYXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2V0IC14Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I3dhdGNoIC1lICIhIGF3cyBlbXIgZGVzY3JpYmUtY2x1c3RlciAtLWNsdXN0ZXItaWQgJENMVVNURVJfSUQgfCBqcSAnLkNsdXN0ZXIuU3RhdHVzLlN0YXRlJyB8IGdyZXAgLW0gMSAtaSAndGVybWluYXRlZCciCg==</text>
+        <text encoding="base64">ZWNobyAiQ2x1c3RlciBmaW5pc2hlZCB3aXRoIHN0YXRlOiIKVEVSTUlOQVRJT05fU1RBVEU9JChhd3MgZW1yIGRlc2NyaWJlLWNsdXN0ZXIgLS1jbHVzdGVyLWlkICR7Q0xVU1RFUl9JRH0gfCBqcSAnLkNsdXN0ZXIuU3RhdHVzLlN0YXRlJyAtcikKZWNobyAke1RFUk1JTkFUSU9OX1NUQVRFfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I3dhdGNoIC1uIDMwIC1nICJhd3MgZW1yIGRlc2NyaWJlLWNsdXN0ZXIgLS1jbHVzdGVyLWlkICRDTFVTVEVSX0lEIHwganEgJy5DbHVzdGVyLlN0YXR1cy5TdGF0ZSciCg==</text>
+        <text encoding="base64">ICAgICAgICAtIHNidCBjbGVhbiBhc3NzbWJseQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBIQURPT1BfVVNFUl9OQU1FPXJvb3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBTUEFSS19SVU5fU1RBTkRBTE9ORT1mYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBTUEFSS19TVEFSVF9IQURPT1BfWUFSTj10cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBTUEFSS19TVEFSVF9JTlRFR1JBVEVfV0lUSF9ZQVJOPXRydWUK</text>
+        <text encoding="base64">I3NidCBhc3NlbWJscwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSBIQURPT1BfVVNFUl9OQU1FPXJvb3QK</text>
+        <text encoding="base64">ICAgIGRvY2tlciBwdXNoIDA4NTgxNjk1NjQ3MS5ka3IuZWNyLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2NvbS5sZW9pbGFiL2JhY2tib25lLW5naW54OiRDSVJDTEVfU0hBMTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtIDUwMDEwOjUwMDEwCg==</text>
+        <text encoding="base64">ICAgIGRvY2tlciB0YWcgY29tLmxlb2lsYWIvYmFja2JvbmUtbmdpbng6bGF0ZXN0IDA4NTgxNjk1NjQ3MS5ka3IuZWNyLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2NvbS5sZW9pbGFiL2JhY2tib25lLW5naW54OiRDSVJDTEVfU0hBMTsK</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
