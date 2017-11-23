@@ -1196,6 +1196,12 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-imagine/test-emr.sh" timestamp="1511431543875">
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="70" />
+        <mark key="^" line="10" column="70" />
+        <mark key="." line="10" column="70" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/.idea/modules/platform-users-client.iml" timestamp="1507191656077">
         <mark key="[" line="21" column="38" />
         <mark key="]" line="21" column="3" />
