@@ -161,6 +161,9 @@
         <mark key="^" line="55" column="16" />
         <mark key="." line="55" column="16" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-imagine/.gitignore" timestamp="1511439562450">
+        <mark key="[" line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503487992585">
         <mark key="[" line="37" column="81" />
         <mark key="]" line="37" column="83" />
@@ -1196,11 +1199,11 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-imagine/test-emr.sh" timestamp="1511437255940">
-        <mark key="[" line="18" column="119" />
-        <mark key="]" line="19" column="124" />
-        <mark key="^" line="19" column="124" />
-        <mark key="." line="19" column="124" />
+      <file name="$USER_HOME$/Source/datawarehouse-imagine/test-emr.sh" timestamp="1511439197508">
+        <mark key="[" line="32" column="75" />
+        <mark key="]" line="23" column="23" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="23" column="23" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/.idea/modules/platform-users-client.iml" timestamp="1507191656077">
         <mark key="[" line="21" column="38" />
