@@ -337,11 +337,11 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-imagine/circle.yml" timestamp="1511507220569">
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="15" column="23" />
+      <file name="$USER_HOME$/Source/datawarehouse-imagine/circle.yml" timestamp="1511508679294">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
         <mark key="^" line="15" column="23" />
-        <mark key="." line="15" column="23" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499777757680">
         <mark key="[" line="102" column="20" />
@@ -1138,11 +1138,11 @@
         <mark key="." line="71" column="43" />
         <mark key="^" line="71" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-imagine/test-staging.sh" timestamp="1511507193321">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="42" column="6" />
-        <mark key="^" line="42" column="6" />
-        <mark key="." line="42" column="6" />
+      <file name="$USER_HOME$/Source/datawarehouse-imagine/test-staging.sh" timestamp="1511508657542">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="30" column="1" />
+        <mark key="." line="30" column="1" />
+        <mark key="^" line="30" column="1" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/circle.yml" timestamp="1496835070851">
         <mark key="[" line="32" column="31" />
@@ -1753,7 +1753,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIGNwIC1SIHRlc3QtbG9ncyAkQ0lSQ0xFX0FSVElGQUNUUy8K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4385,34 +4385,34 @@
         <text encoding="base64">ICAgIGJyYW5jaDogW21hc3Rlcl0KICAgIGNvbW1hbmRzOgogICAgICAgIC0gYXdzIC0tcmVnaW9uIGV1LWNlbnRyYWwtMSBzMyBjcCBzMzovL2xlby1wbGF0Zm9ybS1jb25maWcvY29uZmlnL2RhdGF3YXJlaG91c2UvYXBwbGljYXRpb24uY29uZiBzcmMvbWFpbi9yZXNvdXJjZXMvYXBwbGljYXRpb24uY29uZgogICAgICAgIC0gc2J0IGNsZWFuIGFzc2VtYmx5CiAgICAgICAgLSBhd3MgLS1yZWdpb24gZXUtY2VudHJhbC0xIHMzIGNwIHRhcmdldC9zY2FsYS0yLjExL2RhdGF3YXJlaG91c2VleHBvcnRlci5qYXIgczM6Ly9sZW8tcGxhdGZvcm0tY29uZmlnL2NvbmZpZy9kYXRhd2FyZWhvdXNlL2RhdGF3YXJlaG91c2VleHBvcnRlci5qYXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIGNwIC1SIHRlc3QtbG9ncyAkQ0lSQ0xFX0FSVElGQUNUUy8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAiQ2x1c3RlciBmaW5pc2hlZCB3aXRoIHN0YXRlOiIKVEVSTUlOQVRJT05fU1RBVEU9JChhd3MgZW1yIGRlc2NyaWJlLWNsdXN0ZXIgLS1jbHVzdGVyLWlkICR7Q0xVU1RFUl9JRH0gfCBqcSAnLkNsdXN0ZXIuU3RhdHVzLlN0YXRlJyAtcikKZWNobyAke1RFUk1JTkFUSU9OX1NUQVRFfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtIHNidCBjbGVhbiBhc3NzbWJseQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAiQ2x1c3RlciBmaW5pc2hlZCB3aXRoIHN0YXRlOiIKVEVSTUlOQVRJT05fU1RBVEU9JChhd3MgZW1yIGRlc2NyaWJlLWNsdXN0ZXIgLS1jbHVzdGVyLWlkICR7Q0xVU1RFUl9JRH0gfCBqcSAnLkNsdXN0ZXIuU3RhdHVzLlN0YXRlJyAtcikKZWNobyAke1RFUk1JTkFUSU9OX1NUQVRFfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIHNidCBjbGVhbiBhc3NzbWJseQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I3NidCBhc3NlbWJscwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRvY2tlciBwdXNoIDA4NTgxNjk1NjQ3MS5ka3IuZWNyLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2NvbS5sZW9pbGFiL2JhY2tib25lLW5naW54OiRDSVJDTEVfU0hBMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvY2tlciB0YWcgY29tLmxlb2lsYWIvYmFja2JvbmUtbmdpbng6bGF0ZXN0IDA4NTgxNjk1NjQ3MS5ka3IuZWNyLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2NvbS5sZW9pbGFiL2JhY2tib25lLW5naW54OiRDSVJDTEVfU0hBMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
