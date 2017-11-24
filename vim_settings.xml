@@ -1138,11 +1138,11 @@
         <mark key="." line="71" column="43" />
         <mark key="^" line="71" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-imagine/test-staging.sh" timestamp="1511511794604">
-        <mark key="[" line="26" column="77" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="21" />
-        <mark key="^" line="29" column="21" />
+      <file name="$USER_HOME$/Source/datawarehouse-imagine/test-staging.sh" timestamp="1511513575455">
+        <mark key="[" line="19" column="82" />
+        <mark key="]" line="19" column="82" />
+        <mark key="." line="19" column="82" />
+        <mark key="^" line="30" column="21" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/circle.yml" timestamp="1496835070851">
         <mark key="[" line="32" column="31" />
@@ -1752,8 +1752,8 @@
       <jump line="42" column="32" filename="$USER_HOME$/Source/datawarehouse-import/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtIGNwIC1SIHRlc3QtbG9ncyAkQ0lSQ0xFX0FSVElGQUNUUy8K</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="j" type="4">
         <keys>
