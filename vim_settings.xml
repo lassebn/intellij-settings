@@ -1138,11 +1138,11 @@
         <mark key="." line="71" column="43" />
         <mark key="^" line="71" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-imagine/test-staging.sh" timestamp="1511508657542">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="30" column="1" />
-        <mark key="." line="30" column="1" />
-        <mark key="^" line="30" column="1" />
+      <file name="$USER_HOME$/Source/datawarehouse-imagine/test-staging.sh" timestamp="1511511794604">
+        <mark key="[" line="26" column="77" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="29" column="21" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/circle.yml" timestamp="1496835070851">
         <mark key="[" line="32" column="31" />
