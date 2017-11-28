@@ -337,11 +337,11 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-imagine/circle.yml" timestamp="1511774575969">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="13" column="38" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Source/datawarehouse-imagine/circle.yml" timestamp="1511864571912">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="18" />
+        <mark key="^" line="26" column="18" />
+        <mark key="." line="26" column="18" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499777757680">
         <mark key="[" line="102" column="20" />
@@ -554,9 +554,9 @@
         <mark key="." line="24" column="56" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-imagine/src/main/scala/datawarehouse/Driver.scala" timestamp="1511447134118">
-        <mark key="]" line="109" column="13" />
-        <mark key="^" line="109" column="13" />
-        <mark key="." line="109" column="13" />
+        <mark key="]" line="107" column="13" />
+        <mark key="^" line="107" column="13" />
+        <mark key="." line="107" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/coffee_clicks.py" timestamp="1499937397992">
         <mark key="[" line="65" column="36" />
@@ -1753,7 +1753,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Driver</text>
+        <text>staging-smoke-test-emr</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4376,7 +4376,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Driver</text>
+        <text>staging-smoke-test-emr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyMTIyXD4=</text>
