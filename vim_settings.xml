@@ -218,6 +218,7 @@
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
       </file>
+      <file name="/ImageApiCollectionPropertiesFuncSpec.scala" timestamp="1511889039712" />
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiPropertiesFuncSpec.scala" timestamp="1502974694801">
         <mark key="[" line="66" column="117" />
         <mark key="]" line="66" column="120" />
@@ -550,11 +551,6 @@
         <mark key="^" line="24" column="56" />
         <mark key="." line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/Source/datawarehouse-imagine/src/main/scala/datawarehouse/Driver.scala" timestamp="1511447134118">
-        <mark key="]" line="107" column="13" />
-        <mark key="^" line="107" column="13" />
-        <mark key="." line="107" column="13" />
-      </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/coffee_clicks.py" timestamp="1499937397992">
         <mark key="[" line="65" column="36" />
         <mark key="]" line="65" column="69" />
@@ -627,11 +623,11 @@
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiCollectionPropertiesFuncSpec.scala" timestamp="1511885959083">
-        <mark key="[" line="213" column="40" />
-        <mark key="]" line="213" column="40" />
-        <mark key="^" line="213" column="40" />
-        <mark key="." line="213" column="40" />
+      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiCollectionPropertiesFuncSpec.scala" timestamp="1511889411669">
+        <mark key="[" line="284" column="0" />
+        <mark key="]" line="284" column="0" />
+        <mark key="^" line="27" column="47" />
+        <mark key="." line="284" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/ConfigLog.scala" timestamp="1500461629437">
         <mark key="[" line="5" column="28" />
@@ -1288,11 +1284,11 @@
         <mark key="^" line="2" column="71" />
         <mark key="." line="2" column="71" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/project/Build.scala" timestamp="1511885081168">
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="8" column="29" />
+      <file name="$USER_HOME$/Source/platform-images/project/Build.scala" timestamp="1511888782723">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+        <mark key="^" line="9" column="36" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/project/plugins.sbt" timestamp="1507633176627">
         <mark key="[" line="10" column="74" />
@@ -1748,8 +1744,8 @@
       <jump line="42" column="32" filename="$USER_HOME$/Source/datawarehouse-import/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>A</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBjb20ubGVvaWxhYi5yZXN0LkFwaUVycm9ySnNvblByb3RvY29sLl8K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4378,37 +4374,37 @@
         <text encoding="base64">XDwyMTIyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KiBObyB1cGRhdGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbXBvcnQgY29tLmxlb2lsYWIucmVzdC5BcGlFcnJvckpzb25Qcm90b2NvbC5fCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY29tLmxlb2lsYWIucmVzdC5BcGlFcnJvckpzb25Qcm90b2NvbC5fCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBjb20ubGVvaWxhYi5yZXN0LkFwaUVycm9ySnNvblByb3RvY29sLl8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY29tLmxlb2lsYWIucmVzdC5BcGlFcnJvckpzb25Qcm90b2NvbC5fCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBjb20ubGVvaWxhYi5yZXN0LkFwaUVycm9ySnNvblByb3RvY29sLl8K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBjb20ubGVvaWxhYi5yZXN0LkFwaUVycm9ySnNvblByb3RvY29sLl8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGltcG9ydCBjb20ubGVvaWxhYi5yZXN0LkFwaUVycm9ySnNvblByb3RvY29sLl8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBjb20ubGVvaWxhYi5yZXN0LkFwaUVycm9ySnNvblByb3RvY29sLl8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY29tLmxlb2lsYWIucmVzdC5BcGlFcnJvckpzb25Qcm90b2NvbC5fCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBjb20ubGVvaWxhYi5yZXN0LkFwaUVycm9ySnNvblByb3RvY29sLl8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnJlc3QuQXBpRXJyb3JKc29uUHJvdG9jb2wuXwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBjb20ubGVvaWxhYi5yZXN0LkFwaUVycm9ySnNvblByb3RvY29sLl8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnJlc3QuQXBpRXJyb3JKc29uUHJvdG9jb2wuXwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBjb20ubGVvaWxhYi5yZXN0LkFwaUVycm9ySnNvblByb3RvY29sLl8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnJlc3QuQXBpRXJyb3JKc29uUHJvdG9jb2wuXwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbXBvcnQgY29tLmxlb2lsYWIucmVzdC5BcGlFcnJvckpzb25Qcm90b2NvbC5fCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmlkLkdyb3VwSWRKc29uUHJvdG9jb2wuXwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbXBvcnQgY29tLmxlb2lsYWIucmVzdC5BcGlFcnJvckpzb25Qcm90b2NvbC5fCg==</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
