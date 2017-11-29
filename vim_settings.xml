@@ -851,11 +851,11 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1511946350565">
-        <mark key="[" line="147" column="16" />
-        <mark key="]" line="147" column="16" />
-        <mark key="^" line="147" column="16" />
-        <mark key="." line="147" column="16" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1511960088793">
+        <mark key="[" line="148" column="107" />
+        <mark key="]" line="148" column="66" />
+        <mark key="^" line="148" column="66" />
+        <mark key="." line="148" column="66" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImagePropertiesApiIntegrationTest.scala" timestamp="1511884159231">
         <mark key="[" line="14" column="0" />
@@ -1744,8 +1744,8 @@
       <jump line="42" column="32" filename="$USER_HOME$/Source/datawarehouse-import/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBjb20ubGVvaWxhYi5yZXN0LkFwaUVycm9ySnNvblByb3RvY29sLl8K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c2VydmljZSA=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4368,7 +4368,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text encoding="base64">c2VydmljZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyMTIyXD4=</text>
@@ -4490,6 +4490,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
