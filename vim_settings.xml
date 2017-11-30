@@ -858,8 +858,8 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1512032082508">
-        <mark key="[" line="150" column="52" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1512044459494">
+        <mark key="[" line="150" column="54" />
         <mark key="]" line="150" column="62" />
         <mark key="^" line="150" column="62" />
         <mark key="." line="150" column="62" />
