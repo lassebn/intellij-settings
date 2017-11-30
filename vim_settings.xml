@@ -372,6 +372,7 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/build.sbt" timestamp="1512038669602" />
       <file name="$USER_HOME$/Source/images3/docker-compose.yml" timestamp="1503585605857">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="58" />
@@ -1544,7 +1545,7 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/README.md" timestamp="1509355218018">
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/README.md" timestamp="1512037345679">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="10" column="95" />
         <mark key="^" line="10" column="95" />
