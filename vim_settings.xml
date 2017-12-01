@@ -488,11 +488,11 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/test/scala/com/leoilab/infrastructure/OperationsSpec.scala" timestamp="1512133275177">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/test/scala/com/leoilab/infrastructure/OperationsSpec.scala" timestamp="1512134160956">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
         <mark key="^" line="87" column="69" />
-        <mark key="." line="91" column="0" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/resources/application.conf" timestamp="1500989283462">
         <mark key="[" line="2" column="0" />
@@ -860,11 +860,11 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1512132975376">
-        <mark key="[" line="168" column="175" />
-        <mark key="]" line="168" column="169" />
-        <mark key="^" line="168" column="169" />
-        <mark key="." line="168" column="169" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1512134224756">
+        <mark key="[" line="148" column="9" />
+        <mark key="]" line="149" column="57" />
+        <mark key="^" line="149" column="57" />
+        <mark key="." line="149" column="57" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImagePropertiesApiIntegrationTest.scala" timestamp="1511884159231">
         <mark key="[" line="14" column="0" />
@@ -1754,7 +1754,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdoZW4oaW5mcmFzdHJ1Y3R1cmUuZGVwbG95VGFza0RlZmluaXRpb25TdGFjayhhbnlbU3RyaW5nXSwgYW55W1N0cmluZ10sYW55W1N0cmluZ10sYW55W1N0cmluZ10sYW55W09wdGlvbltTdHJpbmddXSkpLnRoZW5UaHJvdyhuZXcgUnVudGltZUV4Y2VwdGlvbigiTXkgb3duIGVycm9yIikpCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4377,7 +4377,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>println(s&quot;Un-matched exception. Type ${error.getClass.getTypeName}&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyMTIyXD4=</text>
@@ -4386,34 +4386,34 @@
         <text>any[String],</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdoZW4oaW5mcmFzdHJ1Y3R1cmUuZGVwbG95VGFza0RlZmluaXRpb25TdGFjayhhbnlbU3RyaW5nXSwgYW55W1N0cmluZ10sYW55W1N0cmluZ10sYW55W1N0cmluZ10sYW55W09wdGlvbltTdHJpbmddXSkpLnRoZW5UaHJvdyhuZXcgUnVudGltZUV4Y2VwdGlvbigiTXkgb3duIGVycm9yIikpCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgd2hlbihpbmZyYXN0cnVjdHVyZS5kZXBsb3lUYXNrRGVmaW5pdGlvblN0YWNrKGFueVtTdHJpbmddLCBhbnlbU3RyaW5nXSwgYW55W1N0cmluZ10sIGFueVtTdHJpbmddLCBhbnlbT3B0aW9uW1N0cmluZ11dKSkudGhlblJldHVybigoKSkK</text>
+        <text encoding="base64">ICAgICAgdmFsIHRocm93biA9IGludGVyY2VwdFtFeGNlcHRpb25dIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHRocm93biA9IGludGVyY2VwdFtFeGNlcHRpb25dIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJFbmRpbmciKQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHRocm93biA9IGludGVyY2VwdFtFeGNlcHRpb25dIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgXzogUnVudGltZUV4Y2VwdGlvbiA9Pgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGVycm9yKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgXzogV2FpdGVyVGltZWRPdXRFeGNlcHRpb24gPT4gcHJpbnRsbihzIldBSVRFUjogJHdhaXRUaW1lb3V0SGVscFRleHQiKQo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBlcnJvcjogTnVsbFBvaW50ZXJFeGNlcHRpb24gPT4gcHJpbnRsbigiU29tZW9uZSBNT0NLZWQgdXAhIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvciBtYXRjaCB7Cg==</text>
+        <text encoding="base64">ICAgIHdoZW4oaW5mcmFzdHJ1Y3R1cmUuZGVwbG95VGFza0RlZmluaXRpb25TdGFjayhhbnlbU3RyaW5nXSwgYW55W1N0cmluZ10sYW55W1N0cmluZ10sYW55W1N0cmluZ10sYW55W09wdGlvbltTdHJpbmddXSkpLnRoZW5UaHJvdyhuZXcgUnVudGltZUV4Y2VwdGlvbigiTXkgb3duIGVycm9yIikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
