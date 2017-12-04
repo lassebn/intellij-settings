@@ -369,11 +369,11 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/build.sbt" timestamp="1512048170288">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="36" />
-        <mark key="^" line="1" column="36" />
-        <mark key="." line="1" column="36" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/build.sbt" timestamp="1512396688357">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="27" />
       </file>
       <file name="$USER_HOME$/Source/images3/docker-compose.yml" timestamp="1503585605857">
         <mark key="[" line="4" column="13" />
@@ -1754,7 +1754,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text>SNAPSHOT</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4377,7 +4377,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyMTIyXD4=</text>
