@@ -860,11 +860,11 @@
         <mark key="^" line="37" column="50" />
         <mark key="." line="37" column="50" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1512390286400">
-        <mark key="[" line="127" column="16" />
-        <mark key="]" line="127" column="16" />
-        <mark key="^" line="127" column="15" />
-        <mark key="." line="127" column="16" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1512392243911">
+        <mark key="[" line="135" column="9" />
+        <mark key="]" line="138" column="36" />
+        <mark key="^" line="138" column="36" />
+        <mark key="." line="138" column="36" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImagePropertiesApiIntegrationTest.scala" timestamp="1511884159231">
         <mark key="[" line="14" column="0" />
