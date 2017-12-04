@@ -854,17 +854,17 @@
         <mark key="." line="147" column="85" />
         <mark key="^" line="147" column="85" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/ServicesLib.scala" timestamp="1512373486831">
-        <mark key="[" line="37" column="11" />
-        <mark key="]" line="37" column="11" />
-        <mark key="^" line="37" column="11" />
-        <mark key="." line="37" column="11" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/ServicesLib.scala" timestamp="1512389713530">
+        <mark key="[" line="37" column="39" />
+        <mark key="]" line="37" column="50" />
+        <mark key="^" line="37" column="50" />
+        <mark key="." line="37" column="50" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1512373795627">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="38" />
-        <mark key="^" line="142" column="8" />
-        <mark key="." line="142" column="0" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1512390286400">
+        <mark key="[" line="127" column="16" />
+        <mark key="]" line="127" column="16" />
+        <mark key="^" line="127" column="15" />
+        <mark key="." line="127" column="16" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImagePropertiesApiIntegrationTest.scala" timestamp="1511884159231">
         <mark key="[" line="14" column="0" />
@@ -1753,8 +1753,8 @@
       <jump line="42" column="32" filename="$USER_HOME$/Source/datawarehouse-import/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaW50ZXJjZXB0W0tub3duRGVwbG95RXhjZXB0aW9uXSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4377,7 +4377,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyMTIyXD4=</text>
