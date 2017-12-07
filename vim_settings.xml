@@ -605,6 +605,12 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform-memberships/README.md" timestamp="1512633611599">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="8" />
+        <mark key="^" line="15" column="43" />
+      </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/images/DeferredImagesService.scala" timestamp="1510138089535">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="56" />
@@ -773,7 +779,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1511945074280" />
       <file name="$USER_HOME$/Source/images3/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503565055763">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="54" />
@@ -1233,11 +1238,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/build.sbt" timestamp="1505913041166">
-        <mark key="[" line="57" column="16" />
-        <mark key="]" line="57" column="18" />
+      <file name="$USER_HOME$/Source/platform-memberships/build.sbt" timestamp="1512633606295">
+        <mark key="[" line="57" column="18" />
+        <mark key="]" line="57" column="19" />
         <mark key="^" line="57" column="18" />
-        <mark key="." line="57" column="18" />
+        <mark key="." line="57" column="19" />
       </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/main/scala/lambda/Main.scala" timestamp="1493887608667">
         <mark key="[" line="5" column="30" />
@@ -1774,7 +1779,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$resolver/com/leoilab/${artifact.name}_0.13/$appVersion/test-module-$appVersion.jar</text>
+        <text>Prevent rebuilding and retagging between staging and production deploy</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4397,13 +4402,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$resolver/com/leoilab/${artifact.name}_0.13/$appVersion/test-module-$appVersion.jar</text>
+        <text>Prevent rebuilding and retagging between staging and production deploy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyMTIyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdoZW4oczNDbGllbnQuZG9lc09iamVjdEV4aXN0KGFueVtTdHJpbmddLCBhbnlbU3RyaW5nXSkpLnRoZW5SZXR1cm4odHJ1ZSkKICAgIHdoZW4oczNDbGllbnQuZ2V0T2JqZWN0KGFueVtTdHJpbmddLCBhbnlbU3RyaW5nXSkpLnRoZW5SZXR1cm4obmV3IFMzT2JqZWN0KQoKICAgIGludGVyY2VwdFtDYW5ub3RCZVB1Ymxpc2hlZEV4Y2VwdGlvbl0gewogICAgICBjYW5QdWJsaXNoTGliLmNhbkJlUHVibGlzaGVkKHRydWUsIHNjYWxhVmVyc2lvbiwgYXBwVmVyc2lvbiwgYXJ0aWZhY3QsIFNvbWUocmVzb2x2ZXIpLCBmYWxzZSwgIjAuMTMiLCAidGVzdC1tb2R1bGUiKQogICAgfQoKICAgIHZlcmlmeShzM0NsaWVudCwgdGltZXMoMSkpLmRvZXNPYmplY3RFeGlzdChhbnlbU3RyaW5nXSwgYW55W1N0cmluZ10pCiAgICB2ZXJpZnkoczNDbGllbnQsIHRpbWVzKDEpKS5nZXRPYmplY3QoYW55W1N0cmluZ10sIGFueVtTdHJpbmddKQo=</text>
+        <text encoding="base64">IyMgMS42LjIKICMjIyBPcGVyYXRpb25hbAogICogUHJldmVudCByZWJ1aWxkaW5nIGFuZCByZXRhZ2dpbmcgYmV0d2VlbiBzdGFnaW5nIGFuZCBwcm9kdWN0aW9uIGRlcGxveQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
