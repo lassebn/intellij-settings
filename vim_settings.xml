@@ -1657,6 +1657,12 @@
         <mark key="^" line="13" column="125" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/Source/platform-memberships/ecs-deploy/deploy.sh" timestamp="1512635204499">
+        <mark key="[" line="20" column="103" />
+        <mark key="]" line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="17" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/auth/MagicTokenResponseDTO.scala" timestamp="1497875863975">
         <mark key="[" line="8" column="48" />
         <mark key="]" line="9" column="1" />
