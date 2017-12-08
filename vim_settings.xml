@@ -101,12 +101,6 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiImagePropertiesFuncSpec.scala" timestamp="1511884262155">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="118" column="58" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyUserRepository.scala" timestamp="1497244834588">
         <mark key="[" line="39" column="53" />
         <mark key="]" line="39" column="67" />
@@ -622,12 +616,6 @@
         <mark key="]" line="13" column="56" />
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiCollectionPropertiesFuncSpec.scala" timestamp="1511889411669">
-        <mark key="[" line="284" column="0" />
-        <mark key="]" line="284" column="0" />
-        <mark key="^" line="27" column="47" />
-        <mark key="." line="284" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/ConfigLog.scala" timestamp="1500461629437">
         <mark key="[" line="5" column="28" />
@@ -1281,7 +1269,7 @@
       <file name="$USER_HOME$/Source/platform-images/core/src/main/scala/com/leoilab/images/ImageDTO.scala" timestamp="1511883994938">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
-        <mark key="^" line="68" column="47" />
+        <mark key="^" line="66" column="47" />
         <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/README.md" timestamp="1509453291038">
@@ -1307,12 +1295,6 @@
         <mark key="]" line="2" column="71" />
         <mark key="^" line="2" column="71" />
         <mark key="." line="2" column="71" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/project/Build.scala" timestamp="1511888782723">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="9" column="36" />
-        <mark key="." line="9" column="36" />
-        <mark key="^" line="9" column="36" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/project/plugins.sbt" timestamp="1507633176627">
         <mark key="[" line="10" column="74" />
@@ -1470,12 +1452,6 @@
         <mark key="]" line="124" column="54" />
         <mark key="^" line="124" column="54" />
         <mark key="." line="124" column="54" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiFuncSpec.scala" timestamp="1511884207378">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="^" line="451" column="42" />
-        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/build.sbt" timestamp="1496228182614">
         <mark key="[" line="15" column="18" />
