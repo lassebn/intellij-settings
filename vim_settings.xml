@@ -77,6 +77,12 @@
         <mark key="." line="83" column="160" />
         <mark key="^" line="83" column="160" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/spinaltap/SpinaltapExposedApiIntegrationTest.scala" timestamp="1513245988250">
+        <mark key="[" line="28" column="49" />
+        <mark key="]" line="28" column="39" />
+        <mark key="^" line="28" column="39" />
+        <mark key="." line="28" column="39" />
+      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/project/Build.scala" timestamp="1498551255596">
         <mark key="[" line="40" column="107" />
         <mark key="]" line="41" column="54" />
@@ -724,6 +730,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1513246491905">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
         <mark key="[" line="68" column="183" />
@@ -1773,8 +1782,8 @@
       <jump line="60" column="60" filename="$USER_HOME$/Source/sbt-platform-canPublish/src/test/scala/com/leoilab/canpublish/CanPublishLibSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly9UT0RPOiBzYnQgZGVwbG95Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4397,13 +4406,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Prevent rebuilding and retagging between staging and production deploy</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyMTIyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMgMS42LjIKICMjIyBPcGVyYXRpb25hbAogICogUHJldmVudCByZWJ1aWxkaW5nIGFuZCByZXRhZ2dpbmcgYmV0d2VlbiBzdGFnaW5nIGFuZCBwcm9kdWN0aW9uIGRlcGxveQo=</text>
+        <text encoding="base64">ICAiVGhlIFNwaW5hbHRhcC1FeHBvc2VkIEFQSSIgc2hvdWxkICJwcm94eSB0byB0aGUgY29uZmlndXJlZCBhcGkiIGluIHsKICAgIHZhbCB0ZXN0TG9naW5SZXNwb25zZURUTyA9IGNyZWF0ZVJhbmRvbVRlc3RVc2VyKGNsaWVudElkKQogICAgdmFsIHVybCA9IHMiJGhvc3QvdjEvc3BpbmFsdGFwLWV4cG9zZWQiCiAgICB2YWwgZ2V0UmVzcG9uc2UgPSBhdXRoZW50aWNhdGVkUGlwZWxpbmUodGVzdExvZ2luUmVzcG9uc2VEVE8uYXV0aC5hY2Nlc3NUb2tlbikoR2V0KHVybCkpLmZ1dHVyZVZhbHVlCgogICAgZ2V0UmVzcG9uc2Uuc3RhdHVzIG11c3RCZSBTdGF0dXNDb2Rlcy5PSwogICAgZ2V0UmVzcG9uc2UuZW50aXR5LmFzU3RyaW5nIG11c3QgaW5jbHVkZSgiVGhpcyBpcyB0aGUgbW9jayBiYWNrZW5kLiIpCiAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly9UT0RPOiBzYnQgZGVwbG95Cg==</text>
