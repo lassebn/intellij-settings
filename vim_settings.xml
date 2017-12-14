@@ -77,11 +77,11 @@
         <mark key="." line="83" column="160" />
         <mark key="^" line="83" column="160" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/spinaltap/SpinaltapExposedApiIntegrationTest.scala" timestamp="1513250398251">
-        <mark key="[" line="25" column="90" />
-        <mark key="]" line="25" column="86" />
-        <mark key="^" line="25" column="86" />
-        <mark key="." line="25" column="86" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/spinaltap/SpinaltapExposedApiIntegrationTest.scala" timestamp="1513251197097">
+        <mark key="[" line="24" column="91" />
+        <mark key="]" line="24" column="20" />
+        <mark key="^" line="24" column="20" />
+        <mark key="." line="24" column="20" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/project/Build.scala" timestamp="1498551255596">
         <mark key="[" line="40" column="107" />
@@ -1035,11 +1035,11 @@
         <mark key="." line="23" column="12" />
         <mark key="^" line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/project/TestHelper.scala" timestamp="1505464041708">
-        <mark key="[" line="125" column="31" />
-        <mark key="]" line="125" column="50" />
-        <mark key="^" line="125" column="50" />
-        <mark key="." line="125" column="50" />
+      <file name="$USER_HOME$/Source/platform-users/project/TestHelper.scala" timestamp="1513251932594">
+        <mark key="[" line="123" column="106" />
+        <mark key="]" line="123" column="123" />
+        <mark key="^" line="123" column="123" />
+        <mark key="." line="123" column="123" />
       </file>
       <file name="/Python Console" timestamp="1499338031303">
         <mark key="[" line="0" column="4" />
@@ -1492,11 +1492,11 @@
         <mark key="." line="24" column="49" />
         <mark key="^" line="24" column="49" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1505806230133">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="40" column="36" />
+      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1513251615819">
+        <mark key="[" line="53" column="57" />
+        <mark key="]" line="53" column="57" />
+        <mark key="^" line="53" column="57" />
+        <mark key="." line="53" column="57" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageServiceFuncSpec.scala" timestamp="1503564982107">
         <mark key="[" line="68" column="28" />
@@ -1782,8 +1782,8 @@
       <jump line="60" column="60" filename="$USER_HOME$/Source/sbt-platform-canPublish/src/test/scala/com/leoilab/canpublish/CanPublishLibSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIC0gU1BJTkFMVEFQX0VYUE9TRURfVVJMPWh0dHA6Ly93aXJlbW9jazo4MDgwCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4412,40 +4412,40 @@
         <text encoding="base64">XDwyMTIyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAiVGhlIFNwaW5hbHRhcC1FeHBvc2VkIEFQSSIgc2hvdWxkICJwcm94eSB0byB0aGUgY29uZmlndXJlZCBhcGkiIGluIHsKICAgIHZhbCB0ZXN0TG9naW5SZXNwb25zZURUTyA9IGNyZWF0ZVJhbmRvbVRlc3RVc2VyKGNsaWVudElkKQogICAgdmFsIHVybCA9IHMiJGhvc3QvdjEvc3BpbmFsdGFwLWV4cG9zZWQiCiAgICB2YWwgZ2V0UmVzcG9uc2UgPSBhdXRoZW50aWNhdGVkUGlwZWxpbmUodGVzdExvZ2luUmVzcG9uc2VEVE8uYXV0aC5hY2Nlc3NUb2tlbikoR2V0KHVybCkpLmZ1dHVyZVZhbHVlCgogICAgZ2V0UmVzcG9uc2Uuc3RhdHVzIG11c3RCZSBTdGF0dXNDb2Rlcy5PSwogICAgZ2V0UmVzcG9uc2UuZW50aXR5LmFzU3RyaW5nIG11c3QgaW5jbHVkZSgiVGhpcyBpcyB0aGUgbW9jayBiYWNrZW5kLiIpCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gU1BJTkFMVEFQX0VYUE9TRURfVVJMPWh0dHA6Ly9zcGluYWx0YXAtZXhwb3NlOjcxNzEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9UT0RPOiBzYnQgZGVwbG95Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gU1BJTkFMVEFQX0VYUE9TRURfVVJMPWh0dHA6Ly93aXJlbW9jazo4MDgwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">amF2YSAtamFyIC4uL3BsYXRmb3JtY2xpLmphciBkZXBsb3kgLS10YXNrRGVmaW5pdGlvblRlbXBsYXRlICRUQVNLX1RFTVBMQVRFIC0tdGFza0RlZmluaXRpb25FbnZpcm9ubWVudCAkQ09ORklHX1lNTCAtLXRhZyAkQ0lSQ0xFX1NIQTEK</text>
+        <text encoding="base64">Ly9UT0RPOiBzYnQgZGVwbG95Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gYXdzIHMzIGNwIC0tcmVnaW9uIGV1LWNlbnRyYWwtMSBzMzovL2xlby1wbGF0Zm9ybS1jbGkvcmVsZWFzZXMvcGxhdGZvcm1jbGktMS4yLmphciBwbGF0Zm9ybWNsaS5qYXIK</text>
+        <text encoding="base64">amF2YSAtamFyIC4uL3BsYXRmb3JtY2xpLmphciBkZXBsb3kgLS10YXNrRGVmaW5pdGlvblRlbXBsYXRlICRUQVNLX1RFTVBMQVRFIC0tdGFza0RlZmluaXRpb25FbnZpcm9ubWVudCAkQ09ORklHX1lNTCAtLXRhZyAkQ0lSQ0xFX1NIQTEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gYXdzIHMzIGNwIC0tcmVnaW9uIGV1LWNlbnRyYWwtMSBzMzovL2xlby1wbGF0Zm9ybS1jbGkvcmVsZWFzZXMvcGxhdGZvcm1jbGktMS4yLmphciBwbGF0Zm9ybWNsaS5qYXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSB0cnVlID0+IHMiJHJlc29sdmVyTmFtZS9jb20vbGVvaWxhYi8ke3BrZ05hbWV9XyRzYnRWZXJzaW9uLyRhcHBWZXJzaW9uLyRwa2dOYW1lLSRhcHBWZXJzaW9uLmphciIKICAgICAgY2FzZSBmYWxzZSA9PiBzIiRyZXNvbHZlck5hbWUvY29tL2xlb2lsYWIvJHBrZ05hbWUvJGFwcFZlcnNpb24vJHthcnRpZmFjdC5uYW1lfS0kYXBwVmVyc2lvbi5qYXIiCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSB0cnVlID0+IHMiJHJlc29sdmVyTmFtZS9jb20vbGVvaWxhYi8ke3BrZ05hbWV9XyRzYnRWZXJzaW9uLyRhcHBWZXJzaW9uLyRwa2dOYW1lLSRhcHBWZXJzaW9uLmphciIKICAgICAgY2FzZSBmYWxzZSA9PiBzIiRyZXNvbHZlck5hbWUvY29tL2xlb2lsYWIvJHBrZ05hbWUvJGFwcFZlcnNpb24vJHthcnRpZmFjdC5uYW1lfS0kYXBwVmVyc2lvbi5qYXIiCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAuYWdncmVnYXRlKHBsdWdpbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAuc2V0dGluZ3MocHVibGlzaEFydGlmYWN0IDo9IGZhbHNlKQo=</text>
+        <text encoding="base64">ICAuYWdncmVnYXRlKHBsdWdpbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGF6eSB2YWwgcm9vdCA9IFByb2plY3QoaWQgPSAicm9vdCIsIGJhc2UgPSBmaWxlKCIuIikpCg==</text>
+        <text encoding="base64">ICAuc2V0dGluZ3MocHVibGlzaEFydGlmYWN0IDo9IGZhbHNlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>122</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4471,7 +4471,6 @@
         <entry encoding="base64">XDwyMTIyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>155</entry>
         <entry>233</entry>
         <entry>33</entry>
         <entry>64</entry>
@@ -4491,6 +4490,7 @@
         <entry>106</entry>
         <entry>58</entry>
         <entry>122</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
