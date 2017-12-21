@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="V" line="4" column="4" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" />
+      <mark key="V" line="4" column="4" filename="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" protocol="file" />
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/Schedule.scala" timestamp="1508232449991">
@@ -1244,6 +1244,12 @@
         <mark key="]" line="37" column="32" />
         <mark key="^" line="37" column="32" />
         <mark key="." line="37" column="32" />
+      </file>
+      <file name="$USER_HOME$/Source/my-akka-http-project/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala" timestamp="1513860028548">
+        <mark key="[" line="55" column="27" />
+        <mark key="]" line="55" column="59" />
+        <mark key="^" line="55" column="59" />
+        <mark key="." line="55" column="59" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/deploy-pipeline.py" timestamp="1499949262796">
         <mark key="[" line="31" column="13" />
