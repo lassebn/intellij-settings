@@ -774,11 +774,12 @@
         <mark key="^" line="58" column="29" />
         <mark key="." line="58" column="29" />
       </file>
-      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/test/scala/example/TreeSpec.scala" timestamp="1516282944754">
-        <mark key="[" line="25" column="3" />
-        <mark key="]" line="25" column="2" />
-        <mark key="^" line="25" column="2" />
-        <mark key="." line="25" column="2" />
+      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/test/scala/example/TreeSpec.scala" timestamp="1516285400346">
+        <mark key="'" line="7" column="24" />
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="44" />
+        <mark key="^" line="12" column="44" />
+        <mark key="." line="12" column="44" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/nginx/build.sh" timestamp="1502805047038">
         <mark key="[" line="5" column="0" />
@@ -1134,10 +1135,12 @@
         <mark key="^" line="3" column="96" />
         <mark key="." line="3" column="96" />
       </file>
-      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/Tree.scala" timestamp="1516282611335">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/Tree.scala" timestamp="1516285172323">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
       </file>
       <file name="$USER_HOME$/Source/intouch-backend/intouch-service/src/test/java/com/warefly/intouch/service/EmailServiceTests.java" timestamp="1498651019057">
         <mark key="[" line="0" column="0" />
@@ -1300,10 +1303,11 @@
         <mark key="^" line="57" column="18" />
         <mark key="." line="57" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/GroupsService.scala" timestamp="1516279181614">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/GroupsService.scala" timestamp="1516285308596">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="38" />
+        <mark key="." line="4" column="38" />
+        <mark key="^" line="4" column="38" />
       </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/main/scala/lambda/Main.scala" timestamp="1493887608667">
         <mark key="[" line="5" column="30" />
@@ -1436,6 +1440,13 @@
         <mark key="]" line="37" column="44" />
         <mark key="." line="37" column="44" />
         <mark key="^" line="37" column="44" />
+      </file>
+      <file name="$USER_HOME$/Source/sbt-platform-canPublish/src/test/scala/com/leoilab/canpublish/CanPublishLibSpec.scala" timestamp="1512581641161">
+        <mark key="'" line="60" column="60" />
+        <mark key="[" line="63" column="33" />
+        <mark key="]" line="63" column="108" />
+        <mark key="." line="63" column="108" />
+        <mark key="^" line="63" column="108" />
       </file>
       <file name="$USER_HOME$/Source/google-sheets-scala/src/main/resources/google_secrets.json" timestamp="1500541137706">
         <mark key="[" line="2" column="19" />
@@ -1724,10 +1735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="61" filename="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" />
-      <jump line="71" column="0" filename="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" />
-      <jump line="123" column="10" filename="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" />
       <jump line="122" column="8" filename="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/Driver.scala" />
       <jump line="26" column="33" filename="$USER_HOME$/Source/datawarehouse-ades/docker-compose.yml" />
       <jump line="71" column="29" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
@@ -1824,6 +1831,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/datawarehouse-import/yarn-remote-client/core-site.xml" />
       <jump line="42" column="32" filename="$USER_HOME$/Source/datawarehouse-import/docker-compose.yml" />
       <jump line="60" column="60" filename="$USER_HOME$/Source/sbt-platform-canPublish/src/test/scala/com/leoilab/canpublish/CanPublishLibSpec.scala" />
+      <jump line="7" column="0" filename="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/Tree.scala" />
+      <jump line="6" column="10" filename="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/Tree.scala" />
+      <jump line="27" column="0" filename="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/Tree.scala" />
+      <jump line="7" column="24" filename="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/test/scala/example/TreeSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4450,13 +4461,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>T.apply()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwyMTIyXD4=</text>
+        <text>Node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBub2RlID0gdHJlZS5hZGRfbGVhZih0cmVlLnJvb3ROb2RlLmlkLCBub2RlSWQpCg==</text>
+        <text encoding="base64">ICAgIHRyZWUubm9kZXMocGFyZW50KS5jaGlsZHJlbgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4465,39 +4476,39 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBub2RlID0gbmV3IE5vZGUoY2hpbGQsIFNvbWUocGFyZW50KSwgTGlzdCgpKQogICAgbm9kZXMudXBkYXRlKGNoaWxkLCBub2RlKQogICAgbm9kZXMocGFyZW50KS5jaGlsZHJlbiA9IGNoaWxkIDo6IG5vZGVzKHBhcmVudCkuY2hpbGRyZW4KICAgIG5vZGUK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyZWUuYWRkX2xlYWYodHJlZS5yb290Tm9kZS5pZCwgbm9kZUlkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCh0cmVlLmdldF9jaGlsZHJlbih0cmVlLnJvb3ROb2RlLmlkKSA9PSBMaXN0KG5vZGUuaWQpKQo=</text>
+        <text encoding="base64">ICBkZWYgYXBwbHkoZmFjdG9yeTogKCkgPT4gVCkgPSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyZWUuYWRkX2xlYWZfbm9kZShub2RlKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBub2RlcyA9IGNvbGxlY3Rpb24ubXV0YWJsZS5NYXBbVCwgTm9kZVtUXV0oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHZhbCByb290Tm9kZTogTm9kZVtUXSA9IG5ldyBOb2RlW1RdKGZhY3RvcnkoKSwgTm9uZSwgTGlzdCgpKQogICAgdmFsIG5vZGVzID0gY29sbGVjdGlvbi5tdXRhYmxlLk1hcFtULCBOb2RlW1RdXSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgYWRkX2xlYWZfbm9kZShjaGlsZDogTm9kZSk6IFVuaXQgPSB7CiAgICBub2Rlcy51cGRhdGUoY2hpbGQuaWQsIGNoaWxkKQogICAgbm9kZXMoY2hpbGQucGFyZW50LmdldCkuY2hpbGRyZW4gPSBjaGlsZC5pZCA6OiBub2RlcyhjaGlsZC5wYXJlbnQuZ2V0KS5jaGlsZHJlbgogIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBub2RlcyA9IGNvbGxlY3Rpb24ubXV0YWJsZS5NYXBbVCwgTm9kZVtUXV0oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNoaWxkLnBhcmVudCA9IFNvbWUocGFyZW50LmlkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNoaWxkX2NvcHkucGFyZW50LmdldC5jaGlsZHJlbiA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwyMTIyXD4=</last-search>
+      <last-search>Node</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwyMTIyXD4=</last-pattern>
-      <last-replace>notifications</last-replace>
-      <last-substitute>psohappy</last-substitute>
+      <last-pattern>Node</last-pattern>
+      <last-replace>Node[T]</last-replace>
+      <last-substitute>Node</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -4513,10 +4524,10 @@
         <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
         <entry encoding="base64">XDxkb2NrZXJcPg==</entry>
         <entry encoding="base64">XDwyMTIyXD4=</entry>
+        <entry>NodeId</entry>
+        <entry>Node</entry>
       </history-search>
       <history-cmd>
-        <entry>33</entry>
-        <entry>64</entry>
         <entry>97</entry>
         <entry>22</entry>
         <entry>118</entry>
@@ -4533,8 +4544,10 @@
         <entry>58</entry>
         <entry>122</entry>
         <entry>wq</entry>
-        <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zL05vZGVJZC9UL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL05vZGUvTm9kZVtUXS9n</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
