@@ -1166,10 +1166,9 @@
         <mark key="." line="87" column="54" />
       </file>
       <file name="$USER_HOME$/Source/platform-permissions-prototype/test.py" timestamp="1516263898507">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-        <mark key="^" line="14" column="33" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ClickRepositorySpec.scala" timestamp="1508846794102">
         <mark key="[" line="172" column="25" />
