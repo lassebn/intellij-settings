@@ -418,6 +418,12 @@
         <mark key="^" line="32" column="87" />
         <mark key="." line="32" column="87" />
       </file>
+      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/test/scala/example/GroupsSpec.scala" timestamp="1516283291929">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="61" />
+        <mark key="^" line="9" column="61" />
+        <mark key="." line="9" column="61" />
+      </file>
       <file name="$USER_HOME$/Source/spike-datawarehouse-export/project/Build.scala" timestamp="1506086002280">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="32" />
@@ -747,7 +753,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515152331527">
+      <file name="/Dummy.txt" timestamp="1516280840996">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
@@ -768,11 +774,11 @@
         <mark key="^" line="58" column="29" />
         <mark key="." line="58" column="29" />
       </file>
-      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/test/scala/example/TreeSpec.scala" timestamp="1516279600802">
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="15" column="49" />
-        <mark key="^" line="15" column="49" />
-        <mark key="." line="15" column="49" />
+      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/test/scala/example/TreeSpec.scala" timestamp="1516282944754">
+        <mark key="[" line="25" column="3" />
+        <mark key="]" line="25" column="2" />
+        <mark key="^" line="25" column="2" />
+        <mark key="." line="25" column="2" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/nginx/build.sh" timestamp="1502805047038">
         <mark key="[" line="5" column="0" />
@@ -804,7 +810,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1512634553622" />
       <file name="$USER_HOME$/Source/images3/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503565055763">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="54" />
@@ -1129,11 +1134,10 @@
         <mark key="^" line="3" column="96" />
         <mark key="." line="3" column="96" />
       </file>
-      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/Tree.scala" timestamp="1516279159053">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="11" column="88" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/Tree.scala" timestamp="1516282611335">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Source/intouch-backend/intouch-service/src/test/java/com/warefly/intouch/service/EmailServiceTests.java" timestamp="1498651019057">
         <mark key="[" line="0" column="0" />
@@ -1822,8 +1826,8 @@
       <jump line="60" column="60" filename="$USER_HOME$/Source/sbt-platform-canPublish/src/test/scala/com/leoilab/canpublish/CanPublishLibSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Node(NodeId(), Some(tree.rootNode), List())</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4446,43 +4450,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Node(NodeId(), Some(tree.rootNode), List())</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyMTIyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBub2RlID0gdHJlZS5hZGRfbGVhZih0cmVlLnJvb3ROb2RlLmlkLCBub2RlSWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWwgZ3JvdXBzID0gY29sbGVjdGlvbi5tdXRhYmxlLk1hcFtHcm91cElkXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBub2RlID0gbmV3IE5vZGUoY2hpbGQsIFNvbWUocGFyZW50KSwgTGlzdCgpKQogICAgbm9kZXMudXBkYXRlKGNoaWxkLCBub2RlKQogICAgbm9kZXMocGFyZW50KS5jaGlsZHJlbiA9IGNoaWxkIDo6IG5vZGVzKHBhcmVudCkuY2hpbGRyZW4KICAgIG5vZGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgYWRkX2xlYWYocGFyZW50OiBOb2RlLCBsZWFmOiBOb2RlKQo=</text>
+        <text encoding="base64">ICAgIHRyZWUuYWRkX2xlYWYodHJlZS5yb290Tm9kZS5pZCwgbm9kZUlkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCh0cmVlLmdldF9jaGlsZHJlbih0cmVlLnJvb3ROb2RlLmlkKSA9PSBMaXN0KG5vZGUuaWQpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgYWRkX2xlYWYocGFyZW50OiBOb2RlLCBsZWFmOiBOb2RlKQo=</text>
+        <text encoding="base64">ICAgIHRyZWUuYWRkX2xlYWZfbm9kZShub2RlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBub2Rlcy51cGRhdGUocm9vdE5vZGUuaWQsIHJvb3ROb2RlKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBkZWYgYWRkX2xlYWZfbm9kZShjaGlsZDogTm9kZSk6IFVuaXQgPSB7CiAgICBub2Rlcy51cGRhdGUoY2hpbGQuaWQsIGNoaWxkKQogICAgbm9kZXMoY2hpbGQucGFyZW50LmdldCkuY2hpbGRyZW4gPSBjaGlsZC5pZCA6OiBub2RlcyhjaGlsZC5wYXJlbnQuZ2V0KS5jaGlsZHJlbgogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNoaWxkLnBhcmVudCA9IFNvbWUocGFyZW50LmlkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgU3RyaW5nVHJlZSBleHRlbmRzIFRyZWVbU3RyaW5nXSB7CiAgdmFsIHJvb3QgPSBuZXcgTm9kZShOb25lLCBMaXN0KCksICIiKQoKICBvdmVycmlkZSBkZWYgYWRkX2xlYWYocGFyZW50OiBOb2RlW1N0cmluZ10sIGxlYWY6IE5vZGVbU3RyaW5nXSk6IFVuaXQgPSB7CiAgICBub2RlcygpCiAgfQo=</text>
+        <text encoding="base64">ICAgIGNoaWxkX2NvcHkucGFyZW50LmdldC5jaGlsZHJlbiA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4511,13 +4515,11 @@
         <entry encoding="base64">XDwyMTIyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>233</entry>
         <entry>33</entry>
         <entry>64</entry>
         <entry>97</entry>
         <entry>22</entry>
         <entry>118</entry>
-        <entry>wq</entry>
         <entry>194</entry>
         <entry>294</entry>
         <entry>39</entry>
@@ -4530,6 +4532,8 @@
         <entry>106</entry>
         <entry>58</entry>
         <entry>122</entry>
+        <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
