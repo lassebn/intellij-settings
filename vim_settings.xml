@@ -101,6 +101,12 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/UsersService.scala" timestamp="1516267465776">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="57" />
+        <mark key="." line="5" column="57" />
+        <mark key="^" line="5" column="57" />
+      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/scala/com/leoilab/psohappy/PsoHappyUserRepository.scala" timestamp="1497244834588">
         <mark key="[" line="39" column="53" />
         <mark key="]" line="39" column="67" />
@@ -543,6 +549,12 @@
         <mark key="]" line="394" column="0" />
         <mark key="." line="394" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/ImagesService.scala" timestamp="1516268603673">
+        <mark key="[" line="21" column="47" />
+        <mark key="]" line="21" column="59" />
+        <mark key="." line="21" column="59" />
+        <mark key="^" line="21" column="59" />
+      </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/coffee_clicks.py" timestamp="1499937397992">
         <mark key="[" line="65" column="36" />
         <mark key="]" line="65" column="69" />
@@ -602,6 +614,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="46" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/test/scala/example/ImagesSpec.scala" timestamp="1516269318243">
+        <mark key="[" line="10" column="68" />
+        <mark key="]" line="11" column="11" />
+        <mark key="^" line="11" column="11" />
+        <mark key="." line="11" column="11" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/TestHelper.scala" timestamp="1494498200632">
         <mark key="[" line="18" column="0" />
@@ -997,6 +1015,12 @@
         <mark key="." line="124" column="34" />
         <mark key="^" line="124" column="34" />
       </file>
+      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/MembershipsService.scala" timestamp="1516268019442">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
       <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1505911324923">
         <mark key="[" line="50" column="57" />
         <mark key="]" line="50" column="59" />
@@ -1135,6 +1159,12 @@
         <mark key="^" line="54" column="70" />
         <mark key="." line="54" column="70" />
       </file>
+      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/Session.scala" timestamp="1516269255387">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="38" />
+        <mark key="^" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/project/TestHelper.scala" timestamp="1504783629179">
         <mark key="[" line="71" column="51" />
         <mark key="]" line="71" column="43" />
@@ -1253,6 +1283,11 @@
         <mark key="]" line="57" column="19" />
         <mark key="^" line="57" column="18" />
         <mark key="." line="57" column="19" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/GroupsService.scala" timestamp="1516266962937">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/main/scala/lambda/Main.scala" timestamp="1493887608667">
         <mark key="[" line="5" column="30" />
@@ -1385,13 +1420,6 @@
         <mark key="]" line="37" column="44" />
         <mark key="." line="37" column="44" />
         <mark key="^" line="37" column="44" />
-      </file>
-      <file name="$USER_HOME$/Source/sbt-platform-canPublish/src/test/scala/com/leoilab/canpublish/CanPublishLibSpec.scala" timestamp="1512581641161">
-        <mark key="'" line="60" column="60" />
-        <mark key="[" line="63" column="33" />
-        <mark key="]" line="63" column="108" />
-        <mark key="." line="63" column="108" />
-        <mark key="^" line="63" column="108" />
       </file>
       <file name="$USER_HOME$/Source/google-sheets-scala/src/main/resources/google_secrets.json" timestamp="1500541137706">
         <mark key="[" line="2" column="19" />
@@ -1530,6 +1558,9 @@
         <mark key="]" line="22" column="55" />
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
+      </file>
+      <file name="/sbtShell" timestamp="1516266408985">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/testkit/src/main/scala/com/leoilab/testkit/AuthSupport.scala" timestamp="1503561827606">
         <mark key="[" line="32" column="48" />
@@ -1780,7 +1811,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVuaXR0ZXN0Lm1haW4oKQo=</text>
+        <text encoding="base64">ICAgIGltYWdlCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4403,43 +4434,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyMTIyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gU1BJTkFMVEFQX0VYUE9TRURfVVJMPWh0dHA6Ly9zcGluYWx0YXAtZXhwb3NlOjcxNzEK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVuaXR0ZXN0Lm1haW4oKQo=</text>
+        <text encoding="base64">ICAgIGltYWdlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgbWVtYmVyc2hpcHNTZXJ2aWNlID0gbWVtYmVyc2hpcHNTZXJ2aWNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gSGVsbG9za2luIDo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6OjoKICAgICAgdHJ5IHsKICAgICAgICB2YWwgd3Vmb29VS0Jhc2VsaW5lID0gV3Vmb29JbXBvcnRlci5nZXRVS0Jhc2VsaW5lKHNwYXJrKQogICAgICAgIHNhdmVUb0RhdGFiYXNlKHd1Zm9vVUtCYXNlbGluZSwgImhlbGxvc2tpbl91a19iYXNlbGluZSIpCiAgICAgICAgdmFsIHd1Zm9vVUtFZmZpY2FjeSA9IFd1Zm9vSW1wb3J0ZXIuZ2V0VUtFZmZpY2FjeShzcGFyaykKICAgICAgICBzYXZlVG9EYXRhYmFzZSh3dWZvb1VLRWZmaWNhY3ksICJoZWxsb3NraW5fdWtfZWZmaWNhY3kiKQogICAgICB9IGNhdGNoIHsKICAgICAgICBjYXNlIGVycm9yIDogVGhyb3dhYmxlID0+IGxvZy5lcnJvcigiRGF0YSBmb3IgSGVsbG9za2luIGNvdWxkIG5vdCBiZSBpbXBvcnRlZCIsIGVycm9yKQogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICB2YWwgdXNlclByb2ZpbGVzUmVzdWx0ID0KICAgICAgICB1c2VyUHJvZmlsZXNERi5zZWxlY3QoInVzZXJJZCIsICJmaXJzdE5hbWUiKQoKICAgICAgdmFsIGJhY2tib25lQ29uZmlnID0gQmFja2JvbmVDb25maWcoCiAgICAgICAgYXBwQ29uZmlnLmdldFN0cmluZygiYXBpLmFwaUhvc3QiKSwKICAgICAgICBhcHBDb25maWcuZ2V0U3RyaW5nKCJhcGkuYmFja2JvbmUudXNlcm5hbWUiKSwKICAgICAgICBhcHBDb25maWcuZ2V0U3RyaW5nKCJhcGkuYmFja2JvbmUucGFzc3dvcmQiKQogICAgICApCgogICAgICB2YWwgKGltcG9ydFJlc3VsdCwgYmFja2JvbmVSZXN1bHQpID0gQmFja2JvbmUuZXh0cmFjdChiYWNrYm9uZUNvbmZpZywgc3BhcmssIHVzZXJQcm9maWxlc1Jlc3VsdCkKCiAgICAgIHNhdmVUb0RhdGFiYXNlKGltcG9ydFJlc3VsdC5pbWFnZXMsICJiYWNrYm9uZUltYWdlcyIpCiAgICAgIHNhdmVUb0RhdGFiYXNlKGltcG9ydFJlc3VsdC5vdXRsaW5lcywgImJhY2tib25lT3V0bGluZXMiKQogICAgICBzYXZlVG9EYXRhYmFzZShpbXBvcnRSZXN1bHQuZXZhbHVhdGlvbnMsICJiYWNrYm9uZUV2YWx1YXRpb25zIikKICAgICAgc2F2ZVRvRGF0YWJhc2UoaW1wb3J0UmVzdWx0LmRpYWdub3NpcywgImJhY2tib25lRGlhZ25vc2lzIikKCiAgICAgIHNhdmVUb0RhdGFiYXNlKGJhY2tib25lUmVzdWx0LCAiYmFja2JvbmUiKQogICAgfSBjYXRjaCB7CiAgICAgIGNhc2UgZXJyb3IgOiBUaHJvd2FibGUgPT4gbG9nLmVycm9yKCJEYXRhIGZyb20gYmFja2JvbmUgY291bGQgbm90IGJlIGltcG9ydGVkIiwgZXJyb3IpCiAgICB9CgogICAgLy8ga2l0Y2hlbiB+IGxldHMgam9pbiBpdCBhbGwgdG9nZXRoZXIgOjo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6OjoKICAgIHZhbCB1c2VycyA9IHVzZXJzUmVzdWx0LmpvaW4odXNlclByb3BlcnRpZXNSZXN1bHQsIFNlcSgidXNlcl9pZCIpLCAibGVmdF9vdXRlciIpCiAgICBsb2cuaW5mbyhzInVzZXJzIGNvdW50OiAke3VzZXJzLmNvdW50fSIpCiAgICBpZiAoZGVidWdNb2RlKSB7CiAgICAgIHNhdmVUb0RhdGFiYXNlKHVzZXJzLCAidXNlcnNSZXN1bHRfam9pbl9sZWZ0X291dGVyX3NlclByb3BlcnRpZXNSZXN1bHQiKQogICAgfQoKICAgIHZhbCBpbWFnZXNXaXRoUHJvcGVydGllc1Jlc3VsdCA9IGltYWdlc1Jlc3VsdC5qb2luKGltYWdlUHJvcGVydGllc1Jlc3VsdCwgU2VxKCJpbWFnZV9pZCIpLCAibGVmdF9vdXRlciIpCiAgICB2YWwgaW1hZ2VzV2l0aFByb3BlcnRpZXNBbmRTdXJ2ZXlzUmVzdWx0ID0gaW1hZ2VzV2l0aFByb3BlcnRpZXNSZXN1bHQuam9pbihpbWFnaW5lU3VydmV5c1Jlc3VsdCwgU2VxKCJpbWFnZV9pZCIpLCAibGVmdF9vdXRlciIpCiAgICBsb2cuaW5mbyhzImltYWdlcyBjb3VudDogJHtpbWFnZXNSZXN1bHQuY291bnR9IikKICAgIGxvZy5pbmZvKHMiaW1hZ2VzIHdpdGggc3VydmV5cyBhbmQgcHJvcGVydGllcyBjb3VudDogJHtpbWFnZXNXaXRoUHJvcGVydGllc0FuZFN1cnZleXNSZXN1bHQuY291bnR9IikKICAgIGlmIChkZWJ1Z01vZGUpIHsKICAgICAgc2F2ZVRvRGF0YWJhc2UoaW1hZ2VzV2l0aFByb3BlcnRpZXNBbmRTdXJ2ZXlzUmVzdWx0LCAiaW1hZ2VzUmVzdWx0X2pvaW5fbGVmdF9vdXRlcl9pbWFnaW5lU3VydmV5c1Jlc3VsdCIpCiAgICB9CgogICAgdmFsIGZpbmFsUmVzdWx0ID0gdXNlcnMuam9pbihpbWFnZXNXaXRoUHJvcGVydGllc0FuZFN1cnZleXNSZXN1bHQsIHVzZXJzLmNvbCgidXNlcl9pZCIpID09PSBpbWFnZXNXaXRoUHJvcGVydGllc0FuZFN1cnZleXNSZXN1bHQuY29sKCJpbWFnZV9jcmVhdGVkX2J5IiksICJsZWZ0X291dGVyIikKCiAgICBsb2cuaW5mbyhzImZpbmFsIHJlc3VsdCBjb3VudDogJHtmaW5hbFJlc3VsdC5jb3VudH0iKQogICAgYXNzZXJ0KGZpbmFsUmVzdWx0LmNvdW50ID49IHVzZXJzLmNvdW50ICYmIGZpbmFsUmVzdWx0LmNvdW50IDwgKHVzZXJzLmNvdW50ICsgaW1hZ2VzV2l0aFByb3BlcnRpZXNBbmRTdXJ2ZXlzUmVzdWx0LmNvdW50KSkKICAgIHNhdmVUb0RhdGFiYXNlKGZpbmFsUmVzdWx0LCBhcHBDb25maWcuZ2V0U3RyaW5nKCJkYi5kYXRhd2FyZWhvdXNlLnRhYmxlTmFtZSIpKQo+Pj4+Pj4+IFJlbW92ZSB0aGUgV3Vmb28gcGFydAo=</text>
+        <text encoding="base64">ICAgIHZhbCB1c2VyID0gCiAgICB1c2Vycy51cGRhdGUodXNlcklkLCBVc2VyKHVzZXJJZCwgdXNlcm5hbWUsIGdyb3VwSWQpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIHVzZXJzLnVwZGF0ZSh1c2VySWQsIFVzZXIodXNlcklkLCB1c2VybmFtZSwgZ3JvdXBJZCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHd1Zm9vLld1Zm9vSW1wb3J0ZXIK</text>
+        <text encoding="base64">ICAgIHZhbCB1c2VyID0gCiAgICB1c2Vycy51cGRhdGUodXNlcklkLCApCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cn0K</text>
+        <text encoding="base64">ICB0eXBlIFVzZXIgPSBTdHJpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
