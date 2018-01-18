@@ -615,11 +615,11 @@
         <mark key="^" line="4" column="46" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/test/scala/example/ImagesSpec.scala" timestamp="1516269318243">
-        <mark key="[" line="10" column="68" />
-        <mark key="]" line="11" column="11" />
-        <mark key="^" line="11" column="11" />
-        <mark key="." line="11" column="11" />
+      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/test/scala/example/ImagesSpec.scala" timestamp="1516277624220">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="20" column="1" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/TestHelper.scala" timestamp="1494498200632">
         <mark key="[" line="18" column="0" />
@@ -767,6 +767,12 @@
         <mark key="]" line="58" column="29" />
         <mark key="^" line="58" column="29" />
         <mark key="." line="58" column="29" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/test/scala/example/TreeSpec.scala" timestamp="1516279600802">
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="15" column="49" />
+        <mark key="^" line="15" column="49" />
+        <mark key="." line="15" column="49" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/nginx/build.sh" timestamp="1502805047038">
         <mark key="[" line="5" column="0" />
@@ -1123,6 +1129,12 @@
         <mark key="^" line="3" column="96" />
         <mark key="." line="3" column="96" />
       </file>
+      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/Tree.scala" timestamp="1516279159053">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="11" column="88" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/intouch-backend/intouch-service/src/test/java/com/warefly/intouch/service/EmailServiceTests.java" timestamp="1498651019057">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="39" column="0" />
@@ -1284,10 +1296,10 @@
         <mark key="^" line="57" column="18" />
         <mark key="." line="57" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/GroupsService.scala" timestamp="1516266962937">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/GroupsService.scala" timestamp="1516279181614">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/main/scala/lambda/Main.scala" timestamp="1493887608667">
         <mark key="[" line="5" column="30" />
@@ -1810,8 +1822,8 @@
       <jump line="60" column="60" filename="$USER_HOME$/Source/sbt-platform-canPublish/src/test/scala/com/leoilab/canpublish/CanPublishLibSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltYWdlCg==</text>
+      <register name="&quot;" type="4">
+        <text>Node(NodeId(), Some(tree.rootNode), List())</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4434,7 +4446,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>Node(NodeId(), Some(tree.rootNode), List())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyMTIyXD4=</text>
@@ -4443,34 +4455,34 @@
         <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltYWdlCg==</text>
+        <text encoding="base64">ICB2YWwgZ3JvdXBzID0gY29sbGVjdGlvbi5tdXRhYmxlLk1hcFtHcm91cElkXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWwgbWVtYmVyc2hpcHNTZXJ2aWNlID0gbWVtYmVyc2hpcHNTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICBkZWYgYWRkX2xlYWYocGFyZW50OiBOb2RlLCBsZWFmOiBOb2RlKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB1c2VyID0gCiAgICB1c2Vycy51cGRhdGUodXNlcklkLCBVc2VyKHVzZXJJZCwgdXNlcm5hbWUsIGdyb3VwSWQpKQo=</text>
+        <text encoding="base64">ICBkZWYgYWRkX2xlYWYocGFyZW50OiBOb2RlLCBsZWFmOiBOb2RlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZXJzLnVwZGF0ZSh1c2VySWQsIFVzZXIodXNlcklkLCB1c2VybmFtZSwgZ3JvdXBJZCkpCg==</text>
+        <text encoding="base64">ICBub2Rlcy51cGRhdGUocm9vdE5vZGUuaWQsIHJvb3ROb2RlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCB1c2VyID0gCiAgICB1c2Vycy51cGRhdGUodXNlcklkLCApCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0eXBlIFVzZXIgPSBTdHJpbmcK</text>
+        <text encoding="base64">Y2xhc3MgU3RyaW5nVHJlZSBleHRlbmRzIFRyZWVbU3RyaW5nXSB7CiAgdmFsIHJvb3QgPSBuZXcgTm9kZShOb25lLCBMaXN0KCksICIiKQoKICBvdmVycmlkZSBkZWYgYWRkX2xlYWYocGFyZW50OiBOb2RlW1N0cmluZ10sIGxlYWY6IE5vZGVbU3RyaW5nXSk6IFVuaXQgPSB7CiAgICBub2RlcygpCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
