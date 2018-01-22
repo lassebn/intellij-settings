@@ -1310,11 +1310,11 @@
         <mark key="." line="4" column="38" />
         <mark key="^" line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" timestamp="1516620712974">
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="32" column="27" />
-        <mark key="^" line="32" column="27" />
-        <mark key="." line="32" column="27" />
+      <file name="$USER_HOME$/Source/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" timestamp="1516623900436">
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="38" column="31" />
+        <mark key="." line="38" column="31" />
+        <mark key="^" line="38" column="31" />
       </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/main/scala/lambda/Main.scala" timestamp="1493887608667">
         <mark key="[" line="5" column="30" />
@@ -1845,7 +1845,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgZG91YmxlOiAoRG91YmxlLCBSTkcpCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4477,34 +4477,34 @@
         <text encoding="base64">ICAgIHRyZWUubm9kZXMocGFyZW50KS5jaGlsZHJlbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgZG91YmxlOiAoRG91YmxlLCBSTkcpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBkZWYgbm9uTmVnYXRpdmVJbnQ6IChJbnQsIFJORykK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgYXBwbHkoZmFjdG9yeTogKCkgPT4gVCkgPSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBub2RlcyA9IGNvbGxlY3Rpb24ubXV0YWJsZS5NYXBbVCwgTm9kZVtUXV0oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCByb290Tm9kZTogTm9kZVtUXSA9IG5ldyBOb2RlW1RdKGZhY3RvcnkoKSwgTm9uZSwgTGlzdCgpKQogICAgdmFsIG5vZGVzID0gY29sbGVjdGlvbi5tdXRhYmxlLk1hcFtULCBOb2RlW1RdXSgpCg==</text>
+        <text encoding="base64">ICBkZWYgYXBwbHkoZmFjdG9yeTogKCkgPT4gVCkgPSB7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHZhbCBub2RlcyA9IGNvbGxlY3Rpb24ubXV0YWJsZS5NYXBbVCwgTm9kZVtUXV0oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCByb290Tm9kZTogTm9kZVtUXSA9IG5ldyBOb2RlW1RdKGZhY3RvcnkoKSwgTm9uZSwgTGlzdCgpKQogICAgdmFsIG5vZGVzID0gY29sbGVjdGlvbi5tdXRhYmxlLk1hcFtULCBOb2RlW1RdXSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBub2RlcyA9IGNvbGxlY3Rpb24ubXV0YWJsZS5NYXBbVCwgTm9kZVtUXV0oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
