@@ -1310,11 +1310,11 @@
         <mark key="." line="4" column="38" />
         <mark key="^" line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" timestamp="1516623900436">
-        <mark key="[" line="38" column="32" />
-        <mark key="]" line="38" column="31" />
-        <mark key="." line="38" column="31" />
-        <mark key="^" line="38" column="31" />
+      <file name="$USER_HOME$/Source/fpinscala/exercises/src/main/scala/fpinscala/state/State.scala" timestamp="1516624965549">
+        <mark key="[" line="65" column="32" />
+        <mark key="]" line="65" column="30" />
+        <mark key="." line="65" column="30" />
+        <mark key="^" line="65" column="30" />
       </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/main/scala/lambda/Main.scala" timestamp="1493887608667">
         <mark key="[" line="5" column="30" />
@@ -1844,8 +1844,8 @@
       <jump line="7" column="24" filename="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/test/scala/example/TreeSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgZG91YmxlOiAoRG91YmxlLCBSTkcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>r2.nextInt</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4468,7 +4468,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>T.apply()</text>
+        <text>r2.nextInt</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
