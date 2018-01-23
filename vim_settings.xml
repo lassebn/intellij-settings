@@ -1710,11 +1710,11 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/GroupService.scala" timestamp="1516702046055">
-        <mark key="[" line="13" column="49" />
-        <mark key="]" line="15" column="1" />
-        <mark key="^" line="15" column="1" />
-        <mark key="." line="15" column="1" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/GroupService.scala" timestamp="1516703481307">
+        <mark key="[" line="28" column="49" />
+        <mark key="]" line="30" column="19" />
+        <mark key="^" line="30" column="19" />
+        <mark key="." line="30" column="19" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/auth/MagicTokenResponseDTO.scala" timestamp="1497875863975">
         <mark key="[" line="8" column="48" />
@@ -1850,8 +1850,8 @@
       <jump line="7" column="24" filename="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/test/scala/example/TreeSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>GroupId: GroupId</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4474,7 +4474,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r2.nextInt</text>
+        <text>GroupId: GroupId</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
