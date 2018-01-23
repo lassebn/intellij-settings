@@ -245,6 +245,18 @@
         <mark key="." line="43" column="121" />
         <mark key="^" line="43" column="121" />
       </file>
+      <file name="$USER_HOME$/Source/tree-mysql/project/Dependencies.scala" timestamp="1516708396765">
+        <mark key="[" line="4" column="67" />
+        <mark key="]" line="3" column="62" />
+        <mark key="^" line="3" column="62" />
+        <mark key="." line="3" column="62" />
+      </file>
+      <file name="$USER_HOME$/Source/tree-mysql/build.sbt" timestamp="1516708442725">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+      </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/resources/cf-ssl-task-definition-initial.json" timestamp="1507703434866">
         <mark key="[" line="15" column="5" />
         <mark key="]" line="15" column="20" />
@@ -1226,6 +1238,12 @@
         <mark key="^" line="172" column="43" />
         <mark key="." line="172" column="43" />
       </file>
+      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1516711804266">
+        <mark key="[" line="26" column="6" />
+        <mark key="]" line="26" column="6" />
+        <mark key="^" line="26" column="6" />
+        <mark key="." line="26" column="6" />
+      </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
         <mark key="]" line="59" column="8" />
@@ -1710,11 +1728,11 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/GroupService.scala" timestamp="1516703481307">
-        <mark key="[" line="28" column="49" />
-        <mark key="]" line="30" column="19" />
-        <mark key="^" line="30" column="19" />
-        <mark key="." line="30" column="19" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/GroupService.scala" timestamp="1516710836753">
+        <mark key="[" line="25" column="69" />
+        <mark key="]" line="25" column="69" />
+        <mark key="^" line="25" column="69" />
+        <mark key="." line="25" column="69" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/auth/MagicTokenResponseDTO.scala" timestamp="1497875863975">
         <mark key="[" line="8" column="48" />
@@ -1850,8 +1868,8 @@
       <jump line="7" column="24" filename="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/test/scala/example/TreeSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GroupId: GroupId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnRsbigpCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4474,7 +4492,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>GroupId: GroupId</text>
+        <text>groups</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
@@ -4483,16 +4501,16 @@
         <text encoding="base64">ICAgIHRyZWUubm9kZXMocGFyZW50KS5jaGlsZHJlbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbigpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgZG91YmxlOiAoRG91YmxlLCBSTkcpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgbm9uTmVnYXRpdmVJbnQ6IChJbnQsIFJORykK</text>
+        <text encoding="base64">ICBpbXBsaWNpdCBkZWYgYXJiaXRyYXJ5Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -4501,16 +4519,16 @@
         <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiTnVtYmVyIiBzaG91bGQgImRpdmlkZSBieSBoYWxmIiBpbiB7CiAgICBmb3JBbGwgeyAobjogSW50KSA9PgogICAgICB3aGVuZXZlcihuID4gMSkgewogICAgICAgIG4gLyAyIHNob3VsZCBiZSA+IEludC5NYXhWYWwKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgYXBwbHkoZmFjdG9yeTogKCkgPT4gVCkgPSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBub2RlcyA9IGNvbGxlY3Rpb24ubXV0YWJsZS5NYXBbVCwgTm9kZVtUXV0oKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBncm91cElkcyA9IEdlbi5yZXN1bHRPZihHcm91cElkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCByb290Tm9kZTogTm9kZVtUXSA9IG5ldyBOb2RlW1RdKGZhY3RvcnkoKSwgTm9uZSwgTGlzdCgpKQogICAgdmFsIG5vZGVzID0gY29sbGVjdGlvbi5tdXRhYmxlLk1hcFtULCBOb2RlW1RdXSgpCg==</text>
+        <text encoding="base64">ICAgIHZhbCB5ID0gR3JvdXBJZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
