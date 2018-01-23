@@ -1238,11 +1238,11 @@
         <mark key="^" line="172" column="43" />
         <mark key="." line="172" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1516711804266">
-        <mark key="[" line="26" column="6" />
-        <mark key="]" line="26" column="6" />
-        <mark key="^" line="26" column="6" />
-        <mark key="." line="26" column="6" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1516714328928">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="30" />
+        <mark key="^" line="6" column="30" />
+        <mark key="." line="6" column="30" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
@@ -1868,8 +1868,8 @@
       <jump line="7" column="24" filename="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/test/scala/example/TreeSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbigpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZXh0ZW5kcyA=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4492,7 +4492,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>groups</text>
+        <text encoding="base64">ZXh0ZW5kcyA=</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
@@ -4501,34 +4501,34 @@
         <text encoding="base64">ICAgIHRyZWUubm9kZXMocGFyZW50KS5jaGlsZHJlbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbigpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgd2hlbmV2ZXIobnVtYmVyT2ZDaGlsZEdyb3VwcyA+IDApIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCBkZWYgYXJiaXRyYXJ5Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBpbXBsaWNpdCBkZWYgYXJiaXRyYXJ5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiTnVtYmVyIiBzaG91bGQgImRpdmlkZSBieSBoYWxmIiBpbiB7CiAgICBmb3JBbGwgeyAobjogSW50KSA9PgogICAgICB3aGVuZXZlcihuID4gMSkgewogICAgICAgIG4gLyAyIHNob3VsZCBiZSA+IEludC5NYXhWYWwKICAgICAgfQogICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBncm91cElkcyA9IEdlbi5yZXN1bHRPZihHcm91cElkKQo=</text>
+        <text encoding="base64">ICAiTnVtYmVyIiBzaG91bGQgImRpdmlkZSBieSBoYWxmIiBpbiB7CiAgICBmb3JBbGwgeyAobjogSW50KSA9PgogICAgICB3aGVuZXZlcihuID4gMSkgewogICAgICAgIG4gLyAyIHNob3VsZCBiZSA+IEludC5NYXhWYWwKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCB5ID0gR3JvdXBJZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
