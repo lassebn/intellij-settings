@@ -245,17 +245,17 @@
         <mark key="." line="43" column="121" />
         <mark key="^" line="43" column="121" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/project/Dependencies.scala" timestamp="1516708396765">
+      <file name="$USER_HOME$/Source/tree-mysql/project/Dependencies.scala" timestamp="1516799507706">
         <mark key="[" line="4" column="67" />
-        <mark key="]" line="3" column="62" />
-        <mark key="^" line="3" column="62" />
-        <mark key="." line="3" column="62" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/build.sbt" timestamp="1516708442725">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="23" />
-        <mark key="^" line="12" column="23" />
-        <mark key="." line="12" column="23" />
+      <file name="$USER_HOME$/Source/tree-mysql/build.sbt" timestamp="1516799530778">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="11" column="10" />
+        <mark key="." line="11" column="10" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/resources/cf-ssl-task-definition-initial.json" timestamp="1507703434866">
         <mark key="[" line="15" column="5" />
@@ -765,7 +765,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516280840996">
+      <file name="/Dummy.txt" timestamp="1516801873589">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
@@ -1238,13 +1238,13 @@
         <mark key="^" line="172" column="43" />
         <mark key="." line="172" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1516785117083">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="45" column="28" />
-        <mark key="]" line="45" column="75" />
-        <mark key="m" line="19" column="13" />
-        <mark key="^" line="45" column="75" />
-        <mark key="." line="45" column="75" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1516802039190">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="48" column="91" />
+        <mark key="m" line="20" column="13" />
+        <mark key="]" line="49" column="103" />
+        <mark key="." line="49" column="103" />
+        <mark key="^" line="49" column="103" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
@@ -1730,11 +1730,10 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/GroupService.scala" timestamp="1516782366168">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="17" column="59" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/GroupService.scala" timestamp="1516799493013">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/auth/MagicTokenResponseDTO.scala" timestamp="1497875863975">
         <mark key="[" line="8" column="48" />
@@ -1870,8 +1869,8 @@
       <jump line="39" column="0" filename="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Zm9sZCAoKHg6IEdyb3VwSWQsIHk6IEdyb3VwSWQpID0+IE5vZGUoeSwgU29tZSh4KSkp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnRsbihncm91cFNlcnZpY2UuZ3JvdXBzLnRyZWVTdHJpbmcpCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4500,37 +4499,37 @@
         <text>Node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICsrIH0K</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihncm91cFNlcnZpY2UuZ3JvdXBzLnRyZWVTdHJpbmcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0eXBlIFBvc2l0aXZlSW50ZWdlckJlbG93MTAwMAo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihncm91cFNlcnZpY2UuZ3JvdXBzLnRyZWVTdHJpbmcpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihncm91cFNlcnZpY2UuZ3JvdXBzLnRyZWVTdHJpbmcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgd2hlbmV2ZXIobnVtYmVyT2ZDaGlsZEdyb3VwcyA+IDApIHsK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZ3JvdXBTKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50bG4ocyJBZGRpbmcgY2hpbGQgIyRpIG9mICRudW1iZXJPZkNoaWxkR3JvdXBzIikK</text>
+        <text encoding="base64">ICBkZWYgcHJpbnQodG9wR3JvdXA6IEdyb3VwSWQgPSByb290R3JvdXApID0gewogICAgdmFsIGN1cnJlbnRMZXZlbCA9CiAgICBwcmludGxuKCkKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHMiR3JvdXBzOiAke2dyb3VwU2VydmljZS5ncm91cHN9IikK</text>
+        <text encoding="base64">ICB0eXBlIFBvc2l0aXZlSW50ZWdlckJlbG93MTAwMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHMiU3ViLWdyb3VwczogJHtncm91cFNlcnZpY2UuZ2V0U3ViR3JvdXBzKGdyb3VwU2VydmljZS5yb290R3JvdXApfSIpCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihncm91cFNlcnZpY2UuZ3JvdXBzKQo=</text>
+        <text encoding="base64">ICAgICAgd2hlbmV2ZXIobnVtYmVyT2ZDaGlsZEdyb3VwcyA+IDApIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJBZGRpbmcgZ3JvdXAgdG8gJHt0aGlzLmhhc2hDb2RlKCl9IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
