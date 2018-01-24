@@ -1238,13 +1238,12 @@
         <mark key="^" line="172" column="43" />
         <mark key="." line="172" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1516802039190">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="48" column="91" />
-        <mark key="m" line="20" column="13" />
-        <mark key="]" line="49" column="103" />
-        <mark key="." line="49" column="103" />
-        <mark key="^" line="49" column="103" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1516805607768">
+        <mark key="'" line="60" column="6" />
+        <mark key="[" line="59" column="0" />
+        <mark key="m" line="17" column="13" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
@@ -1730,10 +1729,11 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/GroupService.scala" timestamp="1516799493013">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/GroupService.scala" timestamp="1516805593991">
+        <mark key="[" line="31" column="45" />
+        <mark key="]" line="31" column="61" />
+        <mark key="." line="31" column="61" />
+        <mark key="^" line="31" column="61" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/auth/MagicTokenResponseDTO.scala" timestamp="1497875863975">
         <mark key="[" line="8" column="48" />
@@ -1767,7 +1767,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
       <jump line="121" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
       <jump line="128" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
       <jump line="135" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
@@ -1867,10 +1866,11 @@
       <jump line="44" column="4" filename="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" />
       <jump line="19" column="13" filename="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" />
       <jump line="39" column="0" filename="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" />
+      <jump line="61" column="6" filename="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihncm91cFNlcnZpY2UuZ3JvdXBzLnRyZWVTdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihncm91cFNlcnZpY2UuZ3JvdXBzLnZhbHVlVHJlZVN0cmluZykK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4493,40 +4493,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm9sZCAoKHg6IEdyb3VwSWQsIHk6IEdyb3VwSWQpID0+IE5vZGUoeSwgU29tZSh4KSkp</text>
+        <text>!_.parent.contains(groupId)</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihncm91cFNlcnZpY2UuZ3JvdXBzLnRyZWVTdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgIGZvckFsbCB7KGdyb3VwOiBHcm91cElkLCBncm91cFNlcnZpY2U6IE11dGFibGVHcm91cFNlcnZpY2UpID0+CiAgICAgIGdyb3VwU2VydmljZS5hZGRTdWJncm91cChncm91cFNlcnZpY2Uucm9vdEdyb3VwLCBncm91cCkKICAgICAgYXNzZXJ0VGhyb3dzW1J1bnRpbWVFeGNlcHRpb25dKGdyb3VwU2VydmljZS5kZWxldGUoZ3JvdXBTZXJ2aWNlLnJvb3RHcm91cCkpCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihncm91cFNlcnZpY2UuZ3JvdXBzLnRyZWVTdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihncm91cFNlcnZpY2UuZ3JvdXBzLnZhbHVlVHJlZVN0cmluZykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihncm91cFNlcnZpY2UuZ3JvdXBzLnRyZWVTdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJSZW1vdmluZyBncm91cCAkZ3JvdXBJZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZ3JvdXBTKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJBZGRpbmcgZ3JvdXAgJGNoaWxkIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgcHJpbnQodG9wR3JvdXA6IEdyb3VwSWQgPSByb290R3JvdXApID0gewogICAgdmFsIGN1cnJlbnRMZXZlbCA9CiAgICBwcmludGxuKCkKICB9Cg==</text>
+        <text encoding="base64">ICAgIGZvc2QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0eXBlIFBvc2l0aXZlSW50ZWdlckJlbG93MTAwMAo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihncm91cFNlcnZpY2UuZ3JvdXBzLnRyZWVTdHJpbmcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihncm91cFNlcnZpY2UuZ3JvdXBzLnRyZWVTdHJpbmcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd2hlbmV2ZXIobnVtYmVyT2ZDaGlsZEdyb3VwcyA+IDApIHsK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZ3JvdXBTKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
