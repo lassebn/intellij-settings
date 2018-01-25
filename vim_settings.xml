@@ -1238,13 +1238,12 @@
         <mark key="^" line="172" column="43" />
         <mark key="." line="172" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1516890821334">
-        <mark key="'" line="60" column="6" />
-        <mark key="[" line="41" column="45" />
-        <mark key="m" line="17" column="13" />
-        <mark key="]" line="44" column="2" />
-        <mark key="." line="44" column="2" />
-        <mark key="^" line="44" column="2" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1516894593332">
+        <mark key="'" line="62" column="6" />
+        <mark key="[" line="11" column="29" />
+        <mark key="m" line="19" column="13" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
@@ -1871,7 +1870,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rootGroup</text>
+        <text>:</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4494,7 +4493,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rootGroup</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
