@@ -836,6 +836,9 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
+      <file name="/fragment.java" timestamp="1516953445945">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-definition-migrate-template.json" timestamp="1505735739661">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="78" column="0" />
@@ -883,6 +886,11 @@
         <mark key="]" line="56" column="53" />
         <mark key="." line="56" column="53" />
         <mark key="^" line="56" column="53" />
+      </file>
+      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/MutableInMemoryGroupService.scala" timestamp="1516953591405">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceUserLockingSpec.scala" timestamp="1495454660991">
         <mark key="[" line="147" column="37" />
@@ -1730,11 +1738,10 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/GroupService.scala" timestamp="1516897005752">
-        <mark key="[" line="27" column="37" />
-        <mark key="]" line="27" column="41" />
-        <mark key="." line="27" column="41" />
-        <mark key="^" line="27" column="41" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/GroupService.scala" timestamp="1516953540596">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/auth/MagicTokenResponseDTO.scala" timestamp="1497875863975">
         <mark key="[" line="8" column="48" />
@@ -1768,7 +1775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
       <jump line="135" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
       <jump line="145" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
       <jump line="85" column="45" filename="$USER_HOME$/Source/klikkit-backend/project/project/TestHelper.scala" />
@@ -1868,10 +1874,11 @@
       <jump line="39" column="0" filename="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" />
       <jump line="61" column="6" filename="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" />
       <jump line="5" column="15" filename="$USER_HOME$/Source/tree-mysql/src/main/scala/example/GroupService.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>groupService.di()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4503,34 +4510,34 @@
         <text encoding="base64">ICAgIGZvckFsbCB7KGdyb3VwOiBHcm91cElkLCBncm91cFNlcnZpY2U6IE11dGFibGVHcm91cFNlcnZpY2UpID0+CiAgICAgIGdyb3VwU2VydmljZS5hZGRTdWJncm91cChncm91cFNlcnZpY2Uucm9vdEdyb3VwLCBncm91cCkKICAgICAgYXNzZXJ0VGhyb3dzW1J1bnRpbWVFeGNlcHRpb25dKGdyb3VwU2VydmljZS5kZWxldGUoZ3JvdXBTZXJ2aWNlLnJvb3RHcm91cCkpCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCBkZWYgcmFuZG9tU3RyaW5nID0gQXJiaXRyYXJ5LmFyYlN0cmluZwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYWNoZWNrLkdlbi5fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYWNoZWNrLkFyYml0cmFyeS5hcmJpdHJhcnlkZAo=</text>
+        <text encoding="base64">Y2xhc3MgTXV0YWJsZUluTWVtb3J5R3JvdXBTZXJ2aWNlIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGNhc2UgY2xhc3MgTm9kZShpZDogR3JvdXBJZCwgcGFyZW50OiBPcHRpb25bR3JvdXBJZF0pCg==</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyBNdXRhYmxlSW5NZW1vcnlHcm91cFNlcnZpY2UocHJpdmF0ZSB2YWwgcm9vdEdyb3VwOiBHcm91cElkID0gR3JvdXBJZCgpKSBleHRlbmRzIEdyb3VwU2VydmljZSB7CgogIHByaXZhdGUgdmFyIGdyb3VwcyA9IExpc3RbR3JvdXBdKCkKICBncm91cHMgPSBHcm91cCgibGVvaWxhYiIsIE5vbmUpIDo6IGdyb3VwcwoKICBvdmVycmlkZSBkZWYgYWRkR3JvdXAoZ3JvdXA6IEdyb3VwKTogVW5pdCA9IHsKICAgIGdyb3Vwcy5leGlzdHMoXy5pZCA9PSBncm91cC5wYXJlbnQuZ2V0KSBtYXRjaCB7CiAgICAgIGNhc2UgdHJ1ZSA9PiBncm91cHMgPSBncm91cCA6OiBncm91cHMKICAgICAgY2FzZSBfID0+IHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJQYXJlbnQgZ3JvdXAgZG9uJ3QgZXhpc3QiKQogICAgfQogIH0KCiAgb3ZlcnJpZGUgZGVmIGRlbGV0ZShncm91cElkOiBHcm91cElkKTogVW5pdCA9IHsKICAgIGlmIChncm91cHMuZXhpc3RzKF8ucGFyZW50LmNvbnRhaW5zKGdyb3VwSWQpKSkgewogICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiWW91J3JlIHRyeWluZyB0byBkZWxldGUgYSBub24tbGVhZiBncm91cCIpCiAgICB9IGVsc2UgewogICAgICBncm91cHMgPSBncm91cHMuZmlsdGVyTm90KF8uaWQgPT0gZ3JvdXBJZCkKICAgIH0KICB9CgogIG92ZXJyaWRlIGRlZiBnZXRTdWJHcm91cHMoZ3JvdXBJZDogR3JvdXBJZCk6IExpc3RbR3JvdXBdID0gewogICAgdmFsIGNoaWxkcmVuID0gZ3JvdXBzLmZpbHRlcihfLnBhcmVudC5jb250YWlucyhncm91cElkKSkKICAgIGNoaWxkcmVuICsrIGNoaWxkcmVuLmZsYXRNYXAoYyA9PiBnZXRTdWJHcm91cHMoYy5pZCkpCiAgfQoKICBvdmVycmlkZSBkZWYgZ2V0QWxsR3JvdXBzOiBMaXN0W0dyb3VwXSA9IGdyb3VwcwoKICBvdmVycmlkZSBkZWYgZ2V0Um9vdEdyb3VwOiBHcm91cCA9IGdyb3Vwcy5maWx0ZXIoXy5wYXJlbnQuaXNFbXB0eSkuaGVhZAp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBsaWNpdCBkZWYgcmFuZG9tU3RyaW5nID0gQXJiaXRyYXJ5LmFyYlN0cmluZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYWNoZWNrLkdlbi5fCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0KCFncm91cFNlcnZpY2UuZ3JvdXBzLmdyb3VwQnkoXy5wYXJlbnQpLm1hcFZhbHVlcyhfLnNpemUpLmV4aXN0cyhfLl8yID4gMSkpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYWNoZWNrLkFyYml0cmFyeS5hcmJpdHJhcnlkZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0KGdyb3VwU2VydmljZS5ncm91cHMuZmlsdGVyKF8ucGFyZW50LmNvbnRhaW5zKGdyb3VwU2VydmljZS5yb290R3JvdXApKS5sZW5ndGhDb21wYXJlKDEpID09IDApCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGNhc2UgY2xhc3MgTm9kZShpZDogR3JvdXBJZCwgcGFyZW50OiBPcHRpb25bR3JvdXBJZF0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0KGdyb3VwU2VydmljZS5nZXRBbGxHcm91cHMuZmlsdGVyKF8uaWQgIT0gZ3JvdXBTZXJ2aWNlLnJvb3RHcm91cCkuZm9yYWxsKF8ucGFyZW50LmNvbnRhaW5zKGdyb3VwU2VydmljZS5yb290R3JvdXApKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
