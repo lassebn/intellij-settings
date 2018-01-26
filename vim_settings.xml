@@ -928,11 +928,11 @@
         <mark key="^" line="85" column="90" />
         <mark key="." line="85" column="90" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/TreeRepository.scala" timestamp="1516962150502">
-        <mark key="[" line="25" column="35" />
-        <mark key="]" line="25" column="55" />
-        <mark key="." line="25" column="55" />
-        <mark key="^" line="25" column="55" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/TreeRepository.scala" timestamp="1516967967973">
+        <mark key="[" line="39" column="3" />
+        <mark key="]" line="42" column="3" />
+        <mark key="." line="42" column="3" />
+        <mark key="^" line="42" column="3" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/project/TestHelper.scala" timestamp="1510034398481">
         <mark key="[" line="140" column="24" />
@@ -1896,7 +1896,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Group.tupled, Group.unapply</text>
+        <text>}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4519,7 +4519,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Group.tupled, Group.unapply</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
@@ -4528,34 +4528,34 @@
         <text encoding="base64">ICAgIGZvckFsbCB7KGdyb3VwOiBHcm91cElkLCBncm91cFNlcnZpY2U6IE11dGFibGVHcm91cFNlcnZpY2UpID0+CiAgICAgIGdyb3VwU2VydmljZS5hZGRTdWJncm91cChncm91cFNlcnZpY2Uucm9vdEdyb3VwLCBncm91cCkKICAgICAgYXNzZXJ0VGhyb3dzW1J1bnRpbWVFeGNlcHRpb25dKGdyb3VwU2VydmljZS5kZWxldGUoZ3JvdXBTZXJ2aWNlLnJvb3RHcm91cCkpCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbXBvcnQgc2xpY2subGlmdGVkLl8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICBpbXBvcnQgc2xpY2subGlmdGVkLl8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEdyb3VwLl8K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEdyb3VwLl8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNsaWNrLm1vZGVsLlRhYmxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNsaWNrLmxpZnRlZC5UYWcK</text>
+        <text encoding="base64">aW1wb3J0IHNsaWNrLm1vZGVsLlRhYmxlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA9Pgo=</text>
+        <text encoding="base64">aW1wb3J0IHNsaWNrLmxpZnRlZC5UYWcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgR3JvdXAodGFnOiBUYWcpIGV4dGVuZHMgVGFibGVbR3JvdXBdKHRhZywgImdyb3VwcyIpIHsKCgp9Cg==</text>
+        <text encoding="base64">ICA9Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQgc2xpY2subGlmdGVkLlRhZwogIGltcG9ydCBzbGljay5tb2RlbC5UYWJsZQo=</text>
+        <text encoding="base64">Y2xhc3MgR3JvdXAodGFnOiBUYWcpIGV4dGVuZHMgVGFibGVbR3JvdXBdKHRhZywgImdyb3VwcyIpIHsKCgp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
