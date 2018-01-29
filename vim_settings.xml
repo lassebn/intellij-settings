@@ -939,7 +939,7 @@
         <mark key="^" line="85" column="90" />
         <mark key="." line="85" column="90" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/TreeRepository.scala" timestamp="1517210023603">
+      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/TreeRepository.scala" timestamp="1517219607551">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="^" line="78" column="69" />
@@ -1262,13 +1262,13 @@
         <mark key="^" line="172" column="43" />
         <mark key="." line="172" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1517219406344">
-        <mark key="'" line="127" column="6" />
-        <mark key="[" line="43" column="0" />
-        <mark key="m" line="84" column="13" />
-        <mark key="]" line="43" column="0" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1517219855057">
+        <mark key="'" line="122" column="6" />
+        <mark key="[" line="38" column="0" />
+        <mark key="m" line="79" column="13" />
+        <mark key="]" line="38" column="0" />
         <mark key="^" line="27" column="32" />
-        <mark key="." line="43" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
@@ -1439,8 +1439,8 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/main/resources/db/migration/V1__Initial_version.sql" timestamp="1516974442616">
-        <mark key="[" line="3" column="9" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/main/resources/db/migration/V1__Initial_version.sql" timestamp="1517219634290">
+        <mark key="[" line="6" column="2" />
         <mark key="]" line="3" column="15" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
@@ -1906,7 +1906,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBmbHl3YXlTZXJ2aWNlID0gbmV3IEZseXdheVNlcnZpY2UoamRiY1VybCwgZGJVc2VyLCBkYlBhc3N3b3JkKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBqZGJjVXJsID0gcyJqZGJjOnBvc3RncmVzcWw6Ly8kZGJIb3N0OiRkYlBvcnQvJGRiTmFtZSIK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4538,34 +4538,34 @@
         <text encoding="base64">aW1wb3J0IGRlLmZsYXBkb29kbGUuZW1iZWQucHJvY2Vzcy5ydW50aW1lLk5ldHdvcmsuXwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBmbHl3YXlTZXJ2aWNlID0gbmV3IEZseXdheVNlcnZpY2UoamRiY1VybCwgZGJVc2VyLCBkYlBhc3N3b3JkKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBqZGJjVXJsID0gcyJqZGJjOnBvc3RncmVzcWw6Ly8kZGJIb3N0OiRkYlBvcnQvJGRiTmFtZSIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZseXdheVNlcnZpY2UubWlncmF0ZURhdGFiYXNlU2NoZW1hKCkK</text>
+        <text encoding="base64">ICAgIHZhbCBkYlBhc3N3b3JkID0gInBvc3RncmVzIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkZseXdheSBtaWdyYXRpbmciKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBkYlVzZXIgPSAicG9zdGdyZXMiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZseXdheVNlcnZpY2UuZHJvcERhdGFiYXNlKCkK</text>
+        <text encoding="base64">ICAgIHZhbCBkYk5hbWUgPSAidGVzdC1kYXRhYmFzZSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkZseXdheSBkcm9wcGluZyIpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBkYlBvcnQgPSAyNTUzNQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBmbHl3YXlTZXJ2aWNlID0gbmV3IEZseXdheVNlcnZpY2UoamRiY1VybCwgZGJVc2VyLCBkYlBhc3N3b3JkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRiUHJvY2Vzcy5nZXRQcm9jZXNzSWQK</text>
+        <text encoding="base64">ICAgIGZseXdheVNlcnZpY2UubWlncmF0ZURhdGFiYXNlU2NoZW1hKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb3ZlcnJpZGUgZGVmIGJlZm9yZUFsbDogVW5pdCA9IHsK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkZseXdheSBtaWdyYXRpbmciKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGZseXdheVNlcnZpY2UuZHJvcERhdGFiYXNlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
