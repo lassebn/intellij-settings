@@ -1268,13 +1268,13 @@
         <mark key="^" line="172" column="43" />
         <mark key="." line="172" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1517232824607">
-        <mark key="'" line="176" column="6" />
-        <mark key="[" line="70" column="18" />
-        <mark key="m" line="133" column="13" />
-        <mark key="]" line="70" column="23" />
-        <mark key="^" line="70" column="23" />
-        <mark key="." line="70" column="23" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1517235576416">
+        <mark key="'" line="182" column="6" />
+        <mark key="[" line="79" column="58" />
+        <mark key="m" line="139" column="13" />
+        <mark key="]" line="80" column="29" />
+        <mark key="^" line="80" column="29" />
+        <mark key="." line="80" column="29" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
@@ -1613,6 +1613,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/MutableInMemoryTreeService.scala" timestamp="1517235480704">
+        <mark key="[" line="35" column="11" />
+        <mark key="]" line="36" column="15" />
+        <mark key="^" line="36" column="15" />
+        <mark key="." line="36" column="15" />
+      </file>
       <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/concurrent/Execution.scala" timestamp="1503927682223">
         <mark key="[" line="6" column="79" />
         <mark key="]" line="6" column="77" />
@@ -1924,7 +1930,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Z3JvdXAg</text>
+        <text>treeService.getRootNode.id</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4547,7 +4553,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z3JvdXAg</text>
+        <text>treeService.getRootNode.id</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
