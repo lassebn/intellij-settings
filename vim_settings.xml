@@ -1268,10 +1268,10 @@
         <mark key="^" line="172" column="43" />
         <mark key="." line="172" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1517235576416">
-        <mark key="'" line="182" column="6" />
-        <mark key="[" line="79" column="58" />
-        <mark key="m" line="139" column="13" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1517236603900">
+        <mark key="'" line="193" column="6" />
+        <mark key="[" line="81" column="5" />
+        <mark key="m" line="150" column="13" />
         <mark key="]" line="80" column="29" />
         <mark key="^" line="80" column="29" />
         <mark key="." line="80" column="29" />
