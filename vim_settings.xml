@@ -945,11 +945,11 @@
         <mark key="^" line="85" column="90" />
         <mark key="." line="85" column="90" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/TreeRepository.scala" timestamp="1517233960180">
-        <mark key="[" line="25" column="3" />
-        <mark key="]" line="28" column="53" />
-        <mark key="^" line="28" column="53" />
-        <mark key="." line="28" column="53" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/TreeRepository.scala" timestamp="1517237515729">
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="28" column="61" />
+        <mark key="^" line="28" column="61" />
+        <mark key="." line="28" column="61" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/project/TestHelper.scala" timestamp="1510034398481">
         <mark key="[" line="140" column="24" />
@@ -1268,13 +1268,13 @@
         <mark key="^" line="172" column="43" />
         <mark key="." line="172" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1517236603900">
-        <mark key="'" line="193" column="6" />
-        <mark key="[" line="81" column="5" />
-        <mark key="m" line="150" column="13" />
-        <mark key="]" line="80" column="29" />
-        <mark key="^" line="80" column="29" />
-        <mark key="." line="80" column="29" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1517238631996">
+        <mark key="'" line="197" column="6" />
+        <mark key="[" line="92" column="67" />
+        <mark key="m" line="154" column="13" />
+        <mark key="]" line="92" column="57" />
+        <mark key="^" line="92" column="57" />
+        <mark key="." line="92" column="57" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
