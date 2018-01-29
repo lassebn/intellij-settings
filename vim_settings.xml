@@ -185,7 +185,7 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServicePropSpec.scala" timestamp="1517217550737" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServicePropSpec.scala" timestamp="1517218989208" />
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/UnitTestSupport.scala" timestamp="1508224212835">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="27" />
@@ -1262,13 +1262,13 @@
         <mark key="^" line="172" column="43" />
         <mark key="." line="172" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1517216882052">
-        <mark key="'" line="109" column="6" />
-        <mark key="[" line="17" column="2" />
-        <mark key="m" line="66" column="13" />
-        <mark key="]" line="16" column="4" />
-        <mark key="^" line="16" column="4" />
-        <mark key="." line="16" column="4" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1517219406344">
+        <mark key="'" line="127" column="6" />
+        <mark key="[" line="43" column="0" />
+        <mark key="m" line="84" column="13" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="27" column="32" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
@@ -1906,7 +1906,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBmbHl3YXlTZXJ2aWNlID0gbmV3IEZseXdheVNlcnZpY2UoamRiY1VybCwgZGJVc2VyLCBkYlBhc3N3b3JkKQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4529,7 +4529,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
@@ -4538,34 +4538,34 @@
         <text encoding="base64">aW1wb3J0IGRlLmZsYXBkb29kbGUuZW1iZWQucHJvY2Vzcy5ydW50aW1lLk5ldHdvcmsuXwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBmbHl3YXlTZXJ2aWNlID0gbmV3IEZseXdheVNlcnZpY2UoamRiY1VybCwgZGJVc2VyLCBkYlBhc3N3b3JkKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBmbHl3YXkgPSBuZXcgRmx5d2F5U2VydmljZSgpCg==</text>
+        <text encoding="base64">ICAgIGZseXdheVNlcnZpY2UubWlncmF0ZURhdGFiYXNlU2NoZW1hKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmZsYXBkb29kbGUuZW1iZWQucHJvY2Vzcy5ydW50aW1lLk5ldHdvcmsuXwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkZseXdheSBtaWdyYXRpbmciKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICB2YWwgZGJIb3N0ID0gZ2V0TG9jYWxIb3N0LmdldEhvc3RBZGRyZXNzCg==</text>
+        <text encoding="base64">ICAgIGZseXdheVNlcnZpY2UuZHJvcERhdGFiYXNlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGFiYXNlIHsKICAgICAgZGIgewogICAgICAgIHVybCA9ICJqZGJjOnBvc3RncmVzcWw6Ly9sb2NhbGhvc3Q6MjU1MzUvZGF0YWJhc2UtbmFtZSIKICAgICAgICB1c2VyID0gInVzZXIiCiAgICAgICAgcGFzc3dvcmQgPSAicGFzc3dvcmQiCiAgICAgIH0KICAgICAgcHJvZmlsZSA9ICJzbGljay5qZGJjLlBvc3RncmVzUHJvZmlsZVwkIgogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkZseXdheSBkcm9wcGluZyIpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBleGFtcGxlCg==</text>
+        <text encoding="base64">ICAgIGRiUHJvY2Vzcy5nZXRQcm9jZXNzSWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgb3ZlcnJpZGUgZGVmIGJlZm9yZUFsbDogVW5pdCA9IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
