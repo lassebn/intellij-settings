@@ -185,10 +185,11 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServicePropSpec.scala" timestamp="1517225517330">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServicePropSpec.scala" timestamp="1517232952967">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="79" column="56" />
+        <mark key="." line="79" column="56" />
+        <mark key="^" line="79" column="56" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/UnitTestSupport.scala" timestamp="1508224212835">
         <mark key="[" line="2" column="26" />
@@ -417,11 +418,11 @@
         <mark key="^" line="24" column="49" />
         <mark key="." line="24" column="49" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/docker-compose.yml" timestamp="1516958735883">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="16" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="11" column="16" />
+      <file name="$USER_HOME$/Source/tree-mysql/docker-compose.yml" timestamp="1517232878354">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
       </file>
       <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/utils/InMemoryPostgresStorage.scala" timestamp="1517211272886">
         <mark key="[" line="18" column="13" />
@@ -794,7 +795,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516959160744">
+      <file name="/Dummy.txt" timestamp="1517233476662">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
@@ -908,10 +909,11 @@
         <mark key="." line="56" column="53" />
         <mark key="^" line="56" column="53" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/MutableInMemoryGroupService.scala" timestamp="1517228471515">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/MutableInMemoryGroupService.scala" timestamp="1517232902428">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="22" column="35" />
+        <mark key="^" line="22" column="35" />
+        <mark key="." line="22" column="35" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceUserLockingSpec.scala" timestamp="1495454660991">
         <mark key="[" line="147" column="37" />
@@ -943,11 +945,11 @@
         <mark key="^" line="85" column="90" />
         <mark key="." line="85" column="90" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/TreeRepository.scala" timestamp="1517228499580">
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="15" />
-        <mark key="^" line="19" column="15" />
-        <mark key="." line="19" column="15" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/TreeRepository.scala" timestamp="1517233960180">
+        <mark key="[" line="25" column="3" />
+        <mark key="]" line="28" column="53" />
+        <mark key="^" line="28" column="53" />
+        <mark key="." line="28" column="53" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/project/TestHelper.scala" timestamp="1510034398481">
         <mark key="[" line="140" column="24" />
@@ -1266,13 +1268,13 @@
         <mark key="^" line="172" column="43" />
         <mark key="." line="172" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1517228953707">
+      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1517232824607">
         <mark key="'" line="176" column="6" />
-        <mark key="[" line="71" column="47" />
+        <mark key="[" line="70" column="18" />
         <mark key="m" line="133" column="13" />
-        <mark key="]" line="62" column="56" />
-        <mark key="^" line="62" column="56" />
-        <mark key="." line="62" column="56" />
+        <mark key="]" line="70" column="23" />
+        <mark key="^" line="70" column="23" />
+        <mark key="." line="70" column="23" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
@@ -1443,11 +1445,11 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/main/resources/db/migration/V1__Initial_version.sql" timestamp="1517219634290">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="3" column="15" />
-        <mark key="^" line="3" column="15" />
-        <mark key="." line="3" column="15" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/main/resources/db/migration/V1__Initial_version.sql" timestamp="1517232857958">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="5" column="38" />
+        <mark key="." line="5" column="38" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500029575770">
         <mark key="[" line="5" column="19" />
@@ -1490,6 +1492,12 @@
         <mark key="]" line="2" column="14" />
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/TreeServicePropSpec.scala" timestamp="1517233291451">
+        <mark key="[" line="72" column="45" />
+        <mark key="]" line="72" column="43" />
+        <mark key="^" line="72" column="43" />
+        <mark key="." line="72" column="43" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitServiceRemindersSpec.scala" timestamp="1509447808059">
         <mark key="[" line="28" column="0" />
@@ -1592,6 +1600,12 @@
         <mark key="]" line="14" column="39" />
         <mark key="^" line="14" column="39" />
         <mark key="." line="14" column="39" />
+      </file>
+      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/TreeService.scala" timestamp="1517233906498">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="44" />
       </file>
       <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/utils/FlywayService.scala" timestamp="1517210498027">
         <mark key="[" line="1" column="0" />
@@ -1770,8 +1784,8 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/GroupService.scala" timestamp="1516978866474">
-        <mark key="[" line="20" column="0" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/GroupService.scala" timestamp="1517231431440">
+        <mark key="[" line="4" column="14" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
@@ -1910,7 +1924,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>root</text>
+        <text encoding="base64">Z3JvdXAg</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4533,7 +4547,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text encoding="base64">Z3JvdXAg</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
@@ -4541,35 +4555,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNxbCIiIgogICAgICAgICB8U0VMRUNUICoKICAgICAgICAgfEZST00gZ3JvdXBzCiAgICAgICAgIHxXSEVSRSBncm91cHMuaWQgSU4gKAogICAgICAgICB8ICBXSVRIIFJFQ1VSU0lWRSBjdGVwYXRoIEFTICgKICAgICAgICAgfCAgICBTRUxFQ1QgaWQKICAgICAgICAgfCAgICBGUk9NIGdyb3VwcwogICAgICAgICB8ICAgIFdIRVJFIHBhcmVudCA9ICRncm91cElkCiAgICAgICAgIHwgICAgVU5JT04gQUxMCiAgICAgICAgIHwgICAgU0VMRUNUIGcuaWQKICAgICAgICAgfCAgICBGUk9NIGdyb3VwcyBnCiAgICAgICAgIHwgICAgICBKT0lOIGN0ZXBhdGggT04gZy5wYXJlbnQgPSBjdGVwYXRoLmlkCiAgICAgICAgIHwgICkKICAgICAgICAgfCAgU0VMRUNUIGlkIEFTIGRlc2NlbmRhbnRzCiAgICAgICAgIHwgIEZST00gY3RlcGF0aAogICAgICAgICB8KTsKICAgICAgICIiIi5zdHJpcE1hcmdpbi5hc1tHcm91cF0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgfFNFTEVDVCAqCiAgICAgICAgIHxGUk9NIGdyb3VwcwogICAgICAgICB8V0hFUkUgZ3JvdXBzLmlkIElOICgKICAgICAgICAgfCAgV0lUSCBSRUNVUlNJVkUgY3RlcGF0aCBBUyAoCiAgICAgICAgIHwgICAgU0VMRUNUIGlkCiAgICAgICAgIHwgICAgRlJPTSBncm91cHMKICAgICAgICAgfCAgICBXSEVSRSBwYXJlbnQgPSAkZ3JvdXBJZAogICAgICAgICB8ICAgIFVOSU9OIEFMTAogICAgICAgICB8ICAgIFNFTEVDVCBnLmlkCiAgICAgICAgIHwgICAgRlJPTSBncm91cHMgZwogICAgICAgICB8ICAgICAgSk9JTiBjdGVwYXRoIE9OIGcucGFyZW50ID0gY3RlcGF0aC5pZAogICAgICAgICB8ICApCiAgICAgICAgIHwgIFNFTEVDVCBpZCBBUyBkZXNjZW5kYW50cwogICAgICAgICB8ICBGUk9NIGN0ZXBhdGgKICAgICAgICAgfCk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIGltcGxpY2l0IHZhbCBhcmJpdHJhcnlHcm91cFNlcnZpY2U6IEFyYml0cmFyeVtQb3N0Z3Jlc0dyb3VwU2VydmljZV0gPSBBcmJpdHJhcnkoc2VydmljZUdlbmVyYXRvcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIHZhbCBzZXJ2aWNlR2VuZXJhdG9yOiBHZW5bUG9zdGdyZXNHcm91cFNlcnZpY2VdID0gR2VuLmRlbGF5KG5ldyBQb3N0Z3Jlc0dyb3VwU2VydmljZSkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBnZXRHcm91cFJlc3VsdDogR2V0UmVzdWx0W0dyb3VwXSA9IEdldFJlc3VsdFtHcm91cF0ociA9PiBHcm91cCgKICAgICAgci5uZXh0U3RyaW5nKCksCiAgICAgIHIubmV4dFN0cmluZ09wdGlvbigpLm1hcChwaWQgPT4gR3JvdXBJZChwaWQpKSwKICAgICAgR3JvdXBJZChyLm5leHRTdHJpbmcoKSkKICAgICkpCiAgICBpbXBsaWNpdCB2YWwgc2V0R3JvdXBQYXJhbWV0ZXI6IFNldFBhcmFtZXRlcltHcm91cElkXSA9IFNldFBhcmFtZXRlciB7KGdpZCwgcHApID0+IHBwLnNldFN0cmluZyhnaWQuaWQpfQo=</text>
+        <text encoding="base64">ICBkZWYgZ2V0QW5jZXN0b3JzKG5vZGVJZDogTm9kZUlkKTogTGlzdFtOb2RlXQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgcHJpbnRsbihzIkdvdCByb290IG5vZGUgJHJvb3ROb2RlIikK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgfFNFTEVDVCAqCiAgICAgICAgIHxGUk9NIGdyb3VwcwogICAgICAgICB8V0hFUkUgZ3JvdXBzLmlkIElOICgKICAgICAgICAgfCAgV0lUSCBSRUNVUlNJVkUgY3RlcGF0aCBBUyAoCiAgICAgICAgIHwgICAgU0VMRUNUIGlkCiAgICAgICAgIHwgICAgRlJPTSBncm91cHMKICAgICAgICAgfCAgICBXSEVSRSBwYXJlbnQgPSAkZ3JvdXBJZAogICAgICAgICB8ICAgIFVOSU9OIEFMTAogICAgICAgICB8ICAgIFNFTEVDVCBnLmlkCiAgICAgICAgIHwgICAgRlJPTSBncm91cHMgZwogICAgICAgICB8ICAgICAgSk9JTiBjdGVwYXRoIE9OIGcucGFyZW50ID0gY3RlcGF0aC5pZAogICAgICAgICB8ICApCiAgICAgICAgIHwgIFNFTEVDVCBpZCBBUyBkZXNjZW5kYW50cwogICAgICAgICB8ICBGUk9NIGN0ZXBhdGgKICAgICAgICAgfCk7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgcHJpbnRsbihzIkdvdCBhbGwgZ3JvdXBzICRhbGxHcm91cHMiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgcHJpbnRsbihzIkdvdCBzdWJncm91cHMgJHN1Ykdyb3VwcyBmb3IgZ3JvdXAgJGdyb3VwSWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgcHJpbnRsbihzIkRlbGV0aW5nIGdyb3VwICRncm91cElkIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
