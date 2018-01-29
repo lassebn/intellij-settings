@@ -185,7 +185,7 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServicePropSpec.scala" timestamp="1517213353119" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServicePropSpec.scala" timestamp="1517217550737" />
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/UnitTestSupport.scala" timestamp="1508224212835">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="27" />
@@ -1262,13 +1262,13 @@
         <mark key="^" line="172" column="43" />
         <mark key="." line="172" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1517212812644">
-        <mark key="'" line="83" column="6" />
-        <mark key="[" line="23" column="25" />
-        <mark key="m" line="40" column="13" />
-        <mark key="]" line="23" column="23" />
-        <mark key="." line="23" column="23" />
-        <mark key="^" line="23" column="23" />
+      <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" timestamp="1517216882052">
+        <mark key="'" line="109" column="6" />
+        <mark key="[" line="17" column="2" />
+        <mark key="m" line="66" column="13" />
+        <mark key="]" line="16" column="4" />
+        <mark key="^" line="16" column="4" />
+        <mark key="." line="16" column="4" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
