@@ -161,6 +161,11 @@
         <mark key="^" line="55" column="16" />
         <mark key="." line="55" column="16" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/docker-compose.yml" timestamp="1517839323529">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503487992585">
         <mark key="[" line="37" column="81" />
         <mark key="]" line="37" column="83" />
@@ -699,6 +704,11 @@
         <mark key="." line="86" column="69" />
         <mark key="^" line="86" column="69" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1517838714748">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -879,6 +889,12 @@
         <mark key="]" line="3" column="14" />
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/logback.xml" timestamp="1517838827395">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="66" />
+        <mark key="^" line="8" column="66" />
+        <mark key="." line="8" column="66" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ButtonRepositorySpec.scala" timestamp="1508846716536">
         <mark key="[" line="126" column="33" />
@@ -1931,7 +1947,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gU0VOVFJZX0VOVklST05NRU5UPWRldmVsb3BtZW50Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4554,7 +4570,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIHZhbCBwYXJlbnRJZCA9IA==</text>
+        <text>com.getsentry.raven.logback.SentryAppender</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
@@ -4563,34 +4579,34 @@
         <text encoding="base64">ICAgIHNxbCIiIgogICAgICAgICB8U0VMRUNUICoKICAgICAgICAgfEZST00gZ3JvdXBzCiAgICAgICAgIHxXSEVSRSBncm91cHMuaWQgSU4gKAogICAgICAgICB8ICBXSVRIIFJFQ1VSU0lWRSBjdGVwYXRoIEFTICgKICAgICAgICAgfCAgICBTRUxFQ1QgaWQKICAgICAgICAgfCAgICBGUk9NIGdyb3VwcwogICAgICAgICB8ICAgIFdIRVJFIHBhcmVudCA9ICRncm91cElkCiAgICAgICAgIHwgICAgVU5JT04gQUxMCiAgICAgICAgIHwgICAgU0VMRUNUIGcuaWQKICAgICAgICAgfCAgICBGUk9NIGdyb3VwcyBnCiAgICAgICAgIHwgICAgICBKT0lOIGN0ZXBhdGggT04gZy5wYXJlbnQgPSBjdGVwYXRoLmlkCiAgICAgICAgIHwgICkKICAgICAgICAgfCAgU0VMRUNUIGlkIEFTIGRlc2NlbmRhbnRzCiAgICAgICAgIHwgIEZST00gY3RlcGF0aAogICAgICAgICB8KTsKICAgICAgICIiIi5zdHJpcE1hcmdpbi5hc1tHcm91cF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gU0VOVFJZX0VOVklST05NRU5UPWRldmVsb3BtZW50Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXJlbnQgPSBnZXRQYXJlbnQobm9kZUlkKQogICAgcGFyZW50IG1hdGNoIHsKICAgICAgY2FzZSBOb25lID0+IHJlc3VsdAogICAgICBjYXNlIFNvbWUobm9kZSkgPT4gZ2V0QW5jZXN0b3JzUmVjKG5vZGUuaWQsIG5vZGUgOjogcmVzdWx0KQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gU0VOVFJZX0RTTj1odHRwczovL2U1NDJmM2U3NTBkNTRhOTJhOGMyY2IzZDM0MTEzMDJjOmUzMzQ5MWUxZjA3YzRiOWM4YTBiMGY0MDlmMWRlYjM1QHNlbnRyeS5pby8yODMxNTkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5vZGVzLmZpbHRlcihpZCA9PiBwYXJlbnRJZC5jb250YWlucyhpZCkpCg==</text>
+        <text encoding="base64">ICAgICAgZW52aXJvbm1lbnQ6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAiaW8uc2VudHJ5IiAlICJzZW50cnkiICUgIjEuNi43IiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBfID0+IExpc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAiaW8uc2VudHJ5IiAlICJzZW50cnkiICUgIjEuNi43Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBwIDo6IE5pbCA9PiBwIDo6IGdldEFuY2VzdG9ycyhwLmlkKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcmVudCBtYXRjaCB7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCBwYXJlbnQgPSBnZXRQYXJlbnQobm9kZUlkKQogICAgcGFyZW50IG1hdGNoIHsKICAgICAgY2FzZSBOb25lID0+IHJlc3VsdAogICAgICBjYXNlIFNvbWUobm9kZSkgPT4gZ2V0QW5jZXN0b3JzUmVjKG5vZGUuaWQsIG5vZGUgOjogcmVzdWx0KQogICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG5vZGVzLmZpbHRlcihpZCA9PiBwYXJlbnRJZC5jb250YWlucyhpZCkpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gIGltcGxpY2l0IHZhbCBhcmJpdHJhcnlHcm91cFNlcnZpY2U6IEFyYml0cmFyeVtQb3N0Z3Jlc0dyb3VwU2VydmljZV0gPSBBcmJpdHJhcnkoc2VydmljZUdlbmVyYXRvcikK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
