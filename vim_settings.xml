@@ -137,11 +137,11 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/build.sbt" timestamp="1518113211096">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="61" column="12" />
+      <file name="$USER_HOME$/Source/platform-commons/build.sbt" timestamp="1518115104705">
+        <mark key="[" line="68" column="29" />
+        <mark key="]" line="68" column="17" />
+        <mark key="." line="68" column="17" />
+        <mark key="^" line="68" column="17" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/src/main/resources/application.conf" timestamp="1504787946153">
         <mark key="[" line="5" column="0" />
@@ -579,6 +579,9 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
         <mark key="^" line="52" column="14" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-commons/README.md" timestamp="1518115113409">
+        <mark key="[" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images3/testkit/src/main/scala/com/leoilab/images/util/ImageResourcesExpected.scala" timestamp="1503575390394">
         <mark key="[" line="63" column="127" />
