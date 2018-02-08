@@ -95,6 +95,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="7" column="42" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-group-client/build.sbt" timestamp="1518083337752">
+        <mark key="[" line="9" column="51" />
+        <mark key="]" line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/images/ImagesApi.scala" timestamp="1503999505064">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="28" />
