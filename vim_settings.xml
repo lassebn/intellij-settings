@@ -95,11 +95,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/build.sbt" timestamp="1518083337752">
-        <mark key="[" line="9" column="51" />
-        <mark key="]" line="9" column="36" />
-        <mark key="^" line="9" column="36" />
-        <mark key="." line="9" column="36" />
+      <file name="$USER_HOME$/Source/sensible-group-client/build.sbt" timestamp="1518085866117">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+        <mark key="." line="12" column="18" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/images/ImagesApi.scala" timestamp="1503999505064">
         <mark key="[" line="2" column="27" />
@@ -1953,8 +1953,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gU0VOVFJZX0VOVklST05NRU5UPWRldmVsb3BtZW50Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y292ZXJhZ2VFbmFibGVkSW5UZXN0IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4577,7 +4577,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>com.getsentry.raven.logback.SentryAppender</text>
+        <text encoding="base64">Y292ZXJhZ2VFbmFibGVkSW5UZXN0IA==</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
