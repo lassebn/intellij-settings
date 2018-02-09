@@ -251,8 +251,8 @@
         <mark key="^" line="66" column="120" />
         <mark key="." line="66" column="120" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1518113549847">
-        <mark key="[" line="9" column="6" />
+      <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1518166092911">
+        <mark key="[" line="10" column="3" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/raml/api.raml" timestamp="1509444348524">
         <mark key="[" line="274" column="0" />
@@ -889,6 +889,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1518165731618" />
       <file name="$USER_HOME$/Source/images3/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503565055763">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="54" />
