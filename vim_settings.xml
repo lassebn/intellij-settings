@@ -95,11 +95,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/build.sbt" timestamp="1518169094395">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="16" column="20" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="16" column="20" />
+      <file name="$USER_HOME$/Source/sensible-group-client/build.sbt" timestamp="1518417501732">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="27" column="4" />
+        <mark key="^" line="27" column="4" />
+        <mark key="." line="27" column="4" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/images/ImagesApi.scala" timestamp="1503999505064">
         <mark key="[" line="2" column="27" />
@@ -1046,11 +1046,10 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/project/Dependencies.scala" timestamp="1518169085339">
-        <mark key="[" line="9" column="87" />
-        <mark key="]" line="10" column="62" />
-        <mark key="^" line="10" column="62" />
-        <mark key="." line="10" column="62" />
+      <file name="$USER_HOME$/Source/sensible-group-client/project/Dependencies.scala" timestamp="1518417459673">
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
@@ -1375,11 +1374,11 @@
         <mark key="." line="2" column="137" />
         <mark key="^" line="2" column="137" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/src/test/scala/com/leoilab/sensible/groups/client/GroupsClientSpec.scala" timestamp="1518182738883">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Source/sensible-group-client/src/test/scala/com/leoilab/sensible/groups/client/GroupsClientSpec.scala" timestamp="1518417652836">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/.idea/modules/platform-users-client.iml" timestamp="1507191656077">
         <mark key="[" line="21" column="38" />
@@ -1827,6 +1826,9 @@
         <mark key="^" line="27" column="50" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-group-client/project/project/plugins.sbt" timestamp="1518417563680">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/raml/api.raml" timestamp="1510827178014">
         <mark key="[" line="517" column="48" />
         <mark key="]" line="519" column="103" />
@@ -2015,7 +2017,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzcHJheS5qc29uLl8K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QubW9ja2l0by5Nb2NraXRvU3VnYXIK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4647,34 +4649,34 @@
         <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMy4wLjQiLAogICJvcmcubW9ja2l0byIgJSAibW9ja2l0by1jb3JlIiAlICIxLjEwLjgiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzcHJheS5qc29uLl8K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QubW9ja2l0by5Nb2NraXRvU3VnYXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNwcmF5Lmpzb24uXwo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzcHJheS5qc29uLl8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFra2Euc3RyZWFtLk1hdGVyaWFsaXplCg==</text>
+        <text encoding="base64">aW1wb3J0IHNwcmF5Lmpzb24uXwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgaW1wb3J0IEdyb3VwSWQuZ3JvdXBJZExpc3RKc29uRm9ybWF0Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFra2Euc3RyZWFtLk1hdGVyaWFsaXplCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5zY2FsYWRzbC51bm1hcnNoYWxsaW5nLlVubWFyc2hhbAo=</text>
+        <text encoding="base64">Ly8gICAgaW1wb3J0IEdyb3VwSWQuZ3JvdXBJZExpc3RKc29uRm9ybWF0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5zY2FsYWRzbC51bm1hcnNoYWxsaW5nLkZyb21SZXNwb25zZVVubWFyc2hhbGxlcgo=</text>
+        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5zY2FsYWRzbC51bm1hcnNoYWxsaW5nLlVubWFyc2hhbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBHcm91cElkLl8K</text>
+        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5zY2FsYWRzbC51bm1hcnNoYWxsaW5nLkZyb21SZXNwb25zZVVubWFyc2hhbGxlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5zY2FsYWRzbC5tYXJzaGFsbGVycy5zcHJheWpzb24uU3ByYXlKc29uU3VwcG9ydC5fCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBHcm91cElkLl8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5zY2FsYWRzbC5tYXJzaGFsbGVycy5zcHJheWpzb24uU3ByYXlKc29uU3VwcG9ydC5fCg==</text>
       </register>
       <register name=":" type="4">
         <text>6</text>
