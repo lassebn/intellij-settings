@@ -256,11 +256,11 @@
         <mark key="^" line="66" column="120" />
         <mark key="." line="66" column="120" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1518434653613">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="51" />
-        <mark key="." line="23" column="77" />
-        <mark key="^" line="23" column="77" />
+      <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1518435765851">
+        <mark key="[" line="69" column="12" />
+        <mark key="]" line="69" column="6" />
+        <mark key="." line="69" column="6" />
+        <mark key="^" line="69" column="6" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/raml/api.raml" timestamp="1509444348524">
         <mark key="[" line="274" column="0" />
@@ -546,10 +546,11 @@
         <mark key="." line="25" column="23" />
         <mark key="^" line="25" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/model/Group.scala" timestamp="1518434036804">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/model/Group.scala" timestamp="1518435699619">
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="7" column="51" />
+        <mark key="." line="7" column="51" />
+        <mark key="^" line="7" column="51" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/access/CollectionAccessDirective.scala" timestamp="1503048650120">
         <mark key="[" line="20" column="0" />
@@ -1391,11 +1392,11 @@
         <mark key="." line="2" column="137" />
         <mark key="^" line="2" column="137" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/src/test/scala/com/leoilab/sensible/groups/client/GroupsClientSpec.scala" timestamp="1518434490585">
-        <mark key="[" line="31" column="22" />
-        <mark key="]" line="31" column="34" />
-        <mark key="^" line="31" column="34" />
-        <mark key="." line="31" column="34" />
+      <file name="$USER_HOME$/Source/sensible-group-client/src/test/scala/com/leoilab/sensible/groups/client/GroupsClientSpec.scala" timestamp="1518435983649">
+        <mark key="[" line="53" column="65" />
+        <mark key="]" line="53" column="61" />
+        <mark key="^" line="53" column="61" />
+        <mark key="." line="53" column="61" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/.idea/modules/platform-users-client.iml" timestamp="1507191656077">
         <mark key="[" line="21" column="38" />
@@ -1763,7 +1764,7 @@
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="/sbtShell" timestamp="1518421419367">
+      <file name="/sbtShell" timestamp="1518434987566">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/testkit/src/main/scala/com/leoilab/testkit/AuthSupport.scala" timestamp="1503561827606">
@@ -2028,8 +2029,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaGVhZGVycy5BdXRob3JpemF0aW9uKGhlYWRlcnMuT0F1dGgyQmVhcmVyVG9rZW4oYWNjZXNzVG9rZW4udG9rZW4pKSwKICAgICAgaGVhZGVycy5SYXdIZWFkZXIoIlgtQ2xpZW50LUlkIiwgcyIkY2xpZW50SWQiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;my new group&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4652,7 +4653,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">R3JvdXBzQ2xpZW50SW1wbCA=</text>
+        <text>&quot;my new group&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
