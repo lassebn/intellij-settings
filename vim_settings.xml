@@ -256,12 +256,6 @@
         <mark key="^" line="66" column="120" />
         <mark key="." line="66" column="120" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1518435765851">
-        <mark key="[" line="69" column="12" />
-        <mark key="]" line="69" column="6" />
-        <mark key="." line="69" column="6" />
-        <mark key="^" line="69" column="6" />
-      </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/raml/api.raml" timestamp="1509444348524">
         <mark key="[" line="274" column="0" />
         <mark key="]" line="274" column="0" />
@@ -1392,12 +1386,6 @@
         <mark key="." line="2" column="137" />
         <mark key="^" line="2" column="137" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/src/test/scala/com/leoilab/sensible/groups/client/GroupsClientSpec.scala" timestamp="1518435983649">
-        <mark key="[" line="53" column="65" />
-        <mark key="]" line="53" column="61" />
-        <mark key="^" line="53" column="61" />
-        <mark key="." line="53" column="61" />
-      </file>
       <file name="$USER_HOME$/Source/platform-users/.idea/modules/platform-users-client.iml" timestamp="1507191656077">
         <mark key="[" line="21" column="38" />
         <mark key="]" line="21" column="3" />
@@ -1691,6 +1679,12 @@
         <mark key="]" line="15" column="44" />
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
+      </file>
+      <file name="$USER_HOME$/Source/sensible-group-client/README.md" timestamp="1518440572295">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/utils/FlywayService.scala" timestamp="1517210498027">
         <mark key="[" line="1" column="0" />
@@ -2030,7 +2024,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;my new group&quot;</text>
+        <text>[</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4653,43 +4647,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;my new group&quot;</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaGVhZGVycy5BdXRob3JpemF0aW9uKGhlYWRlcnMuT0F1dGgyQmVhcmVyVG9rZW4oYWNjZXNzVG9rZW4udG9rZW4pKSwKICAgICAgaGVhZGVycy5SYXdIZWFkZXIoIlgtQ2xpZW50LUlkIiwgcyIkY2xpZW50SWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBleGNlcHRpb24gPSBncm91cENsaWVudC5saXN0R3JvdXBzKCkuZmFpbGVkLmZ1dHVyZVZhbHVlCiAgICAgICAgICBleGNlcHRpb24gc2hvdWxkQmUgYW5bQWNjZXNzVG9rZW5FeHBpcmVkRXhjZXB0aW9uXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLmdyb3Vwcy5tb2RlbC5Hcm91cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gIGV4dGVuZHMgR3JvdXBzQ2xpZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly90cmFpdCBHcm91cHNDbGllbnQgewovLyAgZGVmIGxpc3RHcm91cHMoKShpbXBsaWNpdCBhY2Nlc3NUb2tlbjogQWNjZXNzVG9rZW4sIGNsaWVudElkOiBDbGllbnRJZCk6IEZ1dHVyZVtMaXN0W0dyb3VwSWRdXQovLyAgZGVmIGFkZEdyb3VwKGdyb3VwOiBHcm91cCkoaW1wbGljaXQgYWNjZXNzVG9rZW46IEFjY2Vzc1Rva2VuLCBjbGllbnRJZDogQ2xpZW50SWQpOiBGdXR1cmVbVW5pdF0KLy99Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBzZXR1cEVtcHR5T2tSZXNwb25zZSA9IHsKICAgIGh0dHBSZXNwb25zZSA9IEh0dHBSZXNwb25zZSgpLndpdGhTdGF0dXMoU3RhdHVzQ29kZXMuT0spLmFzSW5zdGFuY2VPZltIdHRwUmVzcG9uc2VdCiAgfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzcyBBY2Nlc3NUb2tlbkV4cGlyZWRFeGNlcHRpb24oKSBleHRlbmRzIFJ1bnRpbWVFeGNlcHRpb24oIkFjY2VzcyB0b2tlbiBleHBpcmVkLiBQbGVhc2UgbG9nIGluIGFnYWluLiIpCmNhc2UgY2xhc3MgRm9yYmlkZGVuRXhjZXB0aW9uW1QgPDogQmFzZUlkXShyZXNvdXJjZUlkOiBUKSBleHRlbmRzIFJ1bnRpbWVFeGNlcHRpb24ocyJBY2Nlc3Mgbm90IGFsbG93ZWQgdG8gcmVzb3VyY2Ugd2l0aCBpZCAkcmVzb3VyY2VJZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGh0dHBSZXNwb25zZSA9IEh0dHBSZXNwb25zZSgpLndpdGhTdGF0dXMoU3RhdHVzQ29kZXMuVW5hdXRob3JpemVkKS5hc0luc3RhbmNlT2ZbSHR0cFJlc3BvbnNlXQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBodHRwUmVzcG9uc2UgPSBIdHRwUmVzcG9uc2UoKS53aXRoU3RhdHVzKFN0YXR1c0NvZGVzLk9LKS5hc0luc3RhbmNlT2ZbSHR0cFJlc3BvbnNlXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLmdyb3Vwcy5tb2RlbC5Hcm91cAo=</text>
       </register>
       <register name=":" type="4">
         <text>6</text>
