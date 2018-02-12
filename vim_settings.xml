@@ -251,11 +251,11 @@
         <mark key="^" line="66" column="120" />
         <mark key="." line="66" column="120" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1518427567221">
-        <mark key="[" line="39" column="62" />
-        <mark key="]" line="39" column="81" />
-        <mark key="^" line="39" column="81" />
-        <mark key="." line="39" column="81" />
+      <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1518431398411">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="58" />
+        <mark key="^" line="16" column="58" />
+        <mark key="." line="16" column="58" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/raml/api.raml" timestamp="1509444348524">
         <mark key="[" line="274" column="0" />
@@ -1375,11 +1375,11 @@
         <mark key="." line="2" column="137" />
         <mark key="^" line="2" column="137" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/src/test/scala/com/leoilab/sensible/groups/client/GroupsClientSpec.scala" timestamp="1518427800223">
-        <mark key="[" line="53" column="26" />
-        <mark key="]" line="53" column="30" />
-        <mark key="^" line="53" column="30" />
-        <mark key="." line="53" column="30" />
+      <file name="$USER_HOME$/Source/sensible-group-client/src/test/scala/com/leoilab/sensible/groups/client/GroupsClientSpec.scala" timestamp="1518431284144">
+        <mark key="[" line="47" column="42" />
+        <mark key="]" line="48" column="56" />
+        <mark key="^" line="48" column="56" />
+        <mark key="." line="48" column="56" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/.idea/modules/platform-users-client.iml" timestamp="1507191656077">
         <mark key="[" line="21" column="38" />
