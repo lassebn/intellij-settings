@@ -256,6 +256,12 @@
         <mark key="^" line="66" column="120" />
         <mark key="." line="66" column="120" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1518441330722">
+        <mark key="[" line="57" column="10" />
+        <mark key="]" line="57" column="1" />
+        <mark key="^" line="57" column="1" />
+        <mark key="." line="57" column="1" />
+      </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/raml/api.raml" timestamp="1509444348524">
         <mark key="[" line="274" column="0" />
         <mark key="]" line="274" column="0" />
@@ -1512,11 +1518,11 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/circle.yml" timestamp="1518091768719">
-        <mark key="[" line="25" column="11" />
-        <mark key="]" line="25" column="12" />
-        <mark key="^" line="25" column="12" />
-        <mark key="." line="25" column="12" />
+      <file name="$USER_HOME$/Source/sensible-group-client/circle.yml" timestamp="1518441384642">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="13" />
+        <mark key="^" line="25" column="13" />
+        <mark key="." line="25" column="13" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500029575770">
         <mark key="[" line="5" column="19" />
