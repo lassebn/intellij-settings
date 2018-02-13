@@ -747,11 +747,11 @@
         <mark key="." line="86" column="69" />
         <mark key="^" line="86" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1518531600190">
-        <mark key="[" line="96" column="58" />
-        <mark key="]" line="96" column="57" />
-        <mark key="^" line="96" column="57" />
-        <mark key="." line="96" column="57" />
+      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1518533631095">
+        <mark key="[" line="96" column="9" />
+        <mark key="]" line="97" column="7" />
+        <mark key="^" line="97" column="7" />
+        <mark key="." line="97" column="7" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
         <mark key="[" line="21" column="0" />
