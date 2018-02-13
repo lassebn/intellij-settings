@@ -257,11 +257,11 @@
         <mark key="^" line="66" column="120" />
         <mark key="." line="66" column="120" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1518513532333">
-        <mark key="[" line="49" column="60" />
-        <mark key="]" line="49" column="63" />
-        <mark key="." line="49" column="63" />
-        <mark key="^" line="49" column="63" />
+      <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1518517188144">
+        <mark key="[" line="84" column="3" />
+        <mark key="]" line="90" column="22" />
+        <mark key="." line="90" column="22" />
+        <mark key="^" line="90" column="22" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/raml/api.raml" timestamp="1509444348524">
         <mark key="[" line="274" column="0" />
@@ -1368,11 +1368,11 @@
         <mark key="." line="2" column="137" />
         <mark key="^" line="2" column="137" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/src/test/scala/com/leoilab/sensible/groups/client/GroupsClientSpec.scala" timestamp="1518513388574">
-        <mark key="[" line="7" column="73" />
-        <mark key="]" line="7" column="53" />
-        <mark key="." line="7" column="53" />
-        <mark key="^" line="7" column="53" />
+      <file name="$USER_HOME$/Source/sensible-group-client/src/test/scala/com/leoilab/sensible/groups/client/GroupsClientSpec.scala" timestamp="1518517298649">
+        <mark key="[" line="95" column="82" />
+        <mark key="]" line="95" column="92" />
+        <mark key="." line="95" column="92" />
+        <mark key="^" line="95" column="92" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/.idea/modules/platform-users-client.iml" timestamp="1507191656077">
         <mark key="[" line="21" column="38" />
@@ -2007,7 +2007,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Array[Byte]</text>
+        <text>ancestors</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4630,43 +4630,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Array[Byte]</text>
+        <text>ancestors</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNldHVwVW5hdXRob3JpemVkUmVzcG9uc2UoKQogICAgICAgICAgdmFsIG5ld0dyb3VwID0gR3JvdXAuY3JlYXRlKEdyb3VwSWQuZ2VuZXJhdGUpCiAgICAgICAgICB2YWwgZXhjZXB0aW9uID0gZ3JvdXBDbGllbnQuYWRkR3JvdXAobmV3R3JvdXApLmZhaWxlZC5mdXR1cmVWYWx1ZQogICAgICAgICAgZXhjZXB0aW9uIHNob3VsZEJlIGFuW0FjY2Vzc1Rva2VuRXhwaXJlZEV4Y2VwdGlvbl0K</text>
+        <text encoding="base64">ICAgICAgaXQoInNob3VsZCBsaXN0IGFuY2VzdG9ycyIpIHsKICAgICAgICB2YWwgYW5jZXN0b3JzID0gTGlzdChHcm91cElkLmdlbmVyYXRlLCBHcm91cElkLmdlbmVyYXRlKQogICAgICAgIGh0dHBSZXNwb25zZSA9IEh0dHBSZXNwb25zZSgpLndpdGhFbnRpdHkoQ29udGVudFR5cGVzLmBhcHBsaWNhdGlvbi9qc29uYCwgYW5jZXN0b3JzLnRvSnNvbi50b1N0cmluZy5nZXRCeXRlcykKICAgICAgICB2YWwgZmV0Y2hlZEFuY2VzdG9ycyA9IGdyb3VwQ2xpZW50Lmxpc3RBbmNlc3RvcnMoR3JvdXBJZC5nZW5lcmF0ZSkuZnV0dXJlVmFsdWUKICAgICAgICBmZXRjaGVkQW5jZXN0b3JzIHNob3VsZEJlIGFuY2VzdG9ycwogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLmdyb3Vwcy5jbGllbnQuRXhjZXB0aW9ucy5BY2Nlc3NUb2tlbkV4cGlyZWRFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgIHNldHVwVW5hdXRob3JpemVkUmVzcG9uc2UoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBuZXdHcm91cCA9IEdyb3VwLmNyZWF0ZShHcm91cElkLmdlbmVyYXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGV4Y2VwdGlvbiBzaG91bGRCZSBhbltBY2Nlc3NUb2tlbkV4cGlyZWRFeGNlcHRpb25dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBuZXdHcm91cCA9IEdyb3VwLmNyZWF0ZShHcm91cElkLmdlbmVyYXRlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNldHVwVW5hdXRob3JpemVkUmVzcG9uc2UoKQogICAgICAgICAgdmFsIG5ld0dyb3VwID0gR3JvdXAuY3JlYXRlKEdyb3VwSWQuZ2VuZXJhdGUpCiAgICAgICAgICB2YWwgZXhjZXB0aW9uID0gZ3JvdXBDbGllbnQuYWRkR3JvdXAobmV3R3JvdXApLmZhaWxlZC5mdXR1cmVWYWx1ZQogICAgICAgICAgZXhjZXB0aW9uIHNob3VsZEJlIGFuW0FjY2Vzc1Rva2VuRXhwaXJlZEV4Y2VwdGlvbl0K</text>
+        <text encoding="base64">ICAgICAgICAgIHNldHVwVW5hdXRob3JpemVkUmVzcG9uc2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4Y2VwdGlvbiBzaG91bGRCZSBhbltBY2Nlc3NUb2tlbkV4cGlyZWRFeGNlcHRpb25dCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBhcHBseShpZDogR3JvdXBJZCwgbmFtZTogT3B0aW9uW1N0cmluZ10sIHBhcmVudDogT3B0aW9uW0dyb3VwSWRdKTogR3JvdXAgPSBuZXcgR3JvdXAoaWQsIG5hbWUsIHBhcmVudCkK</text>
+        <text encoding="base64">ICAgICAgICAgIGV4Y2VwdGlvbiBzaG91bGRCZSBhbltBY2Nlc3NUb2tlbkV4cGlyZWRFeGNlcHRpb25dCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBncm91cCA9IEdyb3VwKEdyb3VwSWQuZ2VuZXJhdGUsIFNvbWUoIiIpLCBTb21lKEdyb3VwSWQuZ2VuZXJhdGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNldHVwVW5hdXRob3JpemVkUmVzcG9uc2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBncm91cCA9IEdyb3VwKEdyb3VwSWQuZ2VuZXJhdGUsIFNvbSkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLmdyb3Vwcy5jbGllbnQuRXhjZXB0aW9ucy5BY2Nlc3NUb2tlbkV4cGlyZWRFeGNlcHRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAZGVwcmVjYXRlZCgiRG8gbm90IGluc3RhbnRpYXRlIHRoZSBncm91cCBkaXJlY3RseS4gYFVzZSBHcm91cC5jcmVhdGVgLiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBuZXdHcm91cCA9IEdyb3VwLmNyZWF0ZShHcm91cElkLmdlbmVyYXRlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>6</text>
