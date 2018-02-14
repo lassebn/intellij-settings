@@ -233,6 +233,7 @@
         <mark key="^" line="152" column="46" />
         <mark key="." line="152" column="46" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRepository.scala" timestamp="1518621656601" />
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UsersExceptionHandler.scala" timestamp="1505462140915">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -867,7 +868,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518508179812">
+      <file name="/Dummy.txt" timestamp="1518621573590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
@@ -1124,11 +1125,10 @@
         <mark key="^" line="18" column="80" />
         <mark key="." line="18" column="80" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRoutes.scala" timestamp="1518618769533">
-        <mark key="[" line="24" column="62" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="0" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRoutes.scala" timestamp="1518621805375">
+        <mark key="]" line="38" column="110" />
+        <mark key="." line="38" column="110" />
+        <mark key="^" line="38" column="110" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImagePropertiesRepositorySpec.scala" timestamp="1503392372417">
         <mark key="[" line="68" column="50" />
@@ -2062,8 +2062,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aWkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZXJyb3JoYW5kbGVyZGlyZWN0aXZlIA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4686,7 +4686,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(implicit groupService: GroupService, system: ActorSystem)</text>
+        <text encoding="base64">ZXJyb3JoYW5kbGVyZGlyZWN0aXZlIA==</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
