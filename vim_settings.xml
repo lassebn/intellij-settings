@@ -107,7 +107,7 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.leoilab/sensible-groups-client_2.12/srcs/sensible-groups-client_2.12-0.1.1-sources.jar!/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1518708604785" />
+      <file name="$USER_HOME$/.ivy2/cache/com.leoilab/sensible-groups-client_2.12/srcs/sensible-groups-client_2.12-0.1.1-sources.jar!/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1518709907077" />
       <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/UsersService.scala" timestamp="1516267465776">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="57" />
@@ -125,6 +125,12 @@
         <mark key="]" line="10" column="37" />
         <mark key="^" line="10" column="31" />
         <mark key="." line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/application.conf" timestamp="1518709949593">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="43" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/requirements.txt" timestamp="1499325861169">
         <mark key="[" line="0" column="19" />
@@ -987,11 +993,11 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/logback.xml" timestamp="1517838827395">
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="66" />
-        <mark key="^" line="8" column="66" />
-        <mark key="." line="8" column="66" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/logback.xml" timestamp="1518709719245">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="39" />
+        <mark key="^" line="16" column="39" />
+        <mark key="." line="16" column="39" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ButtonRepositorySpec.scala" timestamp="1508846716536">
         <mark key="[" line="126" column="33" />
@@ -1447,6 +1453,12 @@
         <mark key="]" line="95" column="92" />
         <mark key="." line="95" column="92" />
         <mark key="^" line="95" column="92" />
+      </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/it/resources/application.conf" timestamp="1518710426760">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="29" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/.idea/modules/platform-users-client.iml" timestamp="1507191656077">
         <mark key="[" line="21" column="38" />
@@ -2110,8 +2122,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rootNode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2Vuc2libGUuZ3JvdXBzLnVybCIK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4743,34 +4755,34 @@
         <text encoding="base64">ICAgICAgd2hlbihncm91cFNlcnZpY2UuZGVsZXRlKGFueVtHcm91cElkXSkoYW55W0F1dGhJbmZvXSkpLnRoZW5SZXR1cm4oRnV0dXJlKEdyb3VwSWQuZ2VuZXJhdGUpKQogICAgICBEZWxldGUodXJpID0gcyIvdjEvZ3JvdXBzLyR7R3JvdXBJZC5nZW5lcmF0ZX0iKSB+PiBhZGRUZXN0QXV0aG9yaXphdGlvbkhlYWRlciB+PiByb3V0ZXMgfj4gY2hlY2sgewogICAgICAgIHN0YXR1cyBzaG91bGRCZSBTdGF0dXNDb2Rlcy5PSwogICAgICAgIHZlcmlmeShncm91cFNlcnZpY2UpLmRlbGV0ZShhbnlbR3JvdXBJZF0pKGFueVtBdXRoSW5mb10pCiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBncm91cDFJZCA9IGNsaWVudC5hZGRHcm91cChuZXdHcm91cDEpLmZ1dHVyZVZhbHVlCg==</text>
+        <text encoding="base64">c2Vuc2libGUuZ3JvdXBzLnVybCIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2Vuc2libGUuZ3JvdXBzLnVybCA9ICJodHRwOi8vbG9jYWxob3N0OjkwOTkiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgYXV0aAo=</text>
+        <text encoding="base64">ICAgIHZhbCBncm91cDFJZCA9IGNsaWVudC5hZGRHcm91cChuZXdHcm91cDEpLmZ1dHVyZVZhbHVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgYXV0aAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgQXV0aFN1cHBvcnQgewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5zY2FsYWRzbC51bm1hcnNoYWxsaW5nLlVubWFyc2hhbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5qYXZhZHNsLm1vZGVsLlN0YXR1c0NvZGVzCg==</text>
+        <text encoding="base64">Y2xhc3MgQXV0aFN1cHBvcnQgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdoZW5SZWFkeShyZXF1ZXN0KSB7IHJlc3BvbnNlID0+CiAgICAgIHJlc3BvbnNlLnN0YXR1cyBzaG91bGRCZSBTdGF0dXNDb2Rlcy5PSwogICAgICB2YWwgcCA9IFVubWFyc2hhbChyZXNwb25zZS5lbnRpdHkpLnRvW01lc3NhZ2VdLmZ1dHVyZVZhbHVlCiAgICAgIHAubWVzc2FnZSBzaG91bGRCZSAiT0siCiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5zY2FsYWRzbC51bm1hcnNoYWxsaW5nLlVubWFyc2hhbAo=</text>
       </register>
       <register name=":" type="4">
         <text>6</text>
