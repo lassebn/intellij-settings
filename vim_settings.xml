@@ -107,7 +107,6 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.leoilab/sensible-groups-client_2.12/srcs/sensible-groups-client_2.12-0.1.1-sources.jar!/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1518709907077" />
       <file name="$USER_HOME$/Source/platform-permissions-prototype/permissions-prototype/src/main/scala/example/UsersService.scala" timestamp="1516267465776">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="57" />
@@ -960,6 +959,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1518770997609" />
       <file name="$USER_HOME$/Source/images3/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503565055763">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="54" />
@@ -1855,7 +1855,7 @@
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="/sbtShell" timestamp="1518524443935">
+      <file name="/sbtShell" timestamp="1518771274029">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/testkit/src/main/scala/com/leoilab/testkit/AuthSupport.scala" timestamp="1503561827606">
