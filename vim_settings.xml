@@ -792,11 +792,11 @@
         <mark key="." line="86" column="69" />
         <mark key="^" line="86" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1519042438551">
-        <mark key="[" line="99" column="66" />
-        <mark key="]" line="99" column="57" />
-        <mark key="^" line="99" column="57" />
-        <mark key="." line="99" column="57" />
+      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1519056694546">
+        <mark key="[" line="100" column="55" />
+        <mark key="]" line="100" column="56" />
+        <mark key="^" line="100" column="57" />
+        <mark key="." line="100" column="56" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
         <mark key="[" line="21" column="0" />
@@ -951,7 +951,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1518770997609" />
       <file name="$USER_HOME$/Source/images3/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503565055763">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="54" />
@@ -1444,11 +1443,11 @@
         <mark key="." line="283" column="35" />
         <mark key="^" line="283" column="35" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/it/resources/application.conf" timestamp="1518710426760">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="29" />
-        <mark key="." line="0" column="29" />
-        <mark key="^" line="0" column="29" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/it/resources/application.conf" timestamp="1519056709218">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/.idea/modules/platform-users-client.iml" timestamp="1507191656077">
         <mark key="[" line="21" column="38" />
@@ -2102,8 +2101,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2Vuc2libGUgewo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <keys>
