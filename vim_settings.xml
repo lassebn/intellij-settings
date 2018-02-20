@@ -251,11 +251,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="22" column="78" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRepository.scala" timestamp="1519118637741">
-        <mark key="[" line="24" column="55" />
-        <mark key="]" line="41" column="65" />
-        <mark key="." line="41" column="65" />
-        <mark key="^" line="41" column="65" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRepository.scala" timestamp="1519120666602">
+        <mark key="[" line="70" column="35" />
+        <mark key="]" line="70" column="40" />
+        <mark key="." line="70" column="40" />
+        <mark key="^" line="70" column="40" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UsersExceptionHandler.scala" timestamp="1505462140915">
         <mark key="[" line="36" column="0" />
@@ -443,8 +443,8 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupService.scala" timestamp="1518696620467">
-        <mark key="[" line="15" column="68" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupService.scala" timestamp="1519119803681">
+        <mark key="[" line="14" column="55" />
         <mark key="]" line="15" column="71" />
         <mark key="^" line="15" column="71" />
         <mark key="." line="15" column="71" />
@@ -1008,6 +1008,12 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupRepositoryPropSpec.scala" timestamp="1519121085266">
+        <mark key="[" line="26" column="98" />
+        <mark key="]" line="26" column="103" />
+        <mark key="^" line="26" column="103" />
+        <mark key="." line="26" column="103" />
+      </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ProductRepositorySpec.scala" timestamp="1508499335390">
         <mark key="[" line="107" column="36" />
         <mark key="]" line="107" column="41" />
@@ -1106,6 +1112,12 @@
         <mark key="." line="43" column="69" />
         <mark key="^" line="43" column="69" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/core/src/main/scala/com/leoilab/sensible/groups/Group.scala" timestamp="1519120519921">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="51" />
+        <mark key="^" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/README.md" timestamp="1500275037303">
         <mark key="[" line="10" column="2" />
         <mark key="]" line="11" column="96" />
@@ -1166,8 +1178,10 @@
         <mark key="^" line="18" column="80" />
         <mark key="." line="18" column="80" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRoutes.scala" timestamp="1519118576459">
-        <mark key="[" line="71" column="48" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRoutes.scala" timestamp="1519120540771">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImagePropertiesRepositorySpec.scala" timestamp="1503392372417">
         <mark key="[" line="68" column="50" />
@@ -1798,6 +1812,11 @@
         <mark key="^" line="42" column="4" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupRoutesSpec.scala" timestamp="1519120784406">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/concurrent/Execution.scala" timestamp="1503927682223">
         <mark key="[" line="6" column="79" />
         <mark key="]" line="6" column="77" />
@@ -2116,7 +2135,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmlkLkdyb3VwSWQue0dyb3VwSWRKc29uRm9ybWF0ID0+IGxvY2FsTmFtZUhlcmVXaWxsRml4SXR9Cg==</text>
+        <text encoding="base64">aW1wb3J0IEdyb3VwSnNvblByb3RvY29sLl8K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4748,34 +4767,34 @@
         <text encoding="base64">aW1wb3J0IGFra2EuYWN0b3IuQWN0b3JTeXN0ZW0KaW1wb3J0IGFra2EuaHR0cC5zY2FsYWRzbC5IdHRwCmltcG9ydCBha2thLmh0dHAuc2NhbGFkc2wubWFyc2hhbGxlcnMuc3ByYXlqc29uLlNwcmF5SnNvblN1cHBvcnQKaW1wb3J0IGFra2EuaHR0cC5zY2FsYWRzbC5tYXJzaGFsbGluZy5NYXJzaGFsCmltcG9ydCBha2thLmh0dHAuc2NhbGFkc2wubW9kZWwue0h0dHBSZXF1ZXN0LCBffQppbXBvcnQgYWtrYS5odHRwLnNjYWxhZHNsLnVubWFyc2hhbGxpbmcuVW5tYXJzaGFsCmltcG9ydCBha2thLnN0cmVhbS5BY3Rvck1hdGVyaWFsaXplcgppbXBvcnQgY29tLmxlb2lsYWIuYXV0aC5BY2Nlc3NUb2tlbgppbXBvcnQgY29tLmxlb2lsYWIuY29uY3VycmVudC5TcGVjaWFsRXhlY3V0aW9uVGFjdGljcwppbXBvcnQgY29tLmxlb2lsYWIuaWQue0NsaWVudElkLCBHcm91cElkfQppbXBvcnQgY29tLmxlb2lsYWIucmVzdC5BcGlFcnJvcgppbXBvcnQgY29tLmxlb2lsYWIuc2Vuc2libGUuZ3JvdXBzLmNsaWVudC5FeGNlcHRpb25zLntBY2Nlc3NUb2tlbkV4cGlyZWRFeGNlcHRpb24sIEFwaUVycm9yRXhjZXB0aW9uLCBHcm91cFdpdGhvdXRQYXJlbnRFeGNlcHRpb24sIFVuZXhwZWN0ZWRHcm91cHNSZXNwb25zZUV4Y2VwdGlvbn0KaW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLmdyb3Vwcy5tb2RlbC5Hcm91cAppbXBvcnQgY29tLnR5cGVzYWZlLmNvbmZpZy57Q29uZmlnLCBDb25maWdGYWN0b3J5fQppbXBvcnQgY29tLnR5cGVzYWZlLnNjYWxhbG9nZ2luZy5TdHJpY3RMb2dnaW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmlkLkdyb3VwSWQue0dyb3VwSWRKc29uRm9ybWF0ID0+IGxvY2FsTmFtZUhlcmVXaWxsRml4SXR9Cg==</text>
+        <text encoding="base64">aW1wb3J0IEdyb3VwSnNvblByb3RvY29sLl8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggU3ByYXlKc29uU3VwcG9ydAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5zY2FsYWRzbC5tYXJzaGFsbGVycy5zcHJheWpzb24uU3ByYXlKc29uU3VwcG9ydAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5zY2FsYWRzbC5tb2RlbC57SHR0cFJlcXVlc3QsIF99Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNwcmF5Lmpzb24uXwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNwcmF5Lmpzb24uRGVmYXVsdEpzb25Qcm90b2NvbC5fCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmlkLkdyb3VwSWQue0dyb3VwSWRKc29uRm9ybWF0ID0+IGxvY2FsTmFtZUhlcmVXaWxsRml4SXR9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5zY2FsYWxvZ2dpbmcuU3RyaWN0TG9nZ2luZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5jb25maWcue0NvbmZpZywgQ29uZmlnRmFjdG9yeX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnJlc3QuQXBpRXJyb3IK</text>
+        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5zY2FsYWRzbC5tb2RlbC57SHR0cFJlcXVlc3QsIF99Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmlkLntDbGllbnRJZCwgR3JvdXBJZH0K</text>
+        <text encoding="base64">aW1wb3J0IHNwcmF5Lmpzb24uRGVmYXVsdEpzb25Qcm90b2NvbC5fCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
