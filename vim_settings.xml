@@ -779,6 +779,12 @@
         <mark key="^" line="16" column="11" />
         <mark key="." line="16" column="11" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/core/src/main/scala/com/leoilab/sensible/groups/CreateGroupDTO.scala" timestamp="1519116187630">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/src/main/scala/com/leoilab/datawarehouse/ades/ConfigLog.scala" timestamp="1500461629437">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="29" />
@@ -791,11 +797,11 @@
         <mark key="." line="86" column="69" />
         <mark key="^" line="86" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1519114828345">
-        <mark key="[" line="49" column="4" />
-        <mark key="]" line="49" column="2" />
-        <mark key="." line="49" column="2" />
-        <mark key="^" line="49" column="2" />
+      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1519116282904">
+        <mark key="[" line="130" column="3" />
+        <mark key="]" line="132" column="16" />
+        <mark key="^" line="132" column="16" />
+        <mark key="." line="132" column="16" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
         <mark key="[" line="21" column="0" />
@@ -1058,6 +1064,11 @@
       </file>
       <file name="/Dummy.scala" timestamp="1518790913842">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/Group.scala" timestamp="1519115951908">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/project/TestHelper.scala" timestamp="1510034398481">
         <mark key="[" line="140" column="24" />
@@ -2096,7 +2107,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4719,7 +4730,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>&quot;com.leoilab&quot; %% &quot;platform-commons-id&quot; % commonsV</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
@@ -4728,34 +4739,34 @@
         <text encoding="base64">ICBpc1NuYXBzaG90IDo9IGZhbHNlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uIDo9ICIxLjQzLjQiCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc29sdmVycyArKz0gU2VxKAogICAgICBSZXNvbHZlci51cmwoIkxlbyBpbGFiIGl2eSBzbmFwc2hvdHMiLCB1cmwobGVvU25hcHNob3RzKSkoUmVzb2x2ZXIuaXZ5U3R5bGVQYXR0ZXJucyksCiAgICAgIFJlc29sdmVyLnVybCgiTGVvIGlsYWIgaXZ5IHJlbGVhc2VzIiwgdXJsKGxlb1JlbGVhc2VzKSkoUmVzb2x2ZXIuaXZ5U3R5bGVQYXR0ZXJucykKICAgICksCg==</text>
+        <text encoding="base64">bGF6eSB2YWwgY29tbW9uRGVwZW5kZW5jaWVzID0gU2VxKAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNjYWxhY09wdGlvbnMgKys9IFNlcSgiLWZlYXR1cmUiLCAiLWxhbmd1YWdlOnBvc3RmaXhPcHMiKSwK</text>
+        <text encoding="base64">ICAgICAgdmFsIGNvbW1vbnNWID0gIjEuNDIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpc1NuYXBzaG90IDo9IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAiY29tLmxlb2lsYWIiICUlICJwbGF0Zm9ybS1jb21tb25zLWlkIiAlIGNvbW1vbnNWLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaXNoQXJ0aWZhY3QgOj0gZmFsc2UsCiAgcHVibGlzaFRvIDo9IHsKICAgIGlmIChpc1NuYXBzaG90LnZhbHVlKQogICAgICBTb21lKFJlc29sdmVyLnVybCgic25hcHNob3RzIiwgdXJsKGxlb1NuYXBzaG90cykpKFJlc29sdmVyLml2eVN0eWxlUGF0dGVybnMpKQogICAgZWxzZQogICAgICBTb21lKFJlc29sdmVyLnVybCgicmVsZWFzZXMiLCB1cmwobGVvUmVsZWFzZXMpKShSZXNvbHZlci5pdnlTdHlsZVBhdHRlcm5zKSkKICB9LAogIHB1Ymxpc2hNYXZlblN0eWxlIDo9IGZhbHNlLAo=</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyBDcmVhdGVHcm91cChpZDogR3JvdXBJZCwgbmFtZTogT3B0aW9uW1N0cmluZ10pCm9iamVjdCBDcmVhdGVHcm91cCBleHRlbmRzIERlZmF1bHRKc29uUHJvdG9jb2wgewogIGltcGxpY2l0IHZhbCBjcmVhdGVHcm91cEZvcm1hdCA9IGpzb25Gb3JtYXQyKENyZWF0ZUdyb3VwLmFwcGx5KQogIGltcGxpY2l0IHZhbCBjcmVhdGVHcm91cExpc3RGb3JtYXQgPSBsaXN0Rm9ybWF0KGNyZWF0ZUdyb3VwRm9ybWF0KQp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2Vuc2libGUgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICB2ZXJzaW9uIDo9ICIxLjQzLjQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
