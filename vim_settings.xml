@@ -179,7 +179,6 @@
         <mark key="^" line="55" column="16" />
         <mark key="." line="55" column="16" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/docker-compose.yml" timestamp="1518788543253" />
       <file name="$USER_HOME$/Source/platform-images/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503487992585">
         <mark key="[" line="37" column="81" />
         <mark key="]" line="37" column="83" />
@@ -793,10 +792,10 @@
         <mark key="^" line="86" column="69" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1519056694546">
-        <mark key="[" line="100" column="55" />
-        <mark key="]" line="100" column="56" />
-        <mark key="^" line="100" column="57" />
-        <mark key="." line="100" column="56" />
+        <mark key="[" line="56" column="55" />
+        <mark key="]" line="56" column="56" />
+        <mark key="^" line="56" column="57" />
+        <mark key="." line="56" column="56" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
         <mark key="[" line="21" column="0" />
@@ -951,6 +950,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1519112637474" />
       <file name="$USER_HOME$/Source/images3/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503565055763">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="54" />
@@ -1154,12 +1154,6 @@
         <mark key="]" line="18" column="80" />
         <mark key="^" line="18" column="80" />
         <mark key="." line="18" column="80" />
-      </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRoutes.scala" timestamp="1519041185615">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImagePropertiesRepositorySpec.scala" timestamp="1503392372417">
         <mark key="[" line="68" column="50" />
@@ -1844,7 +1838,7 @@
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="/sbtShell" timestamp="1518790037555">
+      <file name="/sbtShell" timestamp="1519112836600">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/testkit/src/main/scala/com/leoilab/testkit/AuthSupport.scala" timestamp="1503561827606">
