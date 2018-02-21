@@ -558,9 +558,6 @@
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/project/plugins.sbt" timestamp="1519222728260">
         <mark key="[" line="11" column="54" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Source/WufooExporterTest/requirements.txt" timestamp="1506580783043">
         <mark key="[" line="0" column="17" />
@@ -814,11 +811,11 @@
         <mark key="." line="86" column="69" />
         <mark key="^" line="86" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1519222461701">
-        <mark key="[" line="57" column="73" />
-        <mark key="]" line="58" column="25" />
-        <mark key="." line="58" column="25" />
-        <mark key="^" line="58" column="25" />
+      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1519224117909">
+        <mark key="[" line="156" column="58" />
+        <mark key="]" line="156" column="66" />
+        <mark key="." line="156" column="66" />
+        <mark key="^" line="156" column="66" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
         <mark key="[" line="21" column="0" />
@@ -2161,7 +2158,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb3ZlcmFnZUVuYWJsZWQgOj0gZmFsc2UK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4793,34 +4790,34 @@
         <text>CreateGroupDTO(id = GroupId.generate, None), GroupId.generate)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb3ZlcmFnZUVuYWJsZWQgOj0gZmFsc2UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NvdmVyYWdlIiAlICJzYnQtc2NvdmVyYWdlIiAlICIxLjUuMSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NvdmVyYWdlIiAlICJzYnQtc2NvdmVyYWdlIiAlICIxLjUuMSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y292ZXJhZ2UK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAib3JnLnNjb3ZlcmFnZSIgJSUgInNjYWxhYy1zY292ZXJhZ2UtcnVudGltZSIgJSAiMS4zLjEiCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLmdyb3Vwcy5tb2RlbC57R3JvdXAgPT4gQ2xpZW50R3JvdXB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBbGxvdyBpbXBsaWNpdCBjb252ZXJzaW9ucwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y292ZXJhZ2UK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAib3JnLnNjb3ZlcmFnZSIgJSUgInNjYWxhYy1zY292ZXJhZ2UtcnVudGltZSIgJSAiMS4zLjEiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLmdyb3Vwcy5tb2RlbC57R3JvdXAgPT4gQ2xpZW50R3JvdXB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBBbGxvdyBpbXBsaWNpdCBjb252ZXJzaW9ucwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNjYWxhY09wdGlvbnMgKys9IFNlcSgiLWZlYXR1cmUiLCAiLWxhbmd1YWdlOnBvc3RmaXhPcHMiLCAiLWxhbmd1YWdlOmltcGxpY2l0Q29udmVyc2lvbnMiKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
