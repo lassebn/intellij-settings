@@ -238,11 +238,10 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/ListAllGroupsIntegrationTest.scala" timestamp="1519225982639">
-        <mark key="[" line="41" column="35" />
-        <mark key="]" line="41" column="55" />
-        <mark key="." line="41" column="55" />
-        <mark key="^" line="41" column="55" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/ListAllGroupsIntegrationTest.scala" timestamp="1519228346785">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/it/scala/DriverIntegrationTest.scala" timestamp="1505723589488">
         <mark key="[" line="152" column="47" />
@@ -394,6 +393,7 @@
         <mark key="^" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/db/migration/V2__Initial_client_user_groups.sql" timestamp="1519228223194" />
       <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/rest/DateTimeJsonProtocol.scala" timestamp="1504857979022">
         <mark key="[" line="3" column="47" />
         <mark key="]" line="3" column="39" />
@@ -2162,8 +2162,8 @@
       <jump line="44" column="22" filename="$USER_HOME$/Source/sensible-groups/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SNAPSHOT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGdyb3Vwcy5sZW5ndGggc2hvdWxkIGJlID4gNAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4795,34 +4795,34 @@
         <text>CreateGroupDTO(id = GroupId.generate, None), GroupId.generate)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGdyb3Vwcy5sZW5ndGggc2hvdWxkIGJlID4gNAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCBvYmplY3QgRW5yaWNoZWRDcmVhdGVHcm91cERUTyB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb3ZlcmFnZUVuYWJsZWQgOj0gZmFsc2UK</text>
+        <text encoding="base64">ICBpbXBsaWNpdCBvYmplY3QgRW5yaWNoZWRDcmVhdGVHcm91cERUTyB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb3ZlcmFnZUVuYWJsZWQgOj0gZmFsc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NvdmVyYWdlIiAlICJzYnQtc2NvdmVyYWdlIiAlICIxLjUuMSIpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NvdmVyYWdlIiAlICJzYnQtc2NvdmVyYWdlIiAlICIxLjUuMSIpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y292ZXJhZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAib3JnLnNjb3ZlcmFnZSIgJSUgInNjYWxhYy1zY292ZXJhZ2UtcnVudGltZSIgJSAiMS4zLjEiCg==</text>
+        <text encoding="base64">Y292ZXJhZ2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLmdyb3Vwcy5tb2RlbC57R3JvdXAgPT4gQ2xpZW50R3JvdXB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAib3JnLnNjb3ZlcmFnZSIgJSUgInNjYWxhYy1zY292ZXJhZ2UtcnVudGltZSIgJSAiMS4zLjEiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
