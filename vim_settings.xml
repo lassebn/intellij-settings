@@ -533,6 +533,12 @@
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/README.md" timestamp="1519208867913">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="49" />
+        <mark key="." line="42" column="49" />
+        <mark key="^" line="42" column="49" />
+      </file>
       <file name="$USER_HOME$/Source/studies-and-me/README.md" timestamp="1504792033390">
         <mark key="[" line="4" column="115" />
         <mark key="]" line="4" column="115" />
@@ -793,6 +799,13 @@
         <mark key="]" line="86" column="69" />
         <mark key="." line="86" column="69" />
         <mark key="^" line="86" column="69" />
+      </file>
+      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1519208775371">
+        <mark key="'" line="45" column="22" />
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="45" column="33" />
+        <mark key="." line="45" column="33" />
+        <mark key="^" line="45" column="33" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
         <mark key="[" line="21" column="0" />
@@ -1872,7 +1885,7 @@
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="/sbtShell" timestamp="1519145375399">
+      <file name="/sbtShell" timestamp="1519208259952">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/testkit/src/main/scala/com/leoilab/testkit/AuthSupport.scala" timestamp="1503561827606">
@@ -2027,7 +2040,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
       <jump line="145" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
       <jump line="85" column="45" filename="$USER_HOME$/Source/klikkit-backend/project/project/TestHelper.scala" />
       <jump line="95" column="163" filename="$USER_HOME$/Source/klikkit-backend/project/project/TestHelper.scala" />
@@ -2127,10 +2139,11 @@
       <jump line="61" column="6" filename="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" />
       <jump line="5" column="15" filename="$USER_HOME$/Source/tree-mysql/src/main/scala/example/GroupService.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" />
+      <jump line="44" column="22" filename="$USER_HOME$/Source/sensible-groups/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">XSwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4753,7 +4766,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">XSwg</text>
+        <text>&quot;1.1.0&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
@@ -4768,28 +4781,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIEdyb3VwV2l0aG91dFBhcmVudEV4Y2VwdGlvbigpIGV4dGVuZHMgUnVudGltZUV4Y2VwdGlvbigiWW91IGNhbm5vdCBhZGQgYSBncm91cCB3aXRob3V0IGEgcGFyZW50IikK</text>
+        <text encoding="base64">IyMjIDEuMC4wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChncm91cC5wYXJlbnQuaXNFbXB0eSkgdGhyb3cgbmV3IEdyb3VwV2l0aG91dFBhcmVudEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">KiBGaXJzdCByZWxlYXNlLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QubW9ja2l0by5Nb2NraXRvU3VnYXIK</text>
+        <text encoding="base64">ICAgICAgdmVyc2lvbiA6PSAiMC4xLjAtU05BUFNIT1QiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLmdyb3Vwcy5tb2RlbC5Hcm91cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLmdyb3Vwcy5tb2RlbC5Hcm91cAo=</text>
+        <text encoding="base64">ICBjYXNlIGNsYXNzIEdyb3VwV2l0aG91dFBhcmVudEV4Y2VwdGlvbigpIGV4dGVuZHMgUnVudGltZUV4Y2VwdGlvbigiWW91IGNhbm5vdCBhZGQgYSBncm91cCB3aXRob3V0IGEgcGFyZW50IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChncm91cC5wYXJlbnQuaXNFbXB0eSkgdGhyb3cgbmV3IEdyb3VwV2l0aG91dFBhcmVudEV4Y2VwdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFsIGNvbW1vbnNWID0gIjEuNDIiCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QubW9ja2l0by5Nb2NraXRvU3VnYXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLmdyb3Vwcy5tb2RlbC5Hcm91cAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
