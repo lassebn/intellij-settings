@@ -810,10 +810,10 @@
         <mark key="." line="86" column="69" />
         <mark key="^" line="86" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1519226093076">
-        <mark key="[" line="156" column="58" />
-        <mark key="]" line="156" column="58" />
-        <mark key="." line="156" column="58" />
+      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1519293923698">
+        <mark key="[" line="156" column="55" />
+        <mark key="]" line="156" column="56" />
+        <mark key="." line="156" column="56" />
         <mark key="^" line="156" column="66" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
@@ -969,7 +969,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1519204746848" />
       <file name="$USER_HOME$/Source/images3/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503565055763">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="54" />
@@ -1844,6 +1843,12 @@
         <mark key="^" line="6" column="77" />
         <mark key="." line="6" column="77" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/ListDescendantsIntegrationTest.scala" timestamp="1519293909363">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="35" />
+        <mark key="." line="22" column="35" />
+        <mark key="^" line="22" column="35" />
+      </file>
       <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/commons/auth/AccessToken.scala" timestamp="1518094069817">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="4" column="0" />
@@ -2156,7 +2161,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdyb3Vwcy5sZW5ndGggc2hvdWxkIGJlID4gNAo=</text>
+        <text encoding="base64">ICBpdCBzaG91bGQgImxpc3QgYWxsIGdyb3VwcyBhZGRlZCIgaW4gewogICAgdmFsIGNsaWVudCA9IG5ldyBHcm91cHNDbGllbnQoKQogICAgdmFsIHJvb3ROb2RlID0gY2xpZW50LmdldFJvb3RHcm91cCgpLmZ1dHVyZVZhbHVlCiAgICB2YWwgdGVzdFJvb3QgPSBDcmVhdGVHcm91cERUTyhHcm91cElkLmdlbmVyYXRlLCBTb21lKCJsaXN0IHJvb3QiKSkKICAgIHZhbCBuZXdHcm91cDEgPSBDcmVhdGVHcm91cERUTyhHcm91cElkLmdlbmVyYXRlLCBTb21lKCJsZXZlbCAxIikpCiAgICB2YWwgbmV3R3JvdXAyID0gQ3JlYXRlR3JvdXBEVE8oR3JvdXBJZC5nZW5lcmF0ZSwgU29tZSgibGV2ZWwgMiIpKQoKICAgIGNsaWVudC5hZGRHcm91cCh0ZXN0Um9vdCwgcm9vdE5vZGUuaWQpLmZ1dHVyZVZhbHVlCiAgICBjbGllbnQuYWRkR3JvdXAobmV3R3JvdXAxLCB0ZXN0Um9vdC5pZCkuZnV0dXJlVmFsdWUKICAgIGNsaWVudC5hZGRHcm91cChuZXdHcm91cDIsIG5ld0dyb3VwMS5pZCkuZnV0dXJlVmFsdWUKCiAgICB2YWwgZ3JvdXBzID0gY2xpZW50Lmxpc3RHcm91cHMoKS5mdXR1cmVWYWx1ZQogICAgZ3JvdXBzIHNob3VsZCBjb250YWluKHRlc3RSb290LnRvR3JvdXAocm9vdE5vZGUuaWQpKQogICAgZ3JvdXBzIHNob3VsZCBjb250YWluKHJvb3ROb2RlKQogICAgZ3JvdXBzIHNob3VsZCBjb250YWluKG5ld0dyb3VwMS50b0dyb3VwKHRlc3RSb290LmlkKSkKICAgIGdyb3VwcyBzaG91bGQgY29udGFpbihuZXdHcm91cDIudG9Hcm91cChuZXdHcm91cDEuaWQpKQogIH0K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4788,34 +4793,34 @@
         <text>CreateGroupDTO(id = GroupId.generate, None), GroupId.generate)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdyb3Vwcy5sZW5ndGggc2hvdWxkIGJlID4gNAo=</text>
+        <text encoding="base64">ICBpdCBzaG91bGQgImxpc3QgYWxsIGdyb3VwcyBhZGRlZCIgaW4gewogICAgdmFsIGNsaWVudCA9IG5ldyBHcm91cHNDbGllbnQoKQogICAgdmFsIHJvb3ROb2RlID0gY2xpZW50LmdldFJvb3RHcm91cCgpLmZ1dHVyZVZhbHVlCiAgICB2YWwgdGVzdFJvb3QgPSBDcmVhdGVHcm91cERUTyhHcm91cElkLmdlbmVyYXRlLCBTb21lKCJsaXN0IHJvb3QiKSkKICAgIHZhbCBuZXdHcm91cDEgPSBDcmVhdGVHcm91cERUTyhHcm91cElkLmdlbmVyYXRlLCBTb21lKCJsZXZlbCAxIikpCiAgICB2YWwgbmV3R3JvdXAyID0gQ3JlYXRlR3JvdXBEVE8oR3JvdXBJZC5nZW5lcmF0ZSwgU29tZSgibGV2ZWwgMiIpKQoKICAgIGNsaWVudC5hZGRHcm91cCh0ZXN0Um9vdCwgcm9vdE5vZGUuaWQpLmZ1dHVyZVZhbHVlCiAgICBjbGllbnQuYWRkR3JvdXAobmV3R3JvdXAxLCB0ZXN0Um9vdC5pZCkuZnV0dXJlVmFsdWUKICAgIGNsaWVudC5hZGRHcm91cChuZXdHcm91cDIsIG5ld0dyb3VwMS5pZCkuZnV0dXJlVmFsdWUKCiAgICB2YWwgZ3JvdXBzID0gY2xpZW50Lmxpc3RHcm91cHMoKS5mdXR1cmVWYWx1ZQogICAgZ3JvdXBzIHNob3VsZCBjb250YWluKHRlc3RSb290LnRvR3JvdXAocm9vdE5vZGUuaWQpKQogICAgZ3JvdXBzIHNob3VsZCBjb250YWluKHJvb3ROb2RlKQogICAgZ3JvdXBzIHNob3VsZCBjb250YWluKG5ld0dyb3VwMS50b0dyb3VwKHRlc3RSb290LmlkKSkKICAgIGdyb3VwcyBzaG91bGQgY29udGFpbihuZXdHcm91cDIudG9Hcm91cChuZXdHcm91cDEuaWQpKQogIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGdyb3Vwcy5sZW5ndGggc2hvdWxkIGJlID4gNAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCBvYmplY3QgRW5yaWNoZWRDcmVhdGVHcm91cERUTyB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb3ZlcmFnZUVuYWJsZWQgOj0gZmFsc2UK</text>
+        <text encoding="base64">ICBpbXBsaWNpdCBvYmplY3QgRW5yaWNoZWRDcmVhdGVHcm91cERUTyB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb3ZlcmFnZUVuYWJsZWQgOj0gZmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NvdmVyYWdlIiAlICJzYnQtc2NvdmVyYWdlIiAlICIxLjUuMSIpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NvdmVyYWdlIiAlICJzYnQtc2NvdmVyYWdlIiAlICIxLjUuMSIpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y292ZXJhZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAib3JnLnNjb3ZlcmFnZSIgJSUgInNjYWxhYy1zY292ZXJhZ2UtcnVudGltZSIgJSAiMS4zLjEiCg==</text>
+        <text encoding="base64">Y292ZXJhZ2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
