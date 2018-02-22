@@ -810,10 +810,10 @@
         <mark key="." line="86" column="69" />
         <mark key="^" line="86" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1519293923698">
-        <mark key="[" line="156" column="55" />
-        <mark key="]" line="156" column="56" />
-        <mark key="." line="156" column="56" />
+      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1519299643592">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="34" />
         <mark key="^" line="156" column="66" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
