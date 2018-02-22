@@ -393,7 +393,6 @@
         <mark key="^" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/db/migration/V2__Initial_client_user_groups.sql" timestamp="1519228223194" />
       <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/rest/DateTimeJsonProtocol.scala" timestamp="1504857979022">
         <mark key="[" line="3" column="47" />
         <mark key="]" line="3" column="39" />
@@ -983,7 +982,7 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1519207471412">
+      <file name="/fragment.java" timestamp="1519293210829">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
