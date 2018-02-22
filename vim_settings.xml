@@ -1051,11 +1051,11 @@
         <mark key="." line="56" column="53" />
         <mark key="^" line="56" column="53" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/ListAncestorsIntegrationTest.scala" timestamp="1519302112643">
-        <mark key="[" line="49" column="52" />
-        <mark key="]" line="49" column="53" />
-        <mark key="." line="49" column="53" />
-        <mark key="^" line="53" column="40" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/ListAncestorsIntegrationTest.scala" timestamp="1519313514165">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
       </file>
       <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/MutableInMemoryGroupService.scala" timestamp="1517232902428">
         <mark key="[" line="2" column="31" />
