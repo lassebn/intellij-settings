@@ -537,11 +537,11 @@
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/README.md" timestamp="1519208867913">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="49" />
-        <mark key="." line="42" column="49" />
-        <mark key="^" line="42" column="49" />
+      <file name="$USER_HOME$/Source/sensible-groups/README.md" timestamp="1519379117338">
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="41" column="52" />
+        <mark key="." line="41" column="52" />
+        <mark key="^" line="41" column="52" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/README.md" timestamp="1504792033390">
         <mark key="[" line="4" column="115" />
@@ -810,7 +810,7 @@
         <mark key="." line="86" column="69" />
         <mark key="^" line="86" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1519299643592">
+      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1519379061425">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="34" />
