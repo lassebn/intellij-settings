@@ -1850,11 +1850,11 @@
         <mark key="^" line="6" column="77" />
         <mark key="." line="6" column="77" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/ListDescendantsIntegrationTest.scala" timestamp="1519295546138">
-        <mark key="[" line="53" column="40" />
-        <mark key="]" line="53" column="40" />
-        <mark key="." line="53" column="40" />
-        <mark key="^" line="35" column="40" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/ListDescendantsIntegrationTest.scala" timestamp="1519377365648">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="28" column="40" />
       </file>
       <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/commons/auth/AccessToken.scala" timestamp="1518094069817">
         <mark key="[" line="0" column="41" />
@@ -2167,8 +2167,8 @@
       <jump line="44" column="22" filename="$USER_HOME$/Source/sensible-groups/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>testRoot</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4791,13 +4791,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>testRoot</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBjaGlsZDJBbmNlc3RvcnMgPSBjbGllbnQubGlzdEFuY2VzdG9ycyhjaGlsZDIuaWQpLmZ1dHVyZVZhbHVlCiAgICBjaGlsZDJBbmNlc3RvcnMuc2l6ZSBzaG91bGRCZSAyCiAgICBjaGlsZDJBbmNlc3RvcnMgc2hvdWxkIGNvbnRhaW4ocm9vdE5vZGUuaWQpCiAgICBjaGlsZDJBbmNlc3RvcnMgc2hvdWxkIGNvbnRhaW4odGVzdFJvb3QuaWQpCg==</text>
+      <register name="0" type="4">
+        <text>&quot;The groups service&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4806,31 +4806,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpdCBzaG91bGQgImxpc3Qgbm8gZm9yIGEgbmV3bHkgYWRkZWQgZ3JvdXAiIGluIHsKICAgIHZhbCBjbGllbnQgPSBuZXcgR3JvdXBzQ2xpZW50KCkKICAgIHZhbCByb290Tm9kZSA9IGNsaWVudC5nZXRSb290R3JvdXAoKS5mdXR1cmVWYWx1ZQoKICAgIHZhbCBncm91cElkID0gR3JvdXBJZC5nZW5lcmF0ZQogICAgY2xpZW50LmFkZEdyb3VwKENyZWF0ZUdyb3VwRFRPKGdyb3VwSWQsIFNvbWUoInRlc3Qtcm9vdCIpKSwgcm9vdE5vZGUuaWQpLmZ1dHVyZVZhbHVlCiAgICB2YWwgZGVzY2VuZGFudHMgPSBjbGllbnQubGlzdERlc2NlbmRhbnRzKGdyb3VwSWQpLmZ1dHVyZVZhbHVlCiAgICBkZXNjZW5kYW50cyBzaG91bGRCZSBlbXB0eQogIH0K</text>
+        <text encoding="base64">ICAiVGhlIGdyb3VwcyBzZXJ2aWNlIiBzaG91bGQgImxpc3QgZGVzY2VuZGFudHMgb2YgdGhlIHJvb3QgZ3JvdXAiIGluIHsKICAgIHZhbCBjbGllbnQgPSBuZXcgR3JvdXBzQ2xpZW50KCkKICAgIHZhbCByb290Tm9kZSA9IGNsaWVudC5nZXRSb290R3JvdXAoKS5mdXR1cmVWYWx1ZQogICAgdmFsIGRlc2NlbmRhbnRzID0gY2xpZW50Lmxpc3REZXNjZW5kYW50cyhyb290Tm9kZS5pZCkuZnV0dXJlVmFsdWUKICAgIGRlc2NlbmRhbnRzLnNpemUgc2hvdWxkIGJlID4gbnVtYmVyT2ZIYXJkY29kZWROb2RlcwogIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Z2VuZXJhdGUKICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwK</text>
+        <text encoding="base64">ICBpdCBzaG91bGQgImxpc3Qgbm8gZm9yIGEgbmV3bHkgYWRkZWQgZ3JvdXAiIGluIHsKICAgIHZhbCBjbGllbnQgPSBuZXcgR3JvdXBzQ2xpZW50KCkKICAgIHZhbCByb290Tm9kZSA9IGNsaWVudC5nZXRSb290R3JvdXAoKS5mdXR1cmVWYWx1ZQoKICAgIHZhbCBncm91cElkID0gR3JvdXBJZC5nZW5lcmF0ZQogICAgY2xpZW50LmFkZEdyb3VwKENyZWF0ZUdyb3VwRFRPKGdyb3VwSWQsIFNvbWUoInRlc3Qtcm9vdCIpKSwgcm9vdE5vZGUuaWQpLmZ1dHVyZVZhbHVlCiAgICB2YWwgZGVzY2VuZGFudHMgPSBjbGllbnQubGlzdERlc2NlbmRhbnRzKGdyb3VwSWQpLmZ1dHVyZVZhbHVlCiAgICBkZXNjZW5kYW50cyBzaG91bGRCZSBlbXB0eQogIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgbnVtYmVyT2ZIYXJkY29kZWROb2RlcyA9IDI0Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Z2VuZXJhdGUKICAgIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmlkLntDbGllbnRJZCwgR3JvdXBJZH0K</text>
+        <text encoding="base64">ICB2YWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdyb3VwcyBzaG91bGQgY29udGFpbihyb290Tm9kZSkK</text>
+        <text encoding="base64">ICB2YWwgbnVtYmVyT2ZIYXJkY29kZWROb2RlcyA9IDI0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgY2xpZW50SWQgPSBDbGllbnRJZCgicGxhdGZvcm0iKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmlkLntDbGllbnRJZCwgR3JvdXBJZH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgY2xpZW50SWQgPSBDbGllbnRJZCgicGxhdGZvcm0iKQo=</text>
+        <text encoding="base64">ICAgIGdyb3VwcyBzaG91bGQgY29udGFpbihyb290Tm9kZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -4872,12 +4872,12 @@
         <entry>106</entry>
         <entry>58</entry>
         <entry>122</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL05vZGVJZC9UL2c=</entry>
         <entry encoding="base64">JzwsJz5zL05vZGUvTm9kZVtUXS9n</entry>
         <entry>W</entry>
         <entry>6</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
