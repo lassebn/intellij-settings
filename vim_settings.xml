@@ -447,6 +447,9 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="6" column="38" />
       </file>
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/requirements.txt" timestamp="1519634226067">
+        <mark key="[" line="7" column="13" />
+      </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupService.scala" timestamp="1519401282978">
         <mark key="[" line="37" column="29" />
         <mark key="]" line="37" column="35" />
@@ -632,6 +635,12 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/task/shopify-to-warehouse.py" timestamp="1519635299947">
+        <mark key="[" line="482" column="60" />
+        <mark key="]" line="483" column="24" />
+        <mark key="^" line="483" column="24" />
+        <mark key="." line="483" column="24" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/identity/FacebookIdentityService.scala" timestamp="1499178850101">
         <mark key="[" line="79" column="30" />
@@ -1952,6 +1961,12 @@
         <mark key="]" line="45" column="88" />
         <mark key="^" line="45" column="88" />
         <mark key="." line="45" column="88" />
+      </file>
+      <file name="$USER_HOME$/Source/datawarehouse-helloskin/test.py" timestamp="1519635241545">
+        <mark key="[" line="6" column="146" />
+        <mark key="]" line="6" column="145" />
+        <mark key="^" line="6" column="145" />
+        <mark key="." line="6" column="145" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/scripts/docker/runapp.sh" timestamp="1507545305805">
         <mark key="[" line="2" column="21" />
