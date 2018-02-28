@@ -377,6 +377,7 @@
         <mark key="^" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/db/migration/V2__Initial_client_user_groups.sql" timestamp="1519812128754" />
       <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/rest/DateTimeJsonProtocol.scala" timestamp="1504857979022">
         <mark key="[" line="3" column="47" />
         <mark key="]" line="3" column="39" />
@@ -803,10 +804,10 @@
         <mark key="^" line="86" column="69" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1519748078350">
-        <mark key="[" line="158" column="68" />
-        <mark key="]" line="158" column="57" />
-        <mark key="." line="158" column="57" />
-        <mark key="^" line="158" column="57" />
+        <mark key="[" line="0" column="68" />
+        <mark key="]" line="0" column="57" />
+        <mark key="." line="0" column="57" />
+        <mark key="^" line="0" column="57" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
         <mark key="[" line="21" column="0" />
@@ -910,8 +911,10 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519645516641">
+      <file name="/Dummy.txt" timestamp="1519812060337">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
         <mark key="[" line="68" column="183" />
@@ -1657,7 +1660,6 @@
         <mark key="." line="42" column="2" />
         <mark key="^" line="42" column="2" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/AuthorizationIntegrationTest.scala" timestamp="1519746129777" />
       <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationFacebookHelper.scala" timestamp="1495446817772">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="13" column="25" />
