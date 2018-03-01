@@ -173,6 +173,7 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/db/migration/V1__Initial_version.sql" timestamp="1519898466597" />
       <file name="$USER_HOME$/Source/platform-graphql/docker-compose.yml" timestamp="1509545048559">
         <mark key="[" line="55" column="21" />
         <mark key="]" line="55" column="16" />
@@ -377,7 +378,9 @@
         <mark key="^" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/db/migration/V2__Initial_client_user_groups.sql" timestamp="1519812128754" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/db/migration/V2__Initial_client_user_groups.sql" timestamp="1519898388066">
+        <mark key="[" line="0" column="96" />
+      </file>
       <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/rest/DateTimeJsonProtocol.scala" timestamp="1504857979022">
         <mark key="[" line="3" column="47" />
         <mark key="]" line="3" column="39" />
