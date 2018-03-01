@@ -1244,11 +1244,11 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1507562299737">
-        <mark key="[" line="148" column="19" />
-        <mark key="]" line="148" column="19" />
-        <mark key="." line="148" column="19" />
-        <mark key="^" line="147" column="18" />
+      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1519909193222">
+        <mark key="[" line="76" column="23" />
+        <mark key="]" line="76" column="37" />
+        <mark key="." line="76" column="37" />
+        <mark key="^" line="76" column="37" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/FunUnitTestSupport.scala" timestamp="1508224186142">
         <mark key="[" line="2" column="26" />
@@ -2171,8 +2171,8 @@
       <jump line="44" column="22" filename="$USER_HOME$/Source/sensible-groups/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBVc2UgbmV3ZXIgY2xpZW50IGFuZCB2ZXJpZnkgYXV0aAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">VGhpc0J1aWxkIA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4795,7 +4795,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Unit</text>
+        <text encoding="base64">VGhpc0J1aWxkIA==</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
