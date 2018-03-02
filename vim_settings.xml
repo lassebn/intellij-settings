@@ -257,11 +257,11 @@
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1520006028620">
-        <mark key="[" line="62" column="17" />
-        <mark key="]" line="62" column="18" />
-        <mark key="^" line="114" column="46" />
-        <mark key="." line="62" column="18" />
+      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1520012686267">
+        <mark key="[" line="62" column="27" />
+        <mark key="]" line="118" column="35" />
+        <mark key="^" line="118" column="35" />
+        <mark key="." line="118" column="35" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiPropertiesFuncSpec.scala" timestamp="1502974694801">
         <mark key="[" line="66" column="117" />
@@ -1174,11 +1174,11 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/circle.yml" timestamp="1520009685142">
-        <mark key="[" line="39" column="55" />
-        <mark key="]" line="39" column="50" />
-        <mark key="^" line="39" column="50" />
-        <mark key="." line="39" column="50" />
+      <file name="$USER_HOME$/Source/platform-images/circle.yml" timestamp="1520012137056">
+        <mark key="[" line="41" column="11" />
+        <mark key="]" line="41" column="19" />
+        <mark key="^" line="41" column="19" />
+        <mark key="." line="41" column="19" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
@@ -2230,7 +2230,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>deleting collections, collectionproperties and collectionimages only marks them as deleted</text>
+        <text>true</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4853,13 +4853,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>deleting collections, collectionproperties and collectionimages only marks them as deleted</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMgMS40NAogKiBBUEkKICAgICogZGVsZXRpbmcgY29sbGVjdGlvbnMsIGNvbGxlY3Rpb25wcm9wZXJ0aWVzIGFuZCBjb2xsZWN0aW9uaW1hZ2VzIG9ubHkgbWFya3MgdGhlbSBhcyBkZWxldGVkCg==</text>
+        <text encoding="base64">ICAuc2V0dGluZ3MocHVibGlzaEFydGlmYWN0IDo9IHRydWUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIC0gc2J0IHB1Ymxpc2gK</text>
