@@ -1174,11 +1174,11 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/circle.yml" timestamp="1520007553104">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
+      <file name="$USER_HOME$/Source/platform-images/circle.yml" timestamp="1520009685142">
+        <mark key="[" line="39" column="55" />
+        <mark key="]" line="39" column="50" />
         <mark key="^" line="39" column="50" />
-        <mark key="." line="40" column="0" />
+        <mark key="." line="39" column="50" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
