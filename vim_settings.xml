@@ -311,6 +311,12 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="30" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/README.md" timestamp="1519995820384">
+        <mark key="[" line="63" column="4" />
+        <mark key="]" line="63" column="31" />
+        <mark key="." line="63" column="31" />
+        <mark key="^" line="63" column="31" />
+      </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/resources/cf-ssl-task-definition-initial.json" timestamp="1507703434866">
         <mark key="[" line="15" column="5" />
         <mark key="]" line="15" column="20" />
@@ -1252,6 +1258,12 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="9" column="15" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1519995770440">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="16" column="26" />
+        <mark key="^" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+      </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/FunUnitTestSupport.scala" timestamp="1508224186142">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="27" />
@@ -2177,8 +2189,8 @@
       <jump line="44" column="22" filename="$USER_HOME$/Source/sensible-groups/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YWwga2xpa2tpdEFwaVYzID0gc2NhbGEudXRpbC5Qcm9wZXJ0aWVzLmVudk9yRWxzZSgiS0xJS0tJVF9BUElfVjMiLCAiaHR0cDovL2xvY2FsaG9zdDoxMDgwIikK</text>
+      <register name="&quot;" type="4">
+        <text>Update config for helloskin-surveys and happy-insights</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4801,13 +4813,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Update config for helloskin-surveys and happy-insights</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgYXV0aG9yaXplZE9uR3JvdXAoZ3JvdXBJZDogR3JvdXBJZCkoaW1wbGljaXQgYWNjZXNzVG9rZW46IEFjY2Vzc1Rva2VuKTogRnV0dXJlW1VuaXRdID0gewogICAgZ2V0R3JvdXAoR3JvdXBUeXBlLkJhc2UudG9TdHJpbmcsIEdyb3VwT2JqZWN0VHlwZS5Vc2Vycy50b1N0cmluZywgYWNjZXNzVG9rZW4uY2xpZW50SWQpLmZsYXRNYXAgeyBjbGllbnRVc2VyR3JvdXBJZCA9PgogICAgICBpZiAoY2xpZW50VXNlckdyb3VwSWQgPT0gZ3JvdXBJZCkgewogICAgICAgIHJldHVybiBGdXR1cmUuc3VjY2Vzc2Z1bCgoKSkKICAgICAgfSBlbHNlIHsKICAgICAgICBtZW1iZXJzaGlwc0NsaWVudC5pc0F1dGhvcml6ZWQoZ3JvdXBJZCkuZmxhdE1hcCB7CiAgICAgICAgICBjYXNlIHRydWUgPT4gRnV0dXJlLnN1Y2Nlc3NmdWwoKCkpCiAgICAgICAgICBjYXNlIGZhbHNlID0+IHRocm93IG5ldyBVbmF1dGhvcml6ZWRFeGNlcHRpb24oZ3JvdXBJZCkKICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9Cg==</text>
+        <text encoding="base64">IyMgMS42Mi45CiAqIE9wZXJhdGlvbmFsCiAgICogVXBkYXRlIGNvbmZpZyBmb3IgaGVsbG9za2luLXN1cnZleXMgYW5kIGhhcHB5LWluc2lnaHRzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB2YWwga2xpa2tpdEFwaVYzID0gc2NhbGEudXRpbC5Qcm9wZXJ0aWVzLmVudk9yRWxzZSgiS0xJS0tJVF9BUElfVjMiLCAiaHR0cDovL2xvY2FsaG9zdDoxMDgwIikK</text>
