@@ -445,11 +445,11 @@
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/requirements.txt" timestamp="1519634226067">
         <mark key="[" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupService.scala" timestamp="1519911463626">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="2" />
-        <mark key="^" line="86" column="2" />
-        <mark key="." line="86" column="2" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupService.scala" timestamp="1520258113594">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="100" column="2" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1503486879920">
         <mark key="[" line="40" column="59" />
@@ -535,10 +535,10 @@
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/README.md" timestamp="1519897149840">
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="40" column="9" />
-        <mark key="." line="40" column="9" />
+      <file name="$USER_HOME$/Source/sensible-groups/README.md" timestamp="1520258006258">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/README.md" timestamp="1504792033390">
         <mark key="[" line="4" column="115" />
@@ -813,10 +813,11 @@
         <mark key="." line="86" column="69" />
         <mark key="^" line="86" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1519897248764">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1520258142839">
+        <mark key="[" line="158" column="56" />
+        <mark key="]" line="158" column="56" />
+        <mark key="." line="158" column="56" />
+        <mark key="^" line="158" column="56" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
         <mark key="[" line="21" column="0" />
@@ -2228,7 +2229,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBIYW5kbGUgNDAzIEZvcmJpZGRlbgo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBGaXggYnVnOiBhbHdheXMgZmxhdE1hcAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4860,34 +4861,34 @@
         <text encoding="base64">IyMjIDAuOS4wCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBIYW5kbGUgNDAzIEZvcmJpZGRlbgo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBGaXggYnVnOiBhbHdheXMgZmxhdE1hcAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAqIFByb3ZpZGUgYXBpIGZvciBhZGRpbmcgYSAgZ3JvdXAgdG8gdGhlIHNwZWNpYWwgYmFzZSB1c2VycyBncm91cCBieSBjbGllbnQgaWQgYW5kIHdpdGhvdXQgbWVtYmVyc2hpcHMgcGVybWlzc2lvbiBjaGVjawo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBfIDwtIGxpc3REZXNjZW5kYW50cyhncm91cElkKS5tYXAgeyBkZXNjZW5kYW50cyA9Pgo9PT09PT09Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBCdW1wIHZlcnNpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBIYW5kbGUgNDAzIEZvcmJpZGRlbgo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECmltcG9ydCBjb20ubGVvaWxhYi5zZW5zaWJsZS5ncm91cHMuY2xpZW50LkV4Y2VwdGlvbnMue0FjY2Vzc1Rva2VuRXhwaXJlZEV4Y2VwdGlvbiwgQXBpRXJyb3JFeGNlcHRpb24sIFVuZXhwZWN0ZWRHcm91cHNSZXNwb25zZUV4Y2VwdGlvbn0KaW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLmdyb3Vwcy57Q3JlYXRlR3JvdXBEVE8sIEdyb3VwLCBHcm91cE9iamVjdFR5cGUsIEdyb3VwVHlwZX0KPT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBCdW1wIHZlcnNpb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIC0gc2J0IHB1Ymxpc2gK</text>
+        <text encoding="base64">dmFsIHNlbnNpYmxlR3JvdXBzVmVyc2lvbiA9ICIxLjMuMyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICAtIHNidCAtRGVudmlyb25tZW50VmFyaWFibGVzPW1lbWJlcnNoaXBzLWFwaS1wcm9kdWN0aW9uLnltbCBkZXBsb3kK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gLi9lY3MtZGVwbG95L25naW54L2J1aWxkLnNoCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
