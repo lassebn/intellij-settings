@@ -771,11 +771,11 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupServiceSpec.scala" timestamp="1518704377319">
-        <mark key="[" line="65" column="57" />
-        <mark key="]" line="65" column="58" />
-        <mark key="^" line="65" column="58" />
-        <mark key="." line="65" column="58" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupServiceSpec.scala" timestamp="1520258790380">
+        <mark key="[" line="121" column="42" />
+        <mark key="]" line="121" column="54" />
+        <mark key="^" line="121" column="54" />
+        <mark key="." line="121" column="54" />
       </file>
       <file name="$USER_HOME$/Source/platform-memberships/README.md" timestamp="1512633809764">
         <mark key="[" line="13" column="7" />
@@ -2058,11 +2058,11 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/DeleteGroupsIntegrationTest.scala" timestamp="1519747646599">
-        <mark key="[" line="90" column="29" />
-        <mark key="]" line="91" column="47" />
-        <mark key="^" line="91" column="47" />
-        <mark key="." line="91" column="47" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/DeleteGroupsIntegrationTest.scala" timestamp="1520259392239">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+        <mark key="." line="15" column="21" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/config/ConfigValues.scala" timestamp="1504858775520">
         <mark key="[" line="7" column="0" />
@@ -2228,8 +2228,8 @@
       <jump line="44" column="22" filename="$USER_HOME$/Source/sensible-groups/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBGaXggYnVnOiBhbHdheXMgZmxhdE1hcAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QXV0aFN1cHBvcnQg</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4852,7 +4852,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">QXV0aFN1cHBvcnQg</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
@@ -4861,34 +4861,34 @@
         <text encoding="base64">IyMjIDAuOS4wCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBGaXggYnVnOiBhbHdheXMgZmxhdE1hcAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnRlc3RraXQuQXV0aFN1cHBvcnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBfIDwtIGxpc3REZXNjZW5kYW50cyhncm91cElkKS5tYXAgeyBkZXNjZW5kYW50cyA9Pgo9PT09PT09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBGaXggYnVnOiBhbHdheXMgZmxhdE1hcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBCdW1wIHZlcnNpb24K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBfIDwtIGxpc3REZXNjZW5kYW50cyhncm91cElkKS5tYXAgeyBkZXNjZW5kYW50cyA9Pgo9PT09PT09Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiBCdW1wIHZlcnNpb24K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dmFsIHNlbnNpYmxlR3JvdXBzVmVyc2lvbiA9ICIxLjMuMyIK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBCdW1wIHZlcnNpb24K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dmFsIHNlbnNpYmxlR3JvdXBzVmVyc2lvbiA9ICIxLjMuMyIK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
