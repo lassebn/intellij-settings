@@ -813,11 +813,11 @@
         <mark key="." line="86" column="69" />
         <mark key="^" line="86" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1520258142839">
-        <mark key="[" line="158" column="56" />
-        <mark key="]" line="158" column="56" />
-        <mark key="." line="158" column="56" />
-        <mark key="^" line="158" column="56" />
+      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1520322958148">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="114" column="63" />
+        <mark key="." line="114" column="63" />
+        <mark key="^" line="114" column="63" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
         <mark key="[" line="21" column="0" />
@@ -2058,7 +2058,7 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/DeleteGroupsIntegrationTest.scala" timestamp="1520259392239">
+      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/DeleteGroupsIntegrationTest.scala" timestamp="1520322546172">
         <mark key="[" line="15" column="9" />
         <mark key="]" line="15" column="21" />
         <mark key="^" line="15" column="21" />
@@ -2228,8 +2228,8 @@
       <jump line="44" column="22" filename="$USER_HOME$/Source/sensible-groups/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">QXV0aFN1cHBvcnQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhcmFsbGVsRXhlY3V0aW9uIGluIFRlc3QgOj0gZmFsc2UsCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4861,34 +4861,34 @@
         <text encoding="base64">IyMjIDAuOS4wCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnRlc3RraXQuQXV0aFN1cHBvcnQK</text>
+        <text encoding="base64">ICAgIHBhcmFsbGVsRXhlY3V0aW9uIGluIFRlc3QgOj0gZmFsc2UsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBGaXggYnVnOiBhbHdheXMgZmxhdE1hcAo=</text>
+        <text encoding="base64">ICAgIHBhcmFsbGVsRXhlY3V0aW9uIGluIEludGVncmF0aW9uVGVzdCA6PSBmYWxzZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBfIDwtIGxpc3REZXNjZW5kYW50cyhncm91cElkKS5tYXAgeyBkZXNjZW5kYW50cyA9Pgo9PT09PT09Cg==</text>
+        <text encoding="base64">ICAgIFBhcmFsbGVsVGVzdEV4ZWN1dGlvbiA6PSBmYWxzZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBCdW1wIHZlcnNpb24K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnRlc3RraXQuQXV0aFN1cHBvcnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBGaXggYnVnOiBhbHdheXMgZmxhdE1hcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBfIDwtIGxpc3REZXNjZW5kYW50cyhncm91cElkKS5tYXAgeyBkZXNjZW5kYW50cyA9Pgo9PT09PT09Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiBCdW1wIHZlcnNpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFsIHNlbnNpYmxlR3JvdXBzVmVyc2lvbiA9ICIxLjMuMyIK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
