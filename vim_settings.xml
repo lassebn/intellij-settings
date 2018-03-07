@@ -41,6 +41,11 @@
         <mark key="^" line="27" column="59" />
         <mark key="." line="27" column="41" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/SensibleUserGroupManagementTest.scala" timestamp="1520434000665">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/cfn.json" timestamp="1500362573713">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="51" />
@@ -315,10 +320,10 @@
         <mark key="." line="20" column="30" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/README.md" timestamp="1519995820384">
-        <mark key="[" line="63" column="4" />
-        <mark key="]" line="63" column="31" />
-        <mark key="." line="63" column="31" />
-        <mark key="^" line="63" column="31" />
+        <mark key="[" line="70" column="4" />
+        <mark key="]" line="70" column="31" />
+        <mark key="." line="70" column="31" />
+        <mark key="^" line="70" column="31" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/resources/cf-ssl-task-definition-initial.json" timestamp="1507703434866">
         <mark key="[" line="15" column="5" />
@@ -924,7 +929,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520429183437">
+      <file name="/Dummy.txt" timestamp="1520433751205">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -1916,11 +1921,6 @@
         <mark key="." line="24" column="49" />
         <mark key="^" line="24" column="49" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1519994622387">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageServiceFuncSpec.scala" timestamp="1503564982107">
         <mark key="[" line="68" column="28" />
         <mark key="]" line="68" column="52" />
@@ -2042,6 +2042,10 @@
         <mark key="]" line="3" column="28" />
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" timestamp="1520433741458">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="112" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/users/UserPropertiesService.scala" timestamp="1510138117587">
         <mark key="[" line="9" column="0" />
@@ -2237,8 +2241,8 @@
       <jump line="44" column="22" filename="$USER_HOME$/Source/sensible-groups/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>project</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4861,43 +4865,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>project</text>
+        <text>&quot;Sensible group management&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMjIDEuNC4zCiAgICAqIE1vdmUgY29yZSBzdWJtb2R1bGUgdG8gY2xpZW50IHByb2plY3QK</text>
+        <text encoding="base64">ICAgIGV4ZWN1dGUocyJVUERBVEUgZmVhdHVyZXMgU0VUIGVuYWJsZWQ9ZmFsc2UgV0hFUkUgbmFtZT0nJHtGZWF0dXJlTmFtZS5VU0VfR1JPVVBTX1NFUlZJQ0VfRk9SX1BFUk1JU1NJT05TfSc7IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRnV0dXJlCg==</text>
+        <text encoding="base64">ICAiVGVzdCIgc2hvdWxkICJwYXNzIiBpbiB7CiAgICAKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocyJMaW5lcyAkbGluZXMiKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocyJQcm9jZXNzaW5nIGxpbmUgJG1hbmlmZXN0TGluZXMiKQo=</text>
+        <text encoding="base64">ICAiU2Vuc2liZSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocyJQcm9jZXNzaW5nIGZpbGUgJHVybCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRnV0dXJlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHVrLmdvdi5obXJjLmdpdHN0YW1wLkdpdFN0YW1wUGx1Z2luLl8K</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocyJMaW5lcyAkbGluZXMiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNlcSggZ2l0U3RhbXBTZXR0aW5nczogXyogKSwK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocyJQcm9jZXNzaW5nIGxpbmUgJG1hbmlmZXN0TGluZXMiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocyJQcm9jZXNzaW5nIGZpbGUgJHVybCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
