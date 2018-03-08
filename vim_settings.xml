@@ -41,10 +41,11 @@
         <mark key="^" line="27" column="59" />
         <mark key="." line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/SensibleUserGroupManagementTest.scala" timestamp="1520434000665">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/SensibleUserGroupManagementTest.scala" timestamp="1520436928702">
+        <mark key="[" line="29" column="62" />
+        <mark key="]" line="29" column="66" />
+        <mark key="." line="29" column="66" />
+        <mark key="^" line="29" column="66" />
       </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/cfn.json" timestamp="1500362573713">
         <mark key="[" line="5" column="7" />
@@ -75,6 +76,12 @@
         <mark key="]" line="48" column="50" />
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="50" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" timestamp="1520437459901">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="21" column="148" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiActivitiesSpec.scala" timestamp="1509447437106">
         <mark key="[" line="83" column="167" />
@@ -929,7 +936,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520433751205">
+      <file name="/Dummy.txt" timestamp="1520437102134">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -1001,7 +1008,7 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1519379782155">
+      <file name="/fragment.java" timestamp="1520436976550">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
@@ -2242,7 +2249,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHVzZXJHcm91cERlc2NlbmRhbnRzIHNob3VsZEJlIGVtcHR5CiAgICB1c2VyR3JvdXBBbmNlc3RvcnMgc2hvdWxkIGNvbnRhaW4ocm9vdEdyb3VwSWQpCiAgICB1c2VyR3JvdXBBbmNlc3RvcnMgc2hvdWxkIGNvbnRhaW4oY2xpZW50U3BlY2lmaWNVc2Vyc0dyb3VwLmhlYWQpCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4865,7 +4872,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;Sensible group management&quot;</text>
+        <text>userLoginResponse.auth.accessToken</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
@@ -4874,37 +4881,37 @@
         <text encoding="base64">ICAgIGV4ZWN1dGUocyJVUERBVEUgZmVhdHVyZXMgU0VUIGVuYWJsZWQ9ZmFsc2UgV0hFUkUgbmFtZT0nJHtGZWF0dXJlTmFtZS5VU0VfR1JPVVBTX1NFUlZJQ0VfRk9SX1BFUk1JU1NJT05TfSc7IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHVzZXJHcm91cERlc2NlbmRhbnRzIHNob3VsZEJlIGVtcHR5CiAgICB1c2VyR3JvdXBBbmNlc3RvcnMgc2hvdWxkIGNvbnRhaW4ocm9vdEdyb3VwSWQpCiAgICB1c2VyR3JvdXBBbmNlc3RvcnMgc2hvdWxkIGNvbnRhaW4oY2xpZW50U3BlY2lmaWNVc2Vyc0dyb3VwLmhlYWQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiVGVzdCIgc2hvdWxkICJwYXNzIiBpbiB7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB1c2VyR3JvdXBBbmNlc3RvcnMgPSBncm91cHNDbGllbnQubGlzdEFuY2VzdG9ycyh1c2VyR3JvdXBJZCkuZnV0dXJlVmFsdWUKICAgIHZhbCB1c2VyR3JvdXBEZXNjZW5kYW50cyA9IGdyb3Vwc0NsaWVudC5saXN0RGVzY2VuZGFudHModXNlckdyb3VwSWQpLmZ1dHVyZVZhbHVlCiAgICB2YWwgcm9vdEdyb3VwSWQgPSBncm91cHNDbGllbnQuZ2V0Um9vdEdyb3VwKCkuZnV0dXJlVmFsdWUuaWQKICAgIHZhbCBjbGllbnRTcGVjaWZpY1VzZXJzR3JvdXAgPSBncm91cHNDbGllbnQuZ2V0R3JvdXAoR3JvdXBUeXBlLkJhc2UsIEdyb3VwT2JqZWN0VHlwZS5Vc2VycykuZnV0dXJlVmFsdWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGV4ZWN1dGUocyJVUERBVEUgZmVhdHVyZXMgU0VUIGVuYWJsZWQ9ZmFsc2UgV0hFUkUgbmFtZT0nJHtGZWF0dXJlTmFtZS5VU0VfR1JPVVBTX1NFUlZJQ0VfRk9SX1BFUk1JU1NJT05TfSc7IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiU2Vuc2liZSIK</text>
+        <text encoding="base64">ICAgIGV4ZWN1dGUocyJVUERBVEUgZmVhdHVyZXMgU0VUIGVuYWJsZWQ9dHJ1ZSBXSEVSRSBuYW1lPScke0ZlYXR1cmVOYW1lLlVTRV9HUk9VUFNfU0VSVklDRV9GT1JfUEVSTUlTU0lPTlN9JzsiKQogICAgdmFsIG5ld1VzZXJEVE8gPSByYW5kb21DcmVhdGVVc2VyRFRPCiAgICB2YWwgdXNlckxvZ2luUmVzcG9uc2UgPSBjbGllbnQuY3JlYXRlVXNlcihuZXdVc2VyRFRPKS5mdXR1cmVWYWx1ZQogICAgdmFsIHVzZXJHcm91cElkID0gdXNlckxvZ2luUmVzcG9uc2UudXNlci5ncm91cElkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRnV0dXJlCg==</text>
+        <text encoding="base64">ICAiVGVzdCIgc2hvdWxkICJwYXNzIiBpbiB7CiAgICAKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocyJMaW5lcyAkbGluZXMiKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocyJQcm9jZXNzaW5nIGxpbmUgJG1hbmlmZXN0TGluZXMiKQo=</text>
+        <text encoding="base64">ICAiU2Vuc2liZSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocyJQcm9jZXNzaW5nIGZpbGUgJHVybCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>159</text>
+        <text>1111</text>
       </register>
     </registers>
     <search>
@@ -4932,7 +4939,6 @@
         <entry>Node</entry>
       </history-search>
       <history-cmd>
-        <entry>118</entry>
         <entry>194</entry>
         <entry>294</entry>
         <entry>39</entry>
@@ -4952,6 +4958,7 @@
         <entry>w</entry>
         <entry>wq</entry>
         <entry>159</entry>
+        <entry>1111</entry>
       </history-cmd>
       <history-expr />
       <history-input />
