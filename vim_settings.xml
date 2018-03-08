@@ -35,6 +35,12 @@
         <mark key="^" line="30" column="52" />
         <mark key="." line="30" column="52" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/GetGroupsIntegrationTest.scala" timestamp="1520497315196">
+        <mark key="[" line="38" column="6" />
+        <mark key="]" line="38" column="28" />
+        <mark key="^" line="38" column="28" />
+        <mark key="." line="38" column="28" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/Makefile" timestamp="1504524040877">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="41" />
@@ -107,11 +113,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/build.sbt" timestamp="1520239978510">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="21" />
+      <file name="$USER_HOME$/Source/sensible-group-client/build.sbt" timestamp="1520495505585">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="6" column="28" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/images/ImagesApi.scala" timestamp="1503999505064">
         <mark key="[" line="2" column="27" />
@@ -281,8 +287,11 @@
         <mark key="^" line="66" column="120" />
         <mark key="." line="66" column="120" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1520239900882">
-        <mark key="^" line="98" column="119" />
+      <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1520496990430">
+        <mark key="[" line="78" column="113" />
+        <mark key="]" line="78" column="116" />
+        <mark key="^" line="78" column="116" />
+        <mark key="." line="78" column="116" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/raml/api.raml" timestamp="1509444348524">
         <mark key="[" line="274" column="0" />
@@ -457,11 +466,11 @@
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/requirements.txt" timestamp="1519634226067">
         <mark key="[" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupService.scala" timestamp="1520258113594">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="100" column="2" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupService.scala" timestamp="1520496042310">
+        <mark key="[" line="57" column="31" />
+        <mark key="]" line="57" column="46" />
+        <mark key="^" line="57" column="46" />
+        <mark key="." line="57" column="46" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1503486879920">
         <mark key="[" line="40" column="59" />
@@ -828,11 +837,11 @@
         <mark key="." line="86" column="69" />
         <mark key="^" line="86" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1520429358171">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-        <mark key="^" line="3" column="49" />
+      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1520496562369">
+        <mark key="[" line="141" column="58" />
+        <mark key="]" line="141" column="65" />
+        <mark key="." line="141" column="65" />
+        <mark key="^" line="141" column="65" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
         <mark key="[" line="21" column="0" />
@@ -936,7 +945,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520437102134">
+      <file name="/Dummy.txt" timestamp="1520496128773">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -989,7 +998,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1520239854718" />
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/klikkit/KlikkitApi.scala" timestamp="1519994592576">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -1112,6 +1120,12 @@
         <mark key="]" line="138" column="36" />
         <mark key="^" line="138" column="36" />
         <mark key="." line="138" column="36" />
+      </file>
+      <file name="$USER_HOME$/Source/sensible-group-client/core/src/main/scala/com/leoilab/sensible/groups/GroupObjectType.scala" timestamp="1520495398375">
+        <mark key="[" line="3" column="51" />
+        <mark key="]" line="4" column="50" />
+        <mark key="^" line="4" column="50" />
+        <mark key="." line="4" column="50" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/GenericPropertiesService.scala" timestamp="1503399842065">
         <mark key="[" line="21" column="0" />
@@ -1541,10 +1555,11 @@
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/src/test/scala/com/leoilab/sensible/groups/client/GroupsClientSpec.scala" timestamp="1519896335111">
-        <mark key="[" line="368" column="0" />
-        <mark key="]" line="368" column="0" />
-        <mark key="." line="368" column="0" />
+      <file name="$USER_HOME$/Source/sensible-group-client/src/test/scala/com/leoilab/sensible/groups/client/GroupsClientSpec.scala" timestamp="1520497128240">
+        <mark key="[" line="319" column="100" />
+        <mark key="]" line="319" column="109" />
+        <mark key="." line="319" column="109" />
+        <mark key="^" line="319" column="109" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/.idea/modules/platform-users-client.iml" timestamp="1507191656077">
         <mark key="[" line="21" column="38" />
@@ -1880,11 +1895,11 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/README.md" timestamp="1520239956890">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Source/sensible-group-client/README.md" timestamp="1520497019318">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="24" column="54" />
+        <mark key="^" line="24" column="54" />
+        <mark key="." line="24" column="54" />
       </file>
       <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/utils/FlywayService.scala" timestamp="1517210498027">
         <mark key="[" line="1" column="0" />
@@ -1981,7 +1996,7 @@
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="/sbtShell" timestamp="1520239878674">
+      <file name="/sbtShell" timestamp="1520495356790">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/testkit/src/main/scala/com/leoilab/testkit/AuthSupport.scala" timestamp="1503561827606">
@@ -2248,8 +2263,8 @@
       <jump line="44" column="22" filename="$USER_HOME$/Source/sensible-groups/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVzZXJHcm91cERlc2NlbmRhbnRzIHNob3VsZEJlIGVtcHR5CiAgICB1c2VyR3JvdXBBbmNlc3RvcnMgc2hvdWxkIGNvbnRhaW4ocm9vdEdyb3VwSWQpCiAgICB1c2VyR3JvdXBBbmNlc3RvcnMgc2hvdWxkIGNvbnRhaW4oY2xpZW50U3BlY2lmaWNVc2Vyc0dyb3VwLmhlYWQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>toString</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4872,13 +4887,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>userLoginResponse.auth.accessToken</text>
+        <text>toString</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGUocyJVUERBVEUgZmVhdHVyZXMgU0VUIGVuYWJsZWQ9ZmFsc2UgV0hFUkUgbmFtZT0nJHtGZWF0dXJlTmFtZS5VU0VfR1JPVVBTX1NFUlZJQ0VfRk9SX1BFUk1JU1NJT05TfSc7IikK</text>
+        <text encoding="base64">IyMjIDAuMTEuMAogICogVXBkYXRlIDQwNCBOb3QgRm91bmQgdG8gdGhyb3cgTm90Rm91bmRFeGNlcHRpb24K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHVzZXJHcm91cERlc2NlbmRhbnRzIHNob3VsZEJlIGVtcHR5CiAgICB1c2VyR3JvdXBBbmNlc3RvcnMgc2hvdWxkIGNvbnRhaW4ocm9vdEdyb3VwSWQpCiAgICB1c2VyR3JvdXBBbmNlc3RvcnMgc2hvdWxkIGNvbnRhaW4oY2xpZW50U3BlY2lmaWNVc2Vyc0dyb3VwLmhlYWQpCg==</text>
