@@ -47,11 +47,11 @@
         <mark key="^" line="27" column="59" />
         <mark key="." line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/SensibleUserGroupManagementTest.scala" timestamp="1520436928702">
-        <mark key="[" line="29" column="62" />
-        <mark key="]" line="29" column="66" />
-        <mark key="." line="29" column="66" />
-        <mark key="^" line="29" column="66" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/SensibleUserGroupManagementTest.scala" timestamp="1520590881182">
+        <mark key="[" line="29" column="67" />
+        <mark key="]" line="29" column="61" />
+        <mark key="." line="29" column="61" />
+        <mark key="^" line="29" column="61" />
       </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/cfn.json" timestamp="1500362573713">
         <mark key="[" line="5" column="7" />
@@ -83,11 +83,11 @@
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="50" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" timestamp="1520589417740">
-        <mark key="[" line="27" column="53" />
-        <mark key="]" line="18" column="37" />
-        <mark key="." line="18" column="37" />
-        <mark key="^" line="18" column="37" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" timestamp="1520591187889">
+        <mark key="[" line="23" column="121" />
+        <mark key="]" line="23" column="128" />
+        <mark key="." line="23" column="128" />
+        <mark key="^" line="23" column="128" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiActivitiesSpec.scala" timestamp="1509447437106">
         <mark key="[" line="83" column="167" />
@@ -179,7 +179,6 @@
         <mark key="." line="40" column="38" />
         <mark key="^" line="40" column="38" />
       </file>
-      <file name="$USER_HOME$/.ivy2/local/com.leoilab/sensible-groups-client_2.12/0.12.0-SNAPSHOT/srcs/sensible-groups-client_2.12-sources.jar!/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1520587762271" />
       <file name="$USER_HOME$/Source/studies-and-me/src/test/scala/com/leoilab/studiesandme/FunctionalSpec.scala" timestamp="1498466262265">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="27" />
@@ -998,6 +997,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1520590213159" />
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/klikkit/KlikkitApi.scala" timestamp="1519994592576">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -1350,9 +1350,6 @@
         <mark key="]" line="32" column="43" />
         <mark key="." line="34" column="43" />
         <mark key="^" line="32" column="43" />
-      </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.leoilab/platform-commons-id_2.12/srcs/platform-commons-id_2.12-1.42-sources.jar!/leoilab/id/GroupId.scala" timestamp="1520515158978">
-        <mark key="i" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ReminderRepositorySpec.scala" timestamp="1508487450660">
         <mark key="[" line="150" column="23" />
@@ -2076,6 +2073,12 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" timestamp="1520591200194">
+        <mark key="[" line="43" column="114" />
+        <mark key="]" line="43" column="113" />
+        <mark key="^" line="43" column="113" />
+        <mark key="." line="43" column="113" />
+      </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/users/UserPropertiesService.scala" timestamp="1510138117587">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="59" />
@@ -2270,8 +2273,8 @@
       <jump line="44" column="22" filename="$USER_HOME$/Source/sensible-groups/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>head</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4894,7 +4897,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>baseUsersClientGroupId.head</text>
+        <text>head</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
