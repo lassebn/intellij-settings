@@ -471,11 +471,11 @@
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/requirements.txt" timestamp="1519634226067">
         <mark key="[" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupService.scala" timestamp="1520514285398">
-        <mark key="[" line="28" column="130" />
-        <mark key="]" line="28" column="116" />
-        <mark key="^" line="28" column="116" />
-        <mark key="." line="28" column="116" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupService.scala" timestamp="1520586423150">
+        <mark key="[" line="95" column="121" />
+        <mark key="]" line="96" column="66" />
+        <mark key="^" line="96" column="66" />
+        <mark key="." line="96" column="66" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1503486879920">
         <mark key="[" line="40" column="59" />
