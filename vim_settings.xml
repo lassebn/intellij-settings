@@ -1954,6 +1954,11 @@
         <mark key="." line="24" column="49" />
         <mark key="^" line="24" column="49" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1520600017085">
+        <mark key="[" line="102" column="12" />
+        <mark key="]" line="102" column="12" />
+        <mark key="." line="102" column="12" />
+      </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageServiceFuncSpec.scala" timestamp="1503564982107">
         <mark key="[" line="68" column="28" />
         <mark key="]" line="68" column="52" />
@@ -2274,7 +2279,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>head</text>
+        <text>/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4897,7 +4902,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>head</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
