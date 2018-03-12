@@ -83,11 +83,12 @@
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="50" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" timestamp="1520865858493">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="60" />
-        <mark key="." line="23" column="60" />
-        <mark key="^" line="23" column="60" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" timestamp="1520867791505">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="28" column="41" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="37" />
+        <mark key="^" line="28" column="37" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiActivitiesSpec.scala" timestamp="1509447437106">
         <mark key="[" line="83" column="167" />
@@ -2164,8 +2165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="0" filename="$USER_HOME$/Source/imagine-backend/src/it/scala/com/leoilab/imagine/ImagineApiIntegrationTest.scala" />
-      <jump line="85" column="45" filename="$USER_HOME$/Source/klikkit-backend/project/project/TestHelper.scala" />
       <jump line="95" column="163" filename="$USER_HOME$/Source/klikkit-backend/project/project/TestHelper.scala" />
       <jump line="27" column="0" filename="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImagePropertiesService.scala" />
       <jump line="14" column="0" filename="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/ImagePropertiesRepository.scala" />
@@ -2264,10 +2263,12 @@
       <jump line="5" column="15" filename="$USER_HOME$/Source/tree-mysql/src/main/scala/example/GroupService.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServiceSpec.scala" />
       <jump line="44" column="22" filename="$USER_HOME$/Source/sensible-groups/build.sbt" />
+      <jump line="15" column="4" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" />
+      <jump line="16" column="0" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>(implicit accessToken: AccessToken)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4890,13 +4891,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>(implicit accessToken: AccessToken)</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBjbGllbnRJZDogQ2xpZW50SWQgPSBDbGllbnRzLlN0dWRpZXNBbmRNZQogICAgdmFsIGFkbWluVXNlckRUTyA9IHJhbmRvbUNyZWF0ZVVzZXJEVE8KICAgIHZhbCB1c2VyTG9naW5SZXNwb25zZSA9IGNsaWVudC5jcmVhdGVVc2VyKGFkbWluVXNlckRUTykoY2xpZW50SWQpLmZ1dHVyZVZhbHVlCiAgICB2YWwgdXNlckdyb3VwSWQgPSB1c2VyTG9naW5SZXNwb25zZS51c2VyLmdyb3VwSWQKICAgIGV4ZWN1dGUocyJVUERBVEUgdXNlcnMgU0VUIGlzQWRtaW49MSBXSEVSRSBpZD0nJHt1c2VyTG9naW5SZXNwb25zZS51c2VyLmlkfSc7IikKCiAgICBpbXBsaWNpdCB2YWwgYWRtaW5BY2Nlc3NUb2tlbjogQWNjZXNzVG9rZW4gPSBjbGllbnQubG9naW4oTG9naW5SZWZyZXNoVG9rZW5EVE8odXNlckxvZ2luUmVzcG9uc2UuYXV0aC5yZWZyZXNoVG9rZW4pKShjbGllbnRJZCkuZnV0dXJlVmFsdWUuYXV0aC5hY2Nlc3NUb2tlbgogICAgdmFsIGdyb3Vwc0NsaWVudCA9IG5ldyBHcm91cHNDbGllbnQoKQoKICAgIHZhbCBzdHVkaWVzQW5kTWVCYXNlR3JvdXAgPSBncm91cHNDbGllbnQuZ2V0R3JvdXAoR3JvdXBUeXBlLkJhc2UsIEdyb3VwT2JqZWN0VHlwZS5DbGllbnQsIGNsaWVudElkKS5mdXR1cmVWYWx1ZQogICAgdmFsIGNsaW5pY3NHcm91cCA9IENyZWF0ZUdyb3VwRFRPKEdyb3VwSWQuZ2VuZXJhdGUsIFNvbWUoImNsaW5pY3MiKSkKICAgIGdyb3Vwc0NsaWVudC5hZGRHcm91cChjbGluaWNzR3JvdXAsIHN0dWRpZXNBbmRNZUJhc2VHcm91cCkuZnV0dXJlVmFsdWUKCiAgICB2YWwgbmV3Q2xpbmljID0gQ3JlYXRlR3JvdXBEVE8oR3JvdXBJZC5nZW5lcmF0ZSwgU29tZSgiY2xpbmljLTEiKSkKICAgIGdyb3Vwc0NsaWVudC5hZGRHcm91cChuZXdDbGluaWMsIGNsaW5pY3NHcm91cC5pZCkuZnV0dXJlVmFsdWUKCiAgICB2YWwgYWxsR3JvdXBzID0gZ3JvdXBzQ2xpZW50Lmxpc3RHcm91cHMoKS5mdXR1cmVWYWx1ZS5tYXAoXy5pZCkKICAgIGFsbEdyb3VwcyBzaG91bGQgY29udGFpbihzdHVkaWVzQW5kTWVCYXNlR3JvdXApCiAgICBhbGxHcm91cHMgc2hvdWxkIGNvbnRhaW4obmV3Q2xpbmljLmlkKQo=</text>
+      <register name="0" type="4">
+        <text>(implicit accessToken: AccessToken)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4905,28 +4906,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdHVkaWVzQW5kTWVCYXNlR3JvdXAgPSBncm91cHNDbGllbnQuZ2V0R3JvdXAoR3JvdXBUeXBlLkJhc2UsIEdyb3VwT2JqZWN0VHlwZS5DbGllbnQsIGNsaWVudElkKS5mdXR1cmVWYWx1ZQogICAgdmFsIGNsaW5pY3NHcm91cCA9IENyZWF0ZUdyb3VwRFRPKEdyb3VwSWQuZ2VuZXJhdGUsIFNvbWUoImNsaW5pY3MiKSkKICAgIGdyb3Vwc0NsaWVudC5hZGRHcm91cChjbGluaWNzR3JvdXAsIHN0dWRpZXNBbmRNZUJhc2VHcm91cCkuZnV0dXJlVmFsdWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpdCBzaG91bGQgInByb3ZpZGUgZnVuY3Rpb25hbGl0eSBmb3IgYXNzaWduaW5nIHBhdGllbnRzIHRvIG5ldyBjbGluaWNzIiBpbiB7Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdHVkaWVzQW5kTWVCYXNlR3JvdXAgPSBncm91cHNDbGllbnQuZ2V0R3JvdXAoR3JvdXBUeXBlLkJhc2UsIEdyb3VwT2JqZWN0VHlwZS5DbGllbnQsIGNsaWVudElkKS5mdXR1cmVWYWx1ZQogICAgdmFsIGNsaW5pY3NHcm91cCA9IENyZWF0ZUdyb3VwRFRPKEdyb3VwSWQuZ2VuZXJhdGUsIFNvbWUoImNsaW5pY3MiKSkKICAgIGdyb3Vwc0NsaWVudC5hZGRHcm91cChjbGluaWNzR3JvdXAsIHN0dWRpZXNBbmRNZUJhc2VHcm91cCkuZnV0dXJlVmFsdWUKCiAgICB2YWwgbmV3Q2xpbmljID0gQ3JlYXRlR3JvdXBEVE8oR3JvdXBJZC5nZW5lcmF0ZSwgU29tZSgiY2xpbmljLTEiKSkKICAgIGdyb3Vwc0NsaWVudC5hZGRHcm91cChuZXdDbGluaWMsIGNsaW5pY3NHcm91cC5pZCkuZnV0dXJlVmFsdWUK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpdCgid2hlbiBnZXR0aW5nIGEgc3BlY2lmaWMgZ3JvdXAiKSB7CiAgICAgICAgICBzZXR1cEdldFZlcmJWZXJpZmljYXRpb24oKQogICAgICAgICAgdmVyaWZ5Tm90Rm91bmRCZWhhdmlvdXIoKCkgPT4gZ3JvdXBDbGllbnQuZ2V0R3JvdXAoR3JvdXBJZC5nZW5lcmF0ZSkpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCBhZG1pblVzZXJEVE8gPSByYW5kb21DcmVhdGVVc2VyRFRPCiAgICB2YWwgdXNlckxvZ2luUmVzcG9uc2UgPSBjbGllbnQuY3JlYXRlVXNlcihhZG1pblVzZXJEVE8pKGNsaWVudElkKS5mdXR1cmVWYWx1ZQogICAgdmFsIHVzZXJHcm91cElkID0gdXNlckxvZ2luUmVzcG9uc2UudXNlci5ncm91cElkCiAgICBleGVjdXRlKHMiVVBEQVRFIHVzZXJzIFNFVCBpc0FkbWluPTEgV0hFUkUgaWQ9JyR7dXNlckxvZ2luUmVzcG9uc2UudXNlci5pZH0nOyIpCgogICAgLy8gTG9nIGluIGFnYWluIHRvIGdldCB0aGUgYWNjZXNzIHRva2VuIHdpdGggYWRtaW4gcmlnaHRzCiAgICBpbXBsaWNpdCB2YWwgYWRtaW5BY2Nlc3NUb2tlbjogQWNjZXNzVG9rZW4gPSBjbGllbnQubG9naW4oTG9naW5SZWZyZXNoVG9rZW5EVE8odXNlckxvZ2luUmVzcG9uc2UuYXV0aC5yZWZyZXNoVG9rZW4pKShjbGllbnRJZCkuZnV0dXJlVmFsdWUuYXV0aC5hY2Nlc3NUb2tlbgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpdCgid2hlbiBnZXR0aW5nIGEgc3BlY2lmaWMgZ3JvdXAiKSB7CiAgICAgICAgICBzZXR1cEdldFZlcmJWZXJpZmljYXRpb24oKQogICAgICAgICAgdmVyaWZ5VW5leHBlY3RlZEJlaGF2aW91cigoKSA9PiBncm91cENsaWVudC5nZXRHcm91cChHcm91cElkLmdlbmVyYXRlKSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>1111</text>
