@@ -83,10 +83,11 @@
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="50" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" timestamp="1520600944079">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" timestamp="1520865858493">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="60" />
+        <mark key="." line="23" column="60" />
+        <mark key="^" line="23" column="60" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiActivitiesSpec.scala" timestamp="1509447437106">
         <mark key="[" line="83" column="167" />
@@ -1941,7 +1942,7 @@
         <mark key="." line="24" column="49" />
         <mark key="^" line="24" column="49" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1520600017085">
+      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1520866030797">
         <mark key="[" line="102" column="12" />
         <mark key="]" line="102" column="12" />
         <mark key="." line="102" column="12" />
@@ -2266,7 +2267,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>head</text>
+        <text>/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4889,7 +4890,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>head</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
