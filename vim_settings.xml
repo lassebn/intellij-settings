@@ -1302,12 +1302,6 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1520600961420">
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="21" />
-        <mark key="^" line="21" column="29" />
-        <mark key="." line="21" column="21" />
-      </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/FunUnitTestSupport.scala" timestamp="1508224186142">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="27" />
