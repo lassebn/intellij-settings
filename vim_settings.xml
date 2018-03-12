@@ -1743,11 +1743,11 @@
         <mark key="." line="42" column="2" />
         <mark key="^" line="42" column="2" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/AuthorizationIntegrationTest.scala" timestamp="1519895658869">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/AuthorizationIntegrationTest.scala" timestamp="1520864653770">
+        <mark key="[" line="36" column="110" />
+        <mark key="]" line="36" column="110" />
+        <mark key="^" line="36" column="96" />
+        <mark key="." line="36" column="110" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationFacebookHelper.scala" timestamp="1495446817772">
         <mark key="[" line="5" column="24" />
@@ -1928,12 +1928,6 @@
         <mark key="]" line="6" column="77" />
         <mark key="^" line="6" column="77" />
         <mark key="." line="6" column="77" />
-      </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/ListDescendantsIntegrationTest.scala" timestamp="1519381673672">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="47" column="2" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="28" column="40" />
       </file>
       <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/commons/auth/AccessToken.scala" timestamp="1518094069817">
         <mark key="[" line="0" column="41" />
@@ -2272,7 +2266,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SNAPSHOT</text>
+        <text>head</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4895,7 +4889,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SNAPSHOT</text>
+        <text>head</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
