@@ -961,11 +961,11 @@
         <mark key="^" line="58" column="29" />
         <mark key="." line="58" column="29" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/features/FeaturesService.scala" timestamp="1521713182547">
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="30" column="4" />
-        <mark key="^" line="30" column="4" />
-        <mark key="." line="30" column="4" />
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/features/FeaturesService.scala" timestamp="1521718773842">
+        <mark key="[" line="26" column="6" />
+        <mark key="]" line="26" column="21" />
+        <mark key="^" line="26" column="21" />
+        <mark key="." line="26" column="21" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/nginx/build.sh" timestamp="1502805047038">
         <mark key="[" line="5" column="0" />
@@ -1881,6 +1881,12 @@
         <mark key="[" line="21" column="6" />
         <mark key="]" line="21" column="42" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/features/FeatureServiceSpec.scala" timestamp="1521718312784">
+        <mark key="[" line="40" column="50" />
+        <mark key="]" line="41" column="42" />
+        <mark key="^" line="41" column="42" />
+        <mark key="." line="41" column="42" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/FormBaselineUK.scala" timestamp="1506924964351">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="7" column="22" />
@@ -2284,8 +2290,8 @@
       <jump line="30" column="0" filename="$USER_HOME$/Source/platform-images/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4908,7 +4914,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text>images</text>
@@ -4917,34 +4923,34 @@
         <text>USE_GROUPS_SERVICE_FOR_IMAGE_UPLOAD =</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gVVNFX0dST1VQU19TRVJWSUNFX0ZPUl9JTUFHRV9VUExPQUQ9ZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICogVXBkYXRlIGFra2EgZnJvbSAyLjQuOSB0byAyLjQuMjAK</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIF8gPT4gRnV0dXJlKGZhbHNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBJbWFnZSB0ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlICJ0cnVlIiB8ICJUcnVlIiA9PiBGdXR1cmUodHJ1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECnZhbCB1c2Vyc1ZlcnNpb24gPSAiMS42NSIKdmFsIGFra2FWID0gIjIuNC45Igo9PT09PT09Cg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLmdldGVudi5mb3JFYWNoKGt2cCA9PiBsb2dnZXIuaW5mbyhzIiRrdnA6ICR2YWx1ZSIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgZmFrZUltYWdlID0gInNvbWV0aGluZy10aGF0LWlzLWFuLWltYWdlIi5nZXRCeXRlcygpCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuSmF2YUNvbnZlcnNpb25zLl8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgYmlyZEltYWdlID0gRmlsZXMucmVhZEFsbEJ5dGVzKG5ldyBGaWxlKCJzcmMvaXQvcmVzb3VyY2VzL2JpcmRfc21hbGwucG5nIikudG9QYXRoKQo=</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oc3lzLmVudi4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJkb2NrZXItY29tcG9zZSB1cCAtZCB1c2VycyB1c2Vyc0JhZE1lbWJlcnNoaXBzIGxvY2FsaG9zdC5sZW9pbGFiLmNvbSBtZW1iZXJzaGlwcyBzZW5zaWJsZS1ncm91cHMgc2VsZW5pdW0tc2VydmVyLWhvc3QiLiEK</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICBmZWF0dXJlc1JlcG9zaXRvcnkuaXNFbmFibGVkKG5hbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>1111</text>
