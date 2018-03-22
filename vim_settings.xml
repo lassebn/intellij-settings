@@ -274,11 +274,11 @@
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1520943329950">
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="36" column="18" />
-        <mark key="^" line="36" column="18" />
-        <mark key="." line="36" column="18" />
+      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1521712018337">
+        <mark key="[" line="103" column="119" />
+        <mark key="]" line="103" column="125" />
+        <mark key="^" line="103" column="125" />
+        <mark key="." line="103" column="125" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiPropertiesFuncSpec.scala" timestamp="1502974694801">
         <mark key="[" line="66" column="117" />
@@ -932,7 +932,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520517321438">
+      <file name="/Dummy.txt" timestamp="1521710183417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -1046,11 +1046,11 @@
         <mark key="^" line="126" column="52" />
         <mark key="." line="126" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/README.md" timestamp="1520006059306">
-        <mark key="[" line="62" column="5" />
-        <mark key="]" line="62" column="41" />
-        <mark key="^" line="62" column="41" />
-        <mark key="." line="62" column="41" />
+      <file name="$USER_HOME$/Source/platform-images/README.md" timestamp="1521711608653">
+        <mark key="[" line="47" column="5" />
+        <mark key="]" line="47" column="68" />
+        <mark key="^" line="47" column="68" />
+        <mark key="." line="47" column="68" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupRepositoryPropSpec.scala" timestamp="1519206762360">
         <mark key="[" line="164" column="31" />
@@ -1487,6 +1487,7 @@
         <mark key="^" line="87" column="54" />
         <mark key="." line="87" column="54" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/run-all-tests.sh" timestamp="1521710348935" />
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ClickRepositorySpec.scala" timestamp="1508846794102">
         <mark key="[" line="172" column="25" />
         <mark key="]" line="172" column="43" />
@@ -2266,8 +2267,8 @@
       <jump line="16" column="0" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBJbWFnZSB0ZXN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Update akka-http from experimental to 10.0.11</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4890,43 +4891,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>birdImage</text>
+        <text>Update akka-http from experimental to 10.0.11</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
       </register>
-      <register name="0" type="4">
-        <text>http://localhost:</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyMgMS40NgogKiBPcGVyYXRpb25hbAogICAgKiBVcGRhdGUgYWtrYS1odHRwIGZyb20gZXhwZXJpbWVudGFsIHRvIDEwLjAuMTEKICAgICogVXBkYXRlIGFra2EgZnJvbSAyLjQuOSB0byAyLjQuMjAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBJbWFnZSB0ZXN0Cg==</text>
+        <text encoding="base64">ICAgICogVXBkYXRlIGFra2EgZnJvbSAyLjQuOSB0byAyLjQuMjAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECnZhbCB1c2Vyc1ZlcnNpb24gPSAiMS42NSIKdmFsIGFra2FWID0gIjIuNC45Igo9PT09PT09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBJbWFnZSB0ZXN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWwgZmFrZUltYWdlID0gInNvbWV0aGluZy10aGF0LWlzLWFuLWltYWdlIi5nZXRCeXRlcygpCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECnZhbCB1c2Vyc1ZlcnNpb24gPSAiMS42NSIKdmFsIGFra2FWID0gIjIuNC45Igo9PT09PT09Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgYmlyZEltYWdlID0gRmlsZXMucmVhZEFsbEJ5dGVzKG5ldyBGaWxlKCJzcmMvaXQvcmVzb3VyY2VzL2JpcmRfc21hbGwucG5nIikudG9QYXRoKQo=</text>
+        <text encoding="base64">ICB2YWwgZmFrZUltYWdlID0gInNvbWV0aGluZy10aGF0LWlzLWFuLWltYWdlIi5nZXRCeXRlcygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgYmlyZEltYWdlID0gRmlsZXMucmVhZEFsbEJ5dGVzKG5ldyBGaWxlKCJzcmMvaXQvcmVzb3VyY2VzL2JpcmRfc21hbGwucG5nIikudG9QYXRoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJkb2NrZXItY29tcG9zZSB1cCAtZCB1c2VycyB1c2Vyc0JhZE1lbWJlcnNoaXBzIGxvY2FsaG9zdC5sZW9pbGFiLmNvbSBtZW1iZXJzaGlwcyBzZW5zaWJsZS1ncm91cHMgc2VsZW5pdW0tc2VydmVyLWhvc3QiLiEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICJkb2NrZXItY29tcG9zZSB1cCAtZCB1c2VycyB1c2Vyc0JhZE1lbWJlcnNoaXBzIGxvY2FsaG9zdC5sZW9pbGFiLmNvbSBtZW1iZXJzaGlwcyBzZW5zaWJsZS1ncm91cHMgc2VsZW5pdW0tc2VydmVyLWhvc3QiLiEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCnZhbCB1c2Vyc1ZlcnNpb24gPSAiMS42NCIKdmFsIGFra2FWID0gIjIuNC45Igo9PT09PT09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCnZhbCB1c2Vyc1ZlcnNpb24gPSAiMS42NCIKdmFsIGFra2FWID0gIjIuNC45Igo9PT09PT09Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1111</text>
