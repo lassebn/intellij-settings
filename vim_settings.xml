@@ -961,6 +961,12 @@
         <mark key="^" line="58" column="29" />
         <mark key="." line="58" column="29" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/features/FeaturesService.scala" timestamp="1521713182547">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="30" column="4" />
+        <mark key="^" line="30" column="4" />
+        <mark key="." line="30" column="4" />
+      </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/nginx/build.sh" timestamp="1502805047038">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -1708,6 +1714,13 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1521713344173">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="61" column="12" />
+        <mark key="]" line="61" column="58" />
+        <mark key="." line="61" column="58" />
+        <mark key="^" line="61" column="58" />
+      </file>
       <file name="$USER_HOME$/Source/platform-commons/id/src/main/scala/leoilab/id/GroupId.scala" timestamp="1520518042518">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1863,6 +1876,10 @@
         <mark key="]" line="14" column="74" />
         <mark key="^" line="14" column="73" />
         <mark key="." line="14" column="74" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/features/Feature.scala" timestamp="1521713226235">
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="21" column="42" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/wufoo/FormBaselineUK.scala" timestamp="1506924964351">
         <mark key="[" line="5" column="23" />
@@ -2165,7 +2182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="163" filename="$USER_HOME$/Source/klikkit-backend/project/project/TestHelper.scala" />
       <jump line="27" column="0" filename="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImagePropertiesService.scala" />
       <jump line="14" column="0" filename="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/ImagePropertiesRepository.scala" />
       <jump line="72" column="0" filename="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/CollectionPropertiesRepository.scala" />
@@ -2265,10 +2281,11 @@
       <jump line="44" column="22" filename="$USER_HOME$/Source/sensible-groups/build.sbt" />
       <jump line="15" column="4" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" />
       <jump line="16" column="0" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" />
+      <jump line="30" column="0" filename="$USER_HOME$/Source/platform-images/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Update akka-http from experimental to 10.0.11</text>
+        <text>/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4891,55 +4908,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Update akka-http from experimental to 10.0.11</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>Node</text>
+        <text>images</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyMgMS40NgogKiBPcGVyYXRpb25hbAogICAgKiBVcGRhdGUgYWtrYS1odHRwIGZyb20gZXhwZXJpbWVudGFsIHRvIDEwLjAuMTEKICAgICogVXBkYXRlIGFra2EgZnJvbSAyLjQuOSB0byAyLjQuMjAK</text>
+      <register name="0" type="4">
+        <text>USE_GROUPS_SERVICE_FOR_IMAGE_UPLOAD =</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogVXBkYXRlIGFra2EgZnJvbSAyLjQuOSB0byAyLjQuMjAK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gVVNFX0dST1VQU19TRVJWSUNFX0ZPUl9JTUFHRV9VUExPQUQ9ZmFsc2UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBJbWFnZSB0ZXN0Cg==</text>
+        <text encoding="base64">ICAgICogVXBkYXRlIGFra2EgZnJvbSAyLjQuOSB0byAyLjQuMjAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECnZhbCB1c2Vyc1ZlcnNpb24gPSAiMS42NSIKdmFsIGFra2FWID0gIjIuNC45Igo9PT09PT09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBJbWFnZSB0ZXN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgZmFrZUltYWdlID0gInNvbWV0aGluZy10aGF0LWlzLWFuLWltYWdlIi5nZXRCeXRlcygpCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECnZhbCB1c2Vyc1ZlcnNpb24gPSAiMS42NSIKdmFsIGFra2FWID0gIjIuNC45Igo9PT09PT09Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgYmlyZEltYWdlID0gRmlsZXMucmVhZEFsbEJ5dGVzKG5ldyBGaWxlKCJzcmMvaXQvcmVzb3VyY2VzL2JpcmRfc21hbGwucG5nIikudG9QYXRoKQo=</text>
+        <text encoding="base64">ICB2YWwgZmFrZUltYWdlID0gInNvbWV0aGluZy10aGF0LWlzLWFuLWltYWdlIi5nZXRCeXRlcygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgYmlyZEltYWdlID0gRmlsZXMucmVhZEFsbEJ5dGVzKG5ldyBGaWxlKCJzcmMvaXQvcmVzb3VyY2VzL2JpcmRfc21hbGwucG5nIikudG9QYXRoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJkb2NrZXItY29tcG9zZSB1cCAtZCB1c2VycyB1c2Vyc0JhZE1lbWJlcnNoaXBzIGxvY2FsaG9zdC5sZW9pbGFiLmNvbSBtZW1iZXJzaGlwcyBzZW5zaWJsZS1ncm91cHMgc2VsZW5pdW0tc2VydmVyLWhvc3QiLiEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICJkb2NrZXItY29tcG9zZSB1cCAtZCB1c2VycyB1c2Vyc0JhZE1lbWJlcnNoaXBzIGxvY2FsaG9zdC5sZW9pbGFiLmNvbSBtZW1iZXJzaGlwcyBzZW5zaWJsZS1ncm91cHMgc2VsZW5pdW0tc2VydmVyLWhvc3QiLiEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCnZhbCB1c2Vyc1ZlcnNpb24gPSAiMS42NCIKdmFsIGFra2FWID0gIjIuNC45Igo9PT09PT09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name=":" type="4">
         <text>1111</text>
       </register>
     </registers>
     <search>
-      <last-search>Node</last-search>
+      <last-search>images</last-search>
       <last-offset />
-      <last-pattern>Node</last-pattern>
+      <last-pattern>images</last-pattern>
       <last-replace>Node[T]</last-replace>
       <last-substitute>Node</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -4956,6 +4973,7 @@
         <entry encoding="base64">XDwyMTIyXD4=</entry>
         <entry>NodeId</entry>
         <entry>Node</entry>
+        <entry>images</entry>
       </history-search>
       <history-cmd>
         <entry>194</entry>
