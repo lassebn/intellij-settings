@@ -88,6 +88,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" timestamp="1521796902523">
+        <mark key="[" line="162" column="52" />
+        <mark key="]" line="162" column="68" />
+        <mark key="." line="162" column="68" />
+        <mark key="^" line="162" column="68" />
+      </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiActivitiesSpec.scala" timestamp="1509447437106">
         <mark key="[" line="83" column="167" />
         <mark key="]" line="83" column="160" />
@@ -339,11 +345,11 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/README.md" timestamp="1521795564364">
-        <mark key="[" line="61" column="6" />
-        <mark key="]" line="61" column="7" />
-        <mark key="^" line="64" column="6" />
-        <mark key="." line="61" column="7" />
+      <file name="$USER_HOME$/Source/platform-users/README.md" timestamp="1521796352109">
+        <mark key="[" line="63" column="27" />
+        <mark key="]" line="63" column="26" />
+        <mark key="^" line="63" column="26" />
+        <mark key="." line="63" column="26" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/resources/cf-ssl-task-definition-initial.json" timestamp="1507703434866">
         <mark key="[" line="15" column="5" />
@@ -1308,10 +1314,9 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1521795575481">
+      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1521796361879">
         <mark key="[" line="16" column="23" />
         <mark key="]" line="16" column="24" />
-        <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="24" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/FunUnitTestSupport.scala" timestamp="1508224186142">
@@ -1719,7 +1724,7 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1521729191081">
+      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1521796988538">
         <mark key="'" line="84" column="20" />
         <mark key="[" line="81" column="60" />
         <mark key="]" line="82" column="51" />
@@ -1964,11 +1969,11 @@
         <mark key="." line="24" column="49" />
         <mark key="^" line="24" column="49" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1520946930610">
-        <mark key="[" line="102" column="11" />
-        <mark key="]" line="102" column="56" />
-        <mark key="." line="102" column="56" />
-        <mark key="^" line="102" column="56" />
+      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1521797002816">
+        <mark key="[" line="44" column="39" />
+        <mark key="]" line="45" column="50" />
+        <mark key="." line="45" column="50" />
+        <mark key="^" line="45" column="50" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageServiceFuncSpec.scala" timestamp="1503564982107">
         <mark key="[" line="68" column="28" />
@@ -2289,8 +2294,8 @@
       <jump line="84" column="20" filename="$USER_HOME$/Source/platform-images/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTZXQgZmVhdHVyZSB0b2dnbGVzIGZyb20gZW52aXJvbm1lbnQgdmFyaWFibGVzCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4913,7 +4918,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW1wbGljaXQg</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
@@ -4922,34 +4927,34 @@
         <text>AccessTokenHelper.encode(AuthInfo(user.id, accessToken.clientId))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTZXQgZmVhdHVyZSB0b2dnbGVzIGZyb20gZW52aXJvbm1lbnQgdmFyaWFibGVzCg==</text>
+        <text encoding="base64">ICAgIGdyb3Vwc0NsaWVudC5tb3ZlR3JvdXAocGF0aWVudC51c2VyLmdyb3VwSWQsIGNsaW5pYzEpLmZ1dHVyZVZhbHVlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIGdyb3Vwc0NsaWVudC5tb3ZlR3JvdXAocGF0aWVudC51c2VyLmdyb3VwSWQsIGNsaW5pYzEpLmZ1dHVyZVZhbHVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIGdyb3Vwc0NsaWVudC5tb3ZlR3JvdXAocGF0aWVudC51c2VyLmdyb3VwSWQsIGNsaW5pYzEpLmZ1dHVyZVZhbHVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMgMS42NgogKiBPcGVyYXRpb25hbDogdG9nZ2xlIGZlYXR1cmUgdG9nZ2xlcyBmcm9tIGVudmlyb25tZW50IHZhcmlhYmxlcwo=</text>
+        <text encoding="base64">ICAgIGdyb3Vwc0NsaWVudC5tb3ZlR3JvdXAocGF0aWVudC51c2VyLmdyb3VwSWQsIGNsaW5pYzEpLmZ1dHVyZVZhbHVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgdmFsIGZha2VBY2Nlc3NUb2tlbkZvclVzZXJDcmVhdGVkID0gQWNjZXNzVG9rZW5IZWxwZXIuZW5jb2RlKEF1dGhJbmZvKHVzZXIuaWQsIGFjY2Vzc1Rva2VuLmNsaWVudElkKSkK</text>
+        <text encoding="base64">Ly8gICAgZ3JvdXBzQ2xpZW50Lm1vdmVHcm91cChwYXRpZW50LnVzZXIuZ3JvdXBJZCwgY2xpbmljMSkuZnV0dXJlVmFsdWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmFwcC5mZWF0dXJlcy5GZWF0dXJlTm90Rm91bmRFeGNlcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmFwcC5mZWF0dXJlcy5GZWF0dXJlc1NlcnZpY2VJbXBsCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBCdW1wIHZlcnNpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmFwcC5mZWF0dXJlcy5GZWF0dXJlc1NlcnZpY2UK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>102</text>
