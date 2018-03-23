@@ -88,7 +88,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" timestamp="1521798456138">
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" timestamp="1521800184935">
         <mark key="[" line="139" column="81" />
         <mark key="]" line="141" column="82" />
         <mark key="." line="141" column="82" />
@@ -469,6 +469,12 @@
         <mark key="]" line="4" column="58" />
         <mark key="." line="4" column="13" />
         <mark key="^" line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupService.scala" timestamp="1521800573962">
+        <mark key="[" line="91" column="79" />
+        <mark key="]" line="91" column="78" />
+        <mark key="^" line="91" column="78" />
+        <mark key="." line="91" column="78" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1503486879920">
         <mark key="[" line="40" column="59" />
@@ -1243,6 +1249,7 @@
         <mark key="." line="40" column="59" />
         <mark key="^" line="40" column="59" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.leoilab/sensible-groups-client_2.11/srcs/sensible-groups-client_2.11-0.12.0-sources.jar!/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1521800266629" />
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/ImageMetadata.scala" timestamp="1510824247161">
         <mark key="[" line="94" column="43" />
         <mark key="]" line="94" column="70" />
@@ -1880,10 +1887,6 @@
         <mark key="]" line="14" column="74" />
         <mark key="^" line="14" column="73" />
         <mark key="." line="14" column="74" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/features/Feature.scala" timestamp="1521713226235">
-        <mark key="[" line="21" column="6" />
-        <mark key="]" line="21" column="42" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/features/FeatureServiceSpec.scala" timestamp="1521728267179">
         <mark key="[" line="30" column="44" />
