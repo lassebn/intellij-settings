@@ -983,12 +983,6 @@
         <mark key="^" line="58" column="29" />
         <mark key="." line="58" column="29" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/features/FeaturesService.scala" timestamp="1521728400421">
-        <mark key="'" line="22" column="4" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/nginx/build.sh" timestamp="1502805047038">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -1480,9 +1474,9 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/project/TestHelper.scala" timestamp="1504783629179">
-        <mark key="[" line="71" column="51" />
-        <mark key="]" line="71" column="43" />
+      <file name="$USER_HOME$/Source/platform-images/project/TestHelper.scala" timestamp="1521812102605">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="211" />
         <mark key="." line="71" column="43" />
         <mark key="^" line="71" column="43" />
       </file>
@@ -1724,10 +1718,10 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1521796988538">
+      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1521812298216">
         <mark key="'" line="84" column="20" />
-        <mark key="[" line="81" column="60" />
-        <mark key="]" line="82" column="51" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="59" />
         <mark key="." line="82" column="51" />
         <mark key="^" line="82" column="51" />
       </file>
@@ -1959,10 +1953,10 @@
         <mark key="." line="24" column="49" />
         <mark key="^" line="24" column="49" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1521807447165">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1521812307036">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="60" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageServiceFuncSpec.scala" timestamp="1503564982107">
         <mark key="[" line="68" column="28" />
@@ -2284,7 +2278,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1lbWJlcnNoaXBzQ2xpZW50LmdyYW50QXV0aG9yaXphdGlvbihkb2N0b3JJbmZvLnVzZXIuaWQsIGNsaW5pY0dyb3VwSWQpLmZ1dHVyZVZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gR1JPVVBTX1VSTD1odHRwOi8vc2Vuc2libGUtZ3JvdXBzOjkwOTkvdjEvZ3JvdXBzCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4912,8 +4906,8 @@
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
-      <register name="0" type="4">
-        <text>AccessTokenHelper.encode(AuthInfo(user.id, accessToken.clientId))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIC0gR1JPVVBTX1VSTD1odHRwOi8vc2Vuc2libGUtZ3JvdXBzOjkwOTkvdjEvZ3JvdXBzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1lbWJlcnNoaXBzQ2xpZW50LmdyYW50QXV0aG9yaXphdGlvbihkb2N0b3JJbmZvLnVzZXIuaWQsIGNsaW5pY0dyb3VwSWQpLmZ1dHVyZVZhbHVlCg==</text>
