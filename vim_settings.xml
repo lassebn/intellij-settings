@@ -339,11 +339,11 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/README.md" timestamp="1521727589615">
-        <mark key="[" line="62" column="15" />
-        <mark key="]" line="62" column="64" />
-        <mark key="." line="62" column="64" />
-        <mark key="^" line="62" column="64" />
+      <file name="$USER_HOME$/Source/platform-users/README.md" timestamp="1521795564364">
+        <mark key="[" line="61" column="6" />
+        <mark key="]" line="61" column="7" />
+        <mark key="^" line="64" column="6" />
+        <mark key="." line="61" column="7" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/resources/cf-ssl-task-definition-initial.json" timestamp="1507703434866">
         <mark key="[" line="15" column="5" />
@@ -715,7 +715,7 @@
         <mark key="^" line="65" column="69" />
         <mark key="." line="65" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1507191276489">
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1521731950882">
         <mark key="[" line="11" column="49" />
         <mark key="]" line="11" column="49" />
         <mark key="." line="11" column="49" />
@@ -937,7 +937,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521710183417">
+      <file name="/Dummy.txt" timestamp="1521795273033">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -1002,6 +1002,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1521794935819" />
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/klikkit/KlikkitApi.scala" timestamp="1519994592576">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -1307,11 +1308,11 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1521727606935">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="23" />
+      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1521795575481">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="24" />
         <mark key="^" line="16" column="23" />
-        <mark key="." line="16" column="23" />
+        <mark key="." line="16" column="24" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/FunUnitTestSupport.scala" timestamp="1508224186142">
         <mark key="[" line="2" column="26" />
@@ -1498,7 +1499,6 @@
         <mark key="^" line="87" column="54" />
         <mark key="." line="87" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/run-all-tests.sh" timestamp="1521710348935" />
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ClickRepositorySpec.scala" timestamp="1508846794102">
         <mark key="[" line="172" column="25" />
         <mark key="]" line="172" column="43" />
@@ -1535,7 +1535,6 @@
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageService.scala" timestamp="1521728407152" />
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitService.scala" timestamp="1509446170992">
         <mark key="[" line="139" column="89" />
         <mark key="]" line="139" column="89" />
@@ -1899,7 +1898,6 @@
         <mark key="^" line="124" column="54" />
         <mark key="." line="124" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/features/Feature.scala" timestamp="1521729111679" />
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/build.sbt" timestamp="1496228182614">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="19" />
@@ -2291,8 +2289,8 @@
       <jump line="84" column="20" filename="$USER_HOME$/Source/platform-images/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTZXQgZmVhdHVyZSB0b2dnbGVzIGZyb20gZW52aXJvbm1lbnQgdmFyaWFibGVzCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4915,46 +4913,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">aW1wbGljaXQg</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyMgMS42NQogKiBPcGVyYXRpb25hbDogYWRkIGludGVncmF0aW9uIHRlc3RzIGZvciBncm91cHMgbWFuYWdlbWVudAo=</text>
+      <register name="0" type="4">
+        <text>AccessTokenHelper.encode(AuthInfo(user.id, accessToken.clientId))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmFwcC5mZWF0dXJlcy5GZWF0dXJlTm90Rm91bmRFeGNlcHRpb24K</text>
+        <text encoding="base64">Pj4+Pj4+PiBTZXQgZmVhdHVyZSB0b2dnbGVzIGZyb20gZW52aXJvbm1lbnQgdmFyaWFibGVzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmFwcC5mZWF0dXJlcy5GZWF0dXJlc1NlcnZpY2VJbXBsCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmFwcC5mZWF0dXJlcy5GZWF0dXJlc1NlcnZpY2UK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmltYWdlcy5mZWF0dXJlcy5GZWF0dXJlc1JlcG9zaXRvcnkK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyMgMS42NgogKiBPcGVyYXRpb25hbDogdG9nZ2xlIGZlYXR1cmUgdG9nZ2xlcyBmcm9tIGVudmlyb25tZW50IHZhcmlhYmxlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmFwcC5mZWF0dXJlcy5GZWF0dXJlTmFtZS5GZWF0dXJlTmFtZQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgdmFsIGZha2VBY2Nlc3NUb2tlbkZvclVzZXJDcmVhdGVkID0gQWNjZXNzVG9rZW5IZWxwZXIuZW5jb2RlKEF1dGhJbmZvKHVzZXIuaWQsIGFjY2Vzc1Rva2VuLmNsaWVudElkKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmFwcC5mZWF0dXJlcy5GZWF0dXJlTm90Rm91bmRFeGNlcHRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmFwcC5mZWF0dXJlcy5GZWF0dXJlc1NlcnZpY2VJbXBsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vc3RhY2tvdmVyZmxvdy5jb20vYS8zNDAzMDczMQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmFwcC5mZWF0dXJlcy5GZWF0dXJlc1NlcnZpY2UK</text>
       </register>
       <register name=":" type="4">
-        <text>142</text>
+        <text>102</text>
       </register>
     </registers>
     <search>
@@ -4986,7 +4984,6 @@
         <entry>usersdb</entry>
       </history-search>
       <history-cmd>
-        <entry>294</entry>
         <entry>39</entry>
         <entry>195</entry>
         <entry>181</entry>
@@ -5006,6 +5003,7 @@
         <entry>159</entry>
         <entry>1111</entry>
         <entry>142</entry>
+        <entry>102</entry>
       </history-cmd>
       <history-expr />
       <history-input />
