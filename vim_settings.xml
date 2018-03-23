@@ -88,11 +88,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" timestamp="1521796902523">
-        <mark key="[" line="162" column="52" />
-        <mark key="]" line="162" column="68" />
-        <mark key="." line="162" column="68" />
-        <mark key="^" line="162" column="68" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" timestamp="1521798456138">
+        <mark key="[" line="139" column="81" />
+        <mark key="]" line="141" column="82" />
+        <mark key="." line="141" column="82" />
+        <mark key="^" line="141" column="82" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiActivitiesSpec.scala" timestamp="1509447437106">
         <mark key="[" line="83" column="167" />
@@ -943,7 +943,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521795273033">
+      <file name="/Dummy.txt" timestamp="1521797872306">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -2295,7 +2295,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>a</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4918,7 +4918,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
