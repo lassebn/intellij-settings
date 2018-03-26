@@ -398,10 +398,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" timestamp="1522054101530">
-        <mark key="[" line="330" column="0" />
-        <mark key="]" line="330" column="0" />
-        <mark key="." line="330" column="0" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" timestamp="1522055882635">
+        <mark key="[" line="324" column="0" />
+        <mark key="]" line="324" column="0" />
+        <mark key="." line="324" column="0" />
+        <mark key="^" line="324" column="119" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" timestamp="1496224298461">
         <mark key="[" line="81" column="98" />
@@ -517,11 +518,11 @@
         <mark key="." line="18" column="19" />
         <mark key="^" line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/features/FeaturesService.scala" timestamp="1521726566160">
-        <mark key="[" line="30" column="5" />
-        <mark key="]" line="30" column="45" />
-        <mark key="^" line="30" column="45" />
-        <mark key="." line="30" column="45" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/features/FeaturesService.scala" timestamp="1522056468723">
+        <mark key="[" line="26" column="50" />
+        <mark key="]" line="26" column="50" />
+        <mark key="^" line="26" column="49" />
+        <mark key="." line="26" column="50" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/nginx/build.sh" timestamp="1507883472706">
         <mark key="[" line="5" column="34" />
@@ -960,7 +961,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521797872306">
+      <file name="/Dummy.txt" timestamp="1522056434920">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -2289,8 +2290,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBVc2UgcHJvcGVyIGFjY2VzcyB0b2tlbiBmb3IgZ3JvdXBzCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4913,7 +4914,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Provide reassign that handle multiple groups to revoke and grant memberships</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
@@ -4922,34 +4923,34 @@
         <text encoding="base64">IyMgMS4xNC4wCiAjIyMgQVBJCiAgICogUHJvdmlkZSByZWFzc2lnbiB0aGF0IGhhbmRsZSBtdWx0aXBsZSBncm91cHMgdG8gcmV2b2tlIGFuZCBncmFudCBtZW1iZXJzaGlwcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBVc2UgcHJvcGVyIGFjY2VzcyB0b2tlbiBmb3IgZ3JvdXBzCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIF8gPC0gcHJvdGVjdEJ5RmVhdHVyZVRvZ2dsZShGZWF0dXJlTmFtZS5VU0VfR1JPVVBTX1NFUlZJQ0VfRk9SX1BFUk1JU1NJT05TKQovLyAgICAgICAgewovLyAgICAgICAgICB2YWwgYXV0aEluZm8gPSBBdXRoSW5mbyh1c2VyLmlkLCBhY2Nlc3NUb2tlbi5jbGllbnRJZCkKLy8gICAgICAgICAgdmFsIGZha2VBY2Nlc3NUb2tlbkZvclVzZXJDcmVhdGVkOiBBY2Nlc3NUb2tlbiA9IEFjY2Vzc1Rva2VuSGVscGVyLmVuY29kZShhdXRoSW5mbykKLy8gICAgICAgICAgcmVnaXN0ZXJHcm91cCh1c2VyLmdyb3VwSWQpKGZha2VBY2Nlc3NUb2tlbkZvclVzZXJDcmVhdGVkKQovLyAgICAgICAgfSB7IEZ1dHVyZSgoKSkgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgXyA8LSBwcm90ZWN0QnlGZWF0dXJlVG9nZ2xlKEZlYXR1cmVOYW1lLlVTRV9HUk9VUFNfU0VSVklDRV9GT1JfUEVSTUlTU0lPTlMpIHsgbWlncmF0ZVVzZXIodXNlcikgfSB7IEZ1dHVyZSgoKSkgfQo9PT09PT09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBVc2UgcHJvcGVyIGFjY2VzcyB0b2tlbiBmb3IgZ3JvdXBzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTZXQgZmVhdHVyZSB0b2dnbGVzIGZyb20gZW52aXJvbm1lbnQgdmFyaWFibGVzCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgXyA8LSBwcm90ZWN0QnlGZWF0dXJlVG9nZ2xlKEZlYXR1cmVOYW1lLlVTRV9HUk9VUFNfU0VSVklDRV9GT1JfUEVSTUlTU0lPTlMpIHsgbWlncmF0ZVVzZXIodXNlcikgfSB7IEZ1dHVyZSgoKSkgfQo9PT09PT09Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMgMS42Ni4wCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTZXQgZmVhdHVyZSB0b2dnbGVzIGZyb20gZW52aXJvbm1lbnQgdmFyaWFibGVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">IyMgMS42Ni4wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMgMS42OQogKiBPcGVyYXRpb25hbDogdG9nZ2xlIGZlYXR1cmUgdG9nZ2xlcyBmcm9tIGVudmlyb25tZW50IHZhcmlhYmxlcwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFsIHVzZXJzVmVyc2lvbiA9ICIxLjY3Igo=</text>
+        <text encoding="base64">IyMgMS42OQogKiBPcGVyYXRpb25hbDogdG9nZ2xlIGZlYXR1cmUgdG9nZ2xlcyBmcm9tIGVudmlyb25tZW50IHZhcmlhYmxlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>102</text>
