@@ -1262,7 +1262,6 @@
         <mark key="." line="40" column="59" />
         <mark key="^" line="40" column="59" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.leoilab/sensible-groups-client_2.11/srcs/sensible-groups-client_2.11-0.12.0-sources.jar!/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1521800266629" />
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/ImageMetadata.scala" timestamp="1510824247161">
         <mark key="[" line="94" column="43" />
         <mark key="]" line="94" column="70" />
@@ -1737,7 +1736,7 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1521812298216">
+      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1522052520080">
         <mark key="'" line="84" column="20" />
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="59" />
