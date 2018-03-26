@@ -53,6 +53,12 @@
         <mark key="." line="29" column="61" />
         <mark key="^" line="29" column="61" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/ServicesModule.scala" timestamp="1522068654219">
+        <mark key="[" line="23" column="63" />
+        <mark key="]" line="24" column="67" />
+        <mark key="^" line="24" column="67" />
+        <mark key="." line="24" column="67" />
+      </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/cfn.json" timestamp="1500362573713">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="51" />
@@ -1160,11 +1166,11 @@
         <mark key="^" line="85" column="90" />
         <mark key="." line="85" column="90" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/features/EnvironmentService.scala" timestamp="1522061715826">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="5" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/features/EnvironmentService.scala" timestamp="1522068603714">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="55" />
+        <mark key="^" line="6" column="55" />
+        <mark key="." line="6" column="55" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/project/TestHelper.scala" timestamp="1510034398481">
         <mark key="[" line="140" column="24" />
