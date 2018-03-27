@@ -154,6 +154,12 @@
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/testutils/TestAuthInfo.scala" timestamp="1522140878285">
+        <mark key="[" line="33" column="43" />
+        <mark key="]" line="33" column="41" />
+        <mark key="." line="33" column="41" />
+        <mark key="^" line="33" column="41" />
+      </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/requirements.txt" timestamp="1499325861169">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="19" />
@@ -482,12 +488,6 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupService.scala" timestamp="1521800928563">
-        <mark key="[" line="91" column="79" />
-        <mark key="]" line="91" column="78" />
-        <mark key="^" line="91" column="78" />
-        <mark key="." line="91" column="78" />
-      </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1503486879920">
         <mark key="[" line="40" column="59" />
         <mark key="]" line="40" column="64" />
@@ -578,11 +578,11 @@
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/README.md" timestamp="1520429430135">
-        <mark key="[" line="41" column="5" />
-        <mark key="]" line="41" column="21" />
-        <mark key="." line="41" column="21" />
-        <mark key="^" line="41" column="21" />
+      <file name="$USER_HOME$/Source/sensible-groups/README.md" timestamp="1522140747177">
+        <mark key="[" line="102" column="9" />
+        <mark key="]" line="102" column="42" />
+        <mark key="." line="102" column="42" />
+        <mark key="^" line="102" column="42" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/README.md" timestamp="1504792033390">
         <mark key="[" line="4" column="115" />
@@ -857,6 +857,11 @@
         <mark key="]" line="86" column="69" />
         <mark key="." line="86" column="69" />
         <mark key="^" line="86" column="69" />
+      </file>
+      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1522140765734">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="34" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
         <mark key="[" line="21" column="0" />
@@ -1139,13 +1144,6 @@
         <mark key="]" line="37" column="50" />
         <mark key="^" line="37" column="50" />
         <mark key="." line="37" column="50" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsServiceSpec.scala" timestamp="1521814813119">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="57" column="37" />
-        <mark key="]" line="57" column="41" />
-        <mark key="." line="57" column="41" />
-        <mark key="^" line="57" column="41" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1512392243911">
         <mark key="[" line="135" column="9" />
@@ -1754,13 +1752,6 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1522052520080">
-        <mark key="'" line="84" column="20" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="59" />
-        <mark key="." line="82" column="51" />
-        <mark key="^" line="82" column="51" />
-      </file>
       <file name="$USER_HOME$/Source/platform-commons/id/src/main/scala/leoilab/id/GroupId.scala" timestamp="1520518042518">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1966,10 +1957,10 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupRoutesSpec.scala" timestamp="1520586782814">
-        <mark key="[" line="157" column="15" />
-        <mark key="]" line="157" column="18" />
-        <mark key="^" line="157" column="18" />
-        <mark key="." line="157" column="18" />
+        <mark key="[" line="152" column="15" />
+        <mark key="]" line="152" column="18" />
+        <mark key="^" line="152" column="18" />
+        <mark key="." line="152" column="18" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/concurrent/Execution.scala" timestamp="1503927682223">
         <mark key="[" line="6" column="79" />
@@ -2308,8 +2299,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dHJhaXQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgTm9uZQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -4932,43 +4923,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHJhaXQg</text>
+        <text>idded a group type `user` for getting special groups of a user</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
-      <register name="0" type="4">
-        <text>sys.env.getOrElse(s&quot;${name}_${clientId.toString.toUpperCase}&quot;, &quot;&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyMjIDEuOS4wCiAgICAqIEFQSToKICAgICAgICAqIEFkZGVkIGEgZ3JvdXAgdHlwZSBgdXNlcmAgZm9yIGdldHRpbmcgc3BlY2lhbCBncm91cHMgb2YgYSB1c2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vc3RhY2tvdmVyZmxvdy5jb20vYS8zNDAzMDczMQovLyAgICB2YWwgZmllbGQgPSBTeXN0ZW0uZ2V0ZW52KCkuZ2V0Q2xhc3MuZ2V0RGVjbGFyZWRGaWVsZCgibSIpCi8vICAgIGZpZWxkLnNldEFjY2Vzc2libGUodHJ1ZSkKLy8gICAgdmFsIG1hcCA9IGZpZWxkLmdldChTeXN0ZW0uZ2V0ZW52KCkpLmFzSW5zdGFuY2VPZltqYXZhLnV0aWwuTWFwW2phdmEubGFuZy5TdHJpbmcsIGphdmEubGFuZy5TdHJpbmddXQogICAgdmFsIG1hcCA9IFN5c3RlbS5nZXRlbnYoKQogICAgbWFwLnB1dChrZXksIHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgTm9uZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBmaWVsZCA9IFN5c3RlbS5nZXRlbnYoKS5nZXRDbGFzcy5nZXREZWNsYXJlZEZpZWxkKCJtIikKICAgIGZpZWxkLnNldEFjY2Vzc2libGUodHJ1ZSkKICAgIHZhbCBtYXAgPSBmaWVsZC5nZXQoU3lzdGVtLmdldGVudigpKS5hc0luc3RhbmNlT2ZbamF2YS51dGlsLk1hcFtqYXZhLmxhbmcuU3RyaW5nLCBqYXZhLmxhbmcuU3RyaW5nXV0KICAgIG1hcC5yZW1vdmUoa2V5KQo=</text>
+        <text encoding="base64">ICAgICAgTm9uZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU29tZShpc0FkbWluKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgc2V0RW52KGtleTogU3RyaW5nLCB2YWx1ZTogU3RyaW5nKTogVW5pdCA9IHsKICAgIC8vIGh0dHBzOi8vc3RhY2tvdmVyZmxvdy5jb20vYS8zNDAzMDczMQovLyAgICB2YWwgZmllbGQgPSBTeXN0ZW0uZ2V0ZW52KCkuZ2V0Q2xhc3MuZ2V0RGVjbGFyZWRGaWVsZCgibSIpCi8vICAgIGZpZWxkLnNldEFjY2Vzc2libGUodHJ1ZSkKLy8gICAgdmFsIG1hcCA9IGZpZWxkLmdldChTeXN0ZW0uZ2V0ZW52KCkpLmFzSW5zdGFuY2VPZltqYXZhLnV0aWwuTWFwW2phdmEubGFuZy5TdHJpbmcsIGphdmEubGFuZy5TdHJpbmddXQogICAgdmFsIG1hcCA9IFN5c3RlbS5nZXRlbnYoKQogICAgbWFwLnB1dChrZXksIHZhbHVlKQogIH0KCiAgZGVmIGNsZWFyRW52KGtleTogU3RyaW5nKTogVW5pdCA9IHsKICAgIHZhbCBmaWVsZCA9IFN5c3RlbS5nZXRlbnYoKS5nZXRDbGFzcy5nZXREZWNsYXJlZEZpZWxkKCJtIikKICAgIGZpZWxkLnNldEFjY2Vzc2libGUodHJ1ZSkKICAgIHZhbCBtYXAgPSBmaWVsZC5nZXQoU3lzdGVtLmdldGVudigpKS5hc0luc3RhbmNlT2ZbamF2YS51dGlsLk1hcFtqYXZhLmxhbmcuU3RyaW5nLCBqYXZhLmxhbmcuU3RyaW5nXV0KICAgIG1hcC5yZW1vdmUoa2V5KQogIH0K</text>
+        <text encoding="base64">ICAgICAgTm9uZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vc3RhY2tvdmVyZmxvdy5jb20vYS8zNDAzMDczMQovLyAgICB2YWwgZmllbGQgPSBTeXN0ZW0uZ2V0ZW52KCkuZ2V0Q2xhc3MuZ2V0RGVjbGFyZWRGaWVsZCgibSIpCi8vICAgIGZpZWxkLnNldEFjY2Vzc2libGUodHJ1ZSkKLy8gICAgdmFsIG1hcCA9IGZpZWxkLmdldChTeXN0ZW0uZ2V0ZW52KCkpLmFzSW5zdGFuY2VPZltqYXZhLnV0aWwuTWFwW2phdmEubGFuZy5TdHJpbmcsIGphdmEubGFuZy5TdHJpbmddXQogICAgdmFsIG1hcCA9IFN5c3RlbS5nZXRlbnYoKQogICAgbWFwLnB1dChrZXksIHZhbHVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGdsb2JhbEVudlZhbHVlID0gc3lzLmVudi5nZXRPckVsc2UocyIke25hbWV9XyR7Y2xpZW50SWQudG9TdHJpbmcudG9VcHBlckNhc2V9IiwgIiIpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBmaWVsZCA9IFN5c3RlbS5nZXRlbnYoKS5nZXRDbGFzcy5nZXREZWNsYXJlZEZpZWxkKCJtIikKICAgIGZpZWxkLnNldEFjY2Vzc2libGUodHJ1ZSkKICAgIHZhbCBtYXAgPSBmaWVsZC5nZXQoU3lzdGVtLmdldGVudigpKS5hc0luc3RhbmNlT2ZbamF2YS51dGlsLk1hcFtqYXZhLmxhbmcuU3RyaW5nLCBqYXZhLmxhbmcuU3RyaW5nXV0KICAgIG1hcC5yZW1vdmUoa2V5KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcC5zZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIF8gPC0gcHJvdGVjdEJ5RmVhdHVyZVRvZ2dsZShGZWF0dXJlTmFtZS5VU0VfR1JPVVBTX1NFUlZJQ0VfRk9SX1BFUk1JU1NJT05TKQovLyAgICAgICAgewovLyAgICAgICAgICB2YWwgYXV0aEluZm8gPSBBdXRoSW5mbyh1c2VyLmlkLCBhY2Nlc3NUb2tlbi5jbGllbnRJZCkKLy8gICAgICAgICAgdmFsIGZha2VBY2Nlc3NUb2tlbkZvclVzZXJDcmVhdGVkOiBBY2Nlc3NUb2tlbiA9IEFjY2Vzc1Rva2VuSGVscGVyLmVuY29kZShhdXRoSW5mbykKLy8gICAgICAgICAgcmVnaXN0ZXJHcm91cCh1c2VyLmdyb3VwSWQpKGZha2VBY2Nlc3NUb2tlbkZvclVzZXJDcmVhdGVkKQovLyAgICAgICAgfSB7IEZ1dHVyZSgoKSkgfQo=</text>
+        <text encoding="base64">ICBkZWYgc2V0RW52KGtleTogU3RyaW5nLCB2YWx1ZTogU3RyaW5nKTogVW5pdCA9IHsKICAgIC8vIGh0dHBzOi8vc3RhY2tvdmVyZmxvdy5jb20vYS8zNDAzMDczMQovLyAgICB2YWwgZmllbGQgPSBTeXN0ZW0uZ2V0ZW52KCkuZ2V0Q2xhc3MuZ2V0RGVjbGFyZWRGaWVsZCgibSIpCi8vICAgIGZpZWxkLnNldEFjY2Vzc2libGUodHJ1ZSkKLy8gICAgdmFsIG1hcCA9IGZpZWxkLmdldChTeXN0ZW0uZ2V0ZW52KCkpLmFzSW5zdGFuY2VPZltqYXZhLnV0aWwuTWFwW2phdmEubGFuZy5TdHJpbmcsIGphdmEubGFuZy5TdHJpbmddXQogICAgdmFsIG1hcCA9IFN5c3RlbS5nZXRlbnYoKQogICAgbWFwLnB1dChrZXksIHZhbHVlKQogIH0KCiAgZGVmIGNsZWFyRW52KGtleTogU3RyaW5nKTogVW5pdCA9IHsKICAgIHZhbCBmaWVsZCA9IFN5c3RlbS5nZXRlbnYoKS5nZXRDbGFzcy5nZXREZWNsYXJlZEZpZWxkKCJtIikKICAgIGZpZWxkLnNldEFjY2Vzc2libGUodHJ1ZSkKICAgIHZhbCBtYXAgPSBmaWVsZC5nZXQoU3lzdGVtLmdldGVudigpKS5hc0luc3RhbmNlT2ZbamF2YS51dGlsLk1hcFtqYXZhLmxhbmcuU3RyaW5nLCBqYXZhLmxhbmcuU3RyaW5nXV0KICAgIG1hcC5yZW1vdmUoa2V5KQogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBVc2UgcHJvcGVyIGFjY2VzcyB0b2tlbiBmb3IgZ3JvdXBzCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>102</text>
