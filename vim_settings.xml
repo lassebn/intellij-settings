@@ -973,7 +973,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522060778120">
+      <file name="/Dummy.txt" timestamp="1522138372526">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -1624,8 +1624,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/db/MySQLDBImpl.scala" timestamp="1522137240526">
-        <mark key="[" line="30" column="20" />
+      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/db/MySQLDBImpl.scala" timestamp="1522138133188">
+        <mark key="[" line="41" column="23" />
         <mark key="]" line="41" column="23" />
         <mark key="^" line="41" column="23" />
         <mark key="." line="41" column="23" />
