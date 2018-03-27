@@ -166,10 +166,10 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/build.sbt" timestamp="1520516927635">
-        <mark key="[" line="68" column="26" />
-        <mark key="]" line="68" column="17" />
-        <mark key="." line="68" column="17" />
+      <file name="$USER_HOME$/Source/platform-commons/build.sbt" timestamp="1522137341881">
+        <mark key="[" line="68" column="17" />
+        <mark key="]" line="68" column="18" />
+        <mark key="." line="68" column="18" />
         <mark key="^" line="68" column="17" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/src/main/resources/application.conf" timestamp="1504787946153">
@@ -203,9 +203,9 @@
         <mark key="." line="55" column="16" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/id/src/main/scala/leoilab/id/BaseId.scala" timestamp="1520515379870">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503487992585">
         <mark key="[" line="37" column="81" />
@@ -686,6 +686,12 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="52" column="14" />
       </file>
+      <file name="$USER_HOME$/Source/platform-commons/README.md" timestamp="1522137424095">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="40" column="44" />
+        <mark key="^" line="40" column="44" />
+        <mark key="." line="40" column="44" />
+      </file>
       <file name="$USER_HOME$/Source/images3/testkit/src/main/scala/com/leoilab/images/util/ImageResourcesExpected.scala" timestamp="1503575390394">
         <mark key="[" line="63" column="127" />
         <mark key="]" line="63" column="136" />
@@ -1026,7 +1032,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1521794935819" />
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/klikkit/KlikkitApi.scala" timestamp="1519994592576">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -1618,6 +1623,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/db/MySQLDBImpl.scala" timestamp="1522137240526">
+        <mark key="[" line="30" column="20" />
+        <mark key="]" line="41" column="23" />
+        <mark key="^" line="41" column="23" />
+        <mark key="." line="41" column="23" />
       </file>
       <file name="$USER_HOME$/Source/platform-memberships/build.sbt" timestamp="1521814936724">
         <mark key="[" line="52" column="17" />
