@@ -166,10 +166,10 @@
         <mark key="." line="138" column="79" />
         <mark key="^" line="138" column="79" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1522766113832">
-        <mark key="[" line="178" column="66" />
-        <mark key="]" line="178" column="64" />
-        <mark key="." line="178" column="64" />
+      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1522851694515">
+        <mark key="[" line="170" column="45" />
+        <mark key="]" line="170" column="46" />
+        <mark key="." line="170" column="46" />
         <mark key="^" line="178" column="64" />
       </file>
       <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1520588108745">
@@ -544,6 +544,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1522829743545" />
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
