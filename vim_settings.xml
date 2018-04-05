@@ -166,11 +166,11 @@
         <mark key="." line="138" column="79" />
         <mark key="^" line="138" column="79" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1522851694515">
-        <mark key="[" line="170" column="45" />
-        <mark key="]" line="170" column="46" />
-        <mark key="." line="170" column="46" />
-        <mark key="^" line="178" column="64" />
+      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1522918466349">
+        <mark key="[" line="195" column="43" />
+        <mark key="]" line="195" column="45" />
+        <mark key="." line="195" column="45" />
+        <mark key="^" line="195" column="45" />
       </file>
       <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1520588108745">
         <mark key="[" line="42" column="0" />
@@ -2166,12 +2166,6 @@
         <mark key="]" line="152" column="18" />
         <mark key="^" line="152" column="18" />
         <mark key="." line="152" column="18" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/CollectionsServiceFuncSpec.scala" timestamp="1522763559628">
-        <mark key="[" line="137" column="59" />
-        <mark key="]" line="137" column="66" />
-        <mark key="^" line="137" column="66" />
-        <mark key="." line="137" column="66" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/concurrent/Execution.scala" timestamp="1503927682223">
         <mark key="[" line="6" column="79" />
