@@ -166,11 +166,11 @@
         <mark key="." line="138" column="79" />
         <mark key="^" line="138" column="79" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1523004876864">
-        <mark key="[" line="194" column="40" />
-        <mark key="]" line="194" column="45" />
-        <mark key="." line="194" column="45" />
-        <mark key="^" line="194" column="45" />
+      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1523016254001">
+        <mark key="[" line="130" column="27" />
+        <mark key="]" line="131" column="34" />
+        <mark key="." line="131" column="34" />
+        <mark key="^" line="131" column="34" />
       </file>
       <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1520588108745">
         <mark key="[" line="42" column="0" />
@@ -1416,7 +1416,7 @@
         <mark key="^" line="51" column="14" />
         <mark key="." line="51" column="14" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1523006389787">
+      <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1523015191848">
         <mark key="[" line="51" column="2" />
         <mark key="]" line="51" column="2" />
         <mark key="." line="51" column="2" />
@@ -1737,11 +1737,11 @@
         <mark key="^" line="107" column="41" />
         <mark key="." line="107" column="41" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/project/build.properties" timestamp="1520002531820">
+      <file name="$USER_HOME$/Source/platform-images/project/build.properties" timestamp="1523016482352">
         <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/ListAncestorsIntegrationTest.scala" timestamp="1519313514165">
         <mark key="[" line="21" column="19" />
