@@ -1416,11 +1416,11 @@
         <mark key="^" line="51" column="14" />
         <mark key="." line="51" column="14" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1523005768231">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="22" column="17" />
+      <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1523006389787">
+        <mark key="[" line="51" column="2" />
+        <mark key="]" line="51" column="2" />
+        <mark key="." line="51" column="2" />
+        <mark key="^" line="51" column="2" />
       </file>
       <file name="$USER_HOME$/Source/tree-mysql/docker-compose.yml" timestamp="1517232878354">
         <mark key="[" line="9" column="19" />
@@ -2398,8 +2398,8 @@
       <jump line="48" column="60" filename="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageMetadataDependencyInjectionSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IENyZWF0ZSB1c2VycyBhbmQgZ2V0IGFjY2VzcyB0b2tlbnMK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5022,7 +5022,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2.17.0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
