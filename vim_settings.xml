@@ -166,10 +166,10 @@
         <mark key="." line="138" column="79" />
         <mark key="^" line="138" column="79" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1522935547856">
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="186" column="0" />
-        <mark key="." line="186" column="0" />
+      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1523004876864">
+        <mark key="[" line="194" column="40" />
+        <mark key="]" line="194" column="45" />
+        <mark key="." line="194" column="45" />
         <mark key="^" line="194" column="45" />
       </file>
       <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1520588108745">
@@ -1271,12 +1271,6 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1522933280516">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
         <mark key="[" line="16" column="69" />
@@ -2403,8 +2397,8 @@
       <jump line="48" column="60" filename="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageMetadataDependencyInjectionSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAuc2V0dGluZ3Moc2NhbGFWZXJzaW9uIDo9ICIyLjEyLjQiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>2.17.0</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5027,7 +5021,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1.10.8</text>
+        <text>2.17.0</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
