@@ -161,6 +161,11 @@
         <mark key="^" line="152" column="46" />
         <mark key="." line="152" column="46" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRepository.scala" timestamp="1526301849296">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsApiSpec.scala" timestamp="1521805965973">
         <mark key="[" line="138" column="72" />
         <mark key="]" line="138" column="79" />
@@ -1327,6 +1332,11 @@
         <mark key="^" line="57" column="39" />
         <mark key="." line="274" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/MetaGroupRepository.scala" timestamp="1526301646137">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientCollectionPropertiesIntegrationTest.scala" timestamp="1523005745557">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -2164,6 +2174,12 @@
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="36" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/db/migration/V7__meta_groups.sql" timestamp="1526301074997">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupRoutesSpec.scala" timestamp="1520586782814">
         <mark key="[" line="152" column="15" />
         <mark key="]" line="152" column="18" />
@@ -2408,8 +2424,8 @@
       <jump line="48" column="60" filename="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageMetadataDependencyInjectionSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Update pull request template with schema change checks</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5041,34 +5057,34 @@
         <text encoding="base64">IyMjIDEuOS40CiAgICAqIE9wZXJhdGlvbmFsOiBVcGRhdGUgcHVsbCByZXF1ZXN0IHRlbXBsYXRlIHdpdGggc2NoZW1hIGNoYW5nZSBjaGVja3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIDEuOS40CiAgICAqIE9wZXJhdGlvbmFsOiBVcGRhdGUgcHVsbCByZXF1ZXN0IHRlbXBsYXRlIHdpdGggc2NoZW1hIGNoYW5nZSBjaGVja3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogc3RyaW5nCg==</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZ3JvdXBJZENvbHVtblR5cGU6IEpkYmNUeXBlW0dyb3VwSWRdID0gTWFwcGVkQ29sdW1uVHlwZS5iYXNlW0dyb3VwSWQsIFN0cmluZ10oCiAgICB7IGdpZCA9PiBnaWQudmFsdWUgfSwKICAgIHsgc3RyaW5nID0+IEdyb3VwSWQoVVVJRC5mcm9tU3RyaW5nKHN0cmluZykpIH0KICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IENyZWF0ZSB1c2VycyBhbmQgZ2V0IGFjY2VzcyB0b2tlbnMK</text>
+        <text encoding="base64">ICBpbXBsaWNpdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgYWNjZXNzVG9rZW4gPSB1c2Vyc0NsaWVudC5jcmVhdGVVc2VyKENyZWF0ZVVzZXJEVE8oCi8vICAgICAgcmFuZG9tU3RyaW5nKDEwKSwgcmFuZG9tU3RyaW5nKDEwKSwgcmFuZG9tU3RyaW5nKDEwKQovLyAgICApKShDbGllbnRJZCgidGVzdCIpKS5mdXR1cmVWYWx1ZS5hdXRoLmFjY2Vzc1Rva2VuCi8vICAgIG90aGVyVXNlckFjY2Vzc1Rva2VuID0gdXNlcnNDbGllbnQuY3JlYXRlVXNlcihDcmVhdGVVc2VyRFRPKAovLyAgICAgIHJhbmRvbVN0cmluZygxMCksIHJhbmRvbVN0cmluZygxMCksIHJhbmRvbVN0cmluZygxMCkKLy8gICAgKSkoQ2xpZW50SWQoInRlc3QiKSkuZnV0dXJlVmFsdWUuYXV0aC5hY2Nlc3NUb2tlbgo=</text>
+        <text encoding="base64">IyMjIDEuOS40CiAgICAqIE9wZXJhdGlvbmFsOiBVcGRhdGUgcHVsbCByZXF1ZXN0IHRlbXBsYXRlIHdpdGggc2NoZW1hIGNoYW5nZSBjaGVja3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IENyZWF0ZSB1c2VycyBhbmQgZ2V0IGFjY2VzcyB0b2tlbnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogc3RyaW5nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAuc2V0dGluZ3Moc2NhbGFWZXJzaW9uIDo9ICIyLjEyLjQiKQo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IENyZWF0ZSB1c2VycyBhbmQgZ2V0IGFjY2VzcyB0b2tlbnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1hCg==</text>
+        <text encoding="base64">Ly8gICAgYWNjZXNzVG9rZW4gPSB1c2Vyc0NsaWVudC5jcmVhdGVVc2VyKENyZWF0ZVVzZXJEVE8oCi8vICAgICAgcmFuZG9tU3RyaW5nKDEwKSwgcmFuZG9tU3RyaW5nKDEwKSwgcmFuZG9tU3RyaW5nKDEwKQovLyAgICApKShDbGllbnRJZCgidGVzdCIpKS5mdXR1cmVWYWx1ZS5hdXRoLmFjY2Vzc1Rva2VuCi8vICAgIG90aGVyVXNlckFjY2Vzc1Rva2VuID0gdXNlcnNDbGllbnQuY3JlYXRlVXNlcihDcmVhdGVVc2VyRFRPKAovLyAgICAgIHJhbmRvbVN0cmluZygxMCksIHJhbmRvbVN0cmluZygxMCksIHJhbmRvbVN0cmluZygxMCkKLy8gICAgKSkoQ2xpZW50SWQoInRlc3QiKSkuZnV0dXJlVmFsdWUuYXV0aC5hY2Nlc3NUb2tlbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IENyZWF0ZSB1c2VycyBhbmQgZ2V0IGFjY2VzcyB0b2tlbnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjcm9zc1NjYWxhVmVyc2lvbnMgOj0gU2VxKCIyLjExLjgiLCAiMi4xMi40IiksCg==</text>
+        <text encoding="base64">ICAuc2V0dGluZ3Moc2NhbGFWZXJzaW9uIDo9ICIyLjEyLjQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
