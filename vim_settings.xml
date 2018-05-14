@@ -2210,6 +2210,9 @@
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
       </file>
+      <file name="/sbtShell" timestamp="1526290572078">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/docker-compose.yml" timestamp="1504793799465">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
