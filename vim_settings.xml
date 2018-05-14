@@ -509,7 +509,7 @@
         <mark key="." line="21" column="31" />
         <mark key="^" line="21" column="31" />
       </file>
-      <file name="/dummy.sql" timestamp="1509547804967">
+      <file name="/dummy.sql" timestamp="1526306585759">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -809,6 +809,7 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.leoilab/platform-memberships-client_2.12/srcs/platform-memberships-client_2.12-1.14.0-sources.jar!/com/leoilab/memberships/client/MembershipsClient.scala" timestamp="1526305780391" />
       <file name="$USER_HOME$/Source/sensible-group-client/src/test/scala/com/leoilab/sensible/groups/client/GroupsClientSpec.scala" timestamp="1520588169514">
         <mark key="[" line="389" column="0" />
         <mark key="]" line="389" column="0" />
@@ -1225,6 +1226,9 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
+      <file name="/groups [groups@localhost]" timestamp="1526306093175">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageServiceFuncSpec.scala" timestamp="1522764143338">
         <mark key="[" line="15" column="19" />
         <mark key="]" line="15" column="34" />
@@ -1243,11 +1247,11 @@
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/testutils/TestAuthInfo.scala" timestamp="1522140878285">
-        <mark key="[" line="33" column="43" />
-        <mark key="]" line="33" column="41" />
-        <mark key="." line="33" column="41" />
-        <mark key="^" line="33" column="41" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/testutils/TestAuthInfo.scala" timestamp="1526305884836">
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="33" column="23" />
+        <mark key="." line="33" column="23" />
+        <mark key="^" line="33" column="23" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/build.sbt" timestamp="1526302378479">
         <mark key="[" line="68" column="19" />
@@ -1498,13 +1502,6 @@
         <mark key="]" line="25" column="23" />
         <mark key="." line="25" column="23" />
         <mark key="^" line="25" column="23" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageMetadataDependencyInjectionSpec.scala" timestamp="1522764074248">
-        <mark key="'" line="49" column="60" />
-        <mark key="[" line="49" column="60" />
-        <mark key="]" line="49" column="71" />
-        <mark key="^" line="49" column="71" />
-        <mark key="." line="49" column="71" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/access/CollectionAccessDirective.scala" timestamp="1503048650120">
         <mark key="[" line="20" column="0" />
@@ -2429,8 +2426,8 @@
       <jump line="48" column="60" filename="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageMetadataDependencyInjectionSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBtb2RpZmllZCBUSU1FU1RBTVAgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCwK</text>
+      <register name="&quot;" type="4">
+        <text>UUID.randomUUID().toString</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5053,7 +5050,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9nX3Nob2VsYWNlIA==</text>
+        <text>UUID.randomUUID().toString</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
