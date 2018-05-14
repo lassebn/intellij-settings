@@ -161,10 +161,10 @@
         <mark key="^" line="152" column="46" />
         <mark key="." line="152" column="46" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRepository.scala" timestamp="1526301849296">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRepository.scala" timestamp="1526303054843">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsApiSpec.scala" timestamp="1521805965973">
         <mark key="[" line="138" column="72" />
@@ -365,9 +365,9 @@
       </file>
       <file name="$USER_HOME$/Source/platform-commons/README.md" timestamp="1522137424095">
         <mark key="[" line="39" column="0" />
-        <mark key="]" line="40" column="44" />
-        <mark key="^" line="40" column="44" />
-        <mark key="." line="40" column="44" />
+        <mark key="]" line="53" column="44" />
+        <mark key="^" line="53" column="44" />
+        <mark key="." line="53" column="44" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-import/wiremock/mappings/wufooGetUKEfficacyFields.json" timestamp="1507533742967">
         <mark key="[" line="995" column="4" />
@@ -1249,11 +1249,11 @@
         <mark key="." line="33" column="41" />
         <mark key="^" line="33" column="41" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/build.sbt" timestamp="1522151788612">
-        <mark key="[" line="68" column="17" />
-        <mark key="]" line="68" column="26" />
-        <mark key="." line="68" column="26" />
-        <mark key="^" line="68" column="26" />
+      <file name="$USER_HOME$/Source/platform-commons/build.sbt" timestamp="1526302378479">
+        <mark key="[" line="68" column="19" />
+        <mark key="]" line="68" column="28" />
+        <mark key="." line="68" column="28" />
+        <mark key="^" line="68" column="28" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/src/main/resources/application.conf" timestamp="1504787946153">
         <mark key="[" line="5" column="0" />
@@ -1931,6 +1931,12 @@
         <mark key="]" line="0" column="64" />
         <mark key="." line="0" column="64" />
       </file>
+      <file name="$USER_HOME$/Source/platform-commons/id/src/main/scala/com/leoilab/id/GroupId.scala" timestamp="1526302855995">
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="6" column="58" />
+        <mark key="^" line="6" column="75" />
+        <mark key="." line="6" column="58" />
+      </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/AwsTasks.scala" timestamp="1512132612755">
         <mark key="[" line="119" column="172" />
         <mark key="]" line="119" column="170" />
@@ -2174,11 +2180,10 @@
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/db/migration/V7__meta_groups.sql" timestamp="1526301074997">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/db/migration/V7__meta_groups.sql" timestamp="1526303491201">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupRoutesSpec.scala" timestamp="1520586782814">
         <mark key="[" line="152" column="15" />
@@ -2425,7 +2430,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtb2RpZmllZCBUSU1FU1RBTVAgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCwK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5048,43 +5053,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Update pull request template with schema change checks</text>
+        <text encoding="base64">bG9nX3Nob2VsYWNlIA==</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMjIDEuOS40CiAgICAqIE9wZXJhdGlvbmFsOiBVcGRhdGUgcHVsbCByZXF1ZXN0IHRlbXBsYXRlIHdpdGggc2NoZW1hIGNoYW5nZSBjaGVja3MK</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZ3JvdXBJZENvbHVtblR5cGU6IEpkYmNUeXBlW0dyb3VwSWRdID0gTWFwcGVkQ29sdW1uVHlwZS5iYXNlW0dyb3VwSWQsIFN0cmluZ10oCiAgICB7IGdpZCA9PiBnaWQudmFsdWUgfSwKICAgIHsgc3RyaW5nID0+IEdyb3VwSWQoVVVJRC5mcm9tU3RyaW5nKHN0cmluZykpIH0KICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtb2RpZmllZCBUSU1FU1RBTVAgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZ3JvdXBJZENvbHVtblR5cGU6IEpkYmNUeXBlW0dyb3VwSWRdID0gTWFwcGVkQ29sdW1uVHlwZS5iYXNlW0dyb3VwSWQsIFN0cmluZ10oCiAgICB7IGdpZCA9PiBnaWQudmFsdWUgfSwKICAgIHsgc3RyaW5nID0+IEdyb3VwSWQoVVVJRC5mcm9tU3RyaW5nKHN0cmluZykpIH0KICApCg==</text>
+        <text encoding="base64">Q1JFQVRFIFJVTEUgdXBkYXRlX21ldGFfZ3JvdXBfbW9kaWZpZWRfb25fdXBkYXRlIEFTIE9OIFVQREFURSBUTyBtZXRhX2dyb3VwcwpXSEVSRSBORVcuc2xfYXZhaWwgPD4gT0xELnNsX2F2YWlsCkRPIElOU0VSVCBJTlRPIHNob2VsYWNlX2xvZyBWQUxVRVMgKApORVcuc2xfbmFtZSwKTkVXLnNsX2F2YWlsLApjdXJyZW50X3VzZXIsCmN1cnJlbnRfdGltZXN0YW1wCik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdAo=</text>
+        <text encoding="base64">ICBtb2RpZmllZCBUSU1FU1RBTVAgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCBPTiBVUERBVEUgQ1VSUkVOVF9USU1FU1RBTVAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMjIDEuOS40CiAgICAqIE9wZXJhdGlvbmFsOiBVcGRhdGUgcHVsbCByZXF1ZXN0IHRlbXBsYXRlIHdpdGggc2NoZW1hIGNoYW5nZSBjaGVja3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogc3RyaW5nCg==</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZ3JvdXBJZENvbHVtblR5cGU6IEpkYmNUeXBlW0dyb3VwSWRdID0gTWFwcGVkQ29sdW1uVHlwZS5iYXNlW0dyb3VwSWQsIFN0cmluZ10oCiAgICB7IGdpZCA9PiBnaWQudmFsdWUgfSwKICAgIHsgc3RyaW5nID0+IEdyb3VwSWQoVVVJRC5mcm9tU3RyaW5nKHN0cmluZykpIH0KICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IENyZWF0ZSB1c2VycyBhbmQgZ2V0IGFjY2VzcyB0b2tlbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgYWNjZXNzVG9rZW4gPSB1c2Vyc0NsaWVudC5jcmVhdGVVc2VyKENyZWF0ZVVzZXJEVE8oCi8vICAgICAgcmFuZG9tU3RyaW5nKDEwKSwgcmFuZG9tU3RyaW5nKDEwKSwgcmFuZG9tU3RyaW5nKDEwKQovLyAgICApKShDbGllbnRJZCgidGVzdCIpKS5mdXR1cmVWYWx1ZS5hdXRoLmFjY2Vzc1Rva2VuCi8vICAgIG90aGVyVXNlckFjY2Vzc1Rva2VuID0gdXNlcnNDbGllbnQuY3JlYXRlVXNlcihDcmVhdGVVc2VyRFRPKAovLyAgICAgIHJhbmRvbVN0cmluZygxMCksIHJhbmRvbVN0cmluZygxMCksIHJhbmRvbVN0cmluZygxMCkKLy8gICAgKSkoQ2xpZW50SWQoInRlc3QiKSkuZnV0dXJlVmFsdWUuYXV0aC5hY2Nlc3NUb2tlbgo=</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZ3JvdXBJZENvbHVtblR5cGU6IEpkYmNUeXBlW0dyb3VwSWRdID0gTWFwcGVkQ29sdW1uVHlwZS5iYXNlW0dyb3VwSWQsIFN0cmluZ10oCiAgICB7IGdpZCA9PiBnaWQudmFsdWUgfSwKICAgIHsgc3RyaW5nID0+IEdyb3VwSWQoVVVJRC5mcm9tU3RyaW5nKHN0cmluZykpIH0KICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IENyZWF0ZSB1c2VycyBhbmQgZ2V0IGFjY2VzcyB0b2tlbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAuc2V0dGluZ3Moc2NhbGFWZXJzaW9uIDo9ICIyLjEyLjQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
