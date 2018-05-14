@@ -112,6 +112,7 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/db/migration/V1__Initial_version.sql" timestamp="1526297105754" />
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiBinaryResponsesFuncSpec.scala" timestamp="1522763628958">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="26" />
