@@ -165,10 +165,11 @@
         <mark key="^" line="152" column="46" />
         <mark key="." line="152" column="46" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRepository.scala" timestamp="1526380636441">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRepository.scala" timestamp="1526390357757">
+        <mark key="[" line="31" column="70" />
+        <mark key="]" line="31" column="79" />
+        <mark key="." line="31" column="79" />
+        <mark key="^" line="31" column="79" />
       </file>
       <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsApiSpec.scala" timestamp="1521805965973">
         <mark key="[" line="138" column="72" />
@@ -271,11 +272,10 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupService.scala" timestamp="1526381739290">
-        <mark key="[" line="23" column="105" />
-        <mark key="]" line="23" column="106" />
-        <mark key="." line="23" column="106" />
-        <mark key="^" line="23" column="106" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupService.scala" timestamp="1526391612225">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/README.md" timestamp="1500989023233">
         <mark key="[" line="40" column="3" />
@@ -893,10 +893,6 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java" timestamp="1526380033345">
-        <mark key="[" line="894" column="0" />
-        <mark key="]" line="898" column="74" />
-      </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/README.md" timestamp="1509453291038">
         <mark key="[" line="44" column="165" />
         <mark key="]" line="44" column="167" />
@@ -1364,11 +1360,11 @@
         <mark key="^" line="57" column="39" />
         <mark key="." line="274" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/MetaGroupRepository.scala" timestamp="1526385944294">
-        <mark key="[" line="33" column="44" />
-        <mark key="]" line="33" column="44" />
-        <mark key="." line="33" column="44" />
-        <mark key="^" line="33" column="43" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/MetaGroupRepository.scala" timestamp="1526390444038">
+        <mark key="[" line="48" column="48" />
+        <mark key="]" line="48" column="46" />
+        <mark key="." line="48" column="46" />
+        <mark key="^" line="48" column="46" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientCollectionPropertiesIntegrationTest.scala" timestamp="1523005745557">
         <mark key="[" line="43" column="0" />
@@ -1625,10 +1621,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/core/src/main/scala/com/leoilab/sensible/groups/CreateGroupDTO.scala" timestamp="1526372051153">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/build.sbt" timestamp="1509453128974">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="13" />
@@ -1640,6 +1632,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="9" column="65" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupServiceSpec.scala" timestamp="1526391665865">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="49" />
+        <mark key="^" line="32" column="49" />
+        <mark key="." line="32" column="49" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/images/DeferredImagesService.scala" timestamp="1510138089535">
         <mark key="[" line="13" column="0" />
@@ -1781,11 +1779,11 @@
         <mark key="^" line="1" column="83" />
         <mark key="." line="1" column="83" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/core/src/main/scala/com/leoilab/sensible/groups/MetaGroup.scala" timestamp="1526375458608">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="10" column="43" />
-        <mark key="^" line="10" column="43" />
-        <mark key="." line="10" column="43" />
+      <file name="$USER_HOME$/Source/sensible-group-client/core/src/main/scala/com/leoilab/sensible/groups/MetaGroup.scala" timestamp="1526389235145">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="51" />
+        <mark key="^" line="10" column="51" />
+        <mark key="." line="10" column="51" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/HttpMethods.scala" timestamp="1522148559199">
         <mark key="[" line="8" column="0" />
@@ -1816,11 +1814,11 @@
         <mark key="^" line="37" column="50" />
         <mark key="." line="37" column="50" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/MetaGroupRepositorySpec.scala" timestamp="1526386655984">
-        <mark key="[" line="54" column="41" />
-        <mark key="]" line="54" column="61" />
-        <mark key="^" line="54" column="61" />
-        <mark key="." line="54" column="61" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/MetaGroupRepositorySpec.scala" timestamp="1526391711106">
+        <mark key="[" line="49" column="104" />
+        <mark key="]" line="49" column="89" />
+        <mark key="^" line="49" column="89" />
+        <mark key="." line="49" column="89" />
       </file>
       <file name="$USER_HOME$/Source/sensible-group-client/core/src/main/scala/com/leoilab/sensible/groups/GroupObjectType.scala" timestamp="1520495398375">
         <mark key="[" line="3" column="51" />
@@ -1870,10 +1868,11 @@
         <mark key="." line="128" column="18" />
         <mark key="^" line="128" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRoutes.scala" timestamp="1520518109805">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRoutes.scala" timestamp="1526389755145">
+        <mark key="[" line="111" column="75" />
+        <mark key="]" line="111" column="92" />
+        <mark key="." line="111" column="92" />
+        <mark key="^" line="111" column="92" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImagePropertiesRepositorySpec.scala" timestamp="1503392372417">
         <mark key="[" line="68" column="50" />
@@ -1917,11 +1916,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="154" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupServer.scala" timestamp="1520429161082">
-        <mark key="[" line="27" column="2" />
-        <mark key="]" line="27" column="13" />
-        <mark key="^" line="27" column="13" />
-        <mark key="." line="27" column="13" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupServer.scala" timestamp="1526390017429">
+        <mark key="[" line="21" column="69" />
+        <mark key="]" line="22" column="80" />
+        <mark key="^" line="22" column="80" />
+        <mark key="." line="22" column="80" />
       </file>
       <file name="/Python Console" timestamp="1499338031303">
         <mark key="[" line="0" column="4" />
@@ -2489,8 +2488,8 @@
       <jump line="42" column="0" filename="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/MetaGroupRepository.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>RuntimeException</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5113,43 +5112,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>RuntimeException</text>
+        <text>groupService.getGroup(GroupType.Base.toString, GroupObjectType.Client.toString, accessToken)</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGdyb3VwID0gTWV0YUdyb3VwKEdyb3VwSWQuZ2VuZXJhdGUsIFVzZXJJZC5nZW5lcmF0ZSwgQ2xpZW50SWQoInBsYXRmb3JtIiksIExvY2FsRGF0ZVRpbWUubm93KCkpCiAgICAgIHZhbCBpbnNlcnRzID0gcmVwb3NpdG9yeS5pbnNlcnQoZ3JvdXApLmZ1dHVyZVZhbHVlCiAgICAgIHZhbCBmZXRjaGVkR3JvdXAgPSByZXBvc2l0b3J5LmdldChncm91cC5pZCkuZnV0dXJlVmFsdWUKCiAgICAgIGluc2VydHMgc2hvdWxkQmUgMQogICAgICBmZXRjaGVkR3JvdXAgc2hvdWxkQmUgZ3JvdXAK</text>
+      <register name="0" type="4">
+        <text>throw new GroupRepositoryInsertException(s&quot;group id: $group.id - slick says: %i&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaW5zZXJ0cyBzaG91bGRCZSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBkZWYgdmFsaWRHcm91cE5hbWUoZ3JvdXBOYW1lOiBTdHJpbmcpOiBCb29sZWFuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGZldGNoZWRHcm91cCA9IHJlcG9zaXRvcnkuZ2V0KGdyb3VwLmlkKS5mdXR1cmVWYWx1ZQo=</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgdmFsaWRHcm91cE5hbWUoZ3JvdXBOYW1lOiBTdHJpbmcpOiBCb29sZWFuID0gewogICAgISBncm91cE5hbWUuY29udGFpbnMoKQogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZmV0Y2hlZEdyb3VwIHNob3VsZEJlIGdyb3VwCg==</text>
+        <text encoding="base64">ICAgIHZhbCBncm91cCA9IEdyb3VwKEdyb3VwSWQuZ2VuZXJhdGUsIG1ldGFHcm91cCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgaW5zZXJ0cyBzaG91bGRCZSAxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZCBWQVJDSEFSKDM2KSBOT1QgTlVMTCBQUklNQVJZIEtFWSwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGZldGNoZWRHcm91cCA9IHJlcG9zaXRvcnkuZ2V0KGdyb3VwLmlkKS5mdXR1cmVWYWx1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5mbHl3YXlkYi5jb3JlLkZseXdheQo=</text>
+        <text encoding="base64">ICAgICAgZmV0Y2hlZEdyb3VwIHNob3VsZEJlIGdyb3VwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFra2EuYWN0b3IuQWN0b3JTeXN0ZW0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
