@@ -1814,11 +1814,11 @@
         <mark key="^" line="37" column="50" />
         <mark key="." line="37" column="50" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/MetaGroupRepositorySpec.scala" timestamp="1526391711106">
-        <mark key="[" line="49" column="104" />
-        <mark key="]" line="49" column="89" />
-        <mark key="^" line="49" column="89" />
-        <mark key="." line="49" column="89" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/MetaGroupRepositorySpec.scala" timestamp="1526393234688">
+        <mark key="[" line="44" column="6" />
+        <mark key="]" line="44" column="33" />
+        <mark key="^" line="44" column="33" />
+        <mark key="." line="44" column="33" />
       </file>
       <file name="$USER_HOME$/Source/sensible-group-client/core/src/main/scala/com/leoilab/sensible/groups/GroupObjectType.scala" timestamp="1520495398375">
         <mark key="[" line="3" column="51" />
