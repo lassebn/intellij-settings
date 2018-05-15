@@ -160,7 +160,7 @@
         <mark key="^" line="152" column="46" />
         <mark key="." line="152" column="46" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRepository.scala" timestamp="1526303054843">
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRepository.scala" timestamp="1526370860943">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
@@ -513,6 +513,12 @@
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/InitialClientUserGroupsIntegrationTest.scala" timestamp="1526370807520">
+        <mark key="[" line="42" column="3" />
+        <mark key="]" line="42" column="1" />
+        <mark key="." line="42" column="1" />
+        <mark key="^" line="42" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1522138372526">
         <mark key="[" line="0" column="0" />
@@ -2424,8 +2430,8 @@
       <jump line="48" column="60" filename="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageMetadataDependencyInjectionSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>UUID.randomUUID().toString</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5048,7 +5054,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>UUID.randomUUID().toString</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
@@ -5057,22 +5063,22 @@
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZ3JvdXBJZENvbHVtblR5cGU6IEpkYmNUeXBlW0dyb3VwSWRdID0gTWFwcGVkQ29sdW1uVHlwZS5iYXNlW0dyb3VwSWQsIFN0cmluZ10oCiAgICB7IGdpZCA9PiBnaWQudmFsdWUgfSwKICAgIHsgc3RyaW5nID0+IEdyb3VwSWQoVVVJRC5mcm9tU3RyaW5nKHN0cmluZykpIH0KICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtb2RpZmllZCBUSU1FU1RBTVAgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q1JFQVRFIFJVTEUgdXBkYXRlX21ldGFfZ3JvdXBfbW9kaWZpZWRfb25fdXBkYXRlIEFTIE9OIFVQREFURSBUTyBtZXRhX2dyb3VwcwpXSEVSRSBORVcuc2xfYXZhaWwgPD4gT0xELnNsX2F2YWlsCkRPIElOU0VSVCBJTlRPIHNob2VsYWNlX2xvZyBWQUxVRVMgKApORVcuc2xfbmFtZSwKTkVXLnNsX2F2YWlsLApjdXJyZW50X3VzZXIsCmN1cnJlbnRfdGltZXN0YW1wCik7Cg==</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZ3JvdXBJZENvbHVtblR5cGU6IEpkYmNUeXBlW0dyb3VwSWRdID0gTWFwcGVkQ29sdW1uVHlwZS5iYXNlW0dyb3VwSWQsIFN0cmluZ10oCiAgICB7IGdpZCA9PiBnaWQudmFsdWUgfSwKICAgIHsgc3RyaW5nID0+IEdyb3VwSWQoVVVJRC5mcm9tU3RyaW5nKHN0cmluZykpIH0KICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtb2RpZmllZCBUSU1FU1RBTVAgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCBPTiBVUERBVEUgQ1VSUkVOVF9USU1FU1RBTVAsCg==</text>
+        <text encoding="base64">ICBtb2RpZmllZCBUSU1FU1RBTVAgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFIFJVTEUgdXBkYXRlX21ldGFfZ3JvdXBfbW9kaWZpZWRfb25fdXBkYXRlIEFTIE9OIFVQREFURSBUTyBtZXRhX2dyb3VwcwpXSEVSRSBORVcuc2xfYXZhaWwgPD4gT0xELnNsX2F2YWlsCkRPIElOU0VSVCBJTlRPIHNob2VsYWNlX2xvZyBWQUxVRVMgKApORVcuc2xfbmFtZSwKTkVXLnNsX2F2YWlsLApjdXJyZW50X3VzZXIsCmN1cnJlbnRfdGltZXN0YW1wCik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZ3JvdXBJZENvbHVtblR5cGU6IEpkYmNUeXBlW0dyb3VwSWRdID0gTWFwcGVkQ29sdW1uVHlwZS5iYXNlW0dyb3VwSWQsIFN0cmluZ10oCiAgICB7IGdpZCA9PiBnaWQudmFsdWUgfSwKICAgIHsgc3RyaW5nID0+IEdyb3VwSWQoVVVJRC5mcm9tU3RyaW5nKHN0cmluZykpIH0KICApCg==</text>
+        <text encoding="base64">ICBtb2RpZmllZCBUSU1FU1RBTVAgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCBPTiBVUERBVEUgQ1VSUkVOVF9USU1FU1RBTVAsCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -5084,7 +5090,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZ3JvdXBJZENvbHVtblR5cGU6IEpkYmNUeXBlW0dyb3VwSWRdID0gTWFwcGVkQ29sdW1uVHlwZS5iYXNlW0dyb3VwSWQsIFN0cmluZ10oCiAgICB7IGdpZCA9PiBnaWQudmFsdWUgfSwKICAgIHsgc3RyaW5nID0+IEdyb3VwSWQoVVVJRC5mcm9tU3RyaW5nKHN0cmluZykpIH0KICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
