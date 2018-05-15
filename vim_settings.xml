@@ -112,7 +112,6 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/db/migration/V1__Initial_version.sql" timestamp="1526297105754" />
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiBinaryResponsesFuncSpec.scala" timestamp="1522763628958">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="26" />
@@ -809,7 +808,6 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.leoilab/platform-memberships-client_2.12/srcs/platform-memberships-client_2.12-1.14.0-sources.jar!/com/leoilab/memberships/client/MembershipsClient.scala" timestamp="1526305780391" />
       <file name="$USER_HOME$/Source/sensible-group-client/src/test/scala/com/leoilab/sensible/groups/client/GroupsClientSpec.scala" timestamp="1520588169514">
         <mark key="[" line="389" column="0" />
         <mark key="]" line="389" column="0" />
@@ -1226,7 +1224,7 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="/groups [groups@localhost]" timestamp="1526306093175">
+      <file name="/groups [groups@localhost]" timestamp="1526369150774">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageServiceFuncSpec.scala" timestamp="1522764143338">
