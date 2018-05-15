@@ -1757,11 +1757,11 @@
         <mark key="^" line="1" column="83" />
         <mark key="." line="1" column="83" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/core/src/main/scala/com/leoilab/sensible/groups/MetaGroup.scala" timestamp="1526373283967">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="10" column="17" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Source/sensible-group-client/core/src/main/scala/com/leoilab/sensible/groups/MetaGroup.scala" timestamp="1526375458608">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="10" column="43" />
+        <mark key="^" line="10" column="43" />
+        <mark key="." line="10" column="43" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/HttpMethods.scala" timestamp="1522148559199">
         <mark key="[" line="8" column="0" />
@@ -2449,8 +2449,8 @@
       <jump line="48" column="60" filename="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageMetadataDependencyInjectionSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DateTime</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5073,7 +5073,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Return explicit errors from service upon bad request</text>
+        <text>DateTime</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
@@ -5082,34 +5082,34 @@
         <text encoding="base64">IyMjIDAuMTQuMAogICogUmV0dXJuIGV4cGxpY2l0IGVycm9ycyBmcm9tIHNlcnZpY2UgdXBvbiBiYWQgcmVxdWVzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuRGF0ZVRpbWUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5ab25lZERhdGVUaW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZ2V0TWV0YUdyb3VwCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5ab25lZERhdGVUaW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZ2V0TWV0YUdyb3VwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZ3JvdXBJZENvbHVtblR5cGU6IEpkYmNUeXBlW0dyb3VwSWRdID0gTWFwcGVkQ29sdW1uVHlwZS5iYXNlW0dyb3VwSWQsIFN0cmluZ10oCiAgICB7IGdpZCA9PiBnaWQudmFsdWUgfSwKICAgIHsgc3RyaW5nID0+IEdyb3VwSWQoVVVJRC5mcm9tU3RyaW5nKHN0cmluZykpIH0KICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtb2RpZmllZCBUSU1FU1RBTVAgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCwK</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZ3JvdXBJZENvbHVtblR5cGU6IEpkYmNUeXBlW0dyb3VwSWRdID0gTWFwcGVkQ29sdW1uVHlwZS5iYXNlW0dyb3VwSWQsIFN0cmluZ10oCiAgICB7IGdpZCA9PiBnaWQudmFsdWUgfSwKICAgIHsgc3RyaW5nID0+IEdyb3VwSWQoVVVJRC5mcm9tU3RyaW5nKHN0cmluZykpIH0KICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q1JFQVRFIFJVTEUgdXBkYXRlX21ldGFfZ3JvdXBfbW9kaWZpZWRfb25fdXBkYXRlIEFTIE9OIFVQREFURSBUTyBtZXRhX2dyb3VwcwpXSEVSRSBORVcuc2xfYXZhaWwgPD4gT0xELnNsX2F2YWlsCkRPIElOU0VSVCBJTlRPIHNob2VsYWNlX2xvZyBWQUxVRVMgKApORVcuc2xfbmFtZSwKTkVXLnNsX2F2YWlsLApjdXJyZW50X3VzZXIsCmN1cnJlbnRfdGltZXN0YW1wCik7Cg==</text>
+        <text encoding="base64">ICBtb2RpZmllZCBUSU1FU1RBTVAgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtb2RpZmllZCBUSU1FU1RBTVAgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCBPTiBVUERBVEUgQ1VSUkVOVF9USU1FU1RBTVAsCg==</text>
+        <text encoding="base64">Q1JFQVRFIFJVTEUgdXBkYXRlX21ldGFfZ3JvdXBfbW9kaWZpZWRfb25fdXBkYXRlIEFTIE9OIFVQREFURSBUTyBtZXRhX2dyb3VwcwpXSEVSRSBORVcuc2xfYXZhaWwgPD4gT0xELnNsX2F2YWlsCkRPIElOU0VSVCBJTlRPIHNob2VsYWNlX2xvZyBWQUxVRVMgKApORVcuc2xfbmFtZSwKTkVXLnNsX2F2YWlsLApjdXJyZW50X3VzZXIsCmN1cnJlbnRfdGltZXN0YW1wCik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtb2RpZmllZCBUSU1FU1RBTVAgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCBPTiBVUERBVEUgQ1VSUkVOVF9USU1FU1RBTVAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
