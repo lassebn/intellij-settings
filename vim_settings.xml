@@ -448,10 +448,10 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1526453584086">
-        <mark key="[" line="120" column="24" />
-        <mark key="]" line="120" column="25" />
-        <mark key="." line="120" column="25" />
+      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1526456427843">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="34" />
         <mark key="^" line="130" column="39" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/ecs-deploy/cf-task-template.json" timestamp="1512475528979">
@@ -1494,11 +1494,11 @@
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/README.md" timestamp="1526294848553">
-        <mark key="[" line="101" column="18" />
-        <mark key="]" line="101" column="53" />
-        <mark key="." line="101" column="53" />
-        <mark key="^" line="101" column="53" />
+      <file name="$USER_HOME$/Source/sensible-groups/README.md" timestamp="1526456511441">
+        <mark key="[" line="101" column="25" />
+        <mark key="]" line="101" column="57" />
+        <mark key="." line="101" column="57" />
+        <mark key="^" line="101" column="57" />
       </file>
       <file name="$USER_HOME$/Source/WufooExporterTest/requirements.txt" timestamp="1506580783043">
         <mark key="[" line="0" column="17" />
@@ -2479,8 +2479,8 @@
       <jump line="42" column="0" filename="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/MetaGroupRepository.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLmdyb3Vwcy5jbGllbnQuRXhjZXB0aW9ucy57QXBpRXJyb3JFeGNlcHRpb24sIEZvcmJpZGRlbkV4Y2VwdGlvbn0K</text>
+      <register name="&quot;" type="4">
+        <text>client used in integration tests</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5103,13 +5103,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ApiErrorException</text>
+        <text>client used in integration tests</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
-      <register name="0" type="4">
-        <text>throw new GroupRepositoryInsertException(s&quot;group id: $group.id - slick says: %i&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyMjIDEuOS41CiAgICAqIE9wZXJhdGlvbmFsOiBVcGRhdGUgZG9jdW1lbnRhdGlvbiBvZiBsaXN0IGdyb3Vwcwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLmdyb3Vwcy5jbGllbnQuRXhjZXB0aW9ucy57QXBpRXJyb3JFeGNlcHRpb24sIEZvcmJpZGRlbkV4Y2VwdGlvbn0K</text>
