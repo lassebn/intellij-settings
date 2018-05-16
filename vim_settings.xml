@@ -1930,11 +1930,11 @@
         <mark key="^" line="150" column="23" />
         <mark key="." line="150" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupRoutesCreateGroupWithoutIdSpec.scala" timestamp="1526459976613">
+      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupRoutesCreateGroupWithoutIdSpec.scala" timestamp="1526460786109">
         <mark key="[" line="49" column="111" />
-        <mark key="]" line="49" column="110" />
-        <mark key="." line="49" column="110" />
-        <mark key="^" line="49" column="110" />
+        <mark key="]" line="49" column="102" />
+        <mark key="." line="49" column="102" />
+        <mark key="^" line="49" column="102" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/HashUtil.scala" timestamp="1507639974428">
         <mark key="[" line="5" column="7" />
