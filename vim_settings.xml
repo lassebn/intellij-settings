@@ -230,6 +230,7 @@
         <mark key="^" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/db/migration/V2__Initial_client_user_groups.sql" timestamp="1526448209577" />
       <file name="$USER_HOME$/Source/datawarehouse-imagine/circle.yml" timestamp="1511864571912">
         <mark key="[" line="26" column="13" />
         <mark key="]" line="26" column="18" />
