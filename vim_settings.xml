@@ -59,11 +59,11 @@
         <mark key="." line="83" column="160" />
         <mark key="^" line="83" column="160" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/build.sbt" timestamp="1526372257707">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="28" />
+      <file name="$USER_HOME$/Source/sensible-group-client/build.sbt" timestamp="1526549122845">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="20" />
         <mark key="^" line="6" column="28" />
-        <mark key="." line="6" column="28" />
+        <mark key="." line="6" column="20" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/images/ImagesApi.scala" timestamp="1503999505064">
         <mark key="[" line="2" column="27" />
@@ -668,11 +668,11 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/project/Dependencies.scala" timestamp="1526470830222">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="38" />
-        <mark key="." line="4" column="38" />
-        <mark key="^" line="4" column="38" />
+      <file name="$USER_HOME$/Source/sensible-group-client/project/Dependencies.scala" timestamp="1526549034675">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/circle.yml" timestamp="1520012137056">
         <mark key="[" line="41" column="11" />
@@ -2438,7 +2438,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>SNAPSHOT</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5061,7 +5061,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
