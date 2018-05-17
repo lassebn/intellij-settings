@@ -482,11 +482,11 @@
         <mark key="." line="13" column="51" />
         <mark key="^" line="13" column="51" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsService.scala" timestamp="1522052886356">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="100" column="4" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsService.scala" timestamp="1526557190331">
+        <mark key="[" line="67" column="78" />
+        <mark key="]" line="68" column="11" />
+        <mark key="^" line="68" column="11" />
+        <mark key="." line="68" column="11" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserRepositorySpec.scala" timestamp="1505311775456">
         <mark key="[" line="56" column="11" />
@@ -1430,6 +1430,12 @@
         <mark key="^" line="51" column="14" />
         <mark key="." line="51" column="14" />
       </file>
+      <file name="$USER_HOME$/Source/platform-memberships/client/src/main/scala/com/leoilab/memberships/BulkGrantAuthorization.scala" timestamp="1526557293775">
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="7" column="45" />
+        <mark key="^" line="7" column="45" />
+        <mark key="." line="7" column="45" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1523015191848">
         <mark key="[" line="51" column="2" />
         <mark key="]" line="51" column="2" />
@@ -1675,6 +1681,12 @@
         <mark key="]" line="58" column="29" />
         <mark key="^" line="58" column="29" />
         <mark key="." line="58" column="29" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsRepository.scala" timestamp="1526556881782">
+        <mark key="[" line="33" column="2" />
+        <mark key="]" line="33" column="13" />
+        <mark key="^" line="33" column="13" />
+        <mark key="." line="33" column="13" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/nginx/build.sh" timestamp="1502805047038">
         <mark key="[" line="5" column="0" />
@@ -2063,6 +2075,12 @@
         <mark key="^" line="66" column="47" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsApi.scala" timestamp="1526557401166">
+        <mark key="[" line="95" column="123" />
+        <mark key="]" line="98" column="42" />
+        <mark key="." line="98" column="42" />
+        <mark key="^" line="98" column="42" />
+      </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/test/scala/com/leoilab/utils/InMemoryPostgresStorage.scala" timestamp="1509543611717">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="14" column="59" />
@@ -2438,7 +2456,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SNAPSHOT</text>
+        <text>List</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5061,13 +5079,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SNAPSHOT</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGdyb3VwU2VydmljZS5jcmVhdGUoYW55W09wdGlvbltTdHJpbmddXSwgYW55W0dyb3VwSWRdKShhbnlbQWNjZXNzVG9rZW5dKSkudGhlbkFuc3dlcihhID0+IHsKICAgICAgICAgIHZhbCBuYW1lID0gYS5nZXRBcmd1bWVudFtPcHRpb25bU3RyaW5nXV0oMCkKICAgICAgICAgIHZhbCBwYXJlbnQgPSBTb21lKGEuZ2V0QXJndW1lbnRbR3JvdXBJZF0oMSkpCiAgICAgICAgICBGdXR1cmUoR3JvdXAoZ2VuZXJhdGVkSWQsIG5hbWUsIHBhcmVudCkpCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgZ3JhbnRBdXRob3JpemF0aW9uKHVzZXJJZDogVXNlcklkLCBncm91cElkOiBHcm91cElkKShpbXBsaWNpdCBhdXRoSW5mbzogQXV0aEluZm8pOiBGdXR1cmVbVW5pdF0gPSB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -5079,25 +5097,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY29tLmxlb2lsYWIucmVzdC5KYXZhOExvY2FsRGF0ZVRpbWVKc29uUHJvdG9jb2wuXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgY29tLmxlb2lsYWIucmVzdC5KYXZhOExvY2FsRGF0ZVRpbWVKc29uUHJvdG9jb2wuXwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNyZWF0ZWQ6IE9wdGlvbltMb2NhbERhdGVUaW1lXQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNyZWF0ZWQ6IE9wdGlvbltMb2NhbERhdGVUaW1lXQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBjcmVhdGVkID0gY29sdW1uW09wdGlvbltMb2NhbERhdGVUaW1lXV0oImNyZWF0ZWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBjcmVhdGVkID0gY29sdW1uW09wdGlvbltMb2NhbERhdGVUaW1lXV0oImNyZWF0ZWQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
