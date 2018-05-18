@@ -587,6 +587,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1526624452047" />
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -1677,11 +1678,11 @@
         <mark key="^" line="9" column="65" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupServiceSpec.scala" timestamp="1526624394079">
-        <mark key="[" line="251" column="5" />
-        <mark key="]" line="256" column="4" />
-        <mark key="." line="256" column="4" />
-        <mark key="^" line="256" column="4" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupServiceSpec.scala" timestamp="1526624907025">
+        <mark key="[" line="258" column="84" />
+        <mark key="]" line="259" column="130" />
+        <mark key="." line="259" column="130" />
+        <mark key="^" line="259" column="130" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/images/DeferredImagesService.scala" timestamp="1510138089535">
         <mark key="[" line="13" column="0" />
@@ -2010,11 +2011,11 @@
         <mark key="^" line="150" column="23" />
         <mark key="." line="150" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupRoutesCreateGroupWithoutIdSpec.scala" timestamp="1526544219335">
-        <mark key="[" line="111" column="31" />
-        <mark key="]" line="111" column="67" />
-        <mark key="^" line="111" column="67" />
-        <mark key="." line="111" column="67" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupRoutesCreateGroupWithoutIdSpec.scala" timestamp="1526624967178">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="106" column="67" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/HashUtil.scala" timestamp="1507639974428">
         <mark key="[" line="5" column="7" />
@@ -2151,11 +2152,11 @@
         <mark key="." line="2" column="137" />
         <mark key="^" line="2" column="137" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/AddGroupWithoutPregeneratedIdIntegrationTest.scala" timestamp="1526547755112">
-        <mark key="[" line="28" column="48" />
-        <mark key="]" line="28" column="59" />
-        <mark key="^" line="28" column="59" />
-        <mark key="." line="28" column="59" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/AddGroupWithoutPregeneratedIdIntegrationTest.scala" timestamp="1526625676413">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="71" column="31" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/it/resources/application.conf" timestamp="1520335993825">
         <mark key="[" line="0" column="36" />
@@ -2595,7 +2596,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5218,43 +5219,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>metaGroup</text>
+        <text encoding="base64">KSB7IGdyb3VwcyA9Pg==</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgXyA8LSBtZXRhR3JvdXBSZXBvc2l0b3J5Lmluc2VydChtZXRhR3JvdXApCg==</text>
+        <text encoding="base64">ICAgICAgbmV3R3JvdXAubmFtZSBzaG91bGRCZSBTb21lKGdyb3VwTmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJpbnNlcnQgbWV0YSBncm91cHMiIGluIHsKICAgICAgdmFsIG1ldGFHcm91cCA9IE1ldGFHcm91cChHcm91cElkLmdlbmVyYXRlLCBhY2Nlc3NUb2tlbi51c2VySWQsIGFjY2Vzc1Rva2VuKQogICAgICB3aGVuKG1ldGFHcm91cFJlcG9zaXRvcnkuaW5zZXJ0KGFueVtNZXRhR3JvdXBdKSkudGhlblJldHVybihGdXR1cmUobWV0YUdyb3VwKSkKICAgICAgc2VydmljZS5hZGQobWV0YUdyb3VwKS5mdXR1cmVWYWx1ZSBzaG91bGRCZSBtZXRhR3JvdXAKICAgICAgdmVyaWZ5KG1ldGFHcm91cFJlcG9zaXRvcnkpLmluc2VydChhbnlbTWV0YUdyb3VwXSkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF8gPC0gZ3JvdXBTZXJ2aWNlLmFkZChNZXRhR3JvdXAoZ3JvdXAuaWQsIGFjY2Vzc1Rva2VuLnVzZXJJZCwgYWNjZXNzVG9rZW4pKQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgYWRkKG1ldGFHcm91cDogTWV0YUdyb3VwKShpbXBsaWNpdCBhY2Nlc3NUb2tlbjogQWNjZXNzVG9rZW4pOiBGdXR1cmVbTWV0YUdyb3VwXSA9IHsKICAgIGZvciB7CiAgICAgIF8gPC0gbWV0YUdyb3VwUmVwb3NpdG9yeS5pbnNlcnQobWV0YUdyb3VwKQogICAgfSB5aWVsZCBtZXRhR3JvdXAKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdoZW5SZWFkeShjbGllbnQubGlzdEdyb3VwcykgeyBncm91cHMgPT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHdoZW5SZWFkeShjbGllbnQuZ2V0Um9vdEdyb3VwKSB7IHJvb3ROb2RlID0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgYWRkKG1ldGFHcm91cDogTWV0YUdyb3VwKShpbXBsaWNpdCBhY2Nlc3NUb2tlbjogQWNjZXNzVG9rZW4pOiBGdXR1cmVbTWV0YUdyb3VwXQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
