@@ -1811,6 +1811,12 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
+      <file name="$USER_HOME$/Source/platform-memberships/.gitignore" timestamp="1526569666563">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+      </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/utils/Configuration.scala" timestamp="1509541547314">
         <mark key="[" line="9" column="54" />
         <mark key="]" line="9" column="53" />
