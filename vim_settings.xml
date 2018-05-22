@@ -130,6 +130,12 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
+      <file name="$USER_HOME$/Source/platform-memberships/src/it/scala/com/leoilab/app/memberships/generate uuids.sc" timestamp="1526991412615">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
+      </file>
       <file name="$USER_HOME$/Source/studies-and-me/scripts/generate_tickets_and_send_mails.py" timestamp="1498560009342">
         <mark key="[" line="59" column="32" />
         <mark key="]" line="59" column="0" />
@@ -2626,7 +2632,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgY2xpZW50LmdyYW50QXV0aG9yaXphdGlvbihvd25lci51c2VySWQsIGZsYXRHcm91cHMudG9TZXQpKG93bmVyKS5mdXR1cmVWYWx1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5258,34 +5264,34 @@
         <text encoding="base64">PGNvbmZpZ3VyYXRpb24+CiAgICA8bG9nZ2VyIG5hbWU9InNsaWNrIiBsZXZlbD0iSU5GTyIgLz4KPC9jb25maWd1cmF0aW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgY2xpZW50LmdyYW50QXV0aG9yaXphdGlvbihvd25lci51c2VySWQsIGZsYXRHcm91cHMudG9TZXQpKG93bmVyKS5mdXR1cmVWYWx1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBmbGF0R3JvdXBzID0gZ3JvdXBzLmZsYXR0ZW4K</text>
+        <text encoding="base64">YXV0aG9yaXplZEdyb3Vwcy5mb3JlYWNoKGdpZCA9PiB3cml0ZXIucHJpbnRsZG4ocyIkZ2lkIikpZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgY2xpZW50LmdyYW50QXV0aG9yaXphdGlvbihvd25lci51c2VySWQsIGZsYXRHcm91cHMudG9TZXQpKG93bmVyKS5mdXR1cmVWYWx1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBmbGF0R3JvdXBzID0gZ3JvdXBzLmZsYXR0ZW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9jb25maWd1cmF0aW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGNvbmZpZ3VyYXRpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0ic2xpY2suamRiYy5KZGJjQmFja2VuZC5iZW5jaG1hcmsiIGxldmVsPSJJTkZPIiAvPgo=</text>
+        <text encoding="base64">PC9jb25maWd1cmF0aW9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">PGNvbmZpZ3VyYXRpb24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QtdGltZW91dCA9IDYwIHMK</text>
+        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0ic2xpY2suamRiYy5KZGJjQmFja2VuZC5iZW5jaG1hcmsiIGxldmVsPSJJTkZPIiAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
