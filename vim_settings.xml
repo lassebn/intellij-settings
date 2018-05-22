@@ -666,7 +666,7 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/it/scala/com/leoilab/app/memberships/MembershipsApiIntegrationTest.scala" timestamp="1526973402698">
+      <file name="$USER_HOME$/Source/platform-memberships/src/it/scala/com/leoilab/app/memberships/MembershipsApiIntegrationTest.scala" timestamp="1526981069834">
         <mark key="[" line="310" column="46" />
         <mark key="]" line="310" column="55" />
         <mark key="^" line="310" column="55" />
@@ -865,11 +865,11 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/it/scala/com/leoilab/app/IntegrationTestHelper.scala" timestamp="1526977916519">
+      <file name="$USER_HOME$/Source/platform-memberships/src/it/scala/com/leoilab/app/IntegrationTestHelper.scala" timestamp="1526980941607">
         <mark key="[" line="19" column="96" />
-        <mark key="]" line="19" column="103" />
-        <mark key="^" line="19" column="103" />
-        <mark key="." line="19" column="103" />
+        <mark key="]" line="19" column="104" />
+        <mark key="^" line="19" column="104" />
+        <mark key="." line="19" column="104" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/KlikkitService.scala" timestamp="1509446170992">
         <mark key="[" line="139" column="89" />
@@ -1801,11 +1801,11 @@
         <mark key="^" line="58" column="29" />
         <mark key="." line="58" column="29" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsRepository.scala" timestamp="1526980092161">
-        <mark key="[" line="66" column="9" />
-        <mark key="]" line="66" column="17" />
-        <mark key="^" line="66" column="17" />
-        <mark key="." line="66" column="17" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsRepository.scala" timestamp="1526981415654">
+        <mark key="[" line="68" column="98" />
+        <mark key="]" line="75" column="25" />
+        <mark key="^" line="75" column="25" />
+        <mark key="." line="75" column="25" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/nginx/build.sh" timestamp="1502805047038">
         <mark key="[" line="5" column="0" />
