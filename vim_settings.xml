@@ -666,11 +666,10 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/it/scala/com/leoilab/app/memberships/MembershipsApiIntegrationTest.scala" timestamp="1526986985243">
-        <mark key="[" line="310" column="46" />
-        <mark key="]" line="310" column="55" />
-        <mark key="^" line="310" column="55" />
-        <mark key="." line="310" column="55" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/it/scala/com/leoilab/app/memberships/MembershipsApiIntegrationTest.scala" timestamp="1526988678887">
+        <mark key="[" line="310" column="0" />
+        <mark key="]" line="310" column="0" />
+        <mark key="." line="310" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/project/TestHelper.scala" timestamp="1510034398481">
         <mark key="[" line="140" column="24" />
@@ -2626,8 +2625,8 @@
       <jump line="34" column="15" filename="$USER_HOME$/Source/platform-memberships/src/main/resources/logback.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>INFO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgY2xpZW50LmdyYW50QXV0aG9yaXphdGlvbihvd25lci51c2VySWQsIGZsYXRHcm91cHMudG9TZXQpKG93bmVyKS5mdXR1cmVWYWx1ZQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5259,34 +5258,34 @@
         <text encoding="base64">PGNvbmZpZ3VyYXRpb24+CiAgICA8bG9nZ2VyIG5hbWU9InNsaWNrIiBsZXZlbD0iSU5GTyIgLz4KPC9jb25maWd1cmF0aW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgY2xpZW50LmdyYW50QXV0aG9yaXphdGlvbihvd25lci51c2VySWQsIGZsYXRHcm91cHMudG9TZXQpKG93bmVyKS5mdXR1cmVWYWx1ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC9jb25maWd1cmF0aW9uPgo=</text>
+        <text encoding="base64">ICAgIHZhbCBmbGF0R3JvdXBzID0gZ3JvdXBzLmZsYXR0ZW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGNvbmZpZ3VyYXRpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0ic2xpY2suamRiYy5KZGJjQmFja2VuZC5iZW5jaG1hcmsiIGxldmVsPSJJTkZPIiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">PC9jb25maWd1cmF0aW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QtdGltZW91dCA9IDYwIHMK</text>
+        <text encoding="base64">PGNvbmZpZ3VyYXRpb24+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjbGllbnQgewo=</text>
+        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0ic2xpY2suamRiYy5KZGJjQmFja2VuZC5iZW5jaG1hcmsiIGxldmVsPSJJTkZPIiAvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjbGllbnQubWF4LWNvbm5lY3Rpb25zID0gMTYK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEZ1dHVyZS5zZXF1ZW5jZShyZXN1bHQpLm1hcChfLmZvcmFsbChfLmVxdWFscyh0cnVlKSkpCg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QtdGltZW91dCA9IDYwIHMK</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
