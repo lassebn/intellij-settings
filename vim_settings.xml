@@ -264,11 +264,11 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/client/src/test/scala/com/leoilab/memberships/client/MembershipsClientSpec.scala" timestamp="1526970144758">
-        <mark key="[" line="240" column="18" />
-        <mark key="]" line="240" column="20" />
-        <mark key="^" line="240" column="20" />
-        <mark key="." line="240" column="20" />
+      <file name="$USER_HOME$/Source/platform-memberships/client/src/test/scala/com/leoilab/memberships/client/MembershipsClientSpec.scala" timestamp="1527060004872">
+        <mark key="[" line="111" column="16" />
+        <mark key="]" line="111" column="25" />
+        <mark key="^" line="111" column="25" />
+        <mark key="." line="111" column="25" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/build.sbt" timestamp="1512578788772">
         <mark key="[" line="12" column="32" />
@@ -974,6 +974,12 @@
         <mark key="^" line="44" column="167" />
         <mark key="." line="44" column="167" />
       </file>
+      <file name="$USER_HOME$/Source/platform-memberships/client/src/main/resources/application.conf" timestamp="1527060801376">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+      </file>
       <file name="$USER_HOME$/Source/studies-and-me/project/TestHelper.scala" timestamp="1504790654842">
         <mark key="[" line="111" column="56" />
         <mark key="]" line="111" column="44" />
@@ -1041,11 +1047,11 @@
         <mark key="^" line="33" column="18" />
         <mark key="." line="33" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/client/src/main/scala/com/leoilab/memberships/client/MembershipsClient.scala" timestamp="1526970070312">
-        <mark key="[" line="43" column="51" />
-        <mark key="]" line="43" column="53" />
-        <mark key="." line="43" column="53" />
-        <mark key="^" line="43" column="53" />
+      <file name="$USER_HOME$/Source/platform-memberships/client/src/main/scala/com/leoilab/memberships/client/MembershipsClient.scala" timestamp="1527060457402">
+        <mark key="[" line="31" column="82" />
+        <mark key="]" line="31" column="130" />
+        <mark key="." line="31" column="130" />
+        <mark key="^" line="31" column="130" />
       </file>
       <file name="$USER_HOME$/Source/sensible-group-client/project/plugins.sbt" timestamp="1518525382911">
         <mark key="[" line="6" column="65" />
@@ -2620,8 +2626,8 @@
       <jump line="0" column="48" filename="$USER_HOME$/Source/platform-memberships/R__many_groups_one_user_1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByb3h5X3JlYWRfdGltZW91dCAxMjA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KHI6IEh0dHBSZXF1ZXN0KSA9PiA=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5244,43 +5250,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PatienceConfiguration.Interval(Span(5, Seconds))</text>
+        <text encoding="base64">KHI6IEh0dHBSZXF1ZXN0KSA9PiA=</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGNvbmZpZ3VyYXRpb24+CiAgICA8bG9nZ2VyIG5hbWU9InNsaWNrIiBsZXZlbD0iSU5GTyIgLz4KPC9jb25maWd1cmF0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgb3ZlcnJpZGUgZGVmIGh0dHBDbGllbnQocjogSHR0cFJlcXVlc3QpOiBGdXR1cmVbSHR0cFJlc3BvbnNlXSA9IEZ1dHVyZShodHRwUmVzcG9uc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb3h5X3JlYWRfdGltZW91dCAxMjA7Cg==</text>
+        <text encoding="base64">ICAgICAgb3ZlcnJpZGUgdmFsIGh0dHBDbGllbnQ6IEh0dHBSZXF1ZXN0ID0+IEZ1dHVyZVtIdHRwUmVzcG9uc2VdID0gKF86IEh0dHBSZXF1ZXN0KSA9PiBGdXR1cmUuZmFpbGVkKGUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgcHJvcGVyID0gdGltZW91dFNldHRpbmdzLndpdGhDb25uZWN0aW9uU2V0dGluZ3MoYS5zZXR0aW5ncy5jb25maWcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5qYXZhZHNsLnNldHRpbmdzLkNvbm5lY3Rpb25Qb29sU2V0dGluZ3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB2ZXJ5UGF0aWVudCA9IG5ldyBQYXRpZW5jZUNvbmZpZ3VyYXRpb24oKS50aW1lb3V0KFNwYW4oNjAsIFNlY29uZHMpKS5pbnRlcnZhbChTcGFuKDUwMCwgTWlsbGlzKSkK</text>
+        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5pbXBsLnV0aWwuSmF2YU1hcHBpbmcuSHR0cHNDb25uZWN0aW9uQ29udGV4dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBncm91cHMgPSBjb2xsZWN0aW9uLm11dGFibGUuTXV0YWJsZUxpc3QuZW1wdHlbR3JvdXBJZF0K</text>
+        <text encoding="base64">ICB2YWwgY29ubmVjdGlvblRpbWVvdXQ6IENvbm5lY3Rpb25Qb29sU2V0dGluZ3MgPSBDb25uZWN0aW9uUG9vbFNldHRpbmdzLmNyZWF0ZShhLnNldHRpbmdzLmNvbmZpZykud2l0aElkbGVUaW1lb3V0KDEyMCBzZWNvbmRzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB2YWwgc2V0dGluZ3MgPSBvcmlnLmNvcHkoY29ubmVjdGlvblNldHRpbmdzID0gY2xpZW50U2V0dGluZ3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZ3JvdXBzICs9IEdyb3VwSWQobGluZSkK</text>
+        <text encoding="base64">ICB2YWwgY2xpZW50U2V0dGluZ3MgPSBvcmlnLmNvbm5lY3Rpb25TZXR0aW5ncy5jb3B5KGlkbGVUaW1lb3V0ID0gMS5zZWNvbmQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAobGluZSA8LSBsaW5lcykgewo=</text>
+        <text encoding="base64">ICB2YWwgb3JpZyA9IENvbm5lY3Rpb25Qb29sU2V0dGluZ3MoYSkuY29weShpZGxlVGltZW91dCA9IDEuc2Vjb25kKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgR3JvdXBJZChsaW5lKSA6OiBncm91cHMK</text>
+        <text encoding="base64">ICB2YWwgY29udGV4dCA9IEh0dHBzQ29ubmVjdGlvbkNvbnRleHQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
