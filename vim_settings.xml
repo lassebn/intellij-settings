@@ -580,7 +580,6 @@
         <mark key="^" line="16" column="46" />
         <mark key="." line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/it/resources/db/migration/R__many_groups_one_user_1.sql" timestamp="1526995463325" />
       <file name="$USER_HOME$/Source/sensible-group-client/core/src/main/scala/com/leoilab/sensible/groups/CreateGroupWithoutIdDTO.scala" timestamp="1526372154395">
         <mark key="[" line="8" column="59" />
         <mark key="]" line="8" column="84" />
@@ -605,6 +604,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1527053289971" />
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -890,8 +890,8 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/it/scala/com/leoilab/app/IntegrationTestHelper.scala" timestamp="1526997359008">
-        <mark key="[" line="19" column="103" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/it/scala/com/leoilab/app/IntegrationTestHelper.scala" timestamp="1527053452644">
+        <mark key="[" line="19" column="93" />
         <mark key="]" line="19" column="103" />
         <mark key="^" line="19" column="103" />
         <mark key="." line="19" column="103" />
