@@ -526,11 +526,11 @@
         <mark key="." line="13" column="51" />
         <mark key="^" line="13" column="51" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsService.scala" timestamp="1526975911874">
-        <mark key="[" line="124" column="35" />
-        <mark key="]" line="124" column="60" />
-        <mark key="^" line="124" column="60" />
-        <mark key="." line="124" column="60" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsService.scala" timestamp="1527080608230">
+        <mark key="[" line="45" column="78" />
+        <mark key="]" line="47" column="94" />
+        <mark key="^" line="47" column="94" />
+        <mark key="." line="47" column="94" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserRepositorySpec.scala" timestamp="1505311775456">
         <mark key="[" line="56" column="11" />
@@ -1814,11 +1814,11 @@
         <mark key="^" line="58" column="29" />
         <mark key="." line="58" column="29" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsRepository.scala" timestamp="1527077728416">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="64" column="20" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsRepository.scala" timestamp="1527080817668">
+        <mark key="[" line="94" column="43" />
+        <mark key="]" line="94" column="91" />
+        <mark key="^" line="94" column="91" />
+        <mark key="." line="94" column="91" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/nginx/build.sh" timestamp="1502805047038">
         <mark key="[" line="5" column="0" />
@@ -2626,8 +2626,8 @@
       <jump line="0" column="48" filename="$USER_HOME$/Source/platform-memberships/R__many_groups_one_user_1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>).toSet</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5250,7 +5250,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>).toSet</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
@@ -5265,25 +5265,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBncm91cDEgPSBHcm91cElkLmdlbmVyYXRlCiAgICB2YWwgZ3JvdXAyID0gR3JvdXBJZC5nZW5lcmF0ZQogICAgdmFsIGdyb3VwMyA9IEdyb3VwSWQuZ2VuZXJhdGUKICAgIHZhbCBncm91cDQgPSBHcm91cElkLmdlbmVyYXRlCgogICAgdmFsIG1lbWJlcnNoaXBzOiBTZXFbTWVtYmVyc2hpcF0gPSBTZXEoCiAgICAgIChib2IsIGdyb3VwMSksCiAgICAgIChib2IsIGdyb3VwMSksCiAgICAgIChib2IsIGdyb3VwMiksCiAgICAgIChib2IsIGdyb3VwMyksCiAgICAgIChib2IsIGdyb3VwNCkKICAgICkK</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgbWF0ZXJpYWxpemVyID0gQWN0b3JNYXRlcmlhbGl6ZXIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgc3lzdGVtID0gQWN0b3JTeXN0ZW0oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBncm91cDEgPSBHcm91cElkLmdlbmVyYXRlCiAgICB2YWwgZ3JvdXAyID0gR3JvdXBJZC5nZW5lcmF0ZQogICAgdmFsIGdyb3VwMyA9IEdyb3VwSWQuZ2VuZXJhdGUKICAgIHZhbCBncm91cDQgPSBHcm91cElkLmdlbmVyYXRlCgogICAgdmFsIG1lbWJlcnNoaXBzOiBTZXFbTWVtYmVyc2hpcF0gPSBTZXEoCiAgICAgIChib2IsIGdyb3VwMSksCiAgICAgIChib2IsIGdyb3VwMSksCiAgICAgIChib2IsIGdyb3VwMiksCiAgICAgIChib2IsIGdyb3VwMyksCiAgICAgIChib2IsIGdyb3VwNCkKICAgICkK</text>
+        <text encoding="base64">ICAgICAgfSB5aWVsZCByZXN1bHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm9yIHsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1lbWJlcnNoaXBzLmZvcmVhY2ggeyBtID0+Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBncm91cDEgPSBHcm91cElkLmdlbmVyYXRlCiAgICB2YWwgZ3JvdXAyID0gR3JvdXBJZC5nZW5lcmF0ZQogICAgdmFsIGdyb3VwMyA9IEdyb3VwSWQuZ2VuZXJhdGUKICAgIHZhbCBncm91cDQgPSBHcm91cElkLmdlbmVyYXRlCgogICAgdmFsIG1lbWJlcnNoaXBzOiBTZXFbTWVtYmVyc2hpcF0gPSBTZXEoCiAgICAgIChib2IsIGdyb3VwMSksCiAgICAgIChib2IsIGdyb3VwMSksCiAgICAgIChib2IsIGdyb3VwMiksCiAgICAgIChib2IsIGdyb3VwMyksCiAgICAgIChib2IsIGdyb3VwNCkKICAgICkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
