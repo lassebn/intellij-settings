@@ -1814,11 +1814,11 @@
         <mark key="^" line="58" column="29" />
         <mark key="." line="58" column="29" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsRepository.scala" timestamp="1527142923055">
-        <mark key="[" line="79" column="66" />
-        <mark key="]" line="94" column="91" />
-        <mark key="^" line="94" column="91" />
-        <mark key="." line="94" column="91" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsRepository.scala" timestamp="1527143767322">
+        <mark key="[" line="83" column="21" />
+        <mark key="]" line="83" column="25" />
+        <mark key="^" line="83" column="25" />
+        <mark key="." line="83" column="25" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/nginx/build.sh" timestamp="1502805047038">
         <mark key="[" line="5" column="0" />
@@ -2626,8 +2626,8 @@
       <jump line="0" column="48" filename="$USER_HOME$/Source/platform-memberships/R__many_groups_one_user_1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Sink.fold[Seq[GroupId], GroupId](Seq())(_ :+ _)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5250,7 +5250,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>Sink.fold[Seq[GroupId], GroupId](Seq())(_ :+ _)</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
