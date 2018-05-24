@@ -285,7 +285,7 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
-        <mark key="^" line="328" column="19" />
+        <mark key="^" line="26" column="19" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/README.md" timestamp="1500989023233">
         <mark key="[" line="40" column="3" />
@@ -1343,12 +1343,6 @@
         <mark key="]" line="55" column="16" />
         <mark key="^" line="55" column="16" />
         <mark key="." line="55" column="16" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/util/MigratedLocalTestMysqlBeforeAll.scala" timestamp="1527160515295">
-        <mark key="[" line="14" column="52" />
-        <mark key="]" line="15" column="27" />
-        <mark key="^" line="15" column="27" />
-        <mark key="." line="15" column="27" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
         <mark key="[" line="16" column="69" />
@@ -2442,11 +2436,10 @@
         <mark key="." line="9" column="35" />
         <mark key="^" line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/docker-compose.yml" timestamp="1527150484695">
-        <mark key="[" line="32" column="41" />
-        <mark key="]" line="32" column="41" />
-        <mark key="^" line="32" column="32" />
-        <mark key="." line="32" column="41" />
+      <file name="$USER_HOME$/Source/platform-memberships/docker-compose.yml" timestamp="1527162395160">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/IntegrationTestHelper.scala" timestamp="1498551657010">
         <mark key="[" line="49" column="0" />
@@ -2559,7 +2552,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzCg==</text>
+        <text encoding="base64">IyAgICAgIGNvbW1hbmQ6IC0tdG1wLXRhYmxlLXNpemU9NTEyMDAwMDAwCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5191,34 +5184,34 @@
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgbWF0ZXJpYWxpemVyID0gQWN0b3JNYXRlcmlhbGl6ZXIoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzCg==</text>
+        <text encoding="base64">IyAgICAgIGNvbW1hbmQ6IC0tdG1wLXRhYmxlLXNpemU9NTEyMDAwMDAwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">ICBzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgYXBwbHk6IE1pZ3JhdGVkTG9jYWxUZXN0TXlzcWxCZWZvcmVBbGwgPSBuZXcgTWlncmF0ZWRMb2NhbFRlc3RNeXNxbEJlZm9yZUFsbCgpCg==</text>
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgY29uZmlnVmFsdWVzID0gbmV3IENvbmZpZ1ZhbHVlcwo=</text>
+        <text encoding="base64">ICBkZWYgYXBwbHk6IE1pZ3JhdGVkTG9jYWxUZXN0TXlzcWxCZWZvcmVBbGwgPSBuZXcgTWlncmF0ZWRMb2NhbFRlc3RNeXNxbEJlZm9yZUFsbCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBjYyA9IGNvbmZpZ1ZhbHVlcy5EYi5jb25uZWN0aW9uQ29uZmlnKENsdXN0ZXJzLkNsdXN0ZXIxKQogICAgZi5zZXREYXRhU291cmNlKGNjLnVybCwgY2MudXNlciwgY2MucGFzc3dvcmQpCg==</text>
+        <text encoding="base64">ICB2YWwgY29uZmlnVmFsdWVzID0gbmV3IENvbmZpZ1ZhbHVlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZseXdheSA9IG5ldyBGbHl3YXkK</text>
+        <text encoding="base64">ICAgIHZhbCBjYyA9IGNvbmZpZ1ZhbHVlcy5EYi5jb25uZWN0aW9uQ29uZmlnKENsdXN0ZXJzLkNsdXN0ZXIxKQogICAgZi5zZXREYXRhU291cmNlKGNjLnVybCwgY2MudXNlciwgY2MucGFzc3dvcmQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGYuZ2V0TG9jYXRpb25zLmZvcmVhY2gobCA9PiBwcmludGxuKGwpKQo=</text>
+        <text encoding="base64">ICAgIGZseXdheSA9IG5ldyBGbHl3YXkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGYuCg==</text>
+        <text encoding="base64">ICAgIGYuZ2V0TG9jYXRpb25zLmZvcmVhY2gobCA9PiBwcmludGxuKGwpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZmx5d2F5TG9jYXRpb25zICs9ICJmaWxlc3lzdGVtOnNyYy9pdC9yZXNvdXJjZXMvZGIvbWlncmF0aW9uIgo=</text>
+        <text encoding="base64">ICAgIGYuCg==</text>
       </register>
       <register name=":" type="4">
         <text>319</text>
