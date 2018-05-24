@@ -5206,7 +5206,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>122</text>
+        <text>319</text>
       </register>
     </registers>
     <search>
@@ -5238,7 +5238,6 @@
         <entry>usersdb</entry>
       </history-search>
       <history-cmd>
-        <entry>39</entry>
         <entry>195</entry>
         <entry>181</entry>
         <entry>326</entry>
@@ -5258,6 +5257,7 @@
         <entry>102</entry>
         <entry>wq</entry>
         <entry>122</entry>
+        <entry>319</entry>
       </history-cmd>
       <history-expr />
       <history-input />
