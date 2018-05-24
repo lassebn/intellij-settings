@@ -660,11 +660,11 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/it/scala/com/leoilab/app/memberships/MembershipsApiIntegrationTest.scala" timestamp="1527075169286">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="59" />
-        <mark key="." line="2" column="59" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/it/scala/com/leoilab/app/memberships/MembershipsApiIntegrationTest.scala" timestamp="1527167756855">
+        <mark key="[" line="312" column="54" />
+        <mark key="]" line="312" column="55" />
         <mark key="^" line="2" column="59" />
+        <mark key="." line="312" column="55" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/project/TestHelper.scala" timestamp="1510034398481">
         <mark key="[" line="140" column="24" />
