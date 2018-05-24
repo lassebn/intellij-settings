@@ -35,13 +35,6 @@
         <mark key="^" line="27" column="59" />
         <mark key="." line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/R__many_groups_one_user_7.sql" timestamp="1526993508504">
-        <mark key="'" line="0" column="47" />
-        <mark key="[" line="25000" column="81" />
-        <mark key="]" line="25000" column="79" />
-        <mark key="^" line="25000" column="79" />
-        <mark key="." line="25000" column="79" />
-      </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/cfn.json" timestamp="1500362573713">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="51" />
@@ -438,13 +431,6 @@
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/R__many_groups_one_user_6.sql" timestamp="1526993518569">
-        <mark key="'" line="0" column="47" />
-        <mark key="[" line="25000" column="81" />
-        <mark key="]" line="25000" column="79" />
-        <mark key="^" line="25000" column="79" />
-        <mark key="." line="25000" column="79" />
-      </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/test.py" timestamp="1499936746519">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="60" column="29" />
@@ -653,13 +639,6 @@
       <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsServiceSpec.scala" timestamp="1527145657316">
         <mark key="[" line="2" column="48" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/R__many_groups_one_user_10.sql" timestamp="1526993475201">
-        <mark key="'" line="0" column="47" />
-        <mark key="[" line="25000" column="81" />
-        <mark key="]" line="25000" column="79" />
-        <mark key="^" line="25000" column="79" />
-        <mark key="." line="25000" column="79" />
-      </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1512392243911">
         <mark key="[" line="135" column="9" />
         <mark key="]" line="138" column="36" />
@@ -750,13 +729,6 @@
         <mark key="." line="40" column="59" />
         <mark key="^" line="40" column="59" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/main/resources/logback.xml" timestamp="1526987143060">
-        <mark key="'" line="35" column="15" />
-        <mark key="[" line="19" column="59" />
-        <mark key="]" line="19" column="63" />
-        <mark key="^" line="19" column="63" />
-        <mark key="." line="19" column="63" />
-      </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/ImageMetadata.scala" timestamp="1510824247161">
         <mark key="[" line="94" column="43" />
         <mark key="]" line="94" column="70" />
@@ -804,13 +776,6 @@
         <mark key="]" line="23" column="12" />
         <mark key="." line="23" column="12" />
         <mark key="^" line="23" column="12" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-memberships/R__many_groups_one_user_1.sql" timestamp="1526993569321">
-        <mark key="'" line="0" column="48" />
-        <mark key="[" line="24999" column="81" />
-        <mark key="]" line="24999" column="79" />
-        <mark key="^" line="24999" column="79" />
-        <mark key="." line="24999" column="79" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-import/project/Build.scala" timestamp="1510735832149">
         <mark key="[" line="79" column="66" />
@@ -1003,13 +968,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="72" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-memberships/R__many_groups_one_user_8.sql" timestamp="1526993498864">
-        <mark key="'" line="0" column="47" />
-        <mark key="[" line="25000" column="81" />
-        <mark key="]" line="25000" column="79" />
-        <mark key="^" line="25000" column="79" />
-        <mark key="." line="25000" column="79" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/raml/api.raml" timestamp="1526294701895">
         <mark key="[" line="68" column="24" />
@@ -1235,13 +1193,6 @@
         <mark key="]" line="44" column="61" />
         <mark key="." line="44" column="61" />
         <mark key="^" line="44" column="61" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-memberships/R__many_groups_one_user_9.sql" timestamp="1526993488734">
-        <mark key="'" line="0" column="47" />
-        <mark key="[" line="25000" column="81" />
-        <mark key="]" line="25000" column="79" />
-        <mark key="^" line="25000" column="79" />
-        <mark key="." line="25000" column="79" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/clients/src/test/resources/application.conf" timestamp="1504776318139">
         <mark key="[" line="0" column="0" />
@@ -1515,13 +1466,6 @@
         <mark key="]" line="3" column="39" />
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-memberships/R__many_groups_one_user_3.sql" timestamp="1526993548433">
-        <mark key="'" line="0" column="47" />
-        <mark key="[" line="25000" column="81" />
-        <mark key="]" line="25000" column="79" />
-        <mark key="^" line="25000" column="79" />
-        <mark key="." line="25000" column="79" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImageApiIntegrationTest.scala" timestamp="1522157816755">
         <mark key="[" line="5" column="37" />
@@ -1826,13 +1770,6 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/R__many_groups_one_user_2.sql" timestamp="1526993557625">
-        <mark key="'" line="0" column="47" />
-        <mark key="[" line="25000" column="81" />
-        <mark key="]" line="25000" column="79" />
-        <mark key="^" line="25000" column="79" />
-        <mark key="." line="25000" column="79" />
-      </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/klikkit/KlikkitApi.scala" timestamp="1519994592576">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -1907,13 +1844,6 @@
         <mark key="]" line="37" column="50" />
         <mark key="^" line="37" column="50" />
         <mark key="." line="37" column="50" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-memberships/R__many_groups_one_user_5.sql" timestamp="1526993528910">
-        <mark key="'" line="0" column="47" />
-        <mark key="[" line="25000" column="81" />
-        <mark key="]" line="25000" column="79" />
-        <mark key="^" line="25000" column="79" />
-        <mark key="." line="25000" column="79" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/MetaGroupRepositorySpec.scala" timestamp="1526546969377">
         <mark key="[" line="49" column="85" />
@@ -2245,13 +2175,6 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/R__many_groups_one_user_4.sql" timestamp="1526993539340">
-        <mark key="'" line="0" column="47" />
-        <mark key="[" line="25000" column="81" />
-        <mark key="]" line="25000" column="79" />
-        <mark key="^" line="25000" column="79" />
-        <mark key="." line="25000" column="79" />
-      </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500029575770">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="18" />
@@ -2504,6 +2427,12 @@
         <mark key="." line="9" column="35" />
         <mark key="^" line="9" column="35" />
       </file>
+      <file name="$USER_HOME$/Source/platform-memberships/docker-compose.yml" timestamp="1527150484695">
+        <mark key="[" line="32" column="41" />
+        <mark key="]" line="32" column="41" />
+        <mark key="^" line="32" column="32" />
+        <mark key="." line="32" column="41" />
+      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/IntegrationTestHelper.scala" timestamp="1498551657010">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -2615,7 +2544,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5238,7 +5167,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
