@@ -661,10 +661,10 @@
         <mark key="." line="0" column="38" />
       </file>
       <file name="$USER_HOME$/Source/platform-memberships/src/it/scala/com/leoilab/app/memberships/MembershipsApiIntegrationTest.scala" timestamp="1527075169286">
-        <mark key="[" line="317" column="4" />
-        <mark key="]" line="317" column="59" />
-        <mark key="." line="317" column="59" />
-        <mark key="^" line="317" column="59" />
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="59" />
+        <mark key="." line="2" column="59" />
+        <mark key="^" line="2" column="59" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/project/TestHelper.scala" timestamp="1510034398481">
         <mark key="[" line="140" column="24" />
@@ -936,11 +936,11 @@
         <mark key="^" line="44" column="167" />
         <mark key="." line="44" column="167" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/client/src/main/resources/application.conf" timestamp="1527060801376">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="36" />
+      <file name="$USER_HOME$/Source/platform-memberships/client/src/main/resources/application.conf" timestamp="1527165448721">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="36" />
-        <mark key="." line="0" column="36" />
+        <mark key="." line="0" column="34" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/project/TestHelper.scala" timestamp="1504790654842">
         <mark key="[" line="111" column="56" />
@@ -1002,10 +1002,10 @@
         <mark key="^" line="33" column="18" />
         <mark key="." line="33" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/client/src/main/scala/com/leoilab/memberships/client/MembershipsClient.scala" timestamp="1527060457402">
-        <mark key="[" line="31" column="82" />
-        <mark key="]" line="31" column="130" />
-        <mark key="." line="31" column="130" />
+      <file name="$USER_HOME$/Source/platform-memberships/client/src/main/scala/com/leoilab/memberships/client/MembershipsClient.scala" timestamp="1527165513180">
+        <mark key="[" line="31" column="150" />
+        <mark key="]" line="31" column="151" />
+        <mark key="." line="31" column="151" />
         <mark key="^" line="31" column="130" />
       </file>
       <file name="$USER_HOME$/Source/sensible-group-client/project/plugins.sbt" timestamp="1518525382911">
@@ -1756,10 +1756,10 @@
         <mark key="." line="58" column="29" />
       </file>
       <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsRepository.scala" timestamp="1527148206235">
-        <mark key="[" line="88" column="12" />
-        <mark key="]" line="88" column="23" />
-        <mark key="^" line="88" column="23" />
-        <mark key="." line="88" column="23" />
+        <mark key="[" line="66" column="12" />
+        <mark key="]" line="66" column="23" />
+        <mark key="^" line="66" column="23" />
+        <mark key="." line="66" column="23" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/nginx/build.sh" timestamp="1502805047038">
         <mark key="[" line="5" column="0" />
@@ -1938,7 +1938,7 @@
         <mark key="^" line="22" column="122" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/ecs-deploy/nginx/nginx.conf" timestamp="1527055949964">
+      <file name="$USER_HOME$/Source/platform-memberships/ecs-deploy/nginx/nginx.conf" timestamp="1527165598281">
         <mark key="[" line="27" column="24" />
         <mark key="]" line="27" column="25" />
         <mark key="." line="27" column="25" />
@@ -2010,11 +2010,11 @@
         <mark key="^" line="20" column="66" />
         <mark key="." line="20" column="66" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/main/resources/application.conf" timestamp="1527055958668">
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/resources/application.conf" timestamp="1527165615657">
         <mark key="[" line="23" column="23" />
-        <mark key="]" line="22" column="21" />
+        <mark key="]" line="23" column="24" />
         <mark key="^" line="22" column="21" />
-        <mark key="." line="22" column="21" />
+        <mark key="." line="23" column="24" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/core/src/main/scala/com/leoilab/images/ImagesExceptions.scala" timestamp="1504593487549">
         <mark key="[" line="2" column="0" />
@@ -2143,10 +2143,9 @@
         <mark key="." line="41" column="23" />
       </file>
       <file name="$USER_HOME$/Source/platform-memberships/build.sbt" timestamp="1527161096468">
-        <mark key="[" line="99" column="67" />
-        <mark key="]" line="100" column="46" />
-        <mark key="." line="100" column="46" />
-        <mark key="^" line="100" column="46" />
+        <mark key="]" line="3" column="46" />
+        <mark key="." line="3" column="46" />
+        <mark key="^" line="3" column="46" />
       </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/main/scala/lambda/Main.scala" timestamp="1493887608667">
         <mark key="[" line="5" column="30" />
