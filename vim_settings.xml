@@ -203,12 +203,6 @@
         <mark key="." line="17" column="30" />
         <mark key="^" line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" timestamp="1522759416134">
-        <mark key="[" line="329" column="58" />
-        <mark key="]" line="329" column="58" />
-        <mark key="." line="329" column="58" />
-        <mark key="^" line="324" column="119" />
-      </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" timestamp="1496224298461">
         <mark key="[" line="81" column="98" />
         <mark key="]" line="81" column="99" />
@@ -590,6 +584,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1527249192310" />
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -631,12 +626,6 @@
         <mark key="]" line="22" column="35" />
         <mark key="^" line="22" column="35" />
         <mark key="." line="22" column="35" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" timestamp="1522760226954">
-        <mark key="[" line="1477" column="66" />
-        <mark key="]" line="1477" column="147" />
-        <mark key="^" line="1477" column="147" />
-        <mark key="." line="1477" column="147" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceUserLockingSpec.scala" timestamp="1495454660991">
         <mark key="[" line="147" column="37" />
@@ -766,12 +755,6 @@
         <mark key="]" line="9" column="15" />
         <mark key="^" line="18" column="1" />
         <mark key="." line="9" column="15" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1522760016467">
-        <mark key="[" line="146" column="54" />
-        <mark key="]" line="147" column="54" />
-        <mark key="." line="147" column="54" />
-        <mark key="^" line="147" column="54" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/FunUnitTestSupport.scala" timestamp="1508224186142">
         <mark key="[" line="2" column="26" />
@@ -1429,9 +1412,9 @@
       </file>
       <file name="$USER_HOME$/Source/platform-users/README.md" timestamp="1522139536191">
         <mark key="[" line="60" column="0" />
-        <mark key="]" line="62" column="51" />
-        <mark key="^" line="62" column="51" />
-        <mark key="." line="62" column="51" />
+        <mark key="]" line="203" column="51" />
+        <mark key="^" line="203" column="51" />
+        <mark key="." line="203" column="51" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/resources/cf-ssl-task-definition-initial.json" timestamp="1507703434866">
         <mark key="[" line="15" column="5" />
@@ -1644,10 +1627,10 @@
         <mark key="." line="32" column="52" />
       </file>
       <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/ServicesModule.scala" timestamp="1527228641769">
-        <mark key="[" line="9" column="43" />
-        <mark key="]" line="9" column="42" />
-        <mark key="^" line="9" column="42" />
-        <mark key="." line="9" column="42" />
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="2" column="42" />
+        <mark key="^" line="2" column="42" />
+        <mark key="." line="2" column="42" />
       </file>
       <file name="$USER_HOME$/Source/platform-memberships/ecs-deploy/cf-task-template.json" timestamp="1512642494699">
         <mark key="[" line="56" column="8" />
