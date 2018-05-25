@@ -590,7 +590,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1527053289971" />
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -1476,6 +1475,12 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/ApisModule.scala" timestamp="1527228210307">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImageApiIntegrationTest.scala" timestamp="1522157816755">
         <mark key="[" line="5" column="37" />
         <mark key="]" line="5" column="36" />
@@ -1637,6 +1642,12 @@
         <mark key="]" line="32" column="52" />
         <mark key="^" line="32" column="52" />
         <mark key="." line="32" column="52" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/ServicesModule.scala" timestamp="1527228641769">
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="9" column="42" />
+        <mark key="^" line="9" column="42" />
+        <mark key="." line="9" column="42" />
       </file>
       <file name="$USER_HOME$/Source/platform-memberships/ecs-deploy/cf-task-template.json" timestamp="1512642494699">
         <mark key="[" line="56" column="8" />
