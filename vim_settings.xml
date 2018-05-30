@@ -1773,6 +1773,12 @@
         <mark key="^" line="51" column="41" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationTestHelper.scala" timestamp="1527686403708">
+        <mark key="[" line="121" column="68" />
+        <mark key="]" line="121" column="58" />
+        <mark key="." line="121" column="58" />
+        <mark key="^" line="121" column="58" />
+      </file>
       <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/rest/Java8LocalDateTimeJsonProtocol.scala" timestamp="1526474658043">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -2159,6 +2165,12 @@
         <mark key="^" line="66" column="47" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1527683795105">
+        <mark key="[" line="763" column="36" />
+        <mark key="]" line="763" column="149" />
+        <mark key="." line="763" column="149" />
+        <mark key="^" line="763" column="149" />
+      </file>
       <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsApi.scala" timestamp="1526623133851">
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
@@ -2378,11 +2390,11 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" timestamp="1520591200194">
-        <mark key="[" line="43" column="114" />
-        <mark key="]" line="43" column="113" />
-        <mark key="^" line="43" column="113" />
-        <mark key="." line="43" column="113" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" timestamp="1527689923320">
+        <mark key="[" line="968" column="86" />
+        <mark key="]" line="968" column="92" />
+        <mark key="." line="968" column="92" />
+        <mark key="^" line="968" column="92" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/raml/api.raml" timestamp="1510827178014">
         <mark key="[" line="517" column="48" />
@@ -2454,7 +2466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="30" filename="$USER_HOME$/Source/images3/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" />
       <jump line="209" column="30" filename="$USER_HOME$/Source/images3/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" />
       <jump line="66" column="0" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
       <jump line="8" column="38" filename="$USER_HOME$/Source/images3/project/Build.scala" />
@@ -2554,10 +2565,11 @@
       <jump line="0" column="47" filename="$USER_HOME$/Source/platform-memberships/R__many_groups_one_user_3.sql" />
       <jump line="0" column="47" filename="$USER_HOME$/Source/platform-memberships/R__many_groups_one_user_2.sql" />
       <jump line="0" column="48" filename="$USER_HOME$/Source/platform-memberships/R__many_groups_one_user_1.sql" />
+      <jump line="866" column="85" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Refactor PolicyId and AttachmentId json marshalling</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHVzZXJzUmVzcG9uc2UuZm9yZWFjaHsgdSA9PgogICAgICBhc3NlcnQodS5wcm9wZXJ0aWVzID09IHVzZXJzLmZpbmQoXy51c2VyLmlkID09IHUuaWQpLmdldC51c2VyLnByb3BlcnRpZXMuZHJvcCgxKSkKICAgIH0K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5180,43 +5192,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Refactor PolicyId and AttachmentId json marshalling</text>
+        <text>users.find(_.user.id == u.id)</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMgMS43NC4zNAogICogT3BlcmF0aW9uYWw6IFJlZmFjdG9yIFBvbGljeUlkIGFuZCBBdHRhY2htZW50SWQganNvbiBtYXJzaGFsbGluZwo=</text>
+        <text encoding="base64">ICAgIHVzZXJzLmZvcmVhY2h7IHUgPT4KICAgICAgYXNzZXJ0KHUudXNlci5wcm9wZXJ0aWVzID09IHVzZXJzUmVzcG9uc2UuZmluZChfLmlkID09IHUudXNlci5pZCkuZ2V0LnByb3BlcnRpZXMpCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgIGNvbW1hbmQ6IC0tdG1wLXRhYmxlLXNpemU9NTEyMDAwMDAwCg==</text>
+        <text encoding="base64">ICAgIHVzZXJzUmVzcG9uc2UuZm9yZWFjaHsgdSA9PgogICAgICBhc3NlcnQodS5wcm9wZXJ0aWVzID09IHVzZXJzLmZpbmQoXy51c2VyLmlkID09IHUuaWQpLmdldC51c2VyLnByb3BlcnRpZXMuZHJvcCgxKSkKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzCg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihzIkZpbmRpbmcgJHUgaW4gJHt1c2Vycy5tYXAoXy51c2VyLmlkKX0iKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihtYXRjaGluZ1VzZXJzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgYXBwbHk6IE1pZ3JhdGVkTG9jYWxUZXN0TXlzcWxCZWZvcmVBbGwgPSBuZXcgTWlncmF0ZWRMb2NhbFRlc3RNeXNxbEJlZm9yZUFsbCgpCg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbih1c2Vycy5kcm9wV2hpbGUoXy51c2VyLmlkICE9IHUuaWQpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgY29uZmlnVmFsdWVzID0gbmV3IENvbmZpZ1ZhbHVlcwo=</text>
+        <text encoding="base64">ICAgICAgdmFsIG1hdGNoaW5nVXNlcnMgPSB1c2Vycy5maW5kKF8udXNlci5pZCA9PSB1LmlkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBjYyA9IGNvbmZpZ1ZhbHVlcy5EYi5jb25uZWN0aW9uQ29uZmlnKENsdXN0ZXJzLkNsdXN0ZXIxKQogICAgZi5zZXREYXRhU291cmNlKGNjLnVybCwgY2MudXNlciwgY2MucGFzc3dvcmQpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCh1c2Vyc1Jlc3BvbnNlLmZvcmFsbChfLnByb3BlcnRpZXMgPT0gTWFwW1N0cmluZywgU3RyaW5nXSgpKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZseXdheSA9IG5ldyBGbHl3YXkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGYuZ2V0TG9jYXRpb25zLmZvcmVhY2gobCA9PiBwcmludGxuKGwpKQo=</text>
+        <text encoding="base64">ICAgIFRva2UgVGhpZWRlbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGYuCg==</text>
+        <text encoding="base64">ICAgIFRva2UgVGhpZWRlbgo=</text>
       </register>
       <register name=":" type="4">
         <text>319</text>
