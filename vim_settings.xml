@@ -2390,10 +2390,11 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" timestamp="1527771473234">
-        <mark key="[" line="341" column="0" />
-        <mark key="]" line="341" column="0" />
-        <mark key="." line="341" column="0" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" timestamp="1527772743939">
+        <mark key="[" line="895" column="17" />
+        <mark key="]" line="895" column="58" />
+        <mark key="." line="895" column="58" />
+        <mark key="^" line="895" column="58" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/raml/api.raml" timestamp="1510827178014">
         <mark key="[" line="517" column="48" />
@@ -2564,8 +2565,8 @@
       <jump line="866" column="85" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">b3duZXJMb2dpblJlc3BvbnNlRFRPIA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5188,13 +5189,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWVtYmVyc2hpcHMg</text>
+        <text encoding="base64">b3duZXJMb2dpblJlc3BvbnNlRFRPIA==</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVzZXJzLmZvcmVhY2h7IHUgPT4KICAgICAgYXNzZXJ0KHUudXNlci5wcm9wZXJ0aWVzID09IHVzZXJzUmVzcG9uc2UuZmluZChfLmlkID09IHUudXNlci5pZCkuZ2V0LnByb3BlcnRpZXMpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBvd25lckxvZ2luUmVzcG9uc2VEVE8gPSBjcmVhdGVSYW5kb21Vc2VyKCkKICAgIHZhbCBvd25lckFjY2Vzc1Rva2VuID0gb3duZXJMb2dpblJlc3BvbnNlRFRPLmF1dGguYWNjZXNzVG9rZW4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
