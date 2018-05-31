@@ -648,10 +648,10 @@
         <mark key="." line="0" column="38" />
       </file>
       <file name="$USER_HOME$/Source/platform-memberships/src/it/scala/com/leoilab/app/memberships/MembershipsApiIntegrationTest.scala" timestamp="1527170386778">
-        <mark key="[" line="312" column="53" />
-        <mark key="]" line="312" column="55" />
-        <mark key="^" line="312" column="55" />
-        <mark key="." line="312" column="55" />
+        <mark key="[" line="330" column="53" />
+        <mark key="]" line="330" column="55" />
+        <mark key="^" line="330" column="55" />
+        <mark key="." line="330" column="55" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/project/TestHelper.scala" timestamp="1510034398481">
         <mark key="[" line="140" column="24" />
@@ -2169,10 +2169,10 @@
         <mark key="." line="763" column="149" />
         <mark key="^" line="763" column="149" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsApi.scala" timestamp="1526623133851">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsApi.scala" timestamp="1527767008432">
+        <mark key="[" line="114" column="62" />
+        <mark key="]" line="114" column="62" />
+        <mark key="." line="114" column="62" />
         <mark key="^" line="98" column="42" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/mail/MailService.scala" timestamp="1527249729393">
@@ -2559,8 +2559,8 @@
       <jump line="866" column="85" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5183,7 +5183,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.map(_.id) == (accessible intersect matchingUsers).map(_.id))</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
