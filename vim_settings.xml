@@ -624,10 +624,10 @@
         <mark key="." line="22" column="35" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" timestamp="1527751455208">
-        <mark key="[" line="1415" column="66" />
-        <mark key="]" line="1415" column="108" />
-        <mark key="^" line="1415" column="108" />
-        <mark key="." line="1415" column="108" />
+        <mark key="[" line="1411" column="66" />
+        <mark key="]" line="1411" column="108" />
+        <mark key="^" line="1411" column="108" />
+        <mark key="." line="1411" column="108" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceUserLockingSpec.scala" timestamp="1495454660991">
         <mark key="[" line="147" column="37" />
@@ -772,6 +772,12 @@
         <mark key="]" line="23" column="12" />
         <mark key="." line="23" column="12" />
         <mark key="^" line="23" column="12" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/project/TestHelper.scala" timestamp="1527758296406">
+        <mark key="[" line="171" column="24" />
+        <mark key="]" line="171" column="33" />
+        <mark key="^" line="171" column="33" />
+        <mark key="." line="171" column="33" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-import/project/Build.scala" timestamp="1510735832149">
         <mark key="[" line="79" column="66" />
