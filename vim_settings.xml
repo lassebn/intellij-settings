@@ -203,11 +203,11 @@
         <mark key="." line="17" column="30" />
         <mark key="^" line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" timestamp="1527798146813">
-        <mark key="[" line="373" column="95" />
-        <mark key="]" line="373" column="94" />
-        <mark key="." line="373" column="94" />
-        <mark key="^" line="373" column="94" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" timestamp="1527835628471">
+        <mark key="[" line="672" column="127" />
+        <mark key="]" line="672" column="133" />
+        <mark key="." line="672" column="133" />
+        <mark key="^" line="672" column="133" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" timestamp="1496224298461">
         <mark key="[" line="81" column="98" />
@@ -2568,7 +2568,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXh0ZW5kZWQg</text>
+        <text>userIds</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5191,13 +5191,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXh0ZW5kZWQg</text>
+        <text>userIds</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMgMS43NC4zMgogICogQVBJOgogICAgKiBBZGRlZCBjbGllbnQgc2VjcmV0IGNyZWRlbnRpYWwgZm9yIFNraW4gQ29hY2gK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyUHJvcGVydGllcyA8LSB1c2VyUHJvcGVydGllc1NlcnZpY2UubGlzdEJ5SWQodXNlcklkcy50b1NldCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFzc2VydCh1c2VyMkV4dGVuZGVkLmdldC5wcm9wZXJ0aWVzID09IE1hcCgicDMiIC0+ICJ2MyIpKQo=</text>
