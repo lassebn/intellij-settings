@@ -2376,11 +2376,11 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" timestamp="1528063219069">
-        <mark key="[" line="912" column="39" />
-        <mark key="]" line="912" column="66" />
-        <mark key="." line="912" column="66" />
-        <mark key="^" line="912" column="66" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" timestamp="1528064279695">
+        <mark key="[" line="912" column="95" />
+        <mark key="]" line="912" column="94" />
+        <mark key="." line="912" column="94" />
+        <mark key="^" line="912" column="94" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/raml/api.raml" timestamp="1510827178014">
         <mark key="[" line="517" column="48" />
@@ -2552,7 +2552,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>drop</text>
+        <text>1</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5175,7 +5175,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>drop</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
