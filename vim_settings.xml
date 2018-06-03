@@ -2376,11 +2376,11 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" timestamp="1528059467857">
-        <mark key="[" line="912" column="87" />
-        <mark key="]" line="912" column="90" />
-        <mark key="." line="912" column="90" />
-        <mark key="^" line="912" column="90" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" timestamp="1528063219069">
+        <mark key="[" line="912" column="39" />
+        <mark key="]" line="912" column="66" />
+        <mark key="." line="912" column="66" />
+        <mark key="^" line="912" column="66" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/raml/api.raml" timestamp="1510827178014">
         <mark key="[" line="517" column="48" />
