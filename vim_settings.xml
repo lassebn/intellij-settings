@@ -2228,11 +2228,11 @@
         <mark key="^" line="66" column="47" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/auth/AuthenticationDirective.scala" timestamp="1528708520016">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="49" />
-        <mark key="." line="19" column="49" />
-        <mark key="^" line="19" column="49" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/auth/AuthenticationDirective.scala" timestamp="1528723373949">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="22" column="11" />
+        <mark key="^" line="22" column="11" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1528293945907">
         <mark key="[" line="1164" column="30" />
@@ -2637,7 +2637,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICogSW5Ub3VjaCByZW1vdmVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICFjbGllbnRUb2tlbnNFeHBpcmUoYXV0aEluZm8uY2xpZW50SWQpIHx8Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5269,31 +5269,31 @@
         <text encoding="base64">IyMgMS43NwogICogQVBJOgogICAgKiBQb2xpY3kgbmFtZXMgZXh0ZW5kZWQgZnJvbSAzNiBjaGFyYWN0ZXJzIHRvIDE5MQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogSW5Ub3VjaCByZW1vdmVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICFjbGllbnRUb2tlbnNFeHBpcmUoYXV0aEluZm8uY2xpZW50SWQpIHx8Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuTXVzdE1hdGNoZXJzLmNvbnZlcnRUb0FueU11c3RXcmFwcGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB2YWwgY2xpZW50VG9rZW5zRXhwaXJlID0gTWFwW0NsaWVudElkLCBCb29sZWFuXSgpLndpdGhEZWZhdWx0VmFsdWUodHJ1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmF1dGguQXV0aEluZm8K</text>
+        <text encoding="base64">ICAgICogSW5Ub3VjaCByZW1vdmVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuTXVzdE1hdGNoZXJzLmNvbnZlcnRUb0FueU11c3RXcmFwcGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmF1dGguQXV0aEluZm8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpdCBzaG91bGQgImNyZWF0ZSB1c2VyIHdpdGggY29uZmlybWVkIGVtYWlsIGZvciBpbnRvdWNoIGNsaWVudElkIiBpbiB7CiAgICBpbXBsaWNpdCB2YWwgYXV0aEluZm8gPSBBdXRoSW5mbyhVc2VySWQuZ2VuZXJhdGUsIENsaWVudHMuSW50b3VjaCkKICAgIGFjY2Vzc1Rva2VuID0gZ2VuZXJhdGVUZXN0QWNjZXNzVG9rZW4oYXV0aEluZm8pCiAgICB2YWwgYXBpVXNlciA9IENyZWF0ZVVzZXJEVE8oInRlc3QtdXNlci0xIiwgInRlc3QtZW1haWwtMSIsIHN0cm9uZ1Bhc3N3b3JkKQogICAgd2hlbih1c2VyUmVwb3NpdG9yeS5jcmVhdGUoYW55W1VzZXJdKShhbnlbQ2xpZW50SWRdKSkudGhlblJldHVybihGdXR1cmUuc3VjY2Vzc2Z1bCgxKSkKICAgIHdoZW4obWVtYmVyc2hpcHNDbGllbnQuZ3JhbnRBdXRob3JpemF0aW9uKGFueVtVc2VySWRdLCBhbnlbR3JvdXBJZF0pKGFueVtBY2Nlc3NUb2tlbl0pKS50aGVuUmV0dXJuKEZ1dHVyZS5zdWNjZXNzZnVsKCgpKSkKCiAgICB2YWwgcmVzdWx0ID0gdXNlclNlcnZpY2UuY3JlYXRlKGFwaVVzZXIpCgogICAgd2hlblJlYWR5KHJlc3VsdCkgeyBuZXdBdXRoSW5mbyA9PgogICAgICBhc3NlcnQobmV3QXV0aEluZm8uZW1haWxfY29uZmlybWVkX2F0Lm5vbkVtcHR5KQogICAgfQogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
