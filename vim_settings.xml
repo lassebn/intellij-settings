@@ -645,6 +645,9 @@
         <mark key="^" line="138" column="36" />
         <mark key="." line="138" column="36" />
       </file>
+      <file name="/externalUsers [psohappy@localhost]" timestamp="1528695616605">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.scala" timestamp="1526472469170">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="0" column="38" />
@@ -1218,6 +1221,12 @@
         <mark key="]" line="44" column="91" />
         <mark key="." line="44" column="91" />
         <mark key="^" line="44" column="91" />
+      </file>
+      <file name="$USER_HOME$/Source/psohappy-backend/src/raml/api.raml" timestamp="1528695862071">
+        <mark key="[" line="96" column="25" />
+        <mark key="]" line="99" column="28" />
+        <mark key="^" line="99" column="28" />
+        <mark key="." line="99" column="28" />
       </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/SampleTest.scala" timestamp="1493977610698">
         <mark key="[" line="9" column="99" />
