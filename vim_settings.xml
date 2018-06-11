@@ -750,11 +750,11 @@
         <mark key="^" line="28" column="61" />
         <mark key="." line="28" column="61" />
       </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/project/TestHelper.scala" timestamp="1498551365792">
-        <mark key="[" line="124" column="27" />
-        <mark key="]" line="124" column="34" />
-        <mark key="." line="124" column="34" />
-        <mark key="^" line="124" column="34" />
+      <file name="$USER_HOME$/Source/psohappy-backend/project/TestHelper.scala" timestamp="1528704815820">
+        <mark key="[" line="126" column="126" />
+        <mark key="]" line="126" column="144" />
+        <mark key="." line="126" column="144" />
+        <mark key="^" line="126" column="144" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/docker-compose.yml" timestamp="1502799849479">
         <mark key="[" line="9" column="15" />
@@ -2394,11 +2394,11 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/psohappy-backend/docker-compose.yml" timestamp="1504793799465">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="44" column="37" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/Source/psohappy-backend/docker-compose.yml" timestamp="1528704271652">
+        <mark key="[" line="29" column="62" />
+        <mark key="]" line="30" column="55" />
+        <mark key="^" line="30" column="55" />
+        <mark key="." line="30" column="55" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/CollectionsTableSpec.scala" timestamp="1503309860254">
         <mark key="[" line="9" column="0" />
