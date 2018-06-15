@@ -23,11 +23,11 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/GetGroupsIntegrationTest.scala" timestamp="1529054536362">
-        <mark key="[" line="89" column="45" />
-        <mark key="]" line="89" column="65" />
-        <mark key="." line="89" column="65" />
-        <mark key="^" line="89" column="65" />
+      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/GetGroupsIntegrationTest.scala" timestamp="1529058530534">
+        <mark key="[" line="89" column="54" />
+        <mark key="]" line="89" column="73" />
+        <mark key="." line="89" column="73" />
+        <mark key="^" line="89" column="73" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/Makefile" timestamp="1504524040877">
         <mark key="[" line="27" column="0" />
@@ -2621,8 +2621,8 @@
       <jump line="36" column="69" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/userproperties/UserPropertiesService.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXBJZHMgc2hvdWxkIGNvbnRhaW4ocm9vdE5vZGUuaWQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>baseGroup</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5245,7 +5245,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>GroupId</text>
+        <text>baseGroup</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
