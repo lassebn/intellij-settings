@@ -59,11 +59,11 @@
         <mark key="." line="83" column="160" />
         <mark key="^" line="83" column="160" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/build.sbt" timestamp="1529050962990">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="38" column="46" />
-        <mark key="." line="38" column="46" />
-        <mark key="^" line="38" column="46" />
+      <file name="$USER_HOME$/Source/sensible-group-client/build.sbt" timestamp="1529060149938">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/images/ImagesApi.scala" timestamp="1503999505064">
         <mark key="[" line="2" column="27" />
@@ -491,10 +491,10 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1529051247589">
-        <mark key="[" line="125" column="23" />
-        <mark key="]" line="125" column="33" />
-        <mark key="." line="125" column="33" />
+      <file name="$USER_HOME$/Source/sensible-groups/build.sbt" timestamp="1529060234340">
+        <mark key="[" line="125" column="25" />
+        <mark key="]" line="125" column="25" />
+        <mark key="." line="125" column="25" />
         <mark key="^" line="125" column="33" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/ecs-deploy/cf-task-template.json" timestamp="1512475528979">
@@ -599,7 +599,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1528963344900" />
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -827,6 +826,12 @@
         <mark key="]" line="21" column="73" />
         <mark key="^" line="21" column="73" />
         <mark key="." line="21" column="73" />
+      </file>
+      <file name="$USER_HOME$/Source/sensible-groups/version.sbt" timestamp="1529060305652">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-import/src/main/scala/datawarehouse/Driver.scala" timestamp="1510659877555">
         <mark key="[" line="358" column="64" />
@@ -1554,11 +1559,11 @@
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/README.md" timestamp="1526456511441">
-        <mark key="[" line="101" column="25" />
-        <mark key="]" line="101" column="57" />
-        <mark key="." line="101" column="57" />
-        <mark key="^" line="101" column="57" />
+      <file name="$USER_HOME$/Source/sensible-groups/README.md" timestamp="1529060357630">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="102" column="50" />
+        <mark key="." line="102" column="50" />
+        <mark key="^" line="102" column="50" />
       </file>
       <file name="$USER_HOME$/Source/WufooExporterTest/requirements.txt" timestamp="1506580783043">
         <mark key="[" line="0" column="17" />
@@ -2622,7 +2627,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>userCollectionsGroup</text>
+        <text>SNAPSHOT</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5245,7 +5250,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>userCollectionsGroup</text>
+        <text>SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
