@@ -23,11 +23,11 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/GetGroupsIntegrationTest.scala" timestamp="1529058530534">
+      <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/GetGroupsIntegrationTest.scala" timestamp="1529059202762">
         <mark key="[" line="89" column="54" />
-        <mark key="]" line="89" column="73" />
-        <mark key="." line="89" column="73" />
-        <mark key="^" line="89" column="73" />
+        <mark key="]" line="89" column="62" />
+        <mark key="." line="89" column="62" />
+        <mark key="^" line="89" column="62" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/Makefile" timestamp="1504524040877">
         <mark key="[" line="27" column="0" />
@@ -2622,7 +2622,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>baseGroup</text>
+        <text>userCollectionsGroup</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5245,7 +5245,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>baseGroup</text>
+        <text>userCollectionsGroup</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
