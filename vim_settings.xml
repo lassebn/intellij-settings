@@ -779,11 +779,11 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1529061031803">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="27" />
-        <mark key="." line="20" column="27" />
-        <mark key="^" line="20" column="27" />
+      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1529173930791">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="20" column="18" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/FunUnitTestSupport.scala" timestamp="1508224186142">
         <mark key="[" line="2" column="26" />
@@ -1463,11 +1463,11 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/README.md" timestamp="1528720342050">
-        <mark key="[" line="76" column="21" />
-        <mark key="]" line="76" column="1" />
-        <mark key="^" line="76" column="1" />
-        <mark key="." line="76" column="1" />
+      <file name="$USER_HOME$/Source/platform-users/README.md" timestamp="1529174016263">
+        <mark key="[" line="62" column="16" />
+        <mark key="]" line="62" column="52" />
+        <mark key="^" line="62" column="52" />
+        <mark key="." line="62" column="52" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/resources/cf-ssl-task-definition-initial.json" timestamp="1507703434866">
         <mark key="[" line="15" column="5" />
@@ -1877,11 +1877,11 @@
         <mark key="^" line="1" column="83" />
         <mark key="." line="1" column="83" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/version.sbt" timestamp="1528720288387">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="28" />
-        <mark key="^" line="0" column="28" />
-        <mark key="." line="0" column="28" />
+      <file name="$USER_HOME$/Source/platform-users/version.sbt" timestamp="1529173964416">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/User.scala" timestamp="1528708634321">
         <mark key="[" line="33" column="77" />
@@ -2660,7 +2660,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>groups</text>
+        <text>add index on groupid in memberships table</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5283,13 +5283,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>groups</text>
+        <text>add index on groupid in memberships table</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0ZXN0T3B0aW9ucyBpbiBUZXN0ICsrPSBTZXEocHJpbnRGYWlsZWRUZXN0cyksCiAgdGVzdE9wdGlvbnMgaW4gSW50ZWdyYXRpb25UZXN0ICsrPSBTZXEocHJpbnRGYWlsZWRUZXN0cykK</text>
+        <text encoding="base64">IyMgMS43OS4yCiAgKiBPcGVyYXRpb25hbDogYWRkIGluZGV4IG9uIGdyb3VwaWQgaW4gbWVtYmVyc2hpcHMgdGFibGUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHdoZW4oZ3JvdXBzQ2xpZW50Lmxpc3RHcm91cHMoKShhbnlbQWNjZXNzVG9rZW5dKSkudGhlblJldHVybihGdXR1cmUoTGlzdCgpKSkK</text>
