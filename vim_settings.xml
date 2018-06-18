@@ -610,7 +610,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1529304304583" />
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -1850,11 +1849,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/GroupIntegrationTest.scala" timestamp="1529063192100">
-        <mark key="[" line="50" column="64" />
-        <mark key="]" line="50" column="66" />
-        <mark key="^" line="50" column="66" />
-        <mark key="." line="50" column="66" />
+      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/GroupIntegrationTest.scala" timestamp="1529314412112">
+        <mark key="[" line="58" column="76" />
+        <mark key="]" line="58" column="73" />
+        <mark key="^" line="58" column="73" />
+        <mark key="." line="58" column="73" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/klikkit/KlikkitApi.scala" timestamp="1519994592576">
         <mark key="[" line="24" column="0" />
@@ -2461,11 +2460,17 @@
         <mark key="^" line="68" column="52" />
         <mark key="." line="68" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/groups/GroupServiceFuncSpec.scala" timestamp="1529063259105">
-        <mark key="[" line="42" column="133" />
-        <mark key="]" line="42" column="154" />
-        <mark key="." line="42" column="154" />
-        <mark key="^" line="42" column="154" />
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/groups/GroupService.scala" timestamp="1529314375635">
+        <mark key="[" line="39" column="75" />
+        <mark key="]" line="39" column="65" />
+        <mark key="^" line="39" column="65" />
+        <mark key="." line="39" column="65" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/groups/GroupServiceFuncSpec.scala" timestamp="1529314458007">
+        <mark key="[" line="42" column="149" />
+        <mark key="]" line="42" column="149" />
+        <mark key="." line="42" column="149" />
+        <mark key="^" line="42" column="133" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/docs/DocsApi.scala" timestamp="1528707492827">
         <mark key="[" line="18" column="0" />
@@ -2693,7 +2698,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5316,7 +5321,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
