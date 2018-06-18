@@ -53,11 +53,11 @@
         <mark key="." line="48" column="45" />
         <mark key="^" line="48" column="45" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" timestamp="1529310327278">
-        <mark key="[" line="145" column="62" />
-        <mark key="]" line="145" column="60" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/StudiesAndMeGroupManagementTest.scala" timestamp="1529311066204">
+        <mark key="[" line="63" column="50" />
+        <mark key="]" line="63" column="50" />
         <mark key="^" line="145" column="60" />
-        <mark key="." line="145" column="60" />
+        <mark key="." line="63" column="50" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/KlikkitApiActivitiesSpec.scala" timestamp="1509447437106">
         <mark key="[" line="83" column="167" />
@@ -1286,10 +1286,10 @@
         <mark key="^" line="30" column="52" />
         <mark key="." line="30" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/SensibleUserGroupManagementTest.scala" timestamp="1529064076692">
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/groupsmanagement/SensibleUserGroupManagementTest.scala" timestamp="1529311147373">
         <mark key="[" line="28" column="62" />
-        <mark key="]" line="28" column="64" />
-        <mark key="." line="28" column="64" />
+        <mark key="]" line="28" column="62" />
+        <mark key="." line="28" column="62" />
         <mark key="^" line="28" column="64" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/ServicesModule.scala" timestamp="1522068654219">
@@ -2693,7 +2693,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SNAPSHOT</text>
+        <text>id</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5316,7 +5316,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SNAPSHOT</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
