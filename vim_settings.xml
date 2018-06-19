@@ -89,11 +89,6 @@
         <mark key="^" line="39" column="67" />
         <mark key="." line="39" column="67" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/apigateway/ProxyDirectives.scala" timestamp="1528718014432">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/requirements.txt" timestamp="1499325861169">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="19" />
@@ -610,6 +605,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1529413187160" />
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -645,11 +641,6 @@
         <mark key="]" line="22" column="35" />
         <mark key="^" line="22" column="35" />
         <mark key="." line="22" column="35" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" timestamp="1528708802847">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceUserLockingSpec.scala" timestamp="1495454660991">
         <mark key="[" line="147" column="37" />
@@ -1131,11 +1122,6 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-group-client/README.md" timestamp="1529306544856">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/utils/FlywayService.scala" timestamp="1517210498027">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1231,11 +1217,6 @@
         <mark key="]" line="9" column="59" />
         <mark key="^" line="27" column="50" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/resources/application.conf" timestamp="1528708674898">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/main/resources/db/migration/V1__Create_dummy_table.sql" timestamp="1509544341762">
         <mark key="[" line="1" column="21" />
@@ -2137,11 +2118,6 @@
         <mark key="^" line="6" column="75" />
         <mark key="." line="6" column="58" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/version.sbt" timestamp="1529175073356">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="32" />
-      </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/AwsTasks.scala" timestamp="1512132612755">
         <mark key="[" line="119" column="172" />
         <mark key="]" line="119" column="170" />
@@ -2472,11 +2448,6 @@
         <mark key="." line="42" column="149" />
         <mark key="^" line="42" column="133" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/docs/DocsApi.scala" timestamp="1528707492827">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/CollectionsImagesTable.scala" timestamp="1519996584809">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="1" />
@@ -2500,6 +2471,9 @@
         <mark key="]" line="1" column="40" />
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
+      </file>
+      <file name="/sbtShell" timestamp="1529413199675">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/docker-compose.yml" timestamp="1528704271652">
         <mark key="[" line="29" column="62" />
@@ -2578,11 +2552,6 @@
         <mark key="]" line="9" column="35" />
         <mark key="." line="9" column="35" />
         <mark key="^" line="9" column="35" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-memberships/docker-compose.yml" timestamp="1527162395160">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/it/scala/com/leoilab/psohappy/IntegrationTestHelper.scala" timestamp="1498551657010">
         <mark key="[" line="49" column="0" />
