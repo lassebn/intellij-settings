@@ -125,9 +125,9 @@
         <mark key="." line="161" column="42" />
         <mark key="^" line="161" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiFacebookLoginTest.scala" timestamp="1529414229382">
-        <mark key="[" line="50" column="48" />
-        <mark key="]" line="50" column="46" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiFacebookLoginTest.scala" timestamp="1529416332747">
+        <mark key="[" line="51" column="37" />
+        <mark key="]" line="51" column="51" />
         <mark key="^" line="50" column="46" />
         <mark key="." line="50" column="46" />
       </file>
@@ -2664,7 +2664,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>106602143259637</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5292,8 +5292,8 @@
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyMgMS41Mi4xOAogKiBPcGVyYXRpb25hbDoK</text>
+      <register name="0" type="4">
+        <text>106602143259637</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJhc2VHcm91cC5wYXJlbnQgc2hvdWxkQmUgU29tZShyb290R3JvdXBJZCkK</text>
