@@ -1142,11 +1142,11 @@
         <mark key="^" line="42" column="4" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1528707560391">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="25" column="30" />
+      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1529664334010">
+        <mark key="[" line="136" column="30" />
+        <mark key="]" line="136" column="40" />
+        <mark key="." line="136" column="40" />
+        <mark key="^" line="136" column="40" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/ecs-deploy/deploy.sh" timestamp="1512475385755">
         <mark key="[" line="21" column="0" />
@@ -1474,9 +1474,9 @@
         <mark key="." line="20" column="30" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/README.md" timestamp="1529651712721">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/resources/cf-ssl-task-definition-initial.json" timestamp="1507703434866">
         <mark key="[" line="15" column="5" />
@@ -1776,12 +1776,6 @@
         <mark key="]" line="2" column="15" />
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/identity/FacebookIdentityServiceSpec.scala" timestamp="1529650982573">
-        <mark key="[" line="72" column="13" />
-        <mark key="]" line="72" column="15" />
-        <mark key="^" line="72" column="15" />
-        <mark key="." line="72" column="15" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/project/Build.scala" timestamp="1518110107534">
         <mark key="[" line="44" column="78" />
@@ -2682,7 +2676,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IEJ1bXAgdmVyc2lvbgo=</text>
+        <text encoding="base64">ICB3aXJlbW9jazoKICAgICAgaW1hZ2U6IHJvZG9scGhlY2hlL3dpcmVtb2NrCiAgICAgIHZvbHVtZXM6CiAgICAgICAgICAtIC4vd2lyZW1vY2s6L2hvbWUvd2lyZW1vY2sKICAgICAgcG9ydHM6CiAgICAgICAgICAtIDgwODA6ODA4MAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5311,7 +5305,7 @@
         <text>usersdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgb3ZlcnJpZGUgZGVmIHNpZ25lZFJlcXVlc3RUb1VzZXJBY2Nlc3NUb2tlbihmYWNlYm9va1NpZ25lZFJlcXVlc3REZWNvZGVkOiBGYWNlYm9va1NpZ25lZFJlcXVlc3REZWNvZGVkKShpbXBsaWNpdCBjbGllbnRJZDogQ2xpZW50SWQpOiBGYWNlYm9va1VzZXJBY2Nlc3NUb2tlbiA9IEZhY2Vib29rVXNlckFjY2Vzc1Rva2VuKHRva2VuID0gcmFuZG9tU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICB3aXJlbW9jazoKICAgICAgaW1hZ2U6IHJvZG9scGhlY2hlL3dpcmVtb2NrCiAgICAgIHZvbHVtZXM6CiAgICAgICAgICAtIC4vd2lyZW1vY2s6L2hvbWUvd2lyZW1vY2sKICAgICAgcG9ydHM6CiAgICAgICAgICAtIDgwODA6ODA4MAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IEJ1bXAgdmVyc2lvbgo=</text>
