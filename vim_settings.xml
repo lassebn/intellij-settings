@@ -407,11 +407,11 @@
         <mark key="^" line="483" column="24" />
         <mark key="." line="483" column="24" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/identity/FacebookIdentityService.scala" timestamp="1529673346930">
-        <mark key="[" line="82" column="73" />
-        <mark key="]" line="82" column="86" />
-        <mark key="^" line="82" column="86" />
-        <mark key="." line="82" column="86" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/identity/FacebookIdentityService.scala" timestamp="1529674116654">
+        <mark key="[" line="53" column="98" />
+        <mark key="]" line="53" column="69" />
+        <mark key="^" line="53" column="69" />
+        <mark key="." line="53" column="69" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/README.md" timestamp="1528976892067">
         <mark key="[" line="38" column="0" />
@@ -1293,11 +1293,11 @@
         <mark key="." line="28" column="62" />
         <mark key="^" line="28" column="64" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/ServicesModule.scala" timestamp="1529579833853">
-        <mark key="[" line="32" column="81" />
-        <mark key="]" line="32" column="85" />
-        <mark key="^" line="32" column="85" />
-        <mark key="." line="32" column="85" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/ServicesModule.scala" timestamp="1529674488995">
+        <mark key="[" line="32" column="112" />
+        <mark key="]" line="33" column="156" />
+        <mark key="^" line="33" column="156" />
+        <mark key="." line="33" column="156" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/ApisModule.scala" timestamp="1528708271307">
         <mark key="[" line="26" column="0" />
