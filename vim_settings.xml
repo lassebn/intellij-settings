@@ -1147,12 +1147,12 @@
         <mark key="^" line="42" column="4" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1529911482957">
-        <mark key="'" line="148" column="51" />
-        <mark key="[" line="148" column="79" />
-        <mark key="]" line="148" column="77" />
-        <mark key="^" line="148" column="77" />
-        <mark key="." line="148" column="77" />
+      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1529914793170">
+        <mark key="'" line="150" column="51" />
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="24" column="103" />
+        <mark key="^" line="24" column="103" />
+        <mark key="." line="24" column="103" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/ecs-deploy/deploy.sh" timestamp="1512475385755">
         <mark key="[" line="21" column="0" />
@@ -2695,7 +2695,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>com.sun.net.ssl.checkRevocation=false</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5318,13 +5318,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>com.sun.net.ssl.checkRevocation=false</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
-      <register name="0" type="4">
-        <text>accessToken: String, apiVersion: Version</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdm9sdW1lczoKICAgICAgICAgIC0gLi93aXJlbW9jazovaG9tZS93aXJlbW9jawo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY2xpZW50LnByaW50VXJsVXNlZCgpCg==</text>
