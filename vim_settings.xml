@@ -1147,12 +1147,12 @@
         <mark key="^" line="42" column="4" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1529916853345">
-        <mark key="'" line="153" column="51" />
-        <mark key="[" line="47" column="24" />
-        <mark key="]" line="47" column="19" />
-        <mark key="^" line="47" column="19" />
-        <mark key="." line="47" column="19" />
+      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1529918652565">
+        <mark key="'" line="158" column="51" />
+        <mark key="[" line="50" column="33" />
+        <mark key="]" line="51" column="25" />
+        <mark key="^" line="51" column="25" />
+        <mark key="." line="51" column="25" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/ecs-deploy/deploy.sh" timestamp="1512475385755">
         <mark key="[" line="21" column="0" />
@@ -2695,7 +2695,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>com.sun.net.ssl.checkRevocation=false</text>
+        <text>opt</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5318,7 +5318,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>com.sun.net.ssl.checkRevocation=false</text>
+        <text>opt</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
