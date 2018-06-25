@@ -611,7 +611,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1529413187160" />
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -1147,12 +1146,11 @@
         <mark key="^" line="42" column="4" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1529929271876">
-        <mark key="'" line="158" column="51" />
-        <mark key="[" line="160" column="17" />
-        <mark key="]" line="161" column="14" />
-        <mark key="^" line="161" column="14" />
-        <mark key="." line="161" column="14" />
+      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1529936885690">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+        <mark key="^" line="44" column="62" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/ecs-deploy/deploy.sh" timestamp="1512475385755">
         <mark key="[" line="21" column="0" />
@@ -1225,6 +1223,12 @@
         <mark key="]" line="10" column="95" />
         <mark key="^" line="10" column="95" />
         <mark key="." line="10" column="95" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/wiremock/mappings/facebook_access_token.json" timestamp="1529936171714">
+        <mark key="[" line="3" column="49" />
+        <mark key="]" line="3" column="46" />
+        <mark key="^" line="3" column="46" />
+        <mark key="." line="3" column="46" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/users/UserPropertiesService.scala" timestamp="1510138117587">
         <mark key="[" line="9" column="0" />
@@ -1724,6 +1728,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="9" column="65" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/wiremock/mappings/facebook_get_email.json" timestamp="1529936107681">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupServiceSpec.scala" timestamp="1526624907025">
         <mark key="[" line="258" column="84" />
@@ -5324,13 +5334,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>LATEST</text>
+        <text>fakebook</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdm9sdW1lczoKICAgICAgICAgIC0gLi93aXJlbW9jazovaG9tZS93aXJlbW9jawo=</text>
+        <text encoding="base64">ICAgICAgImFjY2Vzc190b2tlbiI6ICJFQUFEWkFPblc3NVdBQkFIWkNVV0s4TXhyUElGaE5oenNFZlh1bFR6WkFIV2N1OG5ZQ1gwWXdqWXRjS2h3NGtYdlJWU1VENHRqcmVyM2Y2VEtSRkJuSHB3NjRDa21aQVdxR2hBUFpDRnYxa2JMMTM1aUJBa2cwaGVtbzBDVDhEQUY1a3dDYkR1RENpcFE1YmsxalZaQUkxTWV4WGc4VjFKVnV5WkMzOHJobzExR0JFZTJtejhLdm1vdkd6Q3FLWkJaQndKRzR4QWJtZ1dLTmVnWkRaRCIsCiAgICAgICJ0b2tlbl90eXBlIjogImJlYXJlciIsCiAgICAgICJleHBpcmVzX2luIjogNzA1OAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -5339,28 +5349,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgcHJpbnRVcmxVc2VkKCk6IFVuaXQgPSBwcmludGxuKGdldEZhY2Vib29rR3JhcGhFbmRwb2ludFVybCgpKQo=</text>
+        <text encoding="base64">IyAgZ3JhcGguZmFjZWJvb2suY29tOgojICAgICAgaW1hZ2U6IHJvZG9scGhlY2hlL3dpcmVtb2NrOjIuMTguMAojICAgICAgY29tbWFuZDogLS1odHRwcy1wb3J0IDQ0MyAtLXZlcmJvc2UKIyAgICAgIHZvbHVtZXM6CiMgICAgICAgICAgLSAuL3dpcmVtb2NrOi9ob21lL3dpcmVtb2NrCiMgICAgICBleHBvc2U6CiMgICAgICAgICAgLSAiNDQzIgoKIyAgZ3JhcGguZmFjZWJvb2suY29tOgojICAgIGltYWdlOiBqYW1lc2RibG9vbS9tb2Nrc2VydmVyOm1vY2tzZXJ2ZXItNS4zLjAKIyAgICBjb21tYW5kOiAvb3B0L21vY2tzZXJ2ZXIvcnVuX21vY2tzZXJ2ZXIuc2ggLXNlcnZlclBvcnQgMTA4MCAtcHJveHlQb3J0IDQ0MyAtcHJveHlSZW1vdGVIb3N0IGdyYXBoLmZhY2Vib29rLmNvbSAtZ2VuZXJpY0pWTU9wdGlvbnMgIi1EbW9ja3NlcnZlci5lbmFibGVDT1JTRm9yQWxsUmVzcG9uc2VzPXRydWUgLURtb2Nrc2VydmVyLnNzbFN1YmplY3RBbHRlcm5hdGl2ZU5hbWVEb21haW5zPSdncmFwaC5mYWNlYm9vay5jb20sZmFjZWJvb2suY29tJyIKIyAgICBwb3J0czoKIyAgICAgIC0gMTA4MDoxMDgwCiMgICAgICAtIDQ0Mzo0NDMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">IyAgICAgICAgICAtIF9KQVZBX09QVElPTlM9LURqYXZheC5uZXQuc3NsLnRydXN0U3RvcmU9L2hvbWUvbW9ja3NlcnZlci9DZXJ0aWZpY2F0ZUF1dGhvcml0eUNlcnRpZmljYXRlLnBlbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQogIGJlZm9yZSB7CiAgICBmYWNlYm9va0NsaWVudCA9IG1vY2tbVGVzdGFibGVGYWNlYm9va0NsaWVudF0KICAgIGZhY2Vib29rSWRlbnRpdHlTZXJ2aWNlID0gbmV3IEZhY2Vib29rSWRlbnRpdHlTZXJ2aWNlSW1wbChmYWNlYm9va0NsaWVudCkoY29uZmlnVmFsdWVzKSB7CiAgICAgIG92ZXJyaWRlIGRlZiBnZXRDbGllbnRXaXRoQWNjZXNzVG9rZW4oaW1wbGljaXQgY2xpZW50SWQ6IENsaWVudElkKTogVGVzdGFibGVGYWNlYm9va0NsaWVudCA9IGZhY2Vib29rQ2xpZW50Cj4+Pj4+Pj4gU3Rhc2hlZCBjaGFuZ2VzCg==</text>
+        <text encoding="base64">IyAgICAgIGNvbW1hbmQ6ID4KIyAgICAgICAgYmFzaCAtYyAiCiMgICAgICAgIGFwayB1cGRhdGUgJiYKIyAgICAgICAgYXBrIGFkZCBjYS1jZXJ0aWZpY2F0ZXMgJiYKIyAgICAgICAgdXBkYXRlLWNhLWNlcnRpZmljYXRlcyAmJgojICAgICAgICBhcGsgYWRkIG9wZW5zc2wgJiYKIyAgICAgICAgYmFzaCAvaG9tZS9tb2Nrc2VydmVyL2luc3RhbGxfY2FfY2VydGlmaWNhdGUuc2ggJiYKIyAgICAgICAgamF2YSAtY3AgJy9vcHQvdXNlcnMvbGliLyonIC1YbXgxZyBjb20ubGVvaWxhYi5NYWluIgojICAgICAgdm9sdW1lczoKIyAgICAgICAgICAtIC4vbW9ja3NlcnZlcjovaG9tZS9tb2Nrc2VydmVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgICAgcG9ydHM6CiAgICAgICAgICAtIDg4ODg6ODA4MAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICBsb2dnZXIuZGVidWcocyJHZXR0aW5nIGVtYWlsIGZvciBGYWNlYm9vayB1c2VyICRmYWNlYm9va1VzZXJJZCIpCiAgICAgIHZhbCBhdXRoZWRDbGllbnQgPSBnZXRDbGllbnRXaXRoQWNjZXNzVG9rZW4KICAgICAgYXV0aGVkQ2xpZW50LnByaW50VXJsVXNlZCgpCiAgICAgIFNvbWUoYXV0aGVkQ2xpZW50LmZldGNoT2JqZWN0KGZhY2Vib29rVXNlcklkLCBjbGFzc09mW0dldFVzZXJFbWFpbFBheWxvYWRdLCBQYXJhbWV0ZXIuYHdpdGhgKCJmaWVsZHMiLCAiZW1haWwiKSkuZW1haWwpCj4+Pj4+Pj4gU3Rhc2hlZCBjaGFuZ2VzCg==</text>
+        <text encoding="base64">ICAgICAgZG9tYWlubmFtZTogZmFjZWJvb2suY29tCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgaG9zdG5hbWU6IGZhY2Vib29rCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKHMiVmVyaWZ5aW5nIHNpZ25lZCByZXF1ZXN0IGZvciBjbGllbnQgJGNsaWVudElkIikK</text>
+        <text encoding="base64">ICAgICAgImV4cGlyZXNfaW4iOiA3MDU4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgInRva2VuX3R5cGUiOiAiYmVhcmVyIiwK</text>
       </register>
       <register name=":" type="4">
         <text>248</text>
