@@ -1147,11 +1147,12 @@
         <mark key="^" line="42" column="4" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1529671879028">
-        <mark key="[" line="44" column="39" />
-        <mark key="]" line="45" column="57" />
-        <mark key="^" line="45" column="57" />
-        <mark key="." line="45" column="57" />
+      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1529911482957">
+        <mark key="'" line="148" column="51" />
+        <mark key="[" line="148" column="79" />
+        <mark key="]" line="148" column="77" />
+        <mark key="^" line="148" column="77" />
+        <mark key="." line="148" column="77" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/ecs-deploy/deploy.sh" timestamp="1512475385755">
         <mark key="[" line="21" column="0" />
@@ -2591,7 +2592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Source/images3/client/project/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/images3/client/project/README.md" />
       <jump line="67" column="28" filename="$USER_HOME$/Source/platform-users/src/main/resources/application.conf" />
       <jump line="28" column="0" filename="$USER_HOME$/Source/platform-commons/rest/src/main/resources/reference.conf" />
@@ -2691,10 +2691,11 @@
       <jump line="36" column="69" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/userproperties/UserPropertiesService.scala" />
       <jump line="311" column="77" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" />
       <jump line="94" column="51" filename="$USER_HOME$/Source/platform-users/src/main/resources/application.conf" />
+      <jump line="148" column="51" filename="$USER_HOME$/Source/platform-users/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50LnByaW50VXJsVXNlZCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5317,7 +5318,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FacebookClient</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
