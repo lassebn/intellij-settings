@@ -125,11 +125,11 @@
         <mark key="." line="161" column="42" />
         <mark key="^" line="161" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiFacebookLoginTest.scala" timestamp="1530002307539">
-        <mark key="[" line="36" column="52" />
-        <mark key="]" line="36" column="97" />
-        <mark key="^" line="36" column="97" />
-        <mark key="." line="36" column="97" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiFacebookLoginTest.scala" timestamp="1530004132258">
+        <mark key="[" line="14" column="92" />
+        <mark key="]" line="14" column="94" />
+        <mark key="^" line="14" column="94" />
+        <mark key="." line="14" column="94" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/testkit-akka/src/main/scala/com/leoilab/testkit/AuthSupport.scala" timestamp="1522762543184">
         <mark key="[" line="5" column="34" />
@@ -407,7 +407,7 @@
         <mark key="^" line="483" column="24" />
         <mark key="." line="483" column="24" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/identity/FacebookIdentityService.scala" timestamp="1530000167377">
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/identity/FacebookIdentityService.scala" timestamp="1530004607663">
         <mark key="[" line="99" column="73" />
         <mark key="]" line="99" column="86" />
         <mark key="." line="99" column="86" />
@@ -1483,11 +1483,11 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/README.md" timestamp="1529997208530">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="68" column="0" />
+      <file name="$USER_HOME$/Source/platform-users/README.md" timestamp="1530004242374">
+        <mark key="[" line="61" column="6" />
+        <mark key="]" line="61" column="7" />
+        <mark key="^" line="62" column="78" />
+        <mark key="." line="61" column="7" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/resources/cf-ssl-task-definition-initial.json" timestamp="1507703434866">
         <mark key="[" line="15" column="5" />
@@ -1914,10 +1914,11 @@
         <mark key="^" line="1" column="83" />
         <mark key="." line="1" column="83" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/version.sbt" timestamp="1529994586415">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Source/platform-users/version.sbt" timestamp="1530004194681">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/User.scala" timestamp="1528708634321">
         <mark key="[" line="33" column="77" />
@@ -2701,8 +2702,8 @@
       <jump line="148" column="51" filename="$USER_HOME$/Source/platform-users/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICogVXNlIHVzZXIgYWNjZXNzIHRva2VucyBpbnN0ZWFkIG9mIGFwcCBhY2Nlc3MgdG9rZW5zIHRvIGdldCB1c2VyIGVtYWlscyBmcm9tIEZhY2Vib29rCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5330,38 +5331,38 @@
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;Unable to get the users email from Facebook&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyMgMS44MAogICogT3BlcmF0aW9uYWw6CiAgICAqIFVzZSB1c2VyIGFjY2VzcyB0b2tlbnMgaW5zdGVhZCBvZiBhcHAgYWNjZXNzIHRva2VucyB0byBnZXQgdXNlciBlbWFpbHMgZnJvbSBGYWNlYm9vawogICAgKiBVcGRhdGUgcmVzdGZiIGNsaWVudCBmcm9tIDEuMzggdG8gMi42CiAgICAqIEhhbmRsZSBkYXRhIG5vdCByZXR1cm5lZCBmcm9tIEZhY2Vib29rIG1vcmUgcm9idXN0bHkKICAgICogVXNlIEZhY2Vib29rIEdyYXBoIEFQSSB2My4wCiAgICAqIERvbid0IGRlZmF1bHQgdG8gdGhlIGVtcHR5IHN0cmluZyBmb3IgZW1haWxzIG5vdCBhdmFpbGFibGUgZnJvbSBGYWNlYm9vawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogVXNlIHVzZXIgYWNjZXNzIHRva2VucyBpbnN0ZWFkIG9mIGFwcCBhY2Nlc3MgdG9rZW5zIHRvIGdldCB1c2VyIGVtYWlscyBmcm9tIEZhY2Vib29rCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0Q2xpZW50V2l0aEFjY2Vzc1Rva2VuKGltcGxpY2l0IGNsaWVudElkOiBDbGllbnRJZCk6IFRlc3RhYmxlRmFjZWJvb2tDbGllbnQgPSB7CiAgICB2YWwgYWNjZXNzVG9rZW4gPSBjbGllbnQub2J0YWluQXBwQWNjZXNzVG9rZW4oYXBwSWQsIGFwcFNlY3JldCkKICAgIG5ldyBUZXN0YWJsZUZhY2Vib29rQ2xpZW50KGFjY2Vzc1Rva2VuLmdldEFjY2Vzc1Rva2VuLCBWZXJzaW9uLkxBVEVTVCkoY29uZmlnVmFsdWVzKQogIH0K</text>
+        <text encoding="base64">ICAgICogRG9uJ3QgZGVmYXVsdCB0byB0aGUgZW1wdHkgc3RyaW5nIGZvciBlbWFpbHMgbm90IGF2YWlsYWJsZSBmcm9tIEZhY2Vib29rCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBOb25lCg==</text>
+        <text encoding="base64">ICAgICogVXNlIEZhY2Vib29rIEdyYXBoIEFQSSB2My4wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBlOiBOb0VtYWlsUmV0dXJuZWRFeGNlcHRpb24gPT4K</text>
+        <text encoding="base64">ICAgICogSGFuZGxlIGRhdGEgbm90IHJldHVybmVkIGZyb20gRmFjZWJvb2sgbW9yZSByb2J1c3RseQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm9FbWFpbFJldHVybmVkRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICogVXBkYXRlIHJlc3RmYiBjbGllbnQgZnJvbSAxLjM4IHRvIDIuNgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgTm9FbWFpbFJldHVybmVkRXhjZXB0aW9uIGV4dGVuZHMgUnVudGltZUV4Y2VwdGlvbigiRmFjZWJvb2sgZGlkIG5vdCByZXR1cm4gdGhlIGVtYWlsIGZpZWxkIikK</text>
+        <text encoding="base64">ICBkZWYgZ2V0Q2xpZW50V2l0aEFjY2Vzc1Rva2VuKGltcGxpY2l0IGNsaWVudElkOiBDbGllbnRJZCk6IFRlc3RhYmxlRmFjZWJvb2tDbGllbnQgPSB7CiAgICB2YWwgYWNjZXNzVG9rZW4gPSBjbGllbnQub2J0YWluQXBwQWNjZXNzVG9rZW4oYXBwSWQsIGFwcFNlY3JldCkKICAgIG5ldyBUZXN0YWJsZUZhY2Vib29rQ2xpZW50KGFjY2Vzc1Rva2VuLmdldEFjY2Vzc1Rva2VuLCBWZXJzaW9uLkxBVEVTVCkoY29uZmlnVmFsdWVzKQogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBOb25lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBlOiBOb0VtYWlsUmV0dXJuZWRFeGNlcHRpb24gPT4K</text>
       </register>
       <register name=":" type="4">
         <text>248</text>
