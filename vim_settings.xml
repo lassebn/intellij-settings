@@ -179,10 +179,11 @@
         <mark key="." line="31" column="79" />
         <mark key="^" line="31" column="79" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsApiSpec.scala" timestamp="1530183067726">
-        <mark key="[" line="270" column="0" />
-        <mark key="]" line="270" column="0" />
-        <mark key="." line="270" column="0" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsApiSpec.scala" timestamp="1530196218417">
+        <mark key="[" line="271" column="105" />
+        <mark key="]" line="271" column="106" />
+        <mark key="." line="271" column="106" />
+        <mark key="^" line="271" column="106" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1529175105018">
         <mark key="[" line="39" column="19" />
@@ -1744,11 +1745,6 @@
         <mark key="]" line="13" column="56" />
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-users/core/src/main/scala/com/leoilab/users/auth/FacebookSignedRequest.scala" timestamp="1529583468216">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/commons/OAuth.scala" timestamp="1518615661736">
         <mark key="[" line="16" column="12" />
