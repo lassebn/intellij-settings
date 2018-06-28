@@ -292,11 +292,11 @@
         <mark key="^" line="84" column="84" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsRepositorySpec.scala" timestamp="1527160049039">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="19" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsRepositorySpec.scala" timestamp="1530187567518">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="44" column="22" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/README.md" timestamp="1500989023233">
         <mark key="[" line="40" column="3" />
@@ -1841,11 +1841,11 @@
         <mark key="^" line="58" column="29" />
         <mark key="." line="58" column="29" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsRepository.scala" timestamp="1530184160063">
-        <mark key="[" line="76" column="31" />
-        <mark key="]" line="76" column="26" />
-        <mark key="^" line="76" column="26" />
-        <mark key="." line="76" column="26" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsRepository.scala" timestamp="1530187525566">
+        <mark key="[" line="74" column="23" />
+        <mark key="]" line="74" column="23" />
+        <mark key="^" line="74" column="23" />
+        <mark key="." line="74" column="23" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/nginx/build.sh" timestamp="1502805047038">
         <mark key="[" line="5" column="0" />
@@ -2713,8 +2713,8 @@
       <jump line="148" column="51" filename="$USER_HOME$/Source/platform-users/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bWFwKHggPT4geCA9PSBncm91cElkcy5zaXplKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4ocyJTZWluZyB1c2VycyAkdXNlcnMgYW5kIGdyb3VwcyAkZ3JvdXBzIikK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5337,7 +5337,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWFwKHggPT4geCA9PSBncm91cElkcy5zaXplKQ==</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
@@ -5346,34 +5346,34 @@
         <text encoding="base64">IyMgMS44MQogICogT3BlcmF0aW9uYWw6IE1vY2sgRmFjZWJvb2sgZm9yIHNlcnZlcnNpZGUgaW50ZXJhY3Rpb25zIGluIGludGVncmF0aW9uIHRlc3RzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdoZW4obWVtYmVyc2hpcHNTZXJ2aWNlLmlzQXV0aG9yaXplZChhbnlbVXNlcklkXSwgYW55W1NldFtHcm91cElkXV0pKGFueVtBdXRoSW5mb10pKS50aGVuUmV0dXJuKEZ1dHVyZShmYWxzZSkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJTZWluZyB1c2VycyAkdXNlcnMgYW5kIGdyb3VwcyAkZ3JvdXBzIikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmVyaWZ5KG1lbWJlcnNoaXBzU2VydmljZSkuaXNBdXRob3JpemVkKGFjY2Vzc1Rva2VuLnVzZXJJZCwgZHRvLmdyb3VwSWRzKShhdXRoSW5mbykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiTm90IGNsZWFuaW5nIHVwIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoZW4obWVtYmVyc2hpcHNTZXJ2aWNlLmlzQXV0aG9yaXplZChhbnlbVXNlcklkXSwgYW55W1NldFtHcm91cElkXV0pKGFueVtBdXRoSW5mb10pKS50aGVuUmV0dXJuKEZ1dHVyZSh0cnVlKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzIlVuc2V0dGluZyAkdWlkLCAkZ2lkIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4aXN0aW5nTWVtYmVyc2hpcHMubWFwKHggPT4geCA9PSBncm91cElkcy5zaXplKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpdCBzaG91bGQgImFsbG93IHJldm9raW5nIGF1dGhvcml6YXRpb25zIHdoZW4gdXNlciBpcyBhdXRob3JpemVkIiBpbiB7CiAgICB2YWwgY2xpZW50SWQ6IENsaWVudElkID0gYXV0aEluZm8KICAgIHZhbCBncm91cElkcyA9IExpc3QoR3JvdXBJZC5nZW5lcmF0ZSwgR3JvdXBJZC5nZW5lcmF0ZSkKICAgIHdoZW4obWVtYmVyc2hpcHNSZXBvLmV4aXN0c0ZvckFsbChhbnlbVXNlcklkXSwgYW55W1NldFtHcm91cElkXV0pKGFueVtDbGllbnRJZF0pKS50aGVuUmV0dXJuKEZ1dHVyZSh0cnVlKSkKICAgIHdoZW4obWVtYmVyc2hpcHNSZXBvLnVuc2V0KGFueVtVc2VySWRdLCBhbnlbU2V0W0dyb3VwSWRdXSkoYW55W0NsaWVudElkXSkpLnRoZW5SZXR1cm4oRnV0dXJlKCgpKSkKCiAgICBhc3NlcnQobWVtYmVyc2hpcHNTZXJ2aWNlLnJldm9rZUF1dGhvcml6YXRpb24oYXV0aEluZm8udXNlcklkLCBncm91cElkKS5mdXR1cmVWYWx1ZS5pc0luc3RhbmNlT2ZbVW5pdF0pCgogICAgdmVyaWZ5KG1lbWJlcnNoaXBzUmVwbykudW5zZXQoYXV0aEluZm8udXNlcklkLCBncm91cElkcy50b1NldCkoY2xpZW50SWQpCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihzIkZpbmRpbmcgdXNlcnMgZm9yIGdyb3VwcyAkZ3JvdXBzIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJzLnRvTGlzdFtVc2VySWRdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgcmV2b2tlQXV0aG9yaXphdGlvbihncm91cElkczogU2V0W0dyb3VwSWRdKShpbXBsaWNpdCBhdXRoSW5mbzogQXV0aEluZm8pOiBGdXR1cmVbVW5pdF0K</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJSZXR1cm5pbmcgdXNlcnMgJHVzZXJzIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBNYWtlIGF1dGggbW9yZSBleHBsaWNpdCBhbmQgbW92ZSB0byBzZXJ2aWNlIGNvbXBsZXRlbHkK</text>
+        <text encoding="base64">ICAgICAgXyA9IHByaW50bG4ocm93cykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBtZW1iZXJzaGlwc1NlcnZpY2UucmV2b2tlQXV0aG9yaXphdGlvbihncm91cElkcy50b1NldCkuZnV0dXJlVmFsdWUuaXNJbnN0YW5jZU9mW1VuaXRdIHNob3VsZEJlIHRydWUKPT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgKGJvYiwgZ3JvdXAxKSwK</text>
       </register>
       <register name=":" type="4">
         <text>101</text>
