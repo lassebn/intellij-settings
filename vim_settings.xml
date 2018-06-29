@@ -293,10 +293,11 @@
         <mark key="^" line="84" column="84" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsRepositorySpec.scala" timestamp="1530193178032">
-        <mark key="[" line="330" column="0" />
-        <mark key="]" line="330" column="0" />
-        <mark key="." line="330" column="0" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsRepositorySpec.scala" timestamp="1530258493361">
+        <mark key="[" line="40" column="49" />
+        <mark key="]" line="62" column="7" />
+        <mark key="." line="62" column="7" />
+        <mark key="^" line="62" column="7" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/README.md" timestamp="1500989023233">
         <mark key="[" line="40" column="3" />
@@ -652,11 +653,11 @@
         <mark key="." line="147" column="85" />
         <mark key="^" line="147" column="85" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsServiceSpec.scala" timestamp="1530181986677">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-        <mark key="^" line="136" column="66" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsServiceSpec.scala" timestamp="1530258518058">
+        <mark key="[" line="89" column="36" />
+        <mark key="]" line="89" column="45" />
+        <mark key="." line="89" column="45" />
+        <mark key="^" line="89" column="45" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1512392243911">
         <mark key="[" line="135" column="9" />
@@ -2713,8 +2714,8 @@
       <jump line="148" column="51" filename="$USER_HOME$/Source/platform-users/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5337,7 +5338,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXNlcklkLmlzRW1wdHkgJiYg</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
