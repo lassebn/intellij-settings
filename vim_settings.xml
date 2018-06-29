@@ -1836,7 +1836,7 @@
         <mark key="^" line="58" column="29" />
         <mark key="." line="58" column="29" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsRepository.scala" timestamp="1530255097742">
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsRepository.scala" timestamp="1530262483165">
         <mark key="[" line="93" column="4" />
         <mark key="]" line="93" column="29" />
         <mark key="^" line="93" column="29" />
@@ -5377,7 +5377,7 @@
         <text encoding="base64">ICAgIFRocmVhZC5zbGVlcCg1MDAwKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>101</text>
+        <text>79</text>
       </register>
     </registers>
     <search>
@@ -5409,7 +5409,6 @@
         <entry>usersdb</entry>
       </history-search>
       <history-cmd>
-        <entry>1795</entry>
         <entry>1821</entry>
         <entry>693</entry>
         <entry>797</entry>
@@ -5429,6 +5428,7 @@
         <entry>248</entry>
         <entry>287</entry>
         <entry>101</entry>
+        <entry>79</entry>
       </history-cmd>
       <history-expr />
       <history-input />
