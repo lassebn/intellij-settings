@@ -1145,13 +1145,6 @@
         <mark key="^" line="42" column="4" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1530009518854">
-        <mark key="j" line="27" column="29" />
-        <mark key="[" line="44" column="42" />
-        <mark key="]" line="44" column="29" />
-        <mark key="." line="44" column="29" />
-        <mark key="^" line="44" column="29" />
-      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/ecs-deploy/deploy.sh" timestamp="1512475385755">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -1692,11 +1685,11 @@
         <mark key="^" line="65" column="69" />
         <mark key="." line="65" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1521731950882">
-        <mark key="[" line="11" column="49" />
-        <mark key="]" line="11" column="49" />
-        <mark key="." line="11" column="49" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1530522128469">
+        <mark key="[" line="234" column="99" />
+        <mark key="]" line="242" column="24" />
+        <mark key="." line="242" column="24" />
+        <mark key="^" line="242" column="24" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/clients/src/test/scala/com/leoilab/clients/MembershipsClientSpec.scala" timestamp="1504861207725">
         <mark key="[" line="32" column="39" />
@@ -2017,6 +2010,7 @@
         <mark key="." line="128" column="18" />
         <mark key="^" line="128" column="18" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.leoilab/platform-memberships-client_2.11/srcs/platform-memberships-client_2.11-1.17.5-sources.jar!/com/leoilab/memberships/client/MembershipsClient.scala" timestamp="1530521492668" />
       <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRoutes.scala" timestamp="1529307228781">
         <mark key="[" line="99" column="114" />
         <mark key="]" line="99" column="117" />
@@ -2545,11 +2539,11 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" timestamp="1529310337365">
-        <mark key="[" line="42" column="61" />
-        <mark key="]" line="42" column="59" />
-        <mark key="^" line="42" column="59" />
-        <mark key="." line="42" column="59" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" timestamp="1530522018197">
+        <mark key="[" line="207" column="85" />
+        <mark key="]" line="207" column="85" />
+        <mark key="^" line="207" column="85" />
+        <mark key="." line="207" column="85" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/raml/api.raml" timestamp="1510827178014">
         <mark key="[" line="517" column="48" />
