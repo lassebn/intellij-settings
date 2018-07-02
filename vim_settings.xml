@@ -533,11 +533,11 @@
         <mark key="." line="13" column="51" />
         <mark key="^" line="13" column="51" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsService.scala" timestamp="1530512994796">
-        <mark key="[" line="145" column="23" />
-        <mark key="]" line="146" column="36" />
-        <mark key="." line="146" column="36" />
-        <mark key="^" line="146" column="36" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsService.scala" timestamp="1530528655528">
+        <mark key="[" line="75" column="7" />
+        <mark key="]" line="75" column="29" />
+        <mark key="." line="75" column="29" />
+        <mark key="^" line="75" column="29" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/wiremock/mappings/klikkitV2docs.json" timestamp="1507548054505">
         <mark key="[" line="7" column="13" />
@@ -653,11 +653,11 @@
         <mark key="." line="147" column="85" />
         <mark key="^" line="147" column="85" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsServiceSpec.scala" timestamp="1530516501076">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="80" />
-        <mark key="^" line="58" column="79" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsServiceSpec.scala" timestamp="1530523524122">
+        <mark key="[" line="169" column="58" />
+        <mark key="]" line="169" column="95" />
+        <mark key="^" line="169" column="95" />
+        <mark key="." line="169" column="95" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1512392243911">
         <mark key="[" line="135" column="9" />
@@ -2709,8 +2709,8 @@
       <jump line="148" column="51" filename="$USER_HOME$/Source/platform-users/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5333,13 +5333,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>for a single group</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0IHsKICAgICAgICAgICAgICBjb21wbGV0ZShtZW1iZXJzaGlwc1NlcnZpY2UuaXNBdXRob3JpemVkKGFjY2Vzc1Rva2VuLnVzZXJJZCwgZ3JvdXBJZCkubWFwIHsKICAgICAgICAgICAgICAgIGNhc2UgdHJ1ZSA9PiBTdGF0dXNDb2Rlcy5PSwogICAgICAgICAgICAgICAgY2FzZSBmYWxzZSA9PiB0aHJvdyBuZXcgVW5hdXRob3JpemVkRXhjZXB0aW9uKGFjY2Vzc1Rva2VuLnVzZXJJZCwgZ3JvdXBJZCwgYWNjZXNzVG9rZW4udXNlcklkLCBhY2Nlc3NUb2tlbi5jbGllbnRJZCkKICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9IH4KICAgICAgICAgICAgcG9zdCB7CiAgICAgICAgICAgICAgY29tcGxldGUobWVtYmVyc2hpcHNTZXJ2aWNlLmdyYW50QXV0aG9yaXphdGlvbihhY2Nlc3NUb2tlbi51c2VySWQsIGdyb3VwSWQpLm1hcChfID0+IFN0YXR1c0NvZGVzLk9LKSkKICAgICAgICAgICAgfSB+CiAgICAgICAgICAgIGRlbGV0ZSB7CiAgICAgICAgICAgICAgY29tcGxldGUobWVtYmVyc2hpcHNTZXJ2aWNlLnJldm9rZUF1dGhvcml6YXRpb24oYWNjZXNzVG9rZW4udXNlcklkLCBncm91cElkKS5tYXAoXyA9PiBTdGF0dXNDb2Rlcy5PSykpCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICBpdCBzaG91bGQgImFsbG93IHJldm9raW5nIGF1dGhvcml6YXRpb24gZm9yIGEgc2luZ2xlIGdyb3VwLCBldmVuIHRob3VnaCB0aGUgYXV0aGVudGljYXRlZCB1c2VyIGlzIG5vdCBhbHJlYWR5IGEgbWVtYmVyLCBpZiB0aGUgdXNlciBpcyBhZG1pbiIgaW4gewogICAgdmFsIHVzZXJJZCA9IFVzZXJJZC5nZW5lcmF0ZQogICAgdmFsIGdyb3VwSWQgPSBHcm91cElkLmdlbmVyYXRlCgogICAgc2V0dXBHcm91cE1lbWJlcnNoaXBzKGdyb3VwSXNDbGFpbWVkID0gdHJ1ZSwgdXNlcklzQXV0aG9yaXplZFRvR3JvdXAgPSBmYWxzZSkKICAgIHdoZW4obWVtYmVyc2hpcHNSZXBvLnVuc2V0KGFueVtVc2VySWRdLCBhbnlbU2V0W0dyb3VwSWRdXSkoYW55W0NsaWVudElkXSkpLnRoZW5SZXR1cm4oRnV0dXJlKCgpKSkKCiAgICB2YWwgYXV0aEluZm8gPSBBdXRoSW5mbyh1c2VySWQsIENsaWVudHMuVGVzdCwgaXNBZG1pbiA9IFNvbWUodHJ1ZSkpCiAgICBhc3NlcnQobWVtYmVyc2hpcHNTZXJ2aWNlLnJldm9rZUF1dGhvcml6YXRpb24odXNlcklkLCBncm91cElkKShhdXRoSW5mbykuZnV0dXJlVmFsdWUuaXNJbnN0YW5jZU9mW1VuaXRdKQogIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -5348,28 +5348,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVzZXJJZDogVXNlcklkID0gdXNlclVVSURPcHQubWFwKFVzZXJJZC5hcHBseSkuZ2V0T3JFbHNlKGFjY2Vzc1Rva2VuLnVzZXJJZCkK</text>
+        <text encoding="base64">ICAgICAgICBGdXR1cmUuc3VjY2Vzc2Z1bCh0cnVlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIChwYXRoUHJlZml4KEphdmFVVUlELj8pIHwgKHBhdGhFbmRPclNpbmdsZVNsYXNoICYgcHJvdmlkZShOb25lLmFzSW5zdGFuY2VPZltPcHRpb25bamF2YS51dGlsLlVVSURdXSkpKSB7IHVzZXJVVUlET3B0ID0+Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGF1dGhJbmZvLmlzQWRtaW4uZ2V0T3JFbHNlKGZhbHNlKSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRiLnJ1bihxKS5tYXAoXyA9PiAoKSkK</text>
+        <text encoding="base64">ICAgIHZhbCBncm91cElkID0gR3JvdXBJZC5nZW5lcmF0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBxID0gKGZvciB7CiAgICAgIF8gPC0gREJJTy5zZXEoZ3JhbnRNZW1iZXJzaGlwcy50b0xpc3Q6IF8qKQogICAgfSB5aWVsZCAoKSkudHJhbnNhY3Rpb25hbGx5Cg==</text>
+        <text encoding="base64">ICBpdCBzaG91bGQgImFsbG93IHJldm9raW5nIGF1dGhvcml6YXRpb24gZm9yIGEgc2luZ2xlIGdyb3VwLCBldmVuIHRob3VnaCB0aGUgYXV0aGVudGljYXRlZCB1c2VyIGlzIG5vdCBhbHJlYWR5IGEgbWVtYmVyLCBpZiB0aGUgdXNlciBpcyBhZG1pbiIgaW4gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdoZW4obWVtYmVyc2hpcHNSZXBvLmV4aXN0c0ZvckFsbChhbnlbVXNlcklkXSwgYW55W1NldFtHcm91cElkXV0pKGFueVtDbGllbnRJZF0pKS50aGVuUmV0dXJuKEZ1dHVyZS5zdWNjZXNzZnVsKG1lbWJlcnNoaXBGb3JVc2VySWRJbkdyb3VwSWRFeGlzdHMpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdoZW4obWVtYmVyc2hpcHNSZXBvLmV4aXN0cyhhbnlbR3JvdXBJZF0pKGFueVtDbGllbnRJZF0pKS50aGVuUmV0dXJuKEZ1dHVyZS5zdWNjZXNzZnVsKG1lbWJlcnNoaXBzRm9yR3JvdXBJZEV4aXN0cykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVzZXJJZDogVXNlcklkID0gdXNlclVVSURPcHQubWFwKFVzZXJJZC5hcHBseSkuZ2V0T3JFbHNlKGFjY2Vzc1Rva2VuLnVzZXJJZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBtZW1iZXJzaGlwRm9yVXNlcklkSW5Hcm91cElkRXhpc3RzID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgIChwYXRoUHJlZml4KEphdmFVVUlELj8pIHwgKHBhdGhFbmRPclNpbmdsZVNsYXNoICYgcHJvdmlkZShOb25lLmFzSW5zdGFuY2VPZltPcHRpb25bamF2YS51dGlsLlVVSURdXSkpKSB7IHVzZXJVVUlET3B0ID0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>75</text>
