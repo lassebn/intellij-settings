@@ -1025,12 +1025,6 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1529175193955">
-        <mark key="[" line="50" column="39" />
-        <mark key="]" line="50" column="50" />
-        <mark key="." line="50" column="50" />
-        <mark key="^" line="50" column="50" />
-      </file>
       <file name="$USER_HOME$/Source/platform-commons/id/src/main/scala/leoilab/id/GroupId.scala" timestamp="1520518042518">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
