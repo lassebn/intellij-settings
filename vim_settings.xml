@@ -2299,11 +2299,11 @@
         <mark key="." line="1164" column="77" />
         <mark key="^" line="1164" column="77" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsApi.scala" timestamp="1530518001369">
-        <mark key="[" line="153" column="64" />
-        <mark key="]" line="153" column="69" />
-        <mark key="^" line="153" column="69" />
-        <mark key="." line="153" column="69" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsApi.scala" timestamp="1530519834570">
+        <mark key="[" line="144" column="76" />
+        <mark key="]" line="144" column="77" />
+        <mark key="^" line="144" column="77" />
+        <mark key="." line="144" column="77" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/mail/MailService.scala" timestamp="1527249729393">
         <mark key="[" line="240" column="82" />
@@ -2716,7 +2716,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>accessToken.userId</text>
+        <text>{</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5339,7 +5339,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>accessToken.userId</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
