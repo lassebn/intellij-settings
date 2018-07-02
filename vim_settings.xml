@@ -2437,11 +2437,11 @@
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/raml/api.raml" timestamp="1530263443937">
-        <mark key="[" line="117" column="39" />
-        <mark key="]" line="117" column="40" />
-        <mark key="." line="117" column="40" />
-        <mark key="^" line="117" column="40" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/raml/api.raml" timestamp="1530534022696">
+        <mark key="[" line="304" column="35" />
+        <mark key="]" line="304" column="61" />
+        <mark key="." line="304" column="61" />
+        <mark key="^" line="304" column="61" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/db/migration/V7__meta_groups.sql" timestamp="1526385337187">
         <mark key="[" line="3" column="10" />
