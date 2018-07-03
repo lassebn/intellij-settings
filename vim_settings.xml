@@ -533,11 +533,11 @@
         <mark key="." line="13" column="51" />
         <mark key="^" line="13" column="51" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsService.scala" timestamp="1530615620216">
-        <mark key="[" line="42" column="16" />
-        <mark key="]" line="42" column="29" />
-        <mark key="." line="42" column="29" />
-        <mark key="^" line="42" column="29" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsService.scala" timestamp="1530628449316">
+        <mark key="[" line="28" column="46" />
+        <mark key="]" line="28" column="46" />
+        <mark key="." line="28" column="46" />
+        <mark key="^" line="28" column="46" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/wiremock/mappings/klikkitV2docs.json" timestamp="1507548054505">
         <mark key="[" line="7" column="13" />
@@ -2699,7 +2699,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>List</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5322,7 +5322,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text>usersdb</text>
