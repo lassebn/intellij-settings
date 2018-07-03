@@ -671,12 +671,7 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/it/scala/com/leoilab/app/memberships/MembershipsApiIntegrationTest.scala" timestamp="1530615020322">
-        <mark key="[" line="359" column="38" />
-        <mark key="]" line="363" column="35" />
-        <mark key="^" line="363" column="35" />
-        <mark key="." line="363" column="35" />
-      </file>
+      <file name="$USER_HOME$/Source/platform-memberships/src/it/scala/com/leoilab/app/memberships/MembershipsApiIntegrationTest.scala" timestamp="1530615020322" />
       <file name="$USER_HOME$/Source/platform-graphql/project/TestHelper.scala" timestamp="1510034398481">
         <mark key="[" line="140" column="24" />
         <mark key="]" line="140" column="26" />
