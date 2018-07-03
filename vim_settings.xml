@@ -185,11 +185,11 @@
         <mark key="." line="153" column="51" />
         <mark key="^" line="153" column="51" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1529175105018">
-        <mark key="[" line="39" column="19" />
-        <mark key="]" line="39" column="19" />
-        <mark key="^" line="39" column="33" />
-        <mark key="." line="39" column="19" />
+      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1530608543202">
+        <mark key="[" line="97" column="42" />
+        <mark key="]" line="97" column="42" />
+        <mark key="^" line="97" column="42" />
+        <mark key="." line="97" column="42" />
       </file>
       <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1529306521403">
         <mark key="[" line="82" column="146" />
@@ -863,11 +863,11 @@
         <mark key="^" line="54" column="70" />
         <mark key="." line="54" column="70" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/project/TestHelper.scala" timestamp="1529316423025">
-        <mark key="[" line="198" column="28" />
-        <mark key="]" line="198" column="25" />
-        <mark key="." line="198" column="25" />
-        <mark key="^" line="198" column="25" />
+      <file name="$USER_HOME$/Source/platform-images/project/TestHelper.scala" timestamp="1530608921576">
+        <mark key="[" line="201" column="25" />
+        <mark key="]" line="201" column="24" />
+        <mark key="." line="201" column="24" />
+        <mark key="^" line="201" column="24" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/circle.yml" timestamp="1496835070851">
         <mark key="[" line="32" column="31" />
