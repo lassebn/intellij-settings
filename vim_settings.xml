@@ -1675,10 +1675,9 @@
         <mark key="." line="65" column="69" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1530522128469">
-        <mark key="[" line="234" column="99" />
-        <mark key="]" line="242" column="24" />
-        <mark key="." line="242" column="24" />
-        <mark key="^" line="242" column="24" />
+        <mark key="]" line="233" column="24" />
+        <mark key="." line="233" column="24" />
+        <mark key="^" line="233" column="24" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/clients/src/test/scala/com/leoilab/clients/MembershipsClientSpec.scala" timestamp="1504861207725">
         <mark key="[" line="32" column="39" />
