@@ -653,12 +653,6 @@
         <mark key="." line="147" column="85" />
         <mark key="^" line="147" column="85" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsServiceSpec.scala" timestamp="1530612293908">
-        <mark key="[" line="159" column="113" />
-        <mark key="]" line="159" column="140" />
-        <mark key="." line="159" column="140" />
-        <mark key="^" line="159" column="140" />
-      </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1512392243911">
         <mark key="[" line="135" column="9" />
         <mark key="]" line="138" column="36" />
