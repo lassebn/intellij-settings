@@ -996,11 +996,11 @@
         <mark key="^" line="2" column="71" />
         <mark key="." line="2" column="71" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/project/plugins.sbt" timestamp="1531831643066">
-        <mark key="[" line="28" column="57" />
-        <mark key="]" line="28" column="65" />
-        <mark key="^" line="28" column="65" />
-        <mark key="." line="28" column="65" />
+      <file name="$USER_HOME$/Source/platform-users/project/plugins.sbt" timestamp="1531834598041">
+        <mark key="[" line="28" column="68" />
+        <mark key="]" line="28" column="56" />
+        <mark key="^" line="28" column="56" />
+        <mark key="." line="28" column="56" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/commons/rest/AccessLogger.scala" timestamp="1519041244352">
         <mark key="[" line="14" column="0" />
