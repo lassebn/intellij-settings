@@ -780,8 +780,8 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1531830568786">
-        <mark key="[" line="75" column="18" />
+      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1531831226649">
+        <mark key="[" line="75" column="25" />
         <mark key="]" line="75" column="25" />
         <mark key="." line="75" column="25" />
         <mark key="^" line="75" column="25" />
@@ -996,11 +996,11 @@
         <mark key="^" line="2" column="71" />
         <mark key="." line="2" column="71" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/project/plugins.sbt" timestamp="1531830446479">
-        <mark key="[" line="20" column="53" />
-        <mark key="]" line="20" column="54" />
-        <mark key="^" line="20" column="54" />
-        <mark key="." line="20" column="54" />
+      <file name="$USER_HOME$/Source/platform-users/project/plugins.sbt" timestamp="1531831643066">
+        <mark key="[" line="28" column="57" />
+        <mark key="]" line="28" column="65" />
+        <mark key="^" line="28" column="65" />
+        <mark key="." line="28" column="65" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/commons/rest/AccessLogger.scala" timestamp="1519041244352">
         <mark key="[" line="14" column="0" />
@@ -2697,8 +2697,8 @@
       <jump line="156" column="22" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyMgMS44Mi4zCiAgKiBBUEk6IFNraW5jb2FjaCBwcm94eQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5321,7 +5321,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
