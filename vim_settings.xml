@@ -413,10 +413,11 @@
         <mark key="^" line="40" column="35" />
         <mark key="." line="40" column="35" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/.circleci/config.yml" timestamp="1531819687567">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="15" />
-        <mark key="." line="18" column="15" />
+      <file name="$USER_HOME$/Source/platform-users/.circleci/config.yml" timestamp="1531823772558">
+        <mark key="[" line="45" column="30" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="21" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-import/wiremock/mappings/wufooGetUKEfficacyFields.json" timestamp="1507533742967">
         <mark key="[" line="995" column="4" />
@@ -779,11 +780,11 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1531819558508">
-        <mark key="[" line="75" column="34" />
-        <mark key="]" line="76" column="24" />
-        <mark key="." line="76" column="24" />
-        <mark key="^" line="76" column="24" />
+      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1531822617209">
+        <mark key="[" line="75" column="24" />
+        <mark key="]" line="75" column="16" />
+        <mark key="." line="75" column="16" />
+        <mark key="^" line="75" column="16" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/FunUnitTestSupport.scala" timestamp="1508224186142">
         <mark key="[" line="2" column="26" />
