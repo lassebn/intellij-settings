@@ -413,6 +413,11 @@
         <mark key="^" line="40" column="35" />
         <mark key="." line="40" column="35" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/.circleci/config.yml" timestamp="1531819687567">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-import/wiremock/mappings/wufooGetUKEfficacyFields.json" timestamp="1507533742967">
         <mark key="[" line="995" column="4" />
         <mark key="]" line="996" column="2" />
@@ -774,11 +779,11 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1529578802620">
-        <mark key="[" line="110" column="36" />
-        <mark key="]" line="110" column="37" />
-        <mark key="." line="110" column="37" />
-        <mark key="^" line="110" column="37" />
+      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1531819558508">
+        <mark key="[" line="75" column="34" />
+        <mark key="]" line="76" column="24" />
+        <mark key="." line="76" column="24" />
+        <mark key="^" line="76" column="24" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/FunUnitTestSupport.scala" timestamp="1508224186142">
         <mark key="[" line="2" column="26" />
@@ -2347,7 +2352,6 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/keycloak/testsuite/integration-arquillian/tests/base/src/test/java/org/keycloak/testsuite/authz/UserManagedAccessTest.java" timestamp="1531483390322" />
       <file name="$USER_HOME$/Source/sbt-platform-canPublish/src/main/scala/com/leoilab/canpublish/CanPublishLib.scala" timestamp="1512581406204">
         <mark key="[" line="11" column="176" />
         <mark key="]" line="11" column="195" />
@@ -2693,7 +2697,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>t</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5316,7 +5320,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
