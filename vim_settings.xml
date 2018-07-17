@@ -780,11 +780,11 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1531822617209">
-        <mark key="[" line="75" column="24" />
-        <mark key="]" line="75" column="16" />
-        <mark key="." line="75" column="16" />
-        <mark key="^" line="75" column="16" />
+      <file name="$USER_HOME$/Source/platform-users/build.sbt" timestamp="1531830568786">
+        <mark key="[" line="75" column="18" />
+        <mark key="]" line="75" column="25" />
+        <mark key="." line="75" column="25" />
+        <mark key="^" line="75" column="25" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/FunUnitTestSupport.scala" timestamp="1508224186142">
         <mark key="[" line="2" column="26" />
@@ -996,11 +996,11 @@
         <mark key="^" line="2" column="71" />
         <mark key="." line="2" column="71" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/project/plugins.sbt" timestamp="1507633176627">
-        <mark key="[" line="10" column="74" />
-        <mark key="]" line="10" column="82" />
-        <mark key="^" line="10" column="82" />
-        <mark key="." line="10" column="82" />
+      <file name="$USER_HOME$/Source/platform-users/project/plugins.sbt" timestamp="1531830446479">
+        <mark key="[" line="20" column="53" />
+        <mark key="]" line="20" column="54" />
+        <mark key="^" line="20" column="54" />
+        <mark key="." line="20" column="54" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/commons/rest/AccessLogger.scala" timestamp="1519041244352">
         <mark key="[" line="14" column="0" />
