@@ -2257,6 +2257,12 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="5" column="30" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/notifications/NotificationsService.scala" timestamp="1531981941638">
+        <mark key="[" line="61" column="112" />
+        <mark key="]" line="56" column="77" />
+        <mark key="." line="56" column="77" />
+        <mark key="^" line="56" column="77" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/core/src/main/scala/com/leoilab/images/ImageDTO.scala" timestamp="1511883994938">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -2692,7 +2698,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Test</text>
+        <text>NewCollectionNotificationDTO</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5315,43 +5321,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Test</text>
+        <text>NewCollectionNotificationDTO</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyMgMS44Mi4zCiAgKiBBUEk6IFNraW5jb2FjaCBwcm94eQo=</text>
+      <register name="0" type="4">
+        <text>ImageAddedToCollectionNotificationDTO(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBzdG9yZV90ZXN0X3Jlc3VsdHM6CiAgICAgICAgICBwYXRoOiAvdG1wL3Rlc3QtcmVzdWx0cwogICAgICAtIHN0b3JlX2FydGlmYWN0czoKICAgICAgICAgIHBhdGg6IC90bXAvYXJ0aWZhY3RzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAgICAgICAgIHdoZW46IG9uX2ZhaWwKPT09PT09PQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgLSBzdG9yZV90ZXN0X3Jlc3VsdHM6CiAgICAgICAgICBwYXRoOiAvdG1wL3Rlc3QtcmVzdWx0cwogICAgICAtIHN0b3JlX2FydGlmYWN0czoKICAgICAgICAgIHBhdGg6IC90bXAvYXJ0aWZhY3RzCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAgICAgICAgIHdoZW46IG9uX2ZhaWwKPT09PT09PQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdoZW46IGFsd2F5cwo=</text>
+        <text encoding="base64">ICAgICAgLSBzdG9yZV90ZXN0X3Jlc3VsdHM6CiAgICAgICAgICBwYXRoOiAvdG1wL3Rlc3QtcmVzdWx0cwogICAgICAtIHN0b3JlX2FydGlmYWN0czoKICAgICAgICAgIHBhdGg6IC90bXAvYXJ0aWZhY3RzCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIHdoZW46IGFsd2F5cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG12IC4qL3RhcmdldC9zY2FsYS0yLjE/L3Njb3ZlcmFnZS1yZXBvcnQgL3RtcC9hcnRpZmFjdHMvc2NvdmVyYWdlLXJlcG9ydC8K</text>
+        <text encoding="base64">ICAgICAgICAgIHdoZW46IGFsd2F5cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG12IC4qL3RhcmdldC9yZXBvcnQvdW5pdHRlc3QvKmh0bWwgLiovdGFyZ2V0L3JlcG9ydC91bml0dGVzdC8qanMgLiovdGFyZ2V0L3JlcG9ydC91bml0dGVzdC8qY3NzIC90bXAvYXJ0aWZhY3RzL3VuaXR0ZXN0LXJlcG9ydC8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIG12IC4qL3RhcmdldC9zY2FsYS0yLjE/L3Njb3ZlcmFnZS1yZXBvcnQgL3RtcC9hcnRpZmFjdHMvc2NvdmVyYWdlLXJlcG9ydC8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG1rZGlyIC1wIC90bXAvYXJ0aWZhY3RzL3VuaXR0ZXN0LXJlcG9ydC8gL3RtcC9hcnRpZmFjdHMvc2NvdmVyYWdlLXJlcG9ydC8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIG12IC4qL3RhcmdldC9yZXBvcnQvdW5pdHRlc3QvKmh0bWwgLiovdGFyZ2V0L3JlcG9ydC91bml0dGVzdC8qanMgLiovdGFyZ2V0L3JlcG9ydC91bml0dGVzdC8qY3NzIC90bXAvYXJ0aWZhY3RzL3VuaXR0ZXN0LXJlcG9ydC8K</text>
       </register>
       <register name=":" type="4">
         <text>75</text>
