@@ -1230,11 +1230,11 @@
         <mark key="^" line="27" column="50" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/free-monads-functional-web-apps/src/main/scala/com/experiments/calvin/interpreters/package.scala" timestamp="1532084659216">
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="14" column="32" />
-        <mark key="^" line="14" column="32" />
-        <mark key="." line="14" column="32" />
+      <file name="$USER_HOME$/Source/free-monads-functional-web-apps/src/main/scala/com/experiments/calvin/interpreters/package.scala" timestamp="1532089031298">
+        <mark key="[" line="42" column="13" />
+        <mark key="]" line="42" column="33" />
+        <mark key="^" line="42" column="33" />
+        <mark key="." line="42" column="33" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/application.conf" timestamp="1530009499838">
         <mark key="[" line="94" column="52" />
@@ -1277,6 +1277,12 @@
         <mark key="]" line="99" column="28" />
         <mark key="^" line="99" column="28" />
         <mark key="." line="99" column="28" />
+      </file>
+      <file name="$USER_HOME$/Source/free-monads-functional-web-apps/src/main/scala/com/experiments/calvin/domain/package.scala" timestamp="1532088492083">
+        <mark key="[" line="23" column="115" />
+        <mark key="]" line="23" column="117" />
+        <mark key="^" line="23" column="117" />
+        <mark key="." line="23" column="117" />
       </file>
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/test/scala/com/leoilab/infrastructure/lambda/SampleTest.scala" timestamp="1493977610698">
         <mark key="[" line="9" column="99" />
@@ -2557,6 +2563,9 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
+      <file name="/sbtShell" timestamp="1532088565911">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/docker-compose.yml" timestamp="1528704271652">
         <mark key="[" line="29" column="62" />
         <mark key="]" line="30" column="55" />
@@ -2745,8 +2754,8 @@
       <jump line="156" column="22" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyMgMS41NC41CiAqIE9wZXJhdGlvbmFsOgo=</text>
+      <register name="&quot;" type="4">
+        <text>dbInstruction</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5369,7 +5378,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>dbInstruction</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
