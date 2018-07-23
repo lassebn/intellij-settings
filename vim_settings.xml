@@ -1001,11 +1001,11 @@
         <mark key="^" line="1" column="79" />
         <mark key="." line="1" column="79" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/MySQLDataSourceInterpreter.scala" timestamp="1532350485400">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="13" column="43" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/MySQLDataSourceInterpreter.scala" timestamp="1532355842722">
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="27" column="39" />
+        <mark key="^" line="27" column="39" />
+        <mark key="." line="27" column="39" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/README.md" timestamp="1509453291038">
         <mark key="[" line="44" column="165" />
@@ -1563,11 +1563,11 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/build.sbt" timestamp="1532348956312">
-        <mark key="[" line="15" column="65" />
-        <mark key="]" line="15" column="64" />
-        <mark key="^" line="15" column="64" />
-        <mark key="." line="15" column="64" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/build.sbt" timestamp="1532354530088">
+        <mark key="[" line="19" column="64" />
+        <mark key="]" line="20" column="57" />
+        <mark key="^" line="20" column="57" />
+        <mark key="." line="20" column="57" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/models/db/images/Image.scala" timestamp="1510035925892">
         <mark key="[" line="5" column="0" />
@@ -2497,11 +2497,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Main.scala" timestamp="1532346831008">
-        <mark key="[" line="27" column="3" />
-        <mark key="]" line="27" column="26" />
-        <mark key="." line="27" column="26" />
-        <mark key="^" line="27" column="26" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Main.scala" timestamp="1532355547985">
+        <mark key="[" line="34" column="75" />
+        <mark key="]" line="34" column="85" />
+        <mark key="." line="34" column="85" />
+        <mark key="^" line="34" column="85" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-canPublish/src/main/scala/com/leoilab/canpublish/CanPublishLib.scala" timestamp="1512581406204">
         <mark key="[" line="11" column="176" />
@@ -2765,8 +2765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="465" column="38" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" />
-      <jump line="28" column="23" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
       <jump line="251" column="45" filename="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageApi.scala" />
       <jump line="348" column="0" filename="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageApi.scala" />
       <jump line="261" column="43" filename="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImageApiIntegrationTest.scala" />
@@ -2865,10 +2863,12 @@
       <jump line="243" column="18" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" />
       <jump line="156" column="22" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" />
       <jump line="35" column="102" filename="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Main.scala" />
+      <jump line="11" column="30" filename="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/MySQLDataSourceInterpreter.scala" />
+      <jump line="20" column="36" filename="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/MySQLDataSourceInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAudW5zYWZlUnVuQXN5bmMoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>FutureToWriterTTransformation</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5491,54 +5491,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text>FutureToWriterTTransformation</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>IO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBjb25maWd1cmF0aW9uID0gQ29uZmlnRmFjdG9yeS5sb2FkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAudW5zYWZlUnVuQXN5bmMoKQo=</text>
+        <text encoding="base64">ICB2YWwgc3RvcmVJbnRlcnByZXRlcjI6IFN0b3JlIH4+IEVmZmVjdCA9IG5ldyBNeVNRTERhdGFTb3VyY2VJbnRlcnByZXRlcigpLmNvbXBvc2UoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAudW5zYWZlUnVuQXN5bmMoKQo=</text>
+        <text encoding="base64">ICAgICAgZGIubWFwKF8gPT4gKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAucnVuCg==</text>
+        <text encoding="base64">ICAgICAgICAucXVpY2sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAudW5zYWZlUnVuU3luYygpCg==</text>
+        <text encoding="base64">ICAgICAgICAubWFwKF8gPT4gXykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAudHJhbnNhY3QoeGEpCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuSU8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5teXNxbC5qZGJjLkRyaXZlcgo=</text>
+        <text encoding="base64">ICAgICAgICAudHJhbnNhY3QoeGEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAudW5zYWZlUnVuQXN5bmMoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgRHVtbXlMb2dnaW5nSW50ZXJwcmV0ZXIgewoKfQo=</text>
+        <text encoding="base64">ICAgICAgICAudW5zYWZlUnVuQXN5bmMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXVmaXQudHh0Cg==</text>
+        <text encoding="base64">ICAgICAgICAucnVuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>75</text>
+        <text>%s/IO/Future/g</text>
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>IO</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
-      <last-replace>Node[T]</last-replace>
-      <last-substitute>Node</last-substitute>
+      <last-pattern>IO</last-pattern>
+      <last-replace>Future</last-replace>
+      <last-substitute>IO</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -5561,10 +5561,11 @@
         <entry>userdn</entry>
         <entry>usersdb</entry>
         <entry>login</entry>
+        <entry>%s</entry>
+        <entry>Future</entry>
+        <entry>IO</entry>
       </history-search>
       <history-cmd>
-        <entry>26</entry>
-        <entry>67</entry>
         <entry>47</entry>
         <entry>76</entry>
         <entry>144</entry>
@@ -5583,6 +5584,8 @@
         <entry>36</entry>
         <entry>141</entry>
         <entry>75</entry>
+        <entry>%s/Future/IO/g</entry>
+        <entry>%s/IO/Future/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
