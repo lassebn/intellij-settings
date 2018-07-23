@@ -311,9 +311,9 @@
         <mark key="." line="62" column="7" />
         <mark key="^" line="62" column="7" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/DatabaseManager.scala" timestamp="1532346808972">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="5" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/DatabaseManager.scala" timestamp="1532349018498">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="41" />
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
@@ -1001,6 +1001,12 @@
         <mark key="^" line="1" column="79" />
         <mark key="." line="1" column="79" />
       </file>
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/MySQLDataSourceInterpreter.scala" timestamp="1532350485400">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="13" column="43" />
+      </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/README.md" timestamp="1509453291038">
         <mark key="[" line="44" column="165" />
         <mark key="]" line="44" column="167" />
@@ -1263,6 +1269,12 @@
         <mark key="]" line="9" column="59" />
         <mark key="^" line="27" column="50" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/free-monads-functional-web-apps/src/main/scala/com/experiments/calvin/interpreters/package.scala" timestamp="1532330041501">
+        <mark key="[" line="48" column="71" />
+        <mark key="]" line="48" column="77" />
+        <mark key="^" line="48" column="77" />
+        <mark key="." line="48" column="77" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/application.conf" timestamp="1530009499838">
         <mark key="[" line="94" column="52" />
@@ -1551,11 +1563,11 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/build.sbt" timestamp="1532346907486">
-        <mark key="[" line="15" column="58" />
-        <mark key="]" line="16" column="65" />
-        <mark key="^" line="16" column="65" />
-        <mark key="." line="16" column="65" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/build.sbt" timestamp="1532348956312">
+        <mark key="[" line="15" column="65" />
+        <mark key="]" line="15" column="64" />
+        <mark key="^" line="15" column="64" />
+        <mark key="." line="15" column="64" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/models/db/images/Image.scala" timestamp="1510035925892">
         <mark key="[" line="5" column="0" />
@@ -1629,7 +1641,7 @@
         <mark key="." line="51" column="2" />
         <mark key="^" line="51" column="2" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/InMemoryDataSourceInterpreter.scala" timestamp="1532341694849">
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/InMemoryDataSourceInterpreter.scala" timestamp="1532348371111">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -2856,7 +2868,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgRHVtbXlMb2dnaW5nSW50ZXJwcmV0ZXIgewoKfQo=</text>
+        <text encoding="base64">ICAgICAgICAudW5zYWZlUnVuQXN5bmMoKQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5479,43 +5491,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhc2UgUmlnaHQoXzogUmVzdWx0KSA9PiBGdXR1cmUuc3VjY2Vzc2Z1bCgoKSkK</text>
+        <text encoding="base64">ICAgIHZhbCBjb25maWd1cmF0aW9uID0gQ29uZmlnRmFjdG9yeS5sb2FkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgRHVtbXlMb2dnaW5nSW50ZXJwcmV0ZXIgewoKfQo=</text>
+        <text encoding="base64">ICAgICAgICAudW5zYWZlUnVuQXN5bmMoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXVmaXQudHh0Cg==</text>
+        <text encoding="base64">ICAgICAgICAudW5zYWZlUnVuQXN5bmMoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXVmaXQudHh0Cg==</text>
+        <text encoding="base64">ICAgICAgICAucnVuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAudW5zYWZlUnVuU3luYygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAudHJhbnNhY3QoeGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5teXNxbC5qZGJjLkRyaXZlcgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgU3RhdGVMb2dnaW5nSW50ZXJwcmV0ZXIgewoKfQo=</text>
+        <text encoding="base64">Y2xhc3MgRHVtbXlMb2dnaW5nSW50ZXJwcmV0ZXIgewoKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvKgogIHRoZSB0eXBlIGFsaWFzIHdhcyBuZWVkZWQgYmVjYXVzZSBGW19dIGFuZCBXcml0ZXJbU3RyaW5nLCBfXSBhcmUKICBhcHBhcmVudGx5IG5vdCB0aGUgc2FtZSBraW5kIGFueSBhbiBhbGlhcyBpcyBuZWVkZWQgdG8gbWFrZSBpdCB0YWtlIG9uZSBwYXJhbWV0ZXIKICBpbiBvdGhlciB3b3JkcyBpdCdzIG5vdCB0aGF0IGVhc3kgdG8gcGFydGlhbGx5IGFwcGx5IHR5cGUgY29uc3RydWN0b3JzCiAgICovCiAgb2JqZWN0IFN0YXRlTG9nZ2luZ0ludGVycHJldGVyIGV4dGVuZHMgKExvZ2dpbmdBIH4+IExvZ2dpbmdXcml0ZXIpIHsKICAgIG92ZXJyaWRlIGRlZiBhcHBseVtBXShmYTogTG9nZ2luZ0FbQV0pOiBXcml0ZXJbTGlzdFtTdHJpbmddLCBBXSA9IGZhIG1hdGNoIHsKICAgICAgY2FzZSBJbmZvKG1zZzogU3RyaW5nKSA9PiBXcml0ZXIoTGlzdChtc2cpLCAoKSkKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">YXVmaXQudHh0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>75</text>
