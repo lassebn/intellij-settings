@@ -311,6 +311,12 @@
         <mark key="." line="62" column="7" />
         <mark key="^" line="62" column="7" />
       </file>
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/DatabaseManager.scala" timestamp="1532346808972">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/README.md" timestamp="1500989023233">
         <mark key="[" line="40" column="3" />
         <mark key="]" line="40" column="3" />
@@ -635,6 +641,9 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/free-membership-prototype/README.md" timestamp="1532345945727">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -688,6 +697,9 @@
         <mark key="]" line="147" column="85" />
         <mark key="." line="147" column="85" />
         <mark key="^" line="147" column="85" />
+      </file>
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Flyway.java" timestamp="1532346248354">
+        <mark key="[" line="2" column="21" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/Operations.scala" timestamp="1512392243911">
         <mark key="[" line="135" column="9" />
@@ -1539,11 +1551,11 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/build.sbt" timestamp="1532343449884">
-        <mark key="[" line="13" column="126" />
-        <mark key="]" line="14" column="62" />
-        <mark key="^" line="14" column="62" />
-        <mark key="." line="14" column="62" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/build.sbt" timestamp="1532346907486">
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="16" column="65" />
+        <mark key="^" line="16" column="65" />
+        <mark key="." line="16" column="65" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/models/db/images/Image.scala" timestamp="1510035925892">
         <mark key="[" line="5" column="0" />
@@ -1891,6 +1903,12 @@
         <mark key="^" line="58" column="29" />
         <mark key="." line="58" column="29" />
       </file>
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/resources/application.conf" timestamp="1532346795501">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+      </file>
       <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsRepository.scala" timestamp="1530616349402">
         <mark key="[" line="61" column="66" />
         <mark key="]" line="61" column="66" />
@@ -2125,6 +2143,12 @@
         <mark key="]" line="2" column="24" />
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/resources/db/migration/V1__Memberships.sql" timestamp="1532345592817">
+        <mark key="[" line="6" column="83" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
       </file>
       <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1531312029934">
         <mark key="[" line="68" column="75" />
@@ -2461,10 +2485,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Main.scala" timestamp="1532341438113">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Main.scala" timestamp="1532346831008">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+        <mark key="^" line="27" column="26" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-canPublish/src/main/scala/com/leoilab/canpublish/CanPublishLib.scala" timestamp="1512581406204">
         <mark key="[" line="11" column="176" />
