@@ -425,12 +425,6 @@
         <mark key="^" line="40" column="35" />
         <mark key="." line="40" column="35" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/package.scala" timestamp="1532335195794">
-        <mark key="[" line="10" column="65" />
-        <mark key="]" line="10" column="67" />
-        <mark key="^" line="10" column="67" />
-        <mark key="." line="10" column="67" />
-      </file>
       <file name="$USER_HOME$/Source/datawarehouse-import/wiremock/mappings/wufooGetUKEfficacyFields.json" timestamp="1507533742967">
         <mark key="[" line="995" column="4" />
         <mark key="]" line="996" column="2" />
@@ -442,12 +436,6 @@
         <mark key="]" line="41" column="32" />
         <mark key="^" line="3" column="76" />
         <mark key="." line="41" column="32" />
-      </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Programs.scala" timestamp="1532334008226">
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="34" />
-        <mark key="^" line="13" column="34" />
-        <mark key="." line="13" column="34" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/ui-test/facebook-integration-page.html" timestamp="1530002027469">
         <mark key="[" line="13" column="26" />
@@ -546,10 +534,10 @@
         <mark key="^" line="110" column="59" />
       </file>
       <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Algebras.scala" timestamp="1532332942114">
-        <mark key="[" line="63" column="114" />
-        <mark key="]" line="63" column="111" />
-        <mark key="^" line="63" column="111" />
-        <mark key="." line="63" column="111" />
+        <mark key="[" line="19" column="114" />
+        <mark key="]" line="19" column="111" />
+        <mark key="^" line="19" column="111" />
+        <mark key="." line="19" column="111" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/project/TestHelper.scala" timestamp="1502797710883">
         <mark key="[" line="132" column="80" />
@@ -642,12 +630,6 @@
         <mark key="." line="14" column="75" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1532083389468" />
-      <file name="$USER_HOME$/Source/free-membership-prototype/README.md" timestamp="1532337418000">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-      </file>
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -851,12 +833,6 @@
         <mark key="]" line="79" column="67" />
         <mark key="^" line="79" column="67" />
         <mark key="." line="79" column="67" />
-      </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Interpreters.scala" timestamp="1532334454802">
-        <mark key="[" line="86" column="2" />
-        <mark key="]" line="86" column="7" />
-        <mark key="^" line="86" column="7" />
-        <mark key="." line="86" column="7" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/IntegrationTestHelper.scala" timestamp="1520519199027">
         <mark key="[" line="9" column="7" />
@@ -2444,11 +2420,10 @@
         <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Main.scala" timestamp="1532335298206">
-        <mark key="'" line="35" column="102" />
-        <mark key="[" line="37" column="78" />
-        <mark key="]" line="37" column="78" />
-        <mark key="^" line="37" column="78" />
-        <mark key="." line="37" column="78" />
+        <mark key="[" line="5" column="78" />
+        <mark key="]" line="5" column="78" />
+        <mark key="^" line="5" column="78" />
+        <mark key="." line="5" column="78" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-canPublish/src/main/scala/com/leoilab/canpublish/CanPublishLib.scala" timestamp="1512581406204">
         <mark key="[" line="11" column="176" />
