@@ -251,11 +251,11 @@
         <mark key="^" line="26" column="18" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/db/MySQLDBImpl.scala" timestamp="1532435080290">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/db/MySQLDBImpl.scala" timestamp="1532441277911">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
         <mark key="^" line="68" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Source/free-monads-functional-web-apps/src/main/scala/com/experiments/calvin/Application.scala" timestamp="1532329545253">
         <mark key="[" line="20" column="92" />
@@ -323,11 +323,11 @@
         <mark key="." line="62" column="7" />
         <mark key="^" line="62" column="7" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/DatabaseManager.scala" timestamp="1532349018498">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="41" />
-        <mark key="^" line="9" column="5" />
-        <mark key="." line="9" column="5" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/DatabaseManager.scala" timestamp="1532440656931">
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="37" />
+        <mark key="^" line="17" column="37" />
+        <mark key="." line="17" column="37" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/README.md" timestamp="1500989023233">
         <mark key="[" line="40" column="3" />
@@ -1326,11 +1326,11 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" timestamp="1532422039731">
-        <mark key="[" line="12" column="64" />
-        <mark key="]" line="12" column="70" />
-        <mark key="^" line="12" column="70" />
-        <mark key="." line="12" column="70" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" timestamp="1532440689707">
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="35" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="26" column="35" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ReminderRepository.scala" timestamp="1508482082378">
         <mark key="[" line="45" column="65" />
@@ -1338,6 +1338,7 @@
         <mark key="." line="44" column="91" />
         <mark key="^" line="44" column="91" />
       </file>
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/config/ConfigValues.scala" timestamp="1532441246804" />
       <file name="$USER_HOME$/Source/psohappy-backend/src/raml/api.raml" timestamp="1528695862071">
         <mark key="[" line="96" column="25" />
         <mark key="]" line="99" column="28" />
@@ -1709,11 +1710,11 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/SlickDataSourceInterpreter.scala" timestamp="1532421459701">
-        <mark key="[" line="22" column="65" />
-        <mark key="]" line="22" column="65" />
-        <mark key="." line="22" column="65" />
-        <mark key="^" line="22" column="65" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/SlickDataSourceInterpreter.scala" timestamp="1532440507047">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/Source/WufooExporterTest/requirements.txt" timestamp="1506580783043">
         <mark key="[" line="0" column="17" />
@@ -1943,11 +1944,11 @@
         <mark key="^" line="58" column="29" />
         <mark key="." line="58" column="29" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/resources/application.conf" timestamp="1532421773922">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-        <mark key="^" line="0" column="1" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/resources/application.conf" timestamp="1532441118186">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="13" column="45" />
+        <mark key="^" line="13" column="45" />
+        <mark key="." line="13" column="45" />
       </file>
       <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsRepository.scala" timestamp="1530616349402">
         <mark key="[" line="61" column="66" />
@@ -2003,7 +2004,7 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1532436832395">
+      <file name="/fragment.java" timestamp="1532438968856">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-definition-migrate-template.json" timestamp="1505735739661">
@@ -2065,6 +2066,12 @@
         <mark key="]" line="21" column="16" />
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
+      </file>
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/config/ConfigModule.scala" timestamp="1532439231430">
+        <mark key="[" line="109" column="21" />
+        <mark key="]" line="109" column="24" />
+        <mark key="^" line="109" column="24" />
+        <mark key="." line="109" column="24" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/scala/com/leoilab/infrastructure/ServicesLib.scala" timestamp="1512389713530">
         <mark key="[" line="37" column="39" />
@@ -2510,11 +2517,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Main.scala" timestamp="1532422077143">
-        <mark key="[" line="39" column="48" />
-        <mark key="]" line="39" column="52" />
-        <mark key="." line="39" column="52" />
-        <mark key="^" line="39" column="52" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Main.scala" timestamp="1532441198425">
+        <mark key="[" line="41" column="6" />
+        <mark key="]" line="41" column="10" />
+        <mark key="." line="41" column="10" />
+        <mark key="^" line="41" column="10" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-canPublish/src/main/scala/com/leoilab/canpublish/CanPublishLib.scala" timestamp="1512581406204">
         <mark key="[" line="11" column="176" />
@@ -2876,7 +2883,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAiY29tLmxlb2lsYWIiICUlICJwbGF0Zm9ybS1jb21tb25zLWNvcmUiICUgY29tbW9uc1ZlcnNpb24sCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5499,43 +5506,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSA=</text>
+        <text encoding="base64">d2l0aCA=</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwYXNzd29yZCA9ICR7P0RCX0NMVVNURVIxX1BBU1N9Cg==</text>
+        <text encoding="base64">ZGIgewogIGNsdXN0ZXIxIHsKICAgIHVybCA9ICJqZGJjOm15c3FsOi8vbG9jYWxob3N0OjMzMDYvbWVtYmVyc2hpcHM/dXNlVW5pY29kZT15ZXMmdXNlU1NMPWZhbHNlIgogICAgdXJsID0gJHs/REJfQ0xVU1RFUjFfVVJMfQogICAgdXNlciA9ICJtZW1iZXJzaGlwcyIKICAgIHVzZXIgPSAkez9EQl9DTFVTVEVSMV9VU0VSfQogICAgcGFzcyA9ICJtZW1iZXJzaGlwcyIKICAgIHBhc3MgPSAkez9EQl9DTFVTVEVSMV9QQVNTfQogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiY29tLmxlb2lsYWIiICUlICJwbGF0Zm9ybS1jb21tb25zLWNvcmUiICUgY29tbW9uc1ZlcnNpb24sCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjbHVzdGVyMSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNsaWNrLmpkYmMuTXlTUUxQcm9maWxlLmFwaS5fCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiTGVvIGlsYWIgcmVsZWFzZXMiIGF0ICJzMzovL2xlby1wbGF0Zm9ybS1wYWNrYWdlcy9yZWxlYXNlcyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiTGVvIGlsYWIgc25hcHNob3RzIiBhdCAiczM6Ly9sZW8tcGxhdGZvcm0tcGFja2FnZXMvc25hcHNob3RzIiwK</text>
+        <text encoding="base64">ICB2YWwgZGIgPSBEYXRhYmFzZS5mb3JDb25maWcoInNsaWNrIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnNpb25zLl8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ubGVvaWxhYi5kYgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmNvbmZpZy5Db25maWdWYWx1ZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiY29tLmxlb2lsYWIiICUlICJwbGF0Zm9ybS1jb21tb25zLWNvcmUiICUgY29tbW9uc1ZlcnNpb24sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/db/doobie/g</text>
