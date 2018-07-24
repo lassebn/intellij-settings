@@ -1001,11 +1001,11 @@
         <mark key="^" line="1" column="79" />
         <mark key="." line="1" column="79" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/MySQLDataSourceInterpreter.scala" timestamp="1532413206326">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="17" />
-        <mark key="^" line="16" column="17" />
-        <mark key="." line="16" column="17" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/MySQLDataSourceInterpreter.scala" timestamp="1532416312102">
+        <mark key="[" line="14" column="162" />
+        <mark key="]" line="14" column="161" />
+        <mark key="." line="14" column="161" />
+        <mark key="^" line="14" column="161" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/README.md" timestamp="1509453291038">
         <mark key="[" line="44" column="165" />
@@ -1686,6 +1686,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/permissions/interpreters/MySQLDataSourceInterpreter.scala" timestamp="1532416497324">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="35" />
+        <mark key="^" line="8" column="35" />
+        <mark key="." line="8" column="35" />
       </file>
       <file name="$USER_HOME$/Source/WufooExporterTest/requirements.txt" timestamp="1506580783043">
         <mark key="[" line="0" column="17" />
@@ -2868,7 +2874,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FutureToWriterTTransformation</text>
+        <text>MySQLDataSourceInterpreter</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5491,43 +5497,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FutureToWriterTTransformation</text>
+        <text>MySQLDataSourceInterpreter</text>
       </register>
       <register name="/" type="4">
         <text>IO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb25maWd1cmF0aW9uID0gQ29uZmlnRmFjdG9yeS5sb2FkCg==</text>
+        <text encoding="base64">ICB2YWwgY29uZmlndXJhdGlvbiA9IENvbmZpZ0ZhY3RvcnkubG9hZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWwgc3RvcmVJbnRlcnByZXRlcjI6IFN0b3JlIH4+IEVmZmVjdCA9IG5ldyBNeVNRTERhdGFTb3VyY2VJbnRlcnByZXRlcigpLmNvbXBvc2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGIubWFwKF8gPT4gKCkpCg==</text>
+        <text encoding="base64">ICBkZWYgc2V0U3FsKHU6IFN0cmluZywgcjogU3RyaW5nKTogZG9vYmllLlVwZGF0ZTAgPSBzcWwiSU5TRVJUIElOVE8gbWVtYmVyc2hpcHMgKHVzZXJpZCwgZ3JvdXBpZCkgVkFMVUVTICgkdSwgJHIpIi51cGRhdGUKICBkZWYgZXhpc3RzU3FsKHU6IFN0cmluZywgcjogU3RyaW5nKTogZG9vYmllLlF1ZXJ5MFtCb29sZWFuXSA9IHNxbCJTRUxFQ1QgRVhJU1RTKFNFTEVDVCAqIEZST00gbWVtYmVyc2hpcHMgV0hFUkUgdXNlcmlkID0gJHUgQU5EIGdyb3VwaWQgPSAkcikiLnF1ZXJ5W0Jvb2xlYW5dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAucXVpY2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwKF8gPT4gXykK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuSU8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAudHJhbnNhY3QoeGEpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAudW5zYWZlUnVuQXN5bmMoKQo=</text>
+        <text encoding="base64">ICAgICAgY2hlY2sodXBkYXRlKCIiLCAiIikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAudW5zYWZlUnVuQXN5bmMoKQo=</text>
+        <text encoding="base64">ICAgIHRlc3QoInVwZGF0ZSIpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAucnVuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5xdWVyeVtCb29sZWFuXQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/IO/Future/g</text>
