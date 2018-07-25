@@ -864,12 +864,12 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" timestamp="1532421825592">
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" timestamp="1532514532891">
         <mark key="'" line="13" column="30" />
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="13" column="30" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="13" column="30" />
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="15" column="35" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-canPublish/src/main/scala/com/leoilab/canpublish/CanPublishPlugin.scala" timestamp="1512580918665">
         <mark key="[" line="18" column="154" />
@@ -1704,11 +1704,11 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/SlickDataSourceInterpreter.scala" timestamp="1532510433118">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="3" column="29" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/SlickDataSourceInterpreter.scala" timestamp="1532514478630">
+        <mark key="[" line="34" column="30" />
+        <mark key="]" line="35" column="22" />
+        <mark key="." line="35" column="22" />
+        <mark key="^" line="35" column="22" />
       </file>
       <file name="$USER_HOME$/Source/WufooExporterTest/requirements.txt" timestamp="1506580783043">
         <mark key="[" line="0" column="17" />
