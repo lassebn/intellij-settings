@@ -443,6 +443,11 @@
         <mark key="^" line="43" column="35" />
         <mark key="." line="43" column="35" />
       </file>
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/package.scala" timestamp="1532526963455">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-import/wiremock/mappings/wufooGetUKEfficacyFields.json" timestamp="1507533742967">
         <mark key="[" line="995" column="4" />
         <mark key="]" line="996" column="2" />
@@ -1333,11 +1338,11 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" timestamp="1532524844812">
-        <mark key="[" line="13" column="49" />
-        <mark key="]" line="14" column="46" />
-        <mark key="^" line="14" column="46" />
-        <mark key="." line="14" column="46" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" timestamp="1532526631088">
+        <mark key="[" line="42" column="42" />
+        <mark key="]" line="42" column="42" />
+        <mark key="." line="42" column="42" />
+        <mark key="^" line="17" column="6" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ReminderRepository.scala" timestamp="1508482082378">
         <mark key="[" line="45" column="65" />
@@ -2523,11 +2528,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Main.scala" timestamp="1532510223068">
-        <mark key="[" line="41" column="48" />
-        <mark key="]" line="41" column="69" />
-        <mark key="." line="41" column="69" />
-        <mark key="^" line="41" column="69" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Main.scala" timestamp="1532526836803">
+        <mark key="[" line="53" column="69" />
+        <mark key="]" line="53" column="91" />
+        <mark key="." line="53" column="91" />
+        <mark key="^" line="53" column="91" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-canPublish/src/main/scala/com/leoilab/canpublish/CanPublishLib.scala" timestamp="1512581406204">
         <mark key="[" line="11" column="176" />
@@ -2888,8 +2893,8 @@
       <jump line="13" column="30" filename="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5512,13 +5517,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>interpreter2</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGIgewogIGNsdXN0ZXIxIHsKICAgIHVybCA9ICJqZGJjOm15c3FsOi8vbG9jYWxob3N0OjMzMDYvbWVtYmVyc2hpcHM/dXNlVW5pY29kZT15ZXMmdXNlU1NMPWZhbHNlIgogICAgdXJsID0gJHs/REJfQ0xVU1RFUjFfVVJMfQogICAgdXNlciA9ICJtZW1iZXJzaGlwcyIKICAgIHVzZXIgPSAkez9EQl9DTFVTVEVSMV9VU0VSfQogICAgcGFzcyA9ICJtZW1iZXJzaGlwcyIKICAgIHBhc3MgPSAkez9EQl9DTFVTVEVSMV9QQVNTfQogIH0KfQo=</text>
+        <text encoding="base64">ICAgIGZhLmZvbGRNYXAoRG9vYmllRGF0YVNvdXJjZUludGVycHJldGVybnRlcnByZXRlcikudHJhbnNhY3QoeGEpLnJ1bgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -5527,28 +5532,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgY29uZmlndXJhdGlvbiA9IENvbmZpZ0ZhY3RvcnkubG9hZAogIHZhbCB4YSA9IFRyYW5zYWN0b3IuZnJvbURyaXZlck1hbmFnZXJbVGFza10oCiAgICAiY29tLm15c3FsLmNqLmpkYmMuRHJpdmVyIiwgLy8gZHJpdmVyIGNsYXNzbmFtZQogICAgY29uZmlndXJhdGlvbi5nZXRTdHJpbmcoImRiLnVybCIpLAogICAgY29uZmlndXJhdGlvbi5nZXRTdHJpbmcoImRiLnVzZXIiKSwKICAgIGNvbmZpZ3VyYXRpb24uZ2V0U3RyaW5nKCJkYi5wYXNzIikKICApCg==</text>
+        <text encoding="base64">ICB0eXBlIE1lbWJlcnNoaXBBcHAxMDAwW0FdID0gRWl0aGVyS1tTdG9yZSwgQV0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBtb25peC5leGVjdXRpb24uU2NoZWR1bGVyLkltcGxpY2l0cy5nbG9iYWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBtb25peC5leGVjdXRpb24uU2NoZWR1bGVyLkltcGxpY2l0cy5nbG9iYWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBBdG9taWNhbGx5KG9wKSA9PiB7CiAgICAgICAgb3AuZm9sZE1hcCh0aGlzKQogICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuZHVyYXRpb24uRHVyYXRpb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50cmFuc2FjdCh4YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5ydW5TeW5jVW5zYWZlKER1cmF0aW9uKDEsICJzZWNvbmQiKSkK</text>
+        <text encoding="base64">b2JqZWN0IERvb2JpZVJ1bm5lciBleHRlbmRzIChDb25uZWN0aW9uSU8gfj4gSWQpIHsKCgp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBtb25peC5leGVjdXRpb24uU2NoZWR1bGVyLkltcGxpY2l0cy5nbG9iYWwK</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgYXBwbHlbQV0oZmE6IENvbm5lY3Rpb25JT1tBXSkgPSB7CiAgICBmYS5mb2xkTWEKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/db/doobie/g</text>
