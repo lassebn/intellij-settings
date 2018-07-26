@@ -1517,11 +1517,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="22" column="78" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/doobie-query-builder.sc" timestamp="1532599247122">
-        <mark key="[" line="87" column="68" />
-        <mark key="]" line="87" column="67" />
-        <mark key="." line="87" column="67" />
-        <mark key="^" line="87" column="67" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/doobie-query-builder.sc" timestamp="1532607210181">
+        <mark key="[" line="95" column="98" />
+        <mark key="]" line="106" column="18" />
+        <mark key="." line="106" column="18" />
+        <mark key="^" line="106" column="18" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UsersExceptionHandler.scala" timestamp="1505462140915">
         <mark key="[" line="36" column="0" />
