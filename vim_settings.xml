@@ -562,9 +562,9 @@
         <mark key="." line="110" column="59" />
         <mark key="^" line="110" column="59" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Algebras.scala" timestamp="1532517619523">
-        <mark key="[" line="30" column="38" />
-        <mark key="]" line="30" column="38" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Algebras.scala" timestamp="1532590629423">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="61" />
         <mark key="." line="30" column="38" />
         <mark key="^" line="30" column="38" />
       </file>
@@ -1516,6 +1516,12 @@
         <mark key="]" line="22" column="78" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="22" column="78" />
+      </file>
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/doobie-query-builder.sc" timestamp="1532591944886">
+        <mark key="[" line="43" column="35" />
+        <mark key="]" line="46" column="11" />
+        <mark key="^" line="46" column="11" />
+        <mark key="." line="46" column="11" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UsersExceptionHandler.scala" timestamp="1505462140915">
         <mark key="[" line="36" column="0" />
@@ -2893,8 +2899,8 @@
       <jump line="13" column="30" filename="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Unit</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5517,43 +5523,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>interpreter2</text>
+        <text>Unit</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZhLmZvbGRNYXAoRG9vYmllRGF0YVNvdXJjZUludGVycHJldGVybnRlcnByZXRlcikudHJhbnNhY3QoeGEpLnJ1bgo=</text>
+        <text encoding="base64">c2VhbGVkIHRyYWl0IFN0b3JlW0FdCmNhc2UgY2xhc3MgU2V0KHU6IFN0cmluZywgcjogU3RyaW5nKSBleHRlbmRzIFN0b3JlW1VuaXRdCmNhc2UgY2xhc3MgRXhpc3RzKHU6IFN0cmluZywgcjogU3RyaW5nKSBleHRlbmRzIFN0b3JlW0Jvb2xlYW5dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgY2F0cy5hcnJvdy5GdW5jdGlvbksK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0eXBlIE1lbWJlcnNoaXBBcHAxMDAwW0FdID0gRWl0aGVyS1tTdG9yZSwgQV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAga3ZzLmdldChrZXkpLm1hcChfLmFzSW5zdGFuY2VPZltBXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGdyb3VwcyA9IGt2cyh1KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga3ZzLnJlbW92ZShrZXkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuZHVyYXRpb24uRHVyYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzImRlbGV0ZSgka2V5KSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgRGVsZXRlKGtleSkgPT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b2JqZWN0IERvb2JpZVJ1bm5lciBleHRlbmRzIChDb25uZWN0aW9uSU8gfj4gSWQpIHsKCgp9Cg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgYXBwbHlbQV0oZmE6IENvbm5lY3Rpb25JT1tBXSkgPSB7CiAgICBmYS5mb2xkTWEKICB9Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/db/doobie/g</text>
