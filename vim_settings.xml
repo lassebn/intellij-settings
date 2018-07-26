@@ -1338,9 +1338,9 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" timestamp="1532526631088">
-        <mark key="[" line="42" column="42" />
-        <mark key="]" line="42" column="42" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" timestamp="1532594484319">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="21" />
         <mark key="." line="42" column="42" />
         <mark key="^" line="17" column="6" />
       </file>
@@ -1517,11 +1517,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="22" column="78" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/doobie-query-builder.sc" timestamp="1532591944886">
-        <mark key="[" line="43" column="35" />
-        <mark key="]" line="46" column="11" />
-        <mark key="^" line="46" column="11" />
-        <mark key="." line="46" column="11" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/doobie-query-builder.sc" timestamp="1532594532132">
+        <mark key="[" line="79" column="24" />
+        <mark key="]" line="79" column="25" />
+        <mark key="." line="79" column="25" />
+        <mark key="^" line="79" column="25" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UsersExceptionHandler.scala" timestamp="1505462140915">
         <mark key="[" line="36" column="0" />
@@ -2899,8 +2899,8 @@
       <jump line="13" column="30" filename="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Unit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG1vbml4LmV2YWwuVGFzawo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5529,7 +5529,7 @@
         <text>db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VhbGVkIHRyYWl0IFN0b3JlW0FdCmNhc2UgY2xhc3MgU2V0KHU6IFN0cmluZywgcjogU3RyaW5nKSBleHRlbmRzIFN0b3JlW1VuaXRdCmNhc2UgY2xhc3MgRXhpc3RzKHU6IFN0cmluZywgcjogU3RyaW5nKSBleHRlbmRzIFN0b3JlW0Jvb2xlYW5dCg==</text>
+        <text encoding="base64">aW1wb3J0IG1vbml4LmV2YWwuVGFzawo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBpbXBvcnQgY2F0cy5hcnJvdy5GdW5jdGlvbksK</text>
