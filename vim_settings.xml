@@ -1284,6 +1284,13 @@
         <mark key="^" line="10" column="95" />
         <mark key="." line="10" column="95" />
       </file>
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/current-style.sc" timestamp="1532688490312">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="66" />
+        <mark key="]" line="14" column="63" />
+        <mark key="^" line="14" column="63" />
+        <mark key="." line="14" column="63" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/wiremock/mappings/facebook_access_token.json" timestamp="1530001210746">
         <mark key="[" line="3" column="40" />
         <mark key="]" line="3" column="40" />
@@ -2800,7 +2807,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="348" column="0" filename="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageApi.scala" />
       <jump line="261" column="43" filename="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImageApiIntegrationTest.scala" />
       <jump line="189" column="62" filename="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImagePropertiesApiIntegrationTest.scala" />
       <jump line="59" column="4" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
@@ -2900,10 +2906,11 @@
       <jump line="11" column="30" filename="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/MySQLDataSourceInterpreter.scala" />
       <jump line="20" column="36" filename="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/MySQLDataSourceInterpreter.scala" />
       <jump line="13" column="30" filename="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/current-style.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5526,7 +5533,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>import scala.concurrent.Future</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
@@ -5535,13 +5542,13 @@
         <text>&quot;user-5&quot;, &quot;image-5&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgYXRvbWljYWxseVtBXShvcDogRnJlZVtTdG9yZSwgQV0pOiBGcmVlW0YsIEFdID0gbGlmdEZbU3RvcmUsIEZdKEF0b21pY2FsbHkob3ApKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgYXRvbWljYWxseVtBXShvcDogRnJlZVtTdG9yZSwgQV0pOiBGcmVlW0YsIEFdID0gbGlmdEZbU3RvcmUsIEZdKEF0b21pY2FsbHkob3ApKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -5550,19 +5557,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY2F0cy5mcmVlLkZyZWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIEF0b21pY2FsbHlbRltfXSwgQV0ob3A6IEZyZWVbU3RvcmUsIEFdKSBleHRlbmRzIFN0b3JlQWxnZWJyYVtBXQo=</text>
+        <text encoding="base64">ICBpbXBvcnQgY2F0cy5mcmVlLkZyZWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIEF0b21pY2FsbHlbQV0ob3A6IFN0b3JlQWxnZWJyYVtBXSkgZXh0ZW5kcyBTdG9yZUFsZ2VicmFbQV0K</text>
+        <text encoding="base64">ICBjYXNlIGNsYXNzIEF0b21pY2FsbHlbRltfXSwgQV0ob3A6IEZyZWVbU3RvcmUsIEFdKSBleHRlbmRzIFN0b3JlQWxnZWJyYVtBXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0eXBlIERvb2JpZUFwcFtBXSA9IEVpdGhlcktbU3RvcmVBbGdlYnJhLCBDb25uZWN0aW9uSU8sIEFdCg==</text>
+        <text encoding="base64">ICBjYXNlIGNsYXNzIEF0b21pY2FsbHlbQV0ob3A6IFN0b3JlQWxnZWJyYVtBXSkgZXh0ZW5kcyBTdG9yZUFsZ2VicmFbQV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0eXBlIEVmZmVjdFtBXSA9IFRhc2tbQV0K</text>
+        <text encoding="base64">ICB0eXBlIERvb2JpZUFwcFtBXSA9IEVpdGhlcktbU3RvcmVBbGdlYnJhLCBDb25uZWN0aW9uSU8sIEFdCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/db/doobie/g</text>
