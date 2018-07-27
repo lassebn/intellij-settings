@@ -562,9 +562,9 @@
         <mark key="." line="110" column="59" />
         <mark key="^" line="110" column="59" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Algebras.scala" timestamp="1532590629423">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="61" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Algebras.scala" timestamp="1532680572762">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="34" column="0" />
         <mark key="." line="30" column="38" />
         <mark key="^" line="30" column="38" />
       </file>
@@ -1422,6 +1422,9 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="7" column="42" />
       </file>
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/freestyle.sc" timestamp="1532686416314">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiImagePropertiesFuncSpec.scala" timestamp="1522763807963">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="34" />
@@ -1517,11 +1520,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="22" column="78" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/doobie-query-builder.sc" timestamp="1532678265470">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="100" column="72" />
-        <mark key="." line="100" column="72" />
-        <mark key="^" line="100" column="72" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/doobie-query-builder.sc" timestamp="1532686303492">
+        <mark key="[" line="119" column="39" />
+        <mark key="]" line="120" column="11" />
+        <mark key="." line="120" column="11" />
+        <mark key="^" line="120" column="11" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UsersExceptionHandler.scala" timestamp="1505462140915">
         <mark key="[" line="36" column="0" />
@@ -5529,37 +5532,37 @@
         <text>db</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ImpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MzMwNi9tZW1iZXJzaGlwcz91c2VVbmljb2RlPXllcyZ1c2VTU0w9ZmFsc2Ui</text>
+        <text>&quot;user-5&quot;, &quot;image-5&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0eXBlIERvb2JpZUFwcFtBXSA9IEVpdGhlcktbU3RvcmVBbGdlYnJhLCBDb25uZWN0aW9uSU8sIEFdCg==</text>
+        <text encoding="base64">ICBkZWYgYXRvbWljYWxseVtBXShvcDogRnJlZVtTdG9yZSwgQV0pOiBGcmVlW0YsIEFdID0gbGlmdEZbU3RvcmUsIEZdKEF0b21pY2FsbHkob3ApKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0eXBlIEVmZmVjdFtBXSA9IFRhc2tbQV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgaW1wb3J0IGNhdHMuZGF0YS5FaXRoZXJLCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgdmFsIHggPSBFaXRoZXJLW3hhLnRyYW5zLCBkb29iaWVRdWVyeUludGVycHJldGVyXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgc2VhbGVkIHRyYWl0IFRyYW5zYWN0aW9uYWxBbGdlYnJhW0FdCiAgIGNhc2UgY2xhc3MgQXRvbWljYWxseVtBXShhY3Rpb246IENvbm5lY3Rpb25JT1tBXSkgZXh0ZW5kcyBUcmFuc2FjdGlvbmFsQWxnZWJyYVtBXQoKICAgdHlwZSBUcmFuc2FjdGlvbmFsW0FdID0gRnJlZVtUcmFuc2FjdGlvbmFsQWxnZWJyYSwgQV0KCiAgIGRlZiBhdG9taWNhbGx5W0FdKGFjdGlvbjogQ29ubmVjdGlvbklPW0FdKSA9IGxpZnRGW1RyYW5zYWN0aW9uYWxBbGdlYnJhLCBBXShBdG9taWNhbGx5KGFjdGlvbikpCgogICBkZWYgZ3JhbnRNdWx0aXBsZSA9IHsKICAgICBmb3IgewogICAgICBleGlzdHMgPC0gYXRvbWljYWxseSgKICAgICAgICBmb3IgewogICAgICAgICAgXyA8LSBzZXQoInVzZXItMyIsICJpbWFnZS0zIikKICAgICAgICAgIF8gPC0gc2V0KCJ1c2VyLTQiLCAiaW1hZ2UtNCIpCiAgICAgICAgICBleGlzdCA8LSBleGlzdHMoInVzZXItMyIsICJpbWFnZS00IikKICAgICAgICB9IHlpZWxkIGV4aXN0CiAgICAgICkKICAgICB9IHlpZWxkIGV4aXN0cwogICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBpbXBvcnQgY2F0cy5mcmVlLkZyZWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuaW1wbGljaXRzLl8K</text>
+        <text encoding="base64">ICBjYXNlIGNsYXNzIEF0b21pY2FsbHlbRltfXSwgQV0ob3A6IEZyZWVbU3RvcmUsIEFdKSBleHRlbmRzIFN0b3JlQWxnZWJyYVtBXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgaW1wb3J0IG1vbml4LmV2YWwuVGFzawo=</text>
+        <text encoding="base64">ICBjYXNlIGNsYXNzIEF0b21pY2FsbHlbQV0ob3A6IFN0b3JlQWxnZWJyYVtBXSkgZXh0ZW5kcyBTdG9yZUFsZ2VicmFbQV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgaW1wb3J0IGNhdHMuaW1wbGljaXRzLl8K</text>
+        <text encoding="base64">ICB0eXBlIERvb2JpZUFwcFtBXSA9IEVpdGhlcktbU3RvcmVBbGdlYnJhLCBDb25uZWN0aW9uSU8sIEFdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgaW1wb3J0IGRvb2JpZS5fCg==</text>
+        <text encoding="base64">ICB0eXBlIEVmZmVjdFtBXSA9IFRhc2tbQV0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/db/doobie/g</text>
