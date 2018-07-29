@@ -664,7 +664,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1532509716871" />
       <file name="$USER_HOME$/Source/free-membership-prototype/README.md" timestamp="1532345945727">
         <mark key="[" line="1" column="0" />
       </file>
@@ -1506,6 +1505,9 @@
         <mark key="^" line="51" column="17" />
         <mark key="." line="51" column="17" />
       </file>
+      <file name="$USER_HOME$/Source/scala-with-cats/src/main/scala/com/leoilab/sensible/tuts/cats/Printable.sc" timestamp="1532875028764">
+        <mark key="[" line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
         <mark key="[" line="16" column="69" />
         <mark key="]" line="16" column="70" />
@@ -1690,6 +1692,9 @@
         <mark key="]" line="5" column="32" />
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/Source/scala-with-cats/src/main/scala/com/leoilab/sensible/tuts/cats/Main.scala" timestamp="1532875986461">
+        <mark key="^" line="11" column="2" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1523015191848">
         <mark key="[" line="51" column="2" />
@@ -2237,6 +2242,12 @@
         <mark key="]" line="22" column="80" />
         <mark key="^" line="22" column="80" />
         <mark key="." line="22" column="80" />
+      </file>
+      <file name="$USER_HOME$/Source/scala-with-cats/src/main/scala/com/leoilab/sensible/tuts/cats/Printable.scala" timestamp="1532875944632">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="25" column="74" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/Python Console" timestamp="1499338031303">
         <mark key="[" line="0" column="4" />
@@ -2916,7 +2927,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgdHJhbnNhY3Rpb25hbERvb2JpZVF1ZXJ5SW50ZXJwcmV0ZXI6IFN0b3JlQWxnZWJyYSB+PiBDb25uZWN0aW9uSU8gPQogICAgbmV3IChTdG9yZUFsZ2VicmEgfj4gQ29ubmVjdGlvbklPKSB7CiAgICAgIG92ZXJyaWRlIGRlZiBhcHBseVtBXShmYTogU3RvcmVBbGdlYnJhW0FdKTogQ29ubmVjdGlvbklPW0FdID0KICAgICAgICBmYSBtYXRjaCB7CiAgICAgICAgICBjYXNlIFNldCh1LCByKSA9PgogICAgICAgICAgICBzcWwiSU5TRVJUIElHTk9SRSBJTlRPIG1lbWJlcnNoaXBzICh1c2VyaWQsIGdyb3VwaWQpIFZBTFVFUyAoJHUsICRyKSIKICAgICAgICAgICAgICAudXBkYXRlCiAgICAgICAgICAgICAgLnJ1bgogICAgICAgICAgICAgIC52b2lkCiAgICAgICAgICAgICAgLmFzSW5zdGFuY2VPZltDb25uZWN0aW9uSU9bQV1dCiAgICAgICAgICBjYXNlIEV4aXN0cyh1LCByKSA9PgogICAgICAgICAgICBzcWwiU0VMRUNUIEVYSVNUUyhTRUxFQ1QgKiBGUk9NIG1lbWJlcnNoaXBzIFdIRVJFIHVzZXJpZCA9ICR1IEFORCBncm91cGlkID0gJHIpIgogICAgICAgICAgICAgIC5xdWVyeVtCb29sZWFuXQogICAgICAgICAgICAgIC51bmlxdWUKICAgICAgICAgICAgICAuYXNJbnN0YW5jZU9mW0Nvbm5lY3Rpb25JT1tBXV0KICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBjYXRQcmludGFibGU6IFByaW50YWJsZVtDYXRdID0gKGNhdDogQ2F0KSA9PiB7CiAgICAgIHZhbCBuYW1lID0gUHJpbnRhYmxlLmZvcm1hdChjYXQubmFtZSkKICAgICAgdmFsIGFnZSA9IFByaW50YWJsZS5mb3JtYXQoY2F0LmFnZSkKICAgICAgdmFsIGNvbG9yID0gUHJpbnRhYmxlLmZvcm1hdChjYXQuY29sb3IpCiAgICAgIHMiJG5hbWUgaXMgYSAkYWdlIHllYXItb2xkICRjb2xvciBjYXQuIgogICAgfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5539,43 +5550,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgZG9vYmllUXVlcnlJbnRlcnByZXRlcjogU3RvcmVBbGdlYnJhIH4+IENvbm5lY3Rpb25JTyA9CiAgICBuZXcgKFN0b3JlQWxnZWJyYSB+PiBDb25uZWN0aW9uSU8pIHsKICAgICAgb3ZlcnJpZGUgZGVmIGFwcGx5W0FdKGZhOiBTdG9yZUFsZ2VicmFbQV0pOiBDb25uZWN0aW9uSU9bQV0gPQogICAgICAgIGZhIG1hdGNoIHsKICAgICAgICAgIGNhc2UgU2V0KHUsIHIpID0+CiAgICAgICAgICAgIHNxbCJJTlNFUlQgSUdOT1JFIElOVE8gbWVtYmVyc2hpcHMgKHVzZXJpZCwgZ3JvdXBpZCkgVkFMVUVTICgkdSwgJHIpIgogICAgICAgICAgICAgIC51cGRhdGUKICAgICAgICAgICAgICAucnVuCiAgICAgICAgICAgICAgLnZvaWQKICAgICAgICAgICAgICAuYXNJbnN0YW5jZU9mW0Nvbm5lY3Rpb25JT1tBXV0KICAgICAgICAgIGNhc2UgRXhpc3RzKHUsIHIpID0+CiAgICAgICAgICAgIHNxbCJTRUxFQ1QgRVhJU1RTKFNFTEVDVCAqIEZST00gbWVtYmVyc2hpcHMgV0hFUkUgdXNlcmlkID0gJHUgQU5EIGdyb3VwaWQgPSAkcikiCiAgICAgICAgICAgICAgLnF1ZXJ5W0Jvb2xlYW5dCiAgICAgICAgICAgICAgLnVuaXF1ZQogICAgICAgICAgICAgIC5hc0luc3RhbmNlT2ZbQ29ubmVjdGlvbklPW0FdXQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICBkZWYgcHJpbnRbQV0odmFsdWU6IEEpKGltcGxpY2l0IHByaW50ZXI6IFByaW50YWJsZVtBXSk6IFVuaXQgPSBwcmludGxuKGZvcm1hdCh2YWx1ZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgdHJhbnNhY3Rpb25hbERvb2JpZVF1ZXJ5SW50ZXJwcmV0ZXI6IFN0b3JlQWxnZWJyYSB+PiBDb25uZWN0aW9uSU8gPQogICAgbmV3IChTdG9yZUFsZ2VicmEgfj4gQ29ubmVjdGlvbklPKSB7CiAgICAgIG92ZXJyaWRlIGRlZiBhcHBseVtBXShmYTogU3RvcmVBbGdlYnJhW0FdKTogQ29ubmVjdGlvbklPW0FdID0KICAgICAgICBmYSBtYXRjaCB7CiAgICAgICAgICBjYXNlIFNldCh1LCByKSA9PgogICAgICAgICAgICBzcWwiSU5TRVJUIElHTk9SRSBJTlRPIG1lbWJlcnNoaXBzICh1c2VyaWQsIGdyb3VwaWQpIFZBTFVFUyAoJHUsICRyKSIKICAgICAgICAgICAgICAudXBkYXRlCiAgICAgICAgICAgICAgLnJ1bgogICAgICAgICAgICAgIC52b2lkCiAgICAgICAgICAgICAgLmFzSW5zdGFuY2VPZltDb25uZWN0aW9uSU9bQV1dCiAgICAgICAgICBjYXNlIEV4aXN0cyh1LCByKSA9PgogICAgICAgICAgICBzcWwiU0VMRUNUIEVYSVNUUyhTRUxFQ1QgKiBGUk9NIG1lbWJlcnNoaXBzIFdIRVJFIHVzZXJpZCA9ICR1IEFORCBncm91cGlkID0gJHIpIgogICAgICAgICAgICAgIC5xdWVyeVtCb29sZWFuXQogICAgICAgICAgICAgIC51bmlxdWUKICAgICAgICAgICAgICAuYXNJbnN0YW5jZU9mW0Nvbm5lY3Rpb25JT1tBXV0KICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBjYXRQcmludGFibGU6IFByaW50YWJsZVtDYXRdID0gKGNhdDogQ2F0KSA9PiB7CiAgICAgIHZhbCBuYW1lID0gUHJpbnRhYmxlLmZvcm1hdChjYXQubmFtZSkKICAgICAgdmFsIGFnZSA9IFByaW50YWJsZS5mb3JtYXQoY2F0LmFnZSkKICAgICAgdmFsIGNvbG9yID0gUHJpbnRhYmxlLmZvcm1hdChjYXQuY29sb3IpCiAgICAgIHMiJG5hbWUgaXMgYSAkYWdlIHllYXItb2xkICRjb2xvciBjYXQuIgogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBkcyA9IG5ldyBEYXRhU291cmNlW0Nvbm5lY3Rpb25JT10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBpID0gZG9vYmllUXVlcnlJbnRlcnByZXRlci4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgeDogSW5qZWN0S1tTdG9yZUFsZ2VicmEsIENvbm5lY3Rpb25JT10gPSB7CgogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgeDogSW5qZWN0S1tTdG9yZUFsZ2VicmEsIENvbm5lY3Rpb25JT10gPSB7CgogIH0K</text>
+        <text encoding="base64">ICBpbXBvcnQgUHJpbnRhYmxlSW5zdGFuY2VzLl8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWRkQ29tcGlsZXJQbHVnaW4oIm9yZy5zY2FsYW1ldGEiICUgInBhcmFkaXNlIiAlICIzLjAuMC1NMTAiIGNyb3NzIENyb3NzVmVyc2lvbi5mdWxsKQo=</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgY2F0UHJpbnRhYmxlOiBQcmludGFibGVbQ2F0XSA9IChjYXQ6IENhdCkgPT4gewogICAgdmFsIG5hbWUgPSBQcmludGFibGUuZm9ybWF0KGNhdC5uYW1lKQogICAgdmFsIGFnZSA9IFByaW50YWJsZS5mb3JtYXQoY2F0LmFnZSkKICAgIHZhbCBjb2xvciA9IFByaW50YWJsZS5mb3JtYXQoY2F0LmNvbG9yKQogICAgcyIkbmFtZSBpcyBhICRhZ2UgeWVhci1vbGQgJGNvbG9yIGNhdC4iCiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/db/doobie/g</text>
