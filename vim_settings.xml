@@ -1530,11 +1530,10 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="22" column="78" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/doobie-query-builder.sc" timestamp="1532859191815">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="123" column="43" />
-        <mark key="." line="123" column="43" />
-        <mark key="^" line="123" column="43" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/doobie-query-builder.sc" timestamp="1532862444858">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UsersExceptionHandler.scala" timestamp="1505462140915">
         <mark key="[" line="36" column="0" />
@@ -2916,8 +2915,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/current-style.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkZWYgdHJhbnNhY3Rpb25hbERvb2JpZVF1ZXJ5SW50ZXJwcmV0ZXI6IFN0b3JlQWxnZWJyYSB+PiBDb25uZWN0aW9uSU8gPQogICAgbmV3IChTdG9yZUFsZ2VicmEgfj4gQ29ubmVjdGlvbklPKSB7CiAgICAgIG92ZXJyaWRlIGRlZiBhcHBseVtBXShmYTogU3RvcmVBbGdlYnJhW0FdKTogQ29ubmVjdGlvbklPW0FdID0KICAgICAgICBmYSBtYXRjaCB7CiAgICAgICAgICBjYXNlIFNldCh1LCByKSA9PgogICAgICAgICAgICBzcWwiSU5TRVJUIElHTk9SRSBJTlRPIG1lbWJlcnNoaXBzICh1c2VyaWQsIGdyb3VwaWQpIFZBTFVFUyAoJHUsICRyKSIKICAgICAgICAgICAgICAudXBkYXRlCiAgICAgICAgICAgICAgLnJ1bgogICAgICAgICAgICAgIC52b2lkCiAgICAgICAgICAgICAgLmFzSW5zdGFuY2VPZltDb25uZWN0aW9uSU9bQV1dCiAgICAgICAgICBjYXNlIEV4aXN0cyh1LCByKSA9PgogICAgICAgICAgICBzcWwiU0VMRUNUIEVYSVNUUyhTRUxFQ1QgKiBGUk9NIG1lbWJlcnNoaXBzIFdIRVJFIHVzZXJpZCA9ICR1IEFORCBncm91cGlkID0gJHIpIgogICAgICAgICAgICAgIC5xdWVyeVtCb29sZWFuXQogICAgICAgICAgICAgIC51bmlxdWUKICAgICAgICAgICAgICAuYXNJbnN0YW5jZU9mW0Nvbm5lY3Rpb25JT1tBXV0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5540,43 +5539,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;user-5&quot;, &quot;image-5&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZWYgZG9vYmllUXVlcnlJbnRlcnByZXRlcjogU3RvcmVBbGdlYnJhIH4+IENvbm5lY3Rpb25JTyA9CiAgICBuZXcgKFN0b3JlQWxnZWJyYSB+PiBDb25uZWN0aW9uSU8pIHsKICAgICAgb3ZlcnJpZGUgZGVmIGFwcGx5W0FdKGZhOiBTdG9yZUFsZ2VicmFbQV0pOiBDb25uZWN0aW9uSU9bQV0gPQogICAgICAgIGZhIG1hdGNoIHsKICAgICAgICAgIGNhc2UgU2V0KHUsIHIpID0+CiAgICAgICAgICAgIHNxbCJJTlNFUlQgSUdOT1JFIElOVE8gbWVtYmVyc2hpcHMgKHVzZXJpZCwgZ3JvdXBpZCkgVkFMVUVTICgkdSwgJHIpIgogICAgICAgICAgICAgIC51cGRhdGUKICAgICAgICAgICAgICAucnVuCiAgICAgICAgICAgICAgLnZvaWQKICAgICAgICAgICAgICAuYXNJbnN0YW5jZU9mW0Nvbm5lY3Rpb25JT1tBXV0KICAgICAgICAgIGNhc2UgRXhpc3RzKHUsIHIpID0+CiAgICAgICAgICAgIHNxbCJTRUxFQ1QgRVhJU1RTKFNFTEVDVCAqIEZST00gbWVtYmVyc2hpcHMgV0hFUkUgdXNlcmlkID0gJHUgQU5EIGdyb3VwaWQgPSAkcikiCiAgICAgICAgICAgICAgLnF1ZXJ5W0Jvb2xlYW5dCiAgICAgICAgICAgICAgLnVuaXF1ZQogICAgICAgICAgICAgIC5hc0luc3RhbmNlT2ZbQ29ubmVjdGlvbklPW0FdXQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkQ29tcGlsZXJQbHVnaW4oIm9yZy5zY2FsYW1ldGEiICUgInBhcmFkaXNlIiAlICIzLjAuMC1NMTAiIGNyb3NzIENyb3NzVmVyc2lvbi5mdWxsKQo=</text>
+        <text encoding="base64">ICBkZWYgdHJhbnNhY3Rpb25hbERvb2JpZVF1ZXJ5SW50ZXJwcmV0ZXI6IFN0b3JlQWxnZWJyYSB+PiBDb25uZWN0aW9uSU8gPQogICAgbmV3IChTdG9yZUFsZ2VicmEgfj4gQ29ubmVjdGlvbklPKSB7CiAgICAgIG92ZXJyaWRlIGRlZiBhcHBseVtBXShmYTogU3RvcmVBbGdlYnJhW0FdKTogQ29ubmVjdGlvbklPW0FdID0KICAgICAgICBmYSBtYXRjaCB7CiAgICAgICAgICBjYXNlIFNldCh1LCByKSA9PgogICAgICAgICAgICBzcWwiSU5TRVJUIElHTk9SRSBJTlRPIG1lbWJlcnNoaXBzICh1c2VyaWQsIGdyb3VwaWQpIFZBTFVFUyAoJHUsICRyKSIKICAgICAgICAgICAgICAudXBkYXRlCiAgICAgICAgICAgICAgLnJ1bgogICAgICAgICAgICAgIC52b2lkCiAgICAgICAgICAgICAgLmFzSW5zdGFuY2VPZltDb25uZWN0aW9uSU9bQV1dCiAgICAgICAgICBjYXNlIEV4aXN0cyh1LCByKSA9PgogICAgICAgICAgICBzcWwiU0VMRUNUIEVYSVNUUyhTRUxFQ1QgKiBGUk9NIG1lbWJlcnNoaXBzIFdIRVJFIHVzZXJpZCA9ICR1IEFORCBncm91cGlkID0gJHIpIgogICAgICAgICAgICAgIC5xdWVyeVtCb29sZWFuXQogICAgICAgICAgICAgIC51bmlxdWUKICAgICAgICAgICAgICAuYXNJbnN0YW5jZU9mW0Nvbm5lY3Rpb25JT1tBXV0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkcyA9IG5ldyBEYXRhU291cmNlW0Nvbm5lY3Rpb25JT10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgYXRvbWljYWxseVtBXShvcDogRnJlZVtTdG9yZSwgQV0pOiBGcmVlW0YsIEFdID0gbGlmdEZbU3RvcmUsIEZdKEF0b21pY2FsbHkob3ApKQo=</text>
+        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBpID0gZG9vYmllUXVlcnlJbnRlcnByZXRlci4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgeDogSW5qZWN0S1tTdG9yZUFsZ2VicmEsIENvbm5lY3Rpb25JT10gPSB7CgogIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY2F0cy5mcmVlLkZyZWUK</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgeDogSW5qZWN0S1tTdG9yZUFsZ2VicmEsIENvbm5lY3Rpb25JT10gPSB7CgogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIEF0b21pY2FsbHlbRltfXSwgQV0ob3A6IEZyZWVbU3RvcmUsIEFdKSBleHRlbmRzIFN0b3JlQWxnZWJyYVtBXQo=</text>
+        <text encoding="base64">YWRkQ29tcGlsZXJQbHVnaW4oIm9yZy5zY2FsYW1ldGEiICUgInBhcmFkaXNlIiAlICIzLjAuMC1NMTAiIGNyb3NzIENyb3NzVmVyc2lvbi5mdWxsKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIEF0b21pY2FsbHlbQV0ob3A6IFN0b3JlQWxnZWJyYVtBXSkgZXh0ZW5kcyBTdG9yZUFsZ2VicmFbQV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/db/doobie/g</text>
