@@ -1538,10 +1538,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="22" column="78" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/doobie-query-builder.sc" timestamp="1532862444858">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/doobie-query-builder.sc" timestamp="1532967231885">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="135" column="55" />
+        <mark key="." line="135" column="55" />
+        <mark key="^" line="135" column="55" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UsersExceptionHandler.scala" timestamp="1505462140915">
         <mark key="[" line="36" column="0" />
@@ -2051,7 +2052,7 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1532689815150">
+      <file name="/fragment.java" timestamp="1532967120982">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-definition-migrate-template.json" timestamp="1505735739661">
@@ -2935,8 +2936,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/current-style.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">b3Ig</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5559,7 +5560,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">b3Ig</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
@@ -5568,34 +5569,34 @@
         <text encoding="base64">ICBkZWYgcHJpbnRbQV0odmFsdWU6IEEpKGltcGxpY2l0IHByaW50ZXI6IFByaW50YWJsZVtBXSk6IFVuaXQgPSBwcmludGxuKGZvcm1hdCh2YWx1ZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB2YWwgbmV3SW50cHIgPSBhdG9taWNJbnRlcnByZXRlcigpKGRvb2JpZVF1ZXJ5SW50ZXJwcmV0ZXIpLmNvbXBvc2UoZG9vYmllUXVlcnkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGRlZiBtYWluKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBVbml0ID0gewo=</text>
+        <text encoding="base64">ICB2YWwgbmV3SW50cHIgPSBkb29iaWVRdWVyeUludGVycHJldGVyLmNvbXBvc2UoYXRvbWljSW50ZXJwcmV0ZXIoKShkb29iaWVRdWVyeSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWwgZXFJbnQgPSBFcVtJbnRdCiAgZXFJbnQuZXF2KDEsIDIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgUHJpbnRhYmxlU3ludGF4Ll8K</text>
+        <text encoding="base64">ICB0eXBlIFNoaXBGcmVlW0FdID0gRnJlZVtBcHAsIEFdCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbXBvcnQgUHJpbnRhYmxlSW5zdGFuY2VzLl8K</text>
+        <text encoding="base64">ICBkZWYgYXRvbWljYWxseVtBXSh2YWx1ZTogRnJlZVtTdG9yZUFsZ2VicmEsIEFdKSA9IEF0b21pY2FsbHkodmFsdWUpLmxpZnRGW1RyYW5zYWN0aW9uYWxBbGdlYnJhLCBBXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBjYXRQcmludGFibGU6IFByaW50YWJsZVtDYXRdID0gKGNhdDogQ2F0KSA9PiB7CiAgICAgIHZhbCBuYW1lID0gUHJpbnRhYmxlLmZvcm1hdChjYXQubmFtZSkKICAgICAgdmFsIGFnZSA9IFByaW50YWJsZS5mb3JtYXQoY2F0LmFnZSkKICAgICAgdmFsIGNvbG9yID0gUHJpbnRhYmxlLmZvcm1hdChjYXQuY29sb3IpCiAgICAgIHMiJG5hbWUgaXMgYSAkYWdlIHllYXItb2xkICRjb2xvciBjYXQuIgogICAgfQo=</text>
+        <text encoding="base64">ICB2YWwgc2VydmljZSA9IG5ldyBTc3J2aWNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGRzOiBEYXRhU291cmNlW0FwcF0gPQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/db/doobie/g</text>
