@@ -449,10 +449,11 @@
         <mark key="^" line="43" column="35" />
         <mark key="." line="43" column="35" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/package.scala" timestamp="1532526963455">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/package.scala" timestamp="1533025060052">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-import/wiremock/mappings/wufooGetUKEfficacyFields.json" timestamp="1507533742967">
         <mark key="[" line="995" column="4" />
@@ -568,12 +569,7 @@
         <mark key="." line="110" column="59" />
         <mark key="^" line="110" column="59" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Algebras.scala" timestamp="1532680572762">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="30" column="38" />
-        <mark key="^" line="30" column="38" />
-      </file>
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Algebras.scala" timestamp="1533025528232" />
       <file name="$USER_HOME$/Source/klikkit-backend/project/TestHelper.scala" timestamp="1502797710883">
         <mark key="[" line="132" column="80" />
         <mark key="]" line="132" column="77" />
@@ -1357,11 +1353,12 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" timestamp="1532599156533">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="12" column="53" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" timestamp="1533026223595">
+        <mark key="'" line="69" column="82" />
+        <mark key="[" line="69" column="53" />
+        <mark key="]" line="69" column="50" />
+        <mark key="." line="69" column="50" />
+        <mark key="^" line="69" column="50" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ReminderRepository.scala" timestamp="1508482082378">
         <mark key="[" line="45" column="65" />
@@ -1545,11 +1542,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="22" column="78" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/doobie-query-builder.sc" timestamp="1533023815431">
-        <mark key="[" line="59" column="28" />
-        <mark key="]" line="59" column="33" />
-        <mark key="." line="59" column="33" />
-        <mark key="^" line="59" column="33" />
+      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/doobie-query-builder.sc" timestamp="1533025471733">
+        <mark key="[" line="12" column="58" />
+        <mark key="]" line="12" column="73" />
+        <mark key="." line="12" column="73" />
+        <mark key="^" line="12" column="73" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UsersExceptionHandler.scala" timestamp="1505462140915">
         <mark key="[" line="36" column="0" />
@@ -2841,7 +2838,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="43" filename="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImageApiIntegrationTest.scala" />
       <jump line="189" column="62" filename="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImagePropertiesApiIntegrationTest.scala" />
       <jump line="59" column="4" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
       <jump line="96" column="0" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
@@ -2941,10 +2937,11 @@
       <jump line="20" column="36" filename="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/MySQLDataSourceInterpreter.scala" />
       <jump line="13" column="30" filename="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/current-style.sc" />
+      <jump line="69" column="82" filename="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ConnectionIO[A]</text>
+        <text encoding="base64">aW50ZXJwcmV0ZXI6IChTdG9yZSB+PiBDb25uZWN0aW9uSU8pLCB0cmFuc2FjdG9yOiBUcmFuc2FjdG9yW1Rhc2td</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5567,7 +5564,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ConnectionIO[A]</text>
+        <text encoding="base64">aW50ZXJwcmV0ZXI6IChTdG9yZSB+PiBDb25uZWN0aW9uSU8pLCB0cmFuc2FjdG9yOiBUcmFuc2FjdG9yW1Rhc2td</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
@@ -5606,7 +5603,7 @@
         <text encoding="base64">ICB2YWwgc2VydmljZSA9IG5ldyBTc3J2aWNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/db/doobie/g</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -5642,7 +5639,6 @@
         <entry>db</entry>
       </history-search>
       <history-cmd>
-        <entry>76</entry>
         <entry>144</entry>
         <entry>70</entry>
         <entry>w</entry>
@@ -5662,6 +5658,7 @@
         <entry>%s/Future/IO/g</entry>
         <entry>%s/IO/Future/g</entry>
         <entry>%s/db/doobie/g</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
