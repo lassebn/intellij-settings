@@ -1906,6 +1906,9 @@
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-datawarehouse-extraction/src/it/scala/DriverIntegrationTest.scala" timestamp="1533040224004">
+        <mark key="[" line="184" column="3" />
+      </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/commons/OAuth.scala" timestamp="1518615661736">
         <mark key="[" line="16" column="12" />
         <mark key="]" line="16" column="11" />
@@ -2394,6 +2397,12 @@
         <mark key="]" line="172" column="43" />
         <mark key="^" line="172" column="43" />
         <mark key="." line="172" column="43" />
+      </file>
+      <file name="$USER_HOME$/Source/sensible-datawarehouse-extraction/src/it/resources/db/init.sql" timestamp="1533039711416">
+        <mark key="[" line="230" column="88" />
+        <mark key="]" line="230" column="148" />
+        <mark key="." line="230" column="148" />
+        <mark key="^" line="230" column="148" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
@@ -5579,28 +5588,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuYXNJbnN0YW5jZU9mW0Nvbm5lY3Rpb25JT1tBXV0K</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuYXNJbnN0YW5jZU9mW0Nvbm5lY3Rpb25JT1tBXV0K</text>
+        <text encoding="base64">ICBvbiBjb2xsZWN0aW9ucHJvcGVydGllcyAoZGVsZXRlZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgbmV3SW50cHIgPSBhdG9taWNJbnRlcnByZXRlcigpKGRvb2JpZVF1ZXJ5SW50ZXJwcmV0ZXIpLmNvbXBvc2UoZG9vYmllUXVlcnkpCg==</text>
+        <text encoding="base64">Y3JlYXRlIGluZGV4IGRlbGV0ZWQK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgbmV3SW50cHIgPSBkb29iaWVRdWVyeUludGVycHJldGVyLmNvbXBvc2UoYXRvbWljSW50ZXJwcmV0ZXIoKShkb29iaWVRdWVyeSkpCg==</text>
+      <register name="5" type="4">
+        <text>create index collections_images_collectionid_index
+  on collections_images (collectionid)
+;
+
+create index deleted
+  on collections_images (deleted)
+;</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0eXBlIFNoaXBGcmVlW0FdID0gRnJlZVtBcHAsIEFdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuYXNJbnN0YW5jZU9mW0Nvbm5lY3Rpb25JT1tBXV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuYXNJbnN0YW5jZU9mW0Nvbm5lY3Rpb25JT1tBXV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgYXRvbWljYWxseVtBXSh2YWx1ZTogRnJlZVtTdG9yZUFsZ2VicmEsIEFdKSA9IEF0b21pY2FsbHkodmFsdWUpLmxpZnRGW1RyYW5zYWN0aW9uYWxBbGdlYnJhLCBBXQo=</text>
+        <text encoding="base64">ICB2YWwgbmV3SW50cHIgPSBhdG9taWNJbnRlcnByZXRlcigpKGRvb2JpZVF1ZXJ5SW50ZXJwcmV0ZXIpLmNvbXBvc2UoZG9vYmllUXVlcnkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
