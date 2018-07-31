@@ -1335,11 +1335,11 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-datawarehouse-extraction/src/main/scala/com/leoilab/sensible/datawarehouse/extraction/Driver.scala" timestamp="1533022012805">
-        <mark key="[" line="132" column="54" />
-        <mark key="]" line="132" column="53" />
-        <mark key="^" line="132" column="53" />
-        <mark key="." line="132" column="53" />
+      <file name="$USER_HOME$/Source/sensible-datawarehouse-extraction/src/main/scala/com/leoilab/sensible/datawarehouse/extraction/Driver.scala" timestamp="1533037552763">
+        <mark key="[" line="144" column="158" />
+        <mark key="]" line="145" column="97" />
+        <mark key="^" line="145" column="97" />
+        <mark key="." line="145" column="97" />
       </file>
       <file name="$USER_HOME$/Source/free-monads-functional-web-apps/src/main/scala/com/experiments/calvin/Http.scala" timestamp="1532092589668">
         <mark key="[" line="37" column="27" />
@@ -2940,8 +2940,8 @@
       <jump line="69" column="82" filename="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW50ZXJwcmV0ZXI6IChTdG9yZSB+PiBDb25uZWN0aW9uSU8pLCB0cmFuc2FjdG9yOiBUcmFuc2FjdG9yW1Rhc2td</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5573,7 +5573,7 @@
         <text>appConfig.getString(&quot;db.imagine.url&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuYXNJbnN0YW5jZU9mW0Nvbm5lY3Rpb25JT1tBXV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -5582,25 +5582,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAuYXNJbnN0YW5jZU9mW0Nvbm5lY3Rpb25JT1tBXV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWwgbmV3SW50cHIgPSBhdG9taWNJbnRlcnByZXRlcigpKGRvb2JpZVF1ZXJ5SW50ZXJwcmV0ZXIpLmNvbXBvc2UoZG9vYmllUXVlcnkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuYXNJbnN0YW5jZU9mW0Nvbm5lY3Rpb25JT1tBXV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgbmV3SW50cHIgPSBkb29iaWVRdWVyeUludGVycHJldGVyLmNvbXBvc2UoYXRvbWljSW50ZXJwcmV0ZXIoKShkb29iaWVRdWVyeSkpCg==</text>
+        <text encoding="base64">ICB2YWwgbmV3SW50cHIgPSBhdG9taWNJbnRlcnByZXRlcigpKGRvb2JpZVF1ZXJ5SW50ZXJwcmV0ZXIpLmNvbXBvc2UoZG9vYmllUXVlcnkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgbmV3SW50cHIgPSBkb29iaWVRdWVyeUludGVycHJldGVyLmNvbXBvc2UoYXRvbWljSW50ZXJwcmV0ZXIoKShkb29iaWVRdWVyeSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0eXBlIFNoaXBGcmVlW0FdID0gRnJlZVtBcHAsIEFdCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB0eXBlIFNoaXBGcmVlW0FdID0gRnJlZVtBcHAsIEFdCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgYXRvbWljYWxseVtBXSh2YWx1ZTogRnJlZVtTdG9yZUFsZ2VicmEsIEFdKSA9IEF0b21pY2FsbHkodmFsdWUpLmxpZnRGW1RyYW5zYWN0aW9uYWxBbGdlYnJhLCBBXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgc2VydmljZSA9IG5ldyBTc3J2aWNlCg==</text>
+        <text encoding="base64">ICBkZWYgYXRvbWljYWxseVtBXSh2YWx1ZTogRnJlZVtTdG9yZUFsZ2VicmEsIEFdKSA9IEF0b21pY2FsbHkodmFsdWUpLmxpZnRGW1RyYW5zYWN0aW9uYWxBbGdlYnJhLCBBXQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
