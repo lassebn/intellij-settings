@@ -1335,11 +1335,11 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-datawarehouse-extraction/src/main/scala/com/leoilab/sensible/datawarehouse/extraction/Driver.scala" timestamp="1533037552763">
-        <mark key="[" line="144" column="158" />
-        <mark key="]" line="145" column="97" />
-        <mark key="^" line="145" column="97" />
-        <mark key="." line="145" column="97" />
+      <file name="$USER_HOME$/Source/sensible-datawarehouse-extraction/src/main/scala/com/leoilab/sensible/datawarehouse/extraction/Driver.scala" timestamp="1533044979697">
+        <mark key="[" line="149" column="50" />
+        <mark key="]" line="149" column="47" />
+        <mark key="^" line="149" column="47" />
+        <mark key="." line="149" column="47" />
       </file>
       <file name="$USER_HOME$/Source/free-monads-functional-web-apps/src/main/scala/com/experiments/calvin/Http.scala" timestamp="1532092589668">
         <mark key="[" line="37" column="27" />
@@ -1509,11 +1509,6 @@
         <mark key="]" line="55" column="16" />
         <mark key="^" line="55" column="16" />
         <mark key="." line="55" column="16" />
-      </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/permissions/PermissionsUnitSpec.scala" timestamp="1532517656816">
-        <mark key="]" line="51" column="17" />
-        <mark key="^" line="51" column="17" />
-        <mark key="." line="51" column="17" />
       </file>
       <file name="$USER_HOME$/Source/scala-with-cats/src/main/scala/com/leoilab/sensible/tuts/cats/Printable.sc" timestamp="1532875028764">
         <mark key="[" line="19" column="0" />
@@ -1906,8 +1901,11 @@
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-datawarehouse-extraction/src/it/scala/DriverIntegrationTest.scala" timestamp="1533040224004">
-        <mark key="[" line="184" column="3" />
+      <file name="$USER_HOME$/Source/sensible-datawarehouse-extraction/src/it/scala/DriverIntegrationTest.scala" timestamp="1533045451684">
+        <mark key="[" line="234" column="0" />
+        <mark key="]" line="234" column="0" />
+        <mark key="^" line="233" column="51" />
+        <mark key="." line="234" column="0" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/commons/OAuth.scala" timestamp="1518615661736">
         <mark key="[" line="16" column="12" />
@@ -2242,11 +2240,11 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1531312029934">
-        <mark key="[" line="68" column="75" />
-        <mark key="]" line="50" column="59" />
-        <mark key="^" line="50" column="59" />
-        <mark key="." line="50" column="59" />
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1533046375102">
+        <mark key="[" line="408" column="106" />
+        <mark key="]" line="408" column="149" />
+        <mark key="^" line="408" column="149" />
+        <mark key="." line="408" column="149" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupRepositorySpec.scala" timestamp="1526384355500">
         <mark key="[" line="7" column="0" />
@@ -2398,11 +2396,11 @@
         <mark key="^" line="172" column="43" />
         <mark key="." line="172" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-datawarehouse-extraction/src/it/resources/db/init.sql" timestamp="1533039711416">
-        <mark key="[" line="230" column="88" />
-        <mark key="]" line="230" column="148" />
-        <mark key="." line="230" column="148" />
-        <mark key="^" line="230" column="148" />
+      <file name="$USER_HOME$/Source/sensible-datawarehouse-extraction/src/it/resources/db/init.sql" timestamp="1533044106038">
+        <mark key="[" line="231" column="149" />
+        <mark key="]" line="231" column="165" />
+        <mark key="." line="231" column="165" />
+        <mark key="^" line="231" column="165" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
@@ -2949,8 +2947,8 @@
       <jump line="69" column="82" filename="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>imagesWithPropertiesAndSurveysResult</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5573,49 +5571,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50ZXJwcmV0ZXI6IChTdG9yZSB+PiBDb25uZWN0aW9uSU8pLCB0cmFuc2FjdG9yOiBUcmFuc2FjdG9yW1Rhc2td</text>
+        <text>imagesWithPropertiesAndSurveysResult</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
       </register>
       <register name="0" type="4">
-        <text>appConfig.getString(&quot;db.imagine.url&quot;)</text>
+        <text>3279ca9e-3a1d-11e7-a919-92ebcb67fe33</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldEJvb2xlYW4oImRlbGV0ZWQiKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldFN0cmluZygibW9kaWZpZWQiKS5pc0VtcHR5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvbiBjb2xsZWN0aW9ucHJvcGVydGllcyAoZGVsZXRlZCkK</text>
+        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldFN0cmluZygiY3JlYXRlZCIpLmlzRW1wdHkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y3JlYXRlIGluZGV4IGRlbGV0ZWQK</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJwcm9wZXJ0eXZhbHVlIikgPT0gImZhY2UiKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>create index collections_images_collectionid_index
-  on collections_images (collectionid)
-;
-
-create index deleted
-  on collections_images (deleted)
-;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJtb2RpZmllZCIpID09ICIiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJjcmVhdGVkIikgPT0gIiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuYXNJbnN0YW5jZU9mW0Nvbm5lY3Rpb25JT1tBXV0K</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJtb2RpZmllZCIpID09ICIiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuYXNJbnN0YW5jZU9mW0Nvbm5lY3Rpb25JT1tBXV0K</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJjcmVhdGVkIikgPT0gIiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgbmV3SW50cHIgPSBhdG9taWNJbnRlcnByZXRlcigpKGRvb2JpZVF1ZXJ5SW50ZXJwcmV0ZXIpLmNvbXBvc2UoZG9vYmllUXVlcnkpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJkZWxldGVkIikgPT0gIiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
@@ -5654,7 +5646,6 @@ create index deleted
         <entry>db</entry>
       </history-search>
       <history-cmd>
-        <entry>144</entry>
         <entry>70</entry>
         <entry>w</entry>
         <entry>154</entry>
@@ -5673,6 +5664,7 @@ create index deleted
         <entry>%s/Future/IO/g</entry>
         <entry>%s/IO/Future/g</entry>
         <entry>%s/db/doobie/g</entry>
+        <entry>216</entry>
         <entry>vs</entry>
       </history-cmd>
       <history-expr />
