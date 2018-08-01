@@ -569,7 +569,6 @@
         <mark key="." line="110" column="59" />
         <mark key="^" line="110" column="59" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Algebras.scala" timestamp="1533025528232" />
       <file name="$USER_HOME$/Source/klikkit-backend/project/TestHelper.scala" timestamp="1502797710883">
         <mark key="[" line="132" column="80" />
         <mark key="]" line="132" column="77" />
@@ -1518,6 +1517,12 @@
         <mark key="]" line="16" column="70" />
         <mark key="." line="16" column="70" />
         <mark key="^" line="12" column="78" />
+      </file>
+      <file name="$USER_HOME$/Source/scala-with-cats/src/main/scala/com/leoilab/sensible/tuts/cats/chapter2/Chapter2Main.scala" timestamp="1533127695157">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServicePropSpec.scala" timestamp="1517232952967">
         <mark key="[" line="8" column="6" />
@@ -2948,7 +2953,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>imagesWithPropertiesAndSurveysResult</text>
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5571,7 +5576,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>imagesWithPropertiesAndSurveysResult</text>
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
