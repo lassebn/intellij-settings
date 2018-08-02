@@ -167,11 +167,11 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/it/scala/DriverIntegrationTest.scala" timestamp="1505723589488">
-        <mark key="[" line="152" column="47" />
-        <mark key="]" line="152" column="46" />
-        <mark key="^" line="152" column="46" />
-        <mark key="." line="152" column="46" />
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/it/scala/DriverIntegrationTest.scala" timestamp="1533202136209">
+        <mark key="[" line="140" column="67" />
+        <mark key="]" line="140" column="66" />
+        <mark key="^" line="140" column="66" />
+        <mark key="." line="140" column="66" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRepository.scala" timestamp="1526390357757">
         <mark key="[" line="31" column="70" />
@@ -1716,11 +1716,6 @@
         <mark key="." line="51" column="2" />
         <mark key="^" line="51" column="2" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/InMemoryDataSourceInterpreter.scala" timestamp="1532509949775">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/tree-mysql/docker-compose.yml" timestamp="1517232878354">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="25" />
@@ -1762,11 +1757,6 @@
         <mark key="]" line="8" column="35" />
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
-      </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/project/build.properties" timestamp="1532691076097">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Source/WufooExporterTest/requirements.txt" timestamp="1506580783043">
         <mark key="[" line="0" column="17" />
@@ -1834,11 +1824,11 @@
         <mark key="^" line="63" column="136" />
         <mark key="." line="63" column="136" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/it/resources/db/init.sql" timestamp="1533193036205">
-        <mark key="[" line="47" column="272" />
-        <mark key="]" line="47" column="307" />
-        <mark key="." line="47" column="307" />
-        <mark key="^" line="47" column="307" />
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/it/resources/db/init.sql" timestamp="1533201161132">
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="24" column="42" />
+        <mark key="." line="24" column="42" />
+        <mark key="^" line="24" column="42" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/KlikkitApiIntegrationTestActivities.scala" timestamp="1509450925796">
         <mark key="[" line="110" column="27" />
@@ -2245,11 +2235,11 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1533198954488">
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1533200827804">
         <mark key="[" line="416" column="70" />
-        <mark key="]" line="416" column="74" />
-        <mark key="^" line="416" column="74" />
-        <mark key="." line="416" column="74" />
+        <mark key="]" line="416" column="111" />
+        <mark key="^" line="416" column="111" />
+        <mark key="." line="416" column="111" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupRepositorySpec.scala" timestamp="1526384355500">
         <mark key="[" line="7" column="0" />
@@ -2953,7 +2943,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>imagesResult_join_left_outer_imagineSurveysResult_join_left_outer_imageBodyPartResult</text>
+        <text>hullu</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5576,7 +5566,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>imagesResult_join_left_outer_imagineSurveysResult_join_left_outer_imageBodyPartResult</text>
+        <text>hullu</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
