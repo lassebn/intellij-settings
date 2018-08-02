@@ -2245,11 +2245,11 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1533195974692">
-        <mark key="[" line="413" column="150" />
-        <mark key="]" line="413" column="149" />
-        <mark key="^" line="413" column="149" />
-        <mark key="." line="413" column="149" />
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1533198954488">
+        <mark key="[" line="416" column="70" />
+        <mark key="]" line="416" column="74" />
+        <mark key="^" line="416" column="74" />
+        <mark key="." line="416" column="74" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupRepositorySpec.scala" timestamp="1526384355500">
         <mark key="[" line="7" column="0" />
@@ -2953,7 +2953,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text>imagesResult_join_left_outer_imagineSurveysResult_join_left_outer_imageBodyPartResult</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5576,7 +5576,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text>imagesResult_join_left_outer_imagineSurveysResult_join_left_outer_imageBodyPartResult</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
