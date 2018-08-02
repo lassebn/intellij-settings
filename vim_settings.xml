@@ -167,11 +167,11 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/it/scala/DriverIntegrationTest.scala" timestamp="1533202136209">
-        <mark key="[" line="140" column="67" />
-        <mark key="]" line="140" column="66" />
-        <mark key="^" line="140" column="66" />
-        <mark key="." line="140" column="66" />
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/it/scala/DriverIntegrationTest.scala" timestamp="1533207167873">
+        <mark key="[" line="201" column="63" />
+        <mark key="]" line="201" column="64" />
+        <mark key="^" line="201" column="64" />
+        <mark key="." line="201" column="64" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/GroupRepository.scala" timestamp="1526390357757">
         <mark key="[" line="31" column="70" />
@@ -2942,8 +2942,8 @@
       <jump line="69" column="82" filename="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hullu</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJpbWFnZV9jb2xsZWN0aW9uX2JvZHlwYXJ0IikgPT0gbnVsbCkK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5571,8 +5571,8 @@
       <register name="/" type="4">
         <text>db</text>
       </register>
-      <register name="0" type="4">
-        <text>3279ca9e-3a1d-11e7-a919-92ebcb67fe33</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJpbWFnZV9jb2xsZWN0aW9uX2JvZHlwYXJ0IikgPT0gbnVsbCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldEJvb2xlYW4oImRlbGV0ZWQiKSkK</text>
@@ -5605,7 +5605,7 @@
         <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJkZWxldGVkIikgPT0gIiIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>122</text>
       </register>
     </registers>
     <search>
@@ -5641,7 +5641,6 @@
         <entry>db</entry>
       </history-search>
       <history-cmd>
-        <entry>70</entry>
         <entry>w</entry>
         <entry>154</entry>
         <entry>245</entry>
@@ -5661,6 +5660,7 @@
         <entry>%s/db/doobie/g</entry>
         <entry>216</entry>
         <entry>vs</entry>
+        <entry>122</entry>
       </history-cmd>
       <history-expr />
       <history-input />
