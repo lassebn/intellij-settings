@@ -1213,6 +1213,9 @@
         <mark key="^" line="42" column="4" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/haskell-intellij-test/Main.hs" timestamp="1533293151323">
+        <mark key="[" line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/ecs-deploy/deploy.sh" timestamp="1512475385755">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
