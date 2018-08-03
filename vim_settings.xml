@@ -407,6 +407,12 @@
         <mark key="." line="28" column="87" />
         <mark key="^" line="28" column="87" />
       </file>
+      <file name="$USER_HOME$/Source/haskell-intellij-test/src/Main.hs" timestamp="1533293992828">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+      </file>
       <file name="$USER_HOME$/Source/sensible-groups/project/plugins.sbt" timestamp="1520416314635">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="54" />
@@ -2757,6 +2763,12 @@
       <file name="/sbtShell" timestamp="1532088565911">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/haskell-intellij-test/haskell-intellij-test.cabal" timestamp="1533294149188">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="17" column="39" />
+        <mark key="^" line="17" column="39" />
+        <mark key="." line="17" column="39" />
+      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/docker-compose.yml" timestamp="1528704271652">
         <mark key="[" line="29" column="62" />
         <mark key="]" line="30" column="55" />
@@ -2946,7 +2958,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJpbWFnZV9jb2xsZWN0aW9uX2JvZHlwYXJ0IikgPT0gbnVsbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5578,25 +5590,25 @@
         <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJpbWFnZV9jb2xsZWN0aW9uX2JvZHlwYXJ0IikgPT0gbnVsbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldEJvb2xlYW4oImRlbGV0ZWQiKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldFN0cmluZygibW9kaWZpZWQiKS5pc0VtcHR5KQo=</text>
+        <text encoding="base64">LS0gWzMsIDQsIDksIDYsIDFdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldFN0cmluZygiY3JlYXRlZCIpLmlzRW1wdHkpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldEJvb2xlYW4oImRlbGV0ZWQiKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJwcm9wZXJ0eXZhbHVlIikgPT0gImZhY2UiKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldFN0cmluZygibW9kaWZpZWQiKS5pc0VtcHR5KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJtb2RpZmllZCIpID09ICIiKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldFN0cmluZygiY3JlYXRlZCIpLmlzRW1wdHkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJjcmVhdGVkIikgPT0gIiIpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJwcm9wZXJ0eXZhbHVlIikgPT0gImZhY2UiKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJtb2RpZmllZCIpID09ICIiKQo=</text>
@@ -5605,7 +5617,7 @@
         <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJjcmVhdGVkIikgPT0gIiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJkZWxldGVkIikgPT0gIiIpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJtb2RpZmllZCIpID09ICIiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
