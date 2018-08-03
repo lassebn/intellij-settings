@@ -407,11 +407,11 @@
         <mark key="." line="28" column="87" />
         <mark key="^" line="28" column="87" />
       </file>
-      <file name="$USER_HOME$/Source/haskell-intellij-test/src/Main.hs" timestamp="1533293992828">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="5" column="6" />
-        <mark key="^" line="5" column="6" />
-        <mark key="." line="5" column="6" />
+      <file name="$USER_HOME$/Source/haskell-intellij-test/src/Main.hs" timestamp="1533325705158">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="13" column="38" />
+        <mark key="^" line="13" column="38" />
+        <mark key="." line="13" column="38" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/project/plugins.sbt" timestamp="1520416314635">
         <mark key="[" line="14" column="0" />
@@ -2957,8 +2957,8 @@
       <jump line="69" column="82" filename="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[Bool]</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5581,7 +5581,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hullu</text>
+        <text>[Bool]</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
