@@ -407,11 +407,11 @@
         <mark key="." line="28" column="87" />
         <mark key="^" line="28" column="87" />
       </file>
-      <file name="$USER_HOME$/Source/haskell-intellij-test/src/Main.hs" timestamp="1533325705158">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="13" column="38" />
-        <mark key="^" line="13" column="38" />
-        <mark key="." line="13" column="38" />
+      <file name="$USER_HOME$/Source/haskell-intellij-test/src/Main.hs" timestamp="1533326995521">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="35" />
+        <mark key="^" line="14" column="35" />
+        <mark key="." line="14" column="35" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/project/plugins.sbt" timestamp="1520416314635">
         <mark key="[" line="14" column="0" />
@@ -2958,7 +2958,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[Bool]</text>
+        <text encoding="base64">W10g</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5581,7 +5581,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[Bool]</text>
+        <text encoding="base64">W10g</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
@@ -5589,35 +5589,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJpbWFnZV9jb2xsZWN0aW9uX2JvZHlwYXJ0IikgPT0gbnVsbCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gWzMsIDQsIDksIDYsIDFdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldEJvb2xlYW4oImRlbGV0ZWQiKSkK</text>
+        <text encoding="base64">LS0gWzMsIDQsIDksIDYsIDFdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldFN0cmluZygibW9kaWZpZWQiKS5pc0VtcHR5KQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldEJvb2xlYW4oImRlbGV0ZWQiKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldFN0cmluZygiY3JlYXRlZCIpLmlzRW1wdHkpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldFN0cmluZygibW9kaWZpZWQiKS5pc0VtcHR5KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJwcm9wZXJ0eXZhbHVlIikgPT0gImZhY2UiKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldFN0cmluZygiY3JlYXRlZCIpLmlzRW1wdHkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJtb2RpZmllZCIpID09ICIiKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJwcm9wZXJ0eXZhbHVlIikgPT0gImZhY2UiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJjcmVhdGVkIikgPT0gIiIpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJtb2RpZmllZCIpID09ICIiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJtb2RpZmllZCIpID09ICIiKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJjcmVhdGVkIikgPT0gIiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
