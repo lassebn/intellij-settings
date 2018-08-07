@@ -1081,6 +1081,12 @@
         <mark key="^" line="2" column="71" />
         <mark key="." line="2" column="71" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/core/src/main/scala/com/leoilab/images/GeoLocationDTO.scala" timestamp="1533629779745">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/project/plugins.sbt" timestamp="1531835575677">
         <mark key="[" line="28" column="57" />
         <mark key="]" line="28" column="56" />
