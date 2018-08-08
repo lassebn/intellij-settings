@@ -1898,6 +1898,12 @@
         <mark key="." line="259" column="130" />
         <mark key="^" line="259" column="130" />
       </file>
+      <file name="$USER_HOME$/Source/commons-imaging/src/main/java/org/apache/commons/imaging/util/Debug.java" timestamp="1533725769174">
+        <mark key="[" line="31" column="41" />
+        <mark key="]" line="31" column="44" />
+        <mark key="." line="31" column="44" />
+        <mark key="^" line="31" column="44" />
+      </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/main/scala/com/leoilab/services/images/DeferredImagesService.scala" timestamp="1510138089535">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="56" />
@@ -2225,6 +2231,18 @@
         <mark key="^" line="22" column="122" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/commons-imaging/pom.xml" timestamp="1533726051878">
+        <mark key="[" line="35" column="19" />
+        <mark key="]" line="35" column="18" />
+        <mark key="^" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+      </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/build.sbt" timestamp="1533726337932">
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="55" column="38" />
+        <mark key="^" line="55" column="38" />
+        <mark key="." line="55" column="38" />
+      </file>
       <file name="$USER_HOME$/Source/platform-memberships/ecs-deploy/nginx/nginx.conf" timestamp="1527170336210">
         <mark key="[" line="27" column="23" />
         <mark key="]" line="27" column="25" />
@@ -2243,11 +2261,11 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1533200827804">
-        <mark key="[" line="416" column="70" />
-        <mark key="]" line="416" column="111" />
-        <mark key="^" line="416" column="111" />
-        <mark key="." line="416" column="111" />
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1533727374295">
+        <mark key="[" line="129" column="57" />
+        <mark key="]" line="130" column="38" />
+        <mark key="^" line="130" column="38" />
+        <mark key="." line="130" column="38" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/test/scala/com/leoilab/sensible/groups/GroupRepositorySpec.scala" timestamp="1526384355500">
         <mark key="[" line="7" column="0" />
@@ -2501,6 +2519,7 @@
         <mark key="." line="22" column="11" />
         <mark key="^" line="22" column="11" />
       </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/.circleci/config.yml" timestamp="1533727283892" />
       <file name="$USER_HOME$/Source/platform-images/cloudformation/sns.json" timestamp="1531996824948">
         <mark key="[" line="54" column="16" />
         <mark key="]" line="54" column="50" />
@@ -2956,8 +2975,8 @@
       <jump line="69" column="82" filename="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Zm9sZGwgKFxhY2MgeCAtPiBjb3VudFJlc3RJc0xlc3NUaGFuKSBbXSBpbnB1dCAK</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5580,7 +5599,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
