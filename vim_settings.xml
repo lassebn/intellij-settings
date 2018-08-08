@@ -1796,12 +1796,6 @@
         <mark key="." line="48" column="37" />
         <mark key="^" line="48" column="37" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/resources/application.conf" timestamp="1531311817000">
-        <mark key="[" line="19" column="22" />
-        <mark key="]" line="22" column="19" />
-        <mark key="." line="22" column="19" />
-        <mark key="^" line="22" column="19" />
-      </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/access/CollectionAccessDirective.scala" timestamp="1503048650120">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
