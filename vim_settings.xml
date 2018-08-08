@@ -670,7 +670,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1533019990138" />
       <file name="$USER_HOME$/Source/free-membership-prototype/README.md" timestamp="1532345945727">
         <mark key="[" line="1" column="0" />
       </file>
@@ -1511,6 +1510,7 @@
         <mark key="." line="40" column="38" />
         <mark key="^" line="40" column="38" />
       </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/ImageNormalization.scala" timestamp="1533728452148" />
       <file name="$USER_HOME$/Source/platform-images/src/main/resources/db/migration/V10__collectionProperties.sql" timestamp="1502968665562">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="23" />
@@ -1898,7 +1898,7 @@
         <mark key="." line="259" column="130" />
         <mark key="^" line="259" column="130" />
       </file>
-      <file name="$USER_HOME$/Source/commons-imaging/src/main/java/org/apache/commons/imaging/util/Debug.java" timestamp="1533725769174">
+      <file name="$USER_HOME$/Source/commons-imaging/src/main/java/org/apache/commons/imaging/util/Debug.java" timestamp="1533728214334">
         <mark key="[" line="31" column="41" />
         <mark key="]" line="31" column="44" />
         <mark key="." line="31" column="44" />
@@ -2066,7 +2066,7 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1532967120982">
+      <file name="/fragment.java" timestamp="1533728761668">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-definition-migrate-template.json" timestamp="1505735739661">
@@ -2231,13 +2231,13 @@
         <mark key="^" line="22" column="122" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/commons-imaging/pom.xml" timestamp="1533726051878">
+      <file name="$USER_HOME$/Source/commons-imaging/pom.xml" timestamp="1533728220409">
         <mark key="[" line="35" column="19" />
         <mark key="]" line="35" column="18" />
         <mark key="^" line="35" column="18" />
         <mark key="." line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/build.sbt" timestamp="1533726337932">
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/build.sbt" timestamp="1533728242992">
         <mark key="[" line="54" column="8" />
         <mark key="]" line="55" column="38" />
         <mark key="^" line="55" column="38" />
@@ -2261,7 +2261,7 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1533727374295">
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1533728268217">
         <mark key="[" line="129" column="57" />
         <mark key="]" line="130" column="38" />
         <mark key="^" line="130" column="38" />
