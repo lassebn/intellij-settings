@@ -407,11 +407,10 @@
         <mark key="." line="28" column="87" />
         <mark key="^" line="28" column="87" />
       </file>
-      <file name="$USER_HOME$/Source/haskell-intellij-test/src/Main.hs" timestamp="1533326995521">
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="35" />
-        <mark key="^" line="14" column="35" />
-        <mark key="." line="14" column="35" />
+      <file name="$USER_HOME$/Source/haskell-intellij-test/src/Main.hs" timestamp="1533714309433">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/project/plugins.sbt" timestamp="1520416314635">
         <mark key="[" line="14" column="0" />
@@ -2963,8 +2962,8 @@
       <jump line="69" column="82" filename="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">W10g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Zm9sZGwgKFxhY2MgeCAtPiBjb3VudFJlc3RJc0xlc3NUaGFuKSBbXSBpbnB1dCAK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5587,7 +5586,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">W10g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
@@ -5595,8 +5594,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJpbWFnZV9jb2xsZWN0aW9uX2JvZHlwYXJ0IikgPT0gbnVsbCkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IAo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Zm9sZGwgKFxhY2MgeCAtPiBjb3VudFJlc3RJc0xlc3NUaGFuKSBbXSBpbnB1dCAK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -5605,25 +5604,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0gWzMsIDQsIDksIDYsIDFdCg==</text>
+        <text encoding="base64">c29sdmUnID0gZm9sZGwgY291bnRSZXN0SXNMZXNzVGhhbiBbXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldEJvb2xlYW4oImRlbGV0ZWQiKSkK</text>
+        <text encoding="base64">c29sdmUnIDo6IFtJbnRdIC0+IFtJbnRdCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldFN0cmluZygibW9kaWZpZWQiKS5pc0VtcHR5KQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldFN0cmluZygiY3JlYXRlZCIpLmlzRW1wdHkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJwcm9wZXJ0eXZhbHVlIikgPT0gImZhY2UiKQo=</text>
+        <text encoding="base64">LS0gWzMsIDQsIDksIDYsIDFdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJtb2RpZmllZCIpID09ICIiKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldEJvb2xlYW4oImRlbGV0ZWQiKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJjcmVhdGVkIikgPT0gIiIpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldFN0cmluZygibW9kaWZpZWQiKS5pc0VtcHR5KQo=</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
