@@ -216,6 +216,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/mediautil/src/mediautil/image/jpeg/LLJTran.java" timestamp="1533811959568">
+        <mark key="[" line="2518" column="0" />
+        <mark key="]" line="2518" column="0" />
+        <mark key="." line="2518" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-template.json" timestamp="1505735805647">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
@@ -2060,7 +2065,7 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1533810923382">
+      <file name="/fragment.java" timestamp="1533811878185">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-definition-migrate-template.json" timestamp="1505735739661">
@@ -2975,8 +2980,8 @@
       <jump line="69" column="82" filename="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>new ByteInputStream(bytes, bytes.length)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtc2cgPSBudWxsOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5608,37 +5613,37 @@
         <text encoding="base64">ICAgICAgICAgIHZhbCB1bnByb2Nlc3NlZElucHV0ID0gbmV3IEJ1ZmZlcmVkSW5wdXRTdHJlYW0obmV3IEJ5dGVJbnB1dFN0cmVhbShieXRlcywgYnl0ZXMubGVuZ3RoKSkKICAgICAgICAgIHZhbCBwcm9jZXNzZWRPdXRwdXQgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCkKICAgICAgICAgIEltYWdlTm9ybWFsaXphdGlvbi5ub3JtYWxpemUodW5wcm9jZXNzZWRJbnB1dCwgcHJvY2Vzc2VkT3V0cHV0KQogICAgICAgICAgaW1hZ2VJZCAtPiBwcm9jZXNzZWRPdXRwdXQudG9CeXRlQXJyYXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBJT1V0aWxzLmNvcHkoaW5wdXQsIGRlc3RpbmF0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtc2cgPSBudWxsOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9sZGwgKFxhY2MgeCAtPiBjb3VudFJlc3RJc0xlc3NUaGFuKSBbXSBpbnB1dCAK</text>
+        <text encoding="base64">ICAgICAgICBJT1V0aWxzLmNvcHkoaW5wdXQsIGRlc3RpbmF0aW9uKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9sZGwgKFxhY2MgeCAtPiBjb3VudFJlc3RJc0xlc3NUaGFuKSBbXSBpbnB1dCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c29sdmUnID0gZm9sZGwgY291bnRSZXN0SXNMZXNzVGhhbiBbXQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c29sdmUnIDo6IFtJbnRdIC0+IFtJbnRdCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">c29sdmUnID0gZm9sZGwgY291bnRSZXN0SXNMZXNzVGhhbiBbXQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">c29sdmUnIDo6IFtJbnRdIC0+IFtJbnRdCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0gWzMsIDQsIDksIDYsIDFdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldEJvb2xlYW4oImRlbGV0ZWQiKSkK</text>
+        <text encoding="base64">LS0gWzMsIDQsIDksIDYsIDFdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>122</text>
+        <text>2519</text>
       </register>
     </registers>
     <search>
@@ -5674,10 +5679,6 @@
         <entry>db</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
-        <entry>154</entry>
-        <entry>245</entry>
-        <entry>248</entry>
         <entry>287</entry>
         <entry>101</entry>
         <entry>79</entry>
@@ -5694,6 +5695,10 @@
         <entry>216</entry>
         <entry>vs</entry>
         <entry>122</entry>
+        <entry>25</entry>
+        <entry>2500</entry>
+        <entry>2538</entry>
+        <entry>2519</entry>
       </history-cmd>
       <history-expr />
       <history-input />
