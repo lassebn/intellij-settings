@@ -670,6 +670,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1533801706096" />
       <file name="$USER_HOME$/Source/free-membership-prototype/README.md" timestamp="1532345945727">
         <mark key="[" line="1" column="0" />
       </file>
@@ -1510,7 +1511,7 @@
         <mark key="." line="40" column="38" />
         <mark key="^" line="40" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/ImageNormalization.scala" timestamp="1533728452148" />
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/ImageNormalization.scala" timestamp="1533801759514" />
       <file name="$USER_HOME$/Source/platform-images/src/main/resources/db/migration/V10__collectionProperties.sql" timestamp="1502968665562">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="23" />
@@ -2519,7 +2520,6 @@
         <mark key="." line="22" column="11" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/.circleci/config.yml" timestamp="1533727283892" />
       <file name="$USER_HOME$/Source/platform-images/cloudformation/sns.json" timestamp="1531996824948">
         <mark key="[" line="54" column="16" />
         <mark key="]" line="54" column="50" />
