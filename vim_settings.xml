@@ -2067,7 +2067,7 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1533728761668">
+      <file name="/fragment.java" timestamp="1533803492382">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-definition-migrate-template.json" timestamp="1505735739661">
@@ -2423,6 +2423,12 @@
         <mark key="]" line="231" column="165" />
         <mark key="." line="231" column="165" />
         <mark key="^" line="231" column="165" />
+      </file>
+      <file name="$USER_HOME$/Source/JpegRotationTester/src/main/scala/Main.scala" timestamp="1533803603077">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
@@ -2976,7 +2982,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>class</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5599,7 +5605,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
