@@ -887,13 +887,6 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" timestamp="1532514532891">
-        <mark key="'" line="13" column="30" />
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="15" column="35" />
-        <mark key="^" line="15" column="35" />
-        <mark key="." line="15" column="35" />
-      </file>
       <file name="$USER_HOME$/Source/sbt-platform-canPublish/src/main/scala/com/leoilab/canpublish/CanPublishPlugin.scala" timestamp="1512580918665">
         <mark key="[" line="18" column="154" />
         <mark key="]" line="18" column="166" />
@@ -1299,13 +1292,6 @@
         <mark key="^" line="10" column="95" />
         <mark key="." line="10" column="95" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/current-style.sc" timestamp="1532688490312">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="66" />
-        <mark key="]" line="14" column="63" />
-        <mark key="^" line="14" column="63" />
-        <mark key="." line="14" column="63" />
-      </file>
       <file name="$USER_HOME$/Source/platform-users/wiremock/mappings/facebook_access_token.json" timestamp="1530001210746">
         <mark key="[" line="3" column="40" />
         <mark key="]" line="3" column="40" />
@@ -1365,13 +1351,6 @@
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
-      </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" timestamp="1533026223595">
-        <mark key="'" line="69" column="82" />
-        <mark key="[" line="69" column="53" />
-        <mark key="]" line="69" column="50" />
-        <mark key="." line="69" column="50" />
-        <mark key="^" line="69" column="50" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/scala/com/leoilab/klikkit/ReminderRepository.scala" timestamp="1508482082378">
         <mark key="[" line="45" column="65" />
@@ -1821,6 +1800,12 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/Source/JpegRotationTester/build.sbt" timestamp="1533804610455">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/CollectionPropertiesRepository.scala" timestamp="1503400247887">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -2043,6 +2028,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="18" column="28" />
       </file>
+      <file name="$USER_HOME$/Source/JpegRotationTester/src/main/scala/ImageNormalization.scala" timestamp="1533805255826">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="56" column="14" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/GroupIntegrationTest.scala" timestamp="1529314412112">
         <mark key="[" line="58" column="76" />
         <mark key="]" line="58" column="73" />
@@ -2238,9 +2229,9 @@
         <mark key="^" line="35" column="18" />
         <mark key="." line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/build.sbt" timestamp="1533728242992">
-        <mark key="[" line="54" column="8" />
-        <mark key="]" line="55" column="38" />
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/build.sbt" timestamp="1533804601862">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="70" />
         <mark key="^" line="55" column="38" />
         <mark key="." line="55" column="38" />
       </file>
@@ -2262,9 +2253,9 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1533728268217">
-        <mark key="[" line="129" column="57" />
-        <mark key="]" line="130" column="38" />
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/Driver.scala" timestamp="1533804763934">
+        <mark key="[" line="293" column="0" />
+        <mark key="]" line="296" column="47" />
         <mark key="^" line="130" column="38" />
         <mark key="." line="130" column="38" />
       </file>
@@ -2424,11 +2415,11 @@
         <mark key="." line="231" column="165" />
         <mark key="^" line="231" column="165" />
       </file>
-      <file name="$USER_HOME$/Source/JpegRotationTester/src/main/scala/Main.scala" timestamp="1533803603077">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="$USER_HOME$/Source/JpegRotationTester/src/main/scala/Main.scala" timestamp="1533805227377">
+        <mark key="[" line="9" column="70" />
+        <mark key="]" line="9" column="137" />
+        <mark key="." line="9" column="137" />
+        <mark key="^" line="9" column="137" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
@@ -2982,7 +2973,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text>new ByteInputStream(bytes, bytes.length)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5605,43 +5596,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>new ByteInputStream(bytes, bytes.length)</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZXN1bHQuZ2V0U3RyaW5nKCJpbWFnZV9jb2xsZWN0aW9uX2JvZHlwYXJ0IikgPT0gbnVsbCkK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCB1bnByb2Nlc3NlZElucHV0ID0gbmV3IEJ1ZmZlcmVkSW5wdXRTdHJlYW0obmV3IEJ5dGVJbnB1dFN0cmVhbShieXRlcywgYnl0ZXMubGVuZ3RoKSkKICAgICAgICAgIHZhbCBwcm9jZXNzZWRPdXRwdXQgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCkKICAgICAgICAgIEltYWdlTm9ybWFsaXphdGlvbi5ub3JtYWxpemUodW5wcm9jZXNzZWRJbnB1dCwgcHJvY2Vzc2VkT3V0cHV0KQogICAgICAgICAgaW1hZ2VJZCAtPiBwcm9jZXNzZWRPdXRwdXQudG9CeXRlQXJyYXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zm9sZGwgKFxhY2MgeCAtPiBjb3VudFJlc3RJc0xlc3NUaGFuKSBbXSBpbnB1dCAK</text>
+        <text encoding="base64">ICAgICAgICBJT1V0aWxzLmNvcHkoaW5wdXQsIGRlc3RpbmF0aW9uKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9sZGwgKFxhY2MgeCAtPiBjb3VudFJlc3RJc0xlc3NUaGFuKSBbXSBpbnB1dCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c29sdmUnID0gZm9sZGwgY291bnRSZXN0SXNMZXNzVGhhbiBbXQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">c29sdmUnIDo6IFtJbnRdIC0+IFtJbnRdCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">c29sdmUnID0gZm9sZGwgY291bnRSZXN0SXNMZXNzVGhhbiBbXQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">c29sdmUnIDo6IFtJbnRdIC0+IFtJbnRdCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gWzMsIDQsIDksIDYsIDFdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldEJvb2xlYW4oImRlbGV0ZWQiKSkK</text>
+        <text encoding="base64">LS0gWzMsIDQsIDksIDYsIDFdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldFN0cmluZygibW9kaWZpZWQiKS5pc0VtcHR5KQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCghcmVzdWx0LmdldEJvb2xlYW4oImRlbGV0ZWQiKSkK</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
