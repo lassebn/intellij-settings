@@ -1506,6 +1506,12 @@
         <mark key="." line="40" column="38" />
         <mark key="^" line="40" column="38" />
       </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/src/main/scala/datawarehouse/ImageNormalization.scala" timestamp="1534144536152">
+        <mark key="[" line="44" column="46" />
+        <mark key="]" line="45" column="40" />
+        <mark key="^" line="45" column="40" />
+        <mark key="." line="45" column="40" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/resources/db/migration/V10__collectionProperties.sql" timestamp="1502968665562">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="23" />
