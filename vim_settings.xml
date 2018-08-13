@@ -2536,6 +2536,12 @@
         <mark key="." line="22" column="11" />
         <mark key="^" line="22" column="11" />
       </file>
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/.circleci/config.yml" timestamp="1534146698190">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="29" />
+        <mark key="." line="26" column="29" />
+        <mark key="^" line="26" column="29" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/cloudformation/sns.json" timestamp="1531996824948">
         <mark key="[" line="54" column="16" />
         <mark key="]" line="54" column="50" />
@@ -2996,8 +3002,8 @@
       <jump line="69" column="82" filename="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>artifacts</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5620,13 +5626,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s3a://leo-platform-datawarehouse-eu-west1/images-staging/imagine</text>
+        <text>artifacts</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCB1bnByb2Nlc3NlZElucHV0ID0gbmV3IEJ1ZmZlcmVkSW5wdXRTdHJlYW0obmV3IEJ5dGVJbnB1dFN0cmVhbShieXRlcywgYnl0ZXMubGVuZ3RoKSkKICAgICAgICAgIHZhbCBwcm9jZXNzZWRPdXRwdXQgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCkKICAgICAgICAgIEltYWdlTm9ybWFsaXphdGlvbi5ub3JtYWxpemUodW5wcm9jZXNzZWRJbnB1dCwgcHJvY2Vzc2VkT3V0cHV0KQogICAgICAgICAgaW1hZ2VJZCAtPiBwcm9jZXNzZWRPdXRwdXQudG9CeXRlQXJyYXkK</text>
+        <text encoding="base64">ICAgICAgLSBzdG9yZV9hcnRpZmFjdHM6CiAgICAgICAgICBwYXRoOiAvdG1wL2FydGlmYWN0cwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
