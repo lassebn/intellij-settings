@@ -827,10 +827,10 @@
         <mark key="^" line="40" column="59" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/ImageMetadata.scala" timestamp="1510824247161">
-        <mark key="[" line="94" column="43" />
-        <mark key="]" line="94" column="70" />
-        <mark key="^" line="94" column="70" />
-        <mark key="." line="94" column="70" />
+        <mark key="[" line="96" column="43" />
+        <mark key="]" line="96" column="70" />
+        <mark key="^" line="96" column="70" />
+        <mark key="." line="96" column="70" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/documentation-portal.html" timestamp="1528707516764">
         <mark key="[" line="25" column="0" />
@@ -1083,12 +1083,6 @@
         <mark key="]" line="2" column="71" />
         <mark key="^" line="2" column="71" />
         <mark key="." line="2" column="71" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/core/src/main/scala/com/leoilab/images/GeoLocationDTO.scala" timestamp="1533629779745">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="29" />
-        <mark key="^" line="11" column="29" />
-        <mark key="." line="11" column="29" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/project/plugins.sbt" timestamp="1531835575677">
         <mark key="[" line="28" column="57" />
