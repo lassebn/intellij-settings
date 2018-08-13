@@ -1423,10 +1423,11 @@
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="50" />
       </file>
-      <file name="$USER_HOME$/Source/spike-datawarehouse-export/test-staging.sh" timestamp="1534143499881">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Source/spike-datawarehouse-export/test-staging.sh" timestamp="1534152811288">
+        <mark key="[" line="24" column="75" />
+        <mark key="]" line="24" column="138" />
+        <mark key="." line="24" column="138" />
+        <mark key="^" line="24" column="138" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/core/src/main/scala/com/leoilab/users/auth/RefreshToken.scala" timestamp="1522760510916">
         <mark key="[" line="2" column="17" />
