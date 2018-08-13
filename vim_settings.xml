@@ -639,6 +639,12 @@
         <mark key="^" line="16" column="46" />
         <mark key="." line="16" column="46" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/core/src/main/scala/com/leoilab/users/auth/PasswordStrengthChecker.scala" timestamp="1534150920648">
+        <mark key="[" line="9" column="53" />
+        <mark key="]" line="13" column="52" />
+        <mark key="^" line="13" column="52" />
+        <mark key="." line="13" column="52" />
+      </file>
       <file name="$USER_HOME$/Source/sensible-group-client/core/src/main/scala/com/leoilab/sensible/groups/CreateGroupWithoutIdDTO.scala" timestamp="1526372154395">
         <mark key="[" line="8" column="59" />
         <mark key="]" line="8" column="84" />
