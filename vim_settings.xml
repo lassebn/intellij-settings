@@ -2435,11 +2435,11 @@
         <mark key="." line="231" column="165" />
         <mark key="^" line="231" column="165" />
       </file>
-      <file name="$USER_HOME$/Source/JpegRotationTester/src/main/scala/Main.scala" timestamp="1533805227377">
-        <mark key="[" line="9" column="70" />
-        <mark key="]" line="9" column="137" />
-        <mark key="." line="9" column="137" />
-        <mark key="^" line="9" column="137" />
+      <file name="$USER_HOME$/Source/JpegRotationTester/src/main/scala/Main.scala" timestamp="1534248872892">
+        <mark key="[" line="9" column="138" />
+        <mark key="]" line="9" column="149" />
+        <mark key="." line="9" column="149" />
+        <mark key="^" line="9" column="149" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
@@ -3004,7 +3004,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>artifacts</text>
+        <text>garbageBytesJpegThumbnail</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5627,7 +5627,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>artifacts</text>
+        <text>garbageBytesJpegThumbnail</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
