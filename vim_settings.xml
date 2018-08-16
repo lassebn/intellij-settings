@@ -1876,7 +1876,7 @@
         <mark key="^" line="32" column="52" />
         <mark key="." line="32" column="52" />
       </file>
-      <file name="$USER_HOME$/Downloads/mediautil-1.0-adjusted/src/mediautil/image/jpeg/LLJTran.java" timestamp="1534427042741" />
+      <file name="$USER_HOME$/Downloads/mediautil-1.0-adjusted/src/mediautil/image/jpeg/LLJTran.java" timestamp="1534428629711" />
       <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/ServicesModule.scala" timestamp="1527228641769">
         <mark key="[" line="2" column="43" />
         <mark key="]" line="2" column="42" />
@@ -2442,11 +2442,11 @@
         <mark key="." line="231" column="165" />
         <mark key="^" line="231" column="165" />
       </file>
-      <file name="$USER_HOME$/Source/JpegRotationTester/src/main/scala/Main.scala" timestamp="1534408218142">
+      <file name="$USER_HOME$/Source/JpegRotationTester/src/main/scala/Main.scala" timestamp="1534428945790">
         <mark key="[" line="9" column="138" />
-        <mark key="]" line="9" column="162" />
-        <mark key="." line="9" column="162" />
-        <mark key="^" line="9" column="162" />
+        <mark key="]" line="9" column="147" />
+        <mark key="." line="9" column="147" />
+        <mark key="^" line="9" column="147" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
@@ -3011,7 +3011,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>output.jpg</text>
+        <text>garbageBytesJpegThumbnail</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5634,7 +5634,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>output.jpg</text>
+        <text>garbageBytesJpegThumbnail</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
