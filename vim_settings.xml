@@ -1869,13 +1869,13 @@
         <mark key="^" line="65" column="69" />
         <mark key="." line="65" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1534411983907" />
       <file name="$USER_HOME$/Source/platform-commons/clients/src/test/scala/com/leoilab/clients/MembershipsClientSpec.scala" timestamp="1504861207725">
         <mark key="[" line="32" column="39" />
         <mark key="]" line="32" column="52" />
         <mark key="^" line="32" column="52" />
         <mark key="." line="32" column="52" />
       </file>
+      <file name="$USER_HOME$/Downloads/mediautil-1.0-adjusted/src/mediautil/image/jpeg/LLJTran.java" timestamp="1534425096113" />
       <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/ServicesModule.scala" timestamp="1527228641769">
         <mark key="[" line="2" column="43" />
         <mark key="]" line="2" column="42" />
@@ -2086,7 +2086,7 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1534414986032">
+      <file name="/fragment.java" timestamp="1534424693208">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-definition-migrate-template.json" timestamp="1505735739661">
