@@ -1876,7 +1876,7 @@
         <mark key="^" line="32" column="52" />
         <mark key="." line="32" column="52" />
       </file>
-      <file name="$USER_HOME$/Downloads/mediautil-1.0-adjusted/src/mediautil/image/jpeg/LLJTran.java" timestamp="1534428629711" />
+      <file name="$USER_HOME$/Downloads/mediautil-1.0-adjusted/src/mediautil/image/jpeg/LLJTran.java" timestamp="1534429817856" />
       <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/ServicesModule.scala" timestamp="1527228641769">
         <mark key="[" line="2" column="43" />
         <mark key="]" line="2" column="42" />
@@ -2087,7 +2087,7 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1534427385349">
+      <file name="/fragment.java" timestamp="1534429893051">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-definition-migrate-template.json" timestamp="1505735739661">
@@ -2442,11 +2442,11 @@
         <mark key="." line="231" column="165" />
         <mark key="^" line="231" column="165" />
       </file>
-      <file name="$USER_HOME$/Source/JpegRotationTester/src/main/scala/Main.scala" timestamp="1534428945790">
-        <mark key="[" line="9" column="138" />
-        <mark key="]" line="9" column="147" />
-        <mark key="." line="9" column="147" />
-        <mark key="^" line="9" column="147" />
+      <file name="$USER_HOME$/Source/JpegRotationTester/src/main/scala/Main.scala" timestamp="1534430178905">
+        <mark key="[" line="9" column="166" />
+        <mark key="]" line="9" column="173" />
+        <mark key="." line="9" column="173" />
+        <mark key="^" line="9" column="173" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/ecs-deploy/cf-task-template.json" timestamp="1507900755745">
         <mark key="[" line="55" column="9" />
