@@ -957,10 +957,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/resources/confirm-email-expired.html" timestamp="1536065102406">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/resources/confirm-email-expired.html" timestamp="1536067537840">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="78" />
+        <mark key="^" line="11" column="78" />
+        <mark key="." line="11" column="78" />
       </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" timestamp="1499939123462">
         <mark key="[" line="2" column="7" />
@@ -1238,6 +1239,7 @@
         <mark key="^" line="42" column="4" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1536068052953" />
       <file name="$USER_HOME$/Source/haskell-intellij-test/Main.hs" timestamp="1533293151323">
         <mark key="[" line="0" column="17" />
       </file>
@@ -1604,11 +1606,12 @@
         <mark key="." line="48" column="35" />
         <mark key="^" line="48" column="35" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/resources/confirm-email-no-token.html" timestamp="1536065128717">
+      <file name="$USER_HOME$/Source/platform-users/src/main/resources/confirm-email-no-token.html" timestamp="1536067499917">
         <mark key="'" line="11" column="42" />
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientCollectionPropertiesIntegrationTest.scala" timestamp="1523005745557">
         <mark key="[" line="43" column="0" />
@@ -1880,11 +1883,11 @@
         <mark key="^" line="65" column="69" />
         <mark key="." line="65" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1536064985768">
-        <mark key="[" line="309" column="54" />
-        <mark key="]" line="306" column="29" />
-        <mark key="^" line="306" column="29" />
-        <mark key="." line="306" column="29" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1536070010393">
+        <mark key="[" line="317" column="23" />
+        <mark key="]" line="318" column="20" />
+        <mark key="^" line="318" column="20" />
+        <mark key="." line="318" column="20" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/clients/src/test/scala/com/leoilab/clients/MembershipsClientSpec.scala" timestamp="1504861207725">
         <mark key="[" line="32" column="39" />
@@ -2102,7 +2105,7 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1534429893051">
+      <file name="/fragment.java" timestamp="1536068116700">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-definition-migrate-template.json" timestamp="1505735739661">
@@ -3022,7 +3025,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>confirmed</text>
+        <text>{</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5645,43 +5648,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>confirmed</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSBzdG9yZV9hcnRpZmFjdHM6CiAgICAgICAgICBwYXRoOiAvdG1wL2FydGlmYWN0cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBfOiBVc2VyVG9rZW5FeHBpcmVkRXhjZXB0aW9uID0+IHJlZGlyZWN0KHMiL3YxL3VzZXJzL2NvbmZpcm1FbWFpbC9leHBpcmVkP2NsaWVudElkPSRjbGllbnRJZCIsIFN0YXR1c0NvZGVzLlNlZU90aGVyKQogICAgICAgICAgICAgICAgICAgICAgICBjYXNlIF86IFVzZXJUb2tlbk5vdEZvdW5kRXhjZXB0aW9uID0+IHJlZGlyZWN0KHMiL3YxL3VzZXJzL2NvbmZpcm1FbWFpbC9ub1Rva2VuP2NsaWVudElkPSRjbGllbnRJZCIsIFN0YXR1c0NvZGVzLlNlZU90aGVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9wdXJsLzIuMy4xL3B1cmwuanMiIGludGVncml0eT0ic2hhMjU2LUNDbGZpTFhaN1h5TWVNblVubmlmeEV3VEVUUkpOS1U5SFlSc2lnOEJTRDg9IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMy4xLjEubWluLmpzIiBpbnRlZ3JpdHk9InNoYTI1Ni1oVlZuWWFpQURSVE8yUHpVR211TEpyOEJMVVNqR0lac0RZR21JSkx2MmI4PSIgY3Jvc3NvcmlnaW49ImFub255bW91cyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0PgogICAgICAkKGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbigpIHsKICAgICAgICB2YXIgcmVkaXJlY3QgPSBwdXJsKCkucGFyYW0oJ3JlZGlyZWN0Jyk7CiAgICAgICAgaWYocmVkaXJlY3QpIHsKICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gcmVkaXJlY3Q7CiAgICAgICAgfQogICAgICB9KTsKICAgIDwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIH0ucmVjb3ZlciB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgXzogVXNlclRva2VuRXhwaXJlZEV4Y2VwdGlvbiA9PiByZWRpcmVjdChzIi92MS91c2Vycy9jb25maXJtRW1haWwvZXhwaXJlZD9jbGllbnRJZD0kY2xpZW50SWQiLCBTdGF0dXNDb2Rlcy5TZWVPdGhlcikKICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBfOiBVc2VyVG9rZW5Ob3RGb3VuZEV4Y2VwdGlvbiA9PiByZWRpcmVjdChzIi92MS91c2Vycy9jb25maXJtRW1haWwvbm9Ub2tlbj9jbGllbnRJZD0kY2xpZW50SWQiLCBTdGF0dXNDb2Rlcy5TZWVPdGhlcikKICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9wdXJsLzIuMy4xL3B1cmwuanMiIGludGVncml0eT0ic2hhMjU2LUNDbGZpTFhaN1h5TWVNblVubmlmeEV3VEVUUkpOS1U5SFlSc2lnOEJTRDg9IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMy4xLjEubWluLmpzIiBpbnRlZ3JpdHk9InNoYTI1Ni1oVlZuWWFpQURSVE8yUHpVR211TEpyOEJMVVNqR0lac0RZR21JSkx2MmI4PSIgY3Jvc3NvcmlnaW49ImFub255bW91cyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0PgogICAgICAkKGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbigpIHsKICAgICAgICB2YXIgcmVkaXJlY3QgPSBwdXJsKCkucGFyYW0oJ3JlZGlyZWN0Jyk7CiAgICAgICAgaWYocmVkaXJlY3QpIHsKICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gcmVkaXJlY3Q7CiAgICAgICAgfQogICAgICB9KTsKICAgIDwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZSBtYXRjaCB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gcmVkaXJlY3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihyZWRpcmVjdCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbXBsZXRlICgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcmVkaXJlY3QgPSBwdXJsKCkucGFyYW0oJ3JlZGlyZWN0Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>2538</text>
