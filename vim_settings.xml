@@ -238,6 +238,7 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" timestamp="1536234308425" />
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" timestamp="1496224298461">
         <mark key="[" line="81" column="98" />
         <mark key="]" line="81" column="99" />
@@ -748,7 +749,7 @@
         <mark key="^" line="138" column="36" />
         <mark key="." line="138" column="36" />
       </file>
-      <file name="/Dummy.scala" timestamp="1530101863812">
+      <file name="/Dummy.scala" timestamp="1536233952165">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="^" line="0" column="38" />
@@ -1770,6 +1771,7 @@
         <mark key="^" line="22" column="22" />
         <mark key="." line="24" column="26" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserRepository.scala" timestamp="1536234099926" />
       <file name="$USER_HOME$/Source/spike-datawarehouse-export/project/Build.scala" timestamp="1506086002280">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="32" />
@@ -1890,7 +1892,7 @@
         <mark key="^" line="65" column="69" />
         <mark key="." line="65" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1536228999068">
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1536233279141">
         <mark key="[" line="309" column="93" />
         <mark key="]" line="309" column="92" />
         <mark key="^" line="309" column="92" />
@@ -2112,7 +2114,7 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1536068116700">
+      <file name="/fragment.java" timestamp="1536234005325">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-definition-migrate-template.json" timestamp="1505735739661">
