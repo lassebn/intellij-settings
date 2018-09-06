@@ -850,6 +850,12 @@
         <mark key="." line="126" column="144" />
         <mark key="^" line="126" column="144" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/main/resources/confirm-email-completed.html" timestamp="1536229930407">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="13" column="62" />
+        <mark key="." line="13" column="62" />
+        <mark key="^" line="13" column="62" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" timestamp="1531309053034">
         <mark key="[" line="795" column="37" />
         <mark key="]" line="795" column="46" />
@@ -1883,11 +1889,11 @@
         <mark key="^" line="65" column="69" />
         <mark key="." line="65" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1536224477137">
-        <mark key="[" line="313" column="85" />
-        <mark key="]" line="313" column="85" />
-        <mark key="^" line="313" column="85" />
-        <mark key="." line="313" column="85" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1536228999068">
+        <mark key="[" line="309" column="93" />
+        <mark key="]" line="309" column="92" />
+        <mark key="^" line="309" column="92" />
+        <mark key="." line="309" column="92" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/clients/src/test/scala/com/leoilab/clients/MembershipsClientSpec.scala" timestamp="1504861207725">
         <mark key="[" line="32" column="39" />
@@ -3024,8 +3030,8 @@
       <jump line="11" column="42" filename="$USER_HOME$/Source/platform-users/src/main/resources/confirm-email-no-token.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s&quot;/v1/users/confirmEmail/noToken?clientId=$clientId&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxoMyBpZD0ic3ViaGVhZGVyIj48L2gzPgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5648,43 +5654,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s&quot;/v1/users/confirmEmail/noToken?clientId=$clientId&quot;</text>
+        <text>subheader</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBfOiBVc2VyVG9rZW5FeHBpcmVkRXhjZXB0aW9uID0+IHJlZGlyZWN0KHMiL3YxL3VzZXJzL2NvbmZpcm1FbWFpbC9leHBpcmVkP2NsaWVudElkPSRjbGllbnRJZCIsIFN0YXR1c0NvZGVzLlNlZU90aGVyKQogICAgICAgICAgICAgICAgICAgICAgICBjYXNlIF86IFVzZXJUb2tlbk5vdEZvdW5kRXhjZXB0aW9uID0+IHJlZGlyZWN0KHMiL3YxL3VzZXJzL2NvbmZpcm1FbWFpbC9ub1Rva2VuP2NsaWVudElkPSRjbGllbnRJZCIsIFN0YXR1c0NvZGVzLlNlZU90aGVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNzdWJoZWFkZXIiKS50ZXh0KCIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxoMyBpZD0ic3ViaGVhZGVyIj48L2gzPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgTm9uZSA9PiBnZXRGcm9tUmVzb3VyY2UoImNvbmZpcm0tZW1haWwuaHRtbCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNzdWJoZWFkZXIiKS50ZXh0KCIiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICByZWRpcmVjdFVybCBtYXRjaCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNzdWJoZWFkZXIiKS50ZXh0KCIiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfSB+CiAgICAgICAgICAgICAgICAgIHBhdGhQcmVmaXgoIm5vVG9rZW4iKSB7CiAgICAgICAgICAgICAgICAgICAgZ2V0IHsKICAgICAgICAgICAgICAgICAgICAgIGdldEZyb21SZXNvdXJjZSgiY29uZmlybS1lbWFpbC1uby10b2tlbi5odG1sIikKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnZXhwaXJlZCc6CiAgICAgICAgICAgICAgICAkKCIjaGVhZGVyIikudGV4dCgiWW91J3ZlIHN1Y2Nlc3NmdWxseSBjb25maXJtZWQgeW91ciBlbWFpbCIpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgJ25vVG9rZW4nOgogICAgICAgICAgICAgICAgJCgiI2hlYWRlciIpLnRleHQoIllvdSd2ZSBzdWNjZXNzZnVsbHkgY29uZmlybWVkIHlvdXIgZW1haWwiKTsKICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcGF0aFByZWZpeCgiZXhwaXJlZCIpIHsKICAgICAgICAgICAgICAgICAgICBnZXQgewogICAgICAgICAgICAgICAgICAgICBnZXRGcm9tUmVzb3VyY2UoImNvbmZpcm0tZW1haWwtZXhwaXJlZC5odG1sIikKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgIH0gfgogICAgICAgICAgICAgICAgICBwYXRoUHJlZml4KCJub1Rva2VuIikgewogICAgICAgICAgICAgICAgICAgIGdldCB7CiAgICAgICAgICAgICAgICAgICAgICBnZXRGcm9tUmVzb3VyY2UoImNvbmZpcm0tZW1haWwtbm8tdG9rZW4uaHRtbCIpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIH0ucmVjb3ZlciB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgXzogVXNlclRva2VuRXhwaXJlZEV4Y2VwdGlvbiA9PiByZWRpcmVjdChzIi92MS91c2Vycy9jb25maXJtRW1haWwvZXhwaXJlZD9jbGllbnRJZD0kY2xpZW50SWQiLCBTdGF0dXNDb2Rlcy5TZWVPdGhlcikKICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBfOiBVc2VyVG9rZW5Ob3RGb3VuZEV4Y2VwdGlvbiA9PiByZWRpcmVjdChzIi92MS91c2Vycy9jb25maXJtRW1haWwvbm9Ub2tlbj9jbGllbnRJZD0kY2xpZW50SWQiLCBTdGF0dXNDb2Rlcy5TZWVPdGhlcikKICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZihyZWRpcmVjdCkgewogICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSByZWRpcmVjdDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgTm9uZSA9PiBnZXRGcm9tUmVzb3VyY2UoImNvbmZpcm0tZW1haWwuaHRtbCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZSBtYXRjaCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICByZWRpcmVjdFVybCBtYXRjaCB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>2538</text>
