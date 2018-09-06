@@ -1246,6 +1246,7 @@
         <mark key="^" line="42" column="4" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1536231649612" />
       <file name="$USER_HOME$/Source/haskell-intellij-test/Main.hs" timestamp="1533293151323">
         <mark key="[" line="0" column="17" />
       </file>
