@@ -1657,11 +1657,11 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/README.md" timestamp="1531925288555">
-        <mark key="[" line="61" column="8" />
-        <mark key="]" line="61" column="8" />
-        <mark key="^" line="61" column="8" />
-        <mark key="." line="61" column="8" />
+      <file name="$USER_HOME$/Source/platform-users/README.md" timestamp="1536320375304">
+        <mark key="[" line="62" column="55" />
+        <mark key="]" line="62" column="57" />
+        <mark key="^" line="62" column="57" />
+        <mark key="." line="62" column="57" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/main/resources/cf-ssl-task-definition-initial.json" timestamp="1507703434866">
         <mark key="[" line="15" column="5" />
@@ -2142,11 +2142,11 @@
         <mark key="^" line="1" column="83" />
         <mark key="." line="1" column="83" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/version.sbt" timestamp="1531824865367">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="30" />
+      <file name="$USER_HOME$/Source/platform-users/version.sbt" timestamp="1536320285158">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/User.scala" timestamp="1528708634321">
         <mark key="[" line="33" column="77" />
@@ -2580,11 +2580,11 @@
         <mark key="." line="54" column="50" />
         <mark key="^" line="54" column="50" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1528293945907">
-        <mark key="[" line="1164" column="30" />
-        <mark key="]" line="1164" column="77" />
-        <mark key="." line="1164" column="77" />
-        <mark key="^" line="1164" column="77" />
+      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1536320148969">
+        <mark key="[" line="1452" column="0" />
+        <mark key="]" line="1465" column="126" />
+        <mark key="." line="1465" column="126" />
+        <mark key="^" line="1465" column="126" />
       </file>
       <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsApi.scala" timestamp="1530519834570">
         <mark key="[" line="144" column="76" />
@@ -3034,8 +3034,8 @@
       <jump line="218" column="6" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationTestHelper.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgYXNzZXJ0KGdldENvbmZpcm1SZXNwb25zZS5oZWFkZXJzIC5lbnRpdHkuYXNTdHJpbmcuY29udGFpbnMoIjxoMz5UaGFuayB5b3UgZm9yIGNvbmZpcm1pbmcgeW91ciBlbWFpbCBhZGRyZXNzITwvaDM+IikpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Zm9yIA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5658,13 +5658,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">Zm9yIA==</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaGVhZGVyKCJsb2NhdGlvbiIpIHNob3VsZCBiZSAiL3YxL3VzZXJzL2NvbmZpcm1FbWFpbC9jb21wbGV0ZWQ/c3RhdHVzPXN1Y2Nlc3MiCg==</text>
+        <text encoding="base64">IyMgMS44Mi4xNgogICogQVBJOiBCdWc6IGBBcmd4YCBwcm9qZWN0IGNhbiBub3cgbG9naW4gdmlhIEZhY2Vib29rCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgYXNzZXJ0KGdldENvbmZpcm1SZXNwb25zZS5oZWFkZXJzIC5lbnRpdHkuYXNTdHJpbmcuY29udGFpbnMoIjxoMz5UaGFuayB5b3UgZm9yIGNvbmZpcm1pbmcgeW91ciBlbWFpbCBhZGRyZXNzITwvaDM+IikpCg==</text>
