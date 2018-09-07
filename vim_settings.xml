@@ -851,11 +851,11 @@
         <mark key="." line="126" column="144" />
         <mark key="^" line="126" column="144" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/resources/confirm-email-completed.html" timestamp="1536229930407">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="13" column="62" />
-        <mark key="." line="13" column="62" />
-        <mark key="^" line="13" column="62" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/resources/confirm-email-completed.html" timestamp="1536313589222">
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="30" />
+        <mark key="." line="33" column="30" />
+        <mark key="^" line="33" column="30" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" timestamp="1531309053034">
         <mark key="[" line="795" column="37" />
@@ -1892,11 +1892,11 @@
         <mark key="^" line="65" column="69" />
         <mark key="." line="65" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1536233279141">
-        <mark key="[" line="309" column="93" />
-        <mark key="]" line="309" column="92" />
-        <mark key="^" line="309" column="92" />
-        <mark key="." line="309" column="92" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1536313723864">
+        <mark key="[" line="306" column="37" />
+        <mark key="]" line="306" column="36" />
+        <mark key="^" line="306" column="36" />
+        <mark key="." line="306" column="36" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/clients/src/test/scala/com/leoilab/clients/MembershipsClientSpec.scala" timestamp="1504861207725">
         <mark key="[" line="32" column="39" />
