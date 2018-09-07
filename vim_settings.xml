@@ -857,11 +857,11 @@
         <mark key="." line="33" column="30" />
         <mark key="^" line="33" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" timestamp="1531309053034">
-        <mark key="[" line="795" column="37" />
-        <mark key="]" line="795" column="46" />
-        <mark key="." line="795" column="46" />
-        <mark key="^" line="795" column="46" />
+      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" timestamp="1536318446692">
+        <mark key="[" line="565" column="27" />
+        <mark key="]" line="553" column="33" />
+        <mark key="^" line="553" column="33" />
+        <mark key="." line="553" column="33" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/docker-compose.yml" timestamp="1502799849479">
         <mark key="[" line="9" column="15" />
@@ -1892,9 +1892,9 @@
         <mark key="^" line="65" column="69" />
         <mark key="." line="65" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1536313723864">
-        <mark key="[" line="306" column="37" />
-        <mark key="]" line="306" column="36" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1536317917706">
+        <mark key="[" line="306" column="42" />
+        <mark key="]" line="306" column="73" />
         <mark key="^" line="306" column="36" />
         <mark key="." line="306" column="36" />
       </file>
@@ -2072,11 +2072,12 @@
         <mark key="^" line="51" column="41" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationTestHelper.scala" timestamp="1527686403708">
-        <mark key="[" line="121" column="68" />
-        <mark key="]" line="121" column="58" />
-        <mark key="." line="121" column="58" />
-        <mark key="^" line="121" column="58" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationTestHelper.scala" timestamp="1536319016769">
+        <mark key="'" line="218" column="6" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
+        <mark key="^" line="196" column="112" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/core/src/main/scala/com/leoilab/rest/Java8LocalDateTimeJsonProtocol.scala" timestamp="1526474658043">
         <mark key="[" line="12" column="0" />
@@ -2931,7 +2932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="4" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
       <jump line="96" column="0" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
       <jump line="81" column="78" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
       <jump line="384" column="14" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" />
@@ -3031,10 +3031,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/free-membership-prototype/src/test/scala/com/leoilab/sensible/examples/current-style.sc" />
       <jump line="69" column="82" filename="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" />
       <jump line="11" column="42" filename="$USER_HOME$/Source/platform-users/src/main/resources/confirm-email-no-token.html" />
+      <jump line="218" column="6" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationTestHelper.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxoMyBpZD0ic3ViaGVhZGVyIj48L2gzPgo=</text>
+        <text encoding="base64">Ly8gICAgYXNzZXJ0KGdldENvbmZpcm1SZXNwb25zZS5oZWFkZXJzIC5lbnRpdHkuYXNTdHJpbmcuY29udGFpbnMoIjxoMz5UaGFuayB5b3UgZm9yIGNvbmZpcm1pbmcgeW91ciBlbWFpbCBhZGRyZXNzITwvaDM+IikpCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5657,46 +5658,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>subheader</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNzdWJoZWFkZXIiKS50ZXh0KCIiKQo=</text>
+        <text encoding="base64">ICAgICAgaGVhZGVyKCJsb2NhdGlvbiIpIHNob3VsZCBiZSAiL3YxL3VzZXJzL2NvbmZpcm1FbWFpbC9jb21wbGV0ZWQ/c3RhdHVzPXN1Y2Nlc3MiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxoMyBpZD0ic3ViaGVhZGVyIj48L2gzPgo=</text>
+        <text encoding="base64">Ly8gICAgYXNzZXJ0KGdldENvbmZpcm1SZXNwb25zZS5oZWFkZXJzIC5lbnRpdHkuYXNTdHJpbmcuY29udGFpbnMoIjxoMz5UaGFuayB5b3UgZm9yIGNvbmZpcm1pbmcgeW91ciBlbWFpbCBhZGRyZXNzITwvaDM+IikpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNzdWJoZWFkZXIiKS50ZXh0KCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxoMyBpZD0ic3ViaGVhZGVyIj48L2gzPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNzdWJoZWFkZXIiKS50ZXh0KCIiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnZXhwaXJlZCc6CiAgICAgICAgICAgICAgICAkKCIjaGVhZGVyIikudGV4dCgiWW91J3ZlIHN1Y2Nlc3NmdWxseSBjb25maXJtZWQgeW91ciBlbWFpbCIpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgJ25vVG9rZW4nOgogICAgICAgICAgICAgICAgJCgiI2hlYWRlciIpLnRleHQoIllvdSd2ZSBzdWNjZXNzZnVsbHkgY29uZmlybWVkIHlvdXIgZW1haWwiKTsKICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNzdWJoZWFkZXIiKS50ZXh0KCIiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnZXhwaXJlZCc6CiAgICAgICAgICAgICAgICAkKCIjaGVhZGVyIikudGV4dCgiWW91J3ZlIHN1Y2Nlc3NmdWxseSBjb25maXJtZWQgeW91ciBlbWFpbCIpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgJ25vVG9rZW4nOgogICAgICAgICAgICAgICAgJCgiI2hlYWRlciIpLnRleHQoIllvdSd2ZSBzdWNjZXNzZnVsbHkgY29uZmlybWVkIHlvdXIgZW1haWwiKTsKICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihyZWRpcmVjdCkgewogICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSByZWRpcmVjdDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihyZWRpcmVjdCkgewogICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSByZWRpcmVjdDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgTm9uZSA9PiBnZXRGcm9tUmVzb3VyY2UoImNvbmZpcm0tZW1haWwuaHRtbCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICByZWRpcmVjdFVybCBtYXRjaCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgTm9uZSA9PiBnZXRGcm9tUmVzb3VyY2UoImNvbmZpcm0tZW1haWwuaHRtbCIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>2538</text>
+        <text>196</text>
       </register>
     </registers>
     <search>
@@ -5732,8 +5733,6 @@
         <entry>db</entry>
       </history-search>
       <history-cmd>
-        <entry>287</entry>
-        <entry>101</entry>
         <entry>79</entry>
         <entry>50</entry>
         <entry>43</entry>
@@ -5752,6 +5751,8 @@
         <entry>2500</entry>
         <entry>2519</entry>
         <entry>2538</entry>
+        <entry>106</entry>
+        <entry>196</entry>
       </history-cmd>
       <history-expr />
       <history-input />
