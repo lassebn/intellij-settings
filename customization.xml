@@ -6,5 +6,12 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ShowBookmarks" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Cmd key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
   </component>
 </application>
