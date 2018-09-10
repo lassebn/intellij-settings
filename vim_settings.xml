@@ -2577,12 +2577,6 @@
         <mark key="." line="54" column="50" />
         <mark key="^" line="54" column="50" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/raml/api.raml" timestamp="1536569169411">
-        <mark key="[" line="1449" column="24" />
-        <mark key="]" line="1449" column="239" />
-        <mark key="." line="1449" column="239" />
-        <mark key="^" line="1449" column="239" />
-      </file>
       <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsApi.scala" timestamp="1530519834570">
         <mark key="[" line="144" column="76" />
         <mark key="]" line="144" column="77" />
