@@ -11,6 +11,12 @@
         <mark key="^" line="27" column="44" />
         <mark key="." line="27" column="44" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/runapp.sh" timestamp="1536672416571">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/GenericPropertyRepository.scala" timestamp="1503391770596">
         <mark key="[" line="10" column="69" />
         <mark key="]" line="10" column="37" />
@@ -2843,11 +2849,11 @@
         <mark key="^" line="39" column="65" />
         <mark key="." line="39" column="65" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/groups/GroupServiceFuncSpec.scala" timestamp="1529314458007">
-        <mark key="[" line="42" column="149" />
-        <mark key="]" line="42" column="149" />
-        <mark key="." line="42" column="149" />
-        <mark key="^" line="42" column="133" />
+      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/groups/GroupServiceFuncSpec.scala" timestamp="1536672302099">
+        <mark key="[" line="71" column="20" />
+        <mark key="]" line="71" column="20" />
+        <mark key="." line="71" column="20" />
+        <mark key="^" line="70" column="51" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/CollectionsImagesTable.scala" timestamp="1519996584809">
         <mark key="[" line="44" column="0" />
@@ -3081,7 +3087,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>config</text>
+        <text>app</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5704,7 +5710,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
@@ -5713,34 +5719,34 @@
         <text encoding="base64">ICAuc2V0dGluZ3MobGlicmFyeURlcGVuZGVuY2llcyArKz0gZXh0ZW5kZWREZXBlbmRlbmNpZXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmNvbmN1cnJlbnQuRXhlY3V0aW9uCg==</text>
+        <text encoding="base64">bXYgL29wdC9wbGF0Zm9ybS1pbWFnZXMvbGliL3BsYXRmb3JtLWltYWdlc18qLmphciAvb3B0L3BsYXRmb3JtLWltYWdlcy9hcHAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAuc2V0dGluZ3MobGlicmFyeURlcGVuZGVuY2llcyArKz0gZXh0ZW5kZWREZXBlbmRlbmNpZXMpCg==</text>
+        <text encoding="base64">bWtkaXIgLXAgL29wdC9wbGF0Zm9ybS1pbWFnZXMvYXBwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAtIHBsYXRmb3JtLWltYWdlcyouamFyIG11c3QgYmUgbG9hZGVkIGZpcnN0IHRvIGVuc3VyZSBvcmRlciBvZiBvdmVycmlkZGVuIGZpbGVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmNvbmN1cnJlbnQuRXhlY3V0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAuc2V0dGluZ3MobGlicmFyeURlcGVuZGVuY2llcyArKz0gZXh0ZW5kZWREZXBlbmRlbmNpZXMpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgQ29ubmVjdGlvbkNvbmZpZyB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzcyBDb25uZWN0aW9uQ29uZmlnICh1cmw6IFN0cmluZywgdXNlcjogU3RyaW5nLCBwYXNzd29yZDogU3RyaW5nKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzcyBDbHVzdGVySWQgKGlkOiBTdHJpbmcpIHsKICBvdmVycmlkZSBkZWYgdG9TdHJpbmc6IFN0cmluZyA9IGlkCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>191</text>
