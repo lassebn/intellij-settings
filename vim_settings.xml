@@ -197,11 +197,11 @@
         <mark key="." line="153" column="51" />
         <mark key="^" line="153" column="51" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1536668971485">
-        <mark key="[" line="118" column="41" />
-        <mark key="]" line="118" column="44" />
-        <mark key="^" line="118" column="44" />
-        <mark key="." line="118" column="44" />
+      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1536677401569">
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="19" />
+        <mark key="^" line="41" column="19" />
+        <mark key="." line="41" column="19" />
       </file>
       <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1529306521403">
         <mark key="[" line="82" column="146" />
@@ -726,11 +726,11 @@
         <mark key="." line="167" column="82" />
         <mark key="^" line="167" column="82" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/README.md" timestamp="1531997759328">
+      <file name="$USER_HOME$/Source/platform-images/README.md" timestamp="1536677500235">
         <mark key="[" line="46" column="8" />
-        <mark key="]" line="46" column="9" />
-        <mark key="." line="46" column="9" />
-        <mark key="^" line="50" column="28" />
+        <mark key="]" line="46" column="6" />
+        <mark key="." line="46" column="6" />
+        <mark key="^" line="46" column="6" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/.gitignore" timestamp="1500988849635">
         <mark key="[" line="28" column="0" />
@@ -2438,6 +2438,12 @@
         <mark key="^" line="6" column="75" />
         <mark key="." line="6" column="58" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/version.sbt" timestamp="1536677491826">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/CollectionsService.scala" timestamp="1531984313800">
         <mark key="[" line="77" column="13" />
         <mark key="]" line="78" column="122" />
@@ -2954,10 +2960,6 @@
         <mark key="^" line="13" column="125" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/db/src/main/scala/com/leoilab/db/ClusterId.scala" timestamp="1536666119321">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform-memberships/ecs-deploy/deploy.sh" timestamp="1512642446140">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -3087,7 +3089,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>app</text>
+        <text>SNAPSHOT</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5710,7 +5712,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
