@@ -1423,12 +1423,6 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="22" column="49" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/ApisModule.scala" timestamp="1528708271307">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="9" column="30" />
-      </file>
       <file name="$USER_HOME$/Source/images3/client/src/it/scala/com/leoilab/images/client/ImagesClientCollectionPropertiesIntegrationTest.scala" timestamp="1503564860026">
         <mark key="[" line="48" column="26" />
         <mark key="]" line="48" column="50" />
