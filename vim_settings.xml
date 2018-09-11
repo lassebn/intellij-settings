@@ -1922,9 +1922,9 @@
         <mark key="." line="2" column="42" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/PlatformMainModule.scala" timestamp="1536668523476">
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-memberships/ecs-deploy/cf-task-template.json" timestamp="1512642494699">
         <mark key="[" line="56" column="8" />
@@ -2359,6 +2359,12 @@
         <mark key="]" line="15" column="19" />
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="19" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/rest/RestServer.scala" timestamp="1536671526262">
+        <mark key="[" line="24" column="55" />
+        <mark key="]" line="24" column="61" />
+        <mark key="^" line="24" column="61" />
+        <mark key="." line="24" column="61" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ReminderRepositorySpec.scala" timestamp="1508487450660">
         <mark key="[" line="150" column="23" />
