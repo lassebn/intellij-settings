@@ -185,11 +185,11 @@
         <mark key="." line="153" column="51" />
         <mark key="^" line="153" column="51" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1530608543202">
-        <mark key="[" line="97" column="42" />
-        <mark key="]" line="97" column="42" />
-        <mark key="^" line="97" column="42" />
-        <mark key="." line="97" column="42" />
+      <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1536662950669">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="208" column="59" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Source/sensible-group-client/src/main/scala/com/leoilab/sensible/groups/client/GroupsClient.scala" timestamp="1529306521403">
         <mark key="[" line="82" column="146" />
@@ -651,6 +651,12 @@
         <mark key="." line="8" column="84" />
         <mark key="^" line="8" column="84" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/client-it/src/it/scala/com/leoilab/images/client/ImagesClientCollectionPropertiesIntegrationTest.scala" timestamp="1536663143502">
+        <mark key="[" line="40" column="7" />
+        <mark key="]" line="40" column="14" />
+        <mark key="." line="40" column="14" />
+        <mark key="^" line="40" column="14" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/users-api-staging.yml" timestamp="1528283285340">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="45" column="6" />
@@ -825,12 +831,6 @@
         <mark key="]" line="40" column="59" />
         <mark key="." line="40" column="59" />
         <mark key="^" line="40" column="59" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/ImageMetadata.scala" timestamp="1510824247161">
-        <mark key="[" line="96" column="43" />
-        <mark key="]" line="96" column="70" />
-        <mark key="^" line="96" column="70" />
-        <mark key="." line="96" column="70" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/documentation-portal.html" timestamp="1528707516764">
         <mark key="[" line="25" column="0" />
@@ -1961,6 +1961,11 @@
         <mark key="." line="86" column="69" />
         <mark key="^" line="86" column="69" />
       </file>
+      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/audit/AuditModule.scala" timestamp="1536663300544">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -2849,6 +2854,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/client-it/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1536663164259">
+        <mark key="[" line="58" column="7" />
+        <mark key="]" line="58" column="21" />
+        <mark key="." line="58" column="21" />
+        <mark key="^" line="58" column="21" />
+      </file>
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/db/DBComponent.scala" timestamp="1496906582674">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="28" />
@@ -3019,8 +3030,8 @@
       <jump line="218" column="6" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationTestHelper.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;Bad redirect URI. Did you URL encode it properly? Parse error: Illegal URI reference, unexpected character '&quot;' at position 29: https://www.google.com?query=&quot;something&quot; strange&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly9pbXBvcnQgY29tLmxlb2lsYWIudXRpbC57TW9uaXRvcmluZ1NlcnZpY2UsIE1vbml0b3JpbmdTZXJ2aWNlSW1wbH0K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5643,7 +5654,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;Bad redirect URI. Did you URL encode it properly? Parse error: Illegal URI reference, unexpected character '&quot;' at position 29: https://www.google.com?query=&quot;something&quot; strange&quot;</text>
+        <text encoding="base64">IC8vVE9ETzogVXBkYXRlIHRvIDIuMTIuNg==</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
@@ -5652,34 +5663,34 @@
         <text encoding="base64">ICAiR0VUIGNvbmZpcm1FbWFpbCBwYWdlIGZvciB2YWxpZCB0b2tlbiB3aXRoIHRoZSByZWRpcmVjdCBnaXZlbiIgc2hvdWxkICJyZWRpcmVjdCB0byB0aGUgZ2l2ZW4gcmVkaXJlY3QgVVJJIHdpdGggdGhlIHN1Y2Nlc3MgcXVlcnkgcGFyYW1ldGVyIGFkZGVkIiBpbiB7CiAgICBpbXBsaWNpdCB2YWwgYXV0aEluZm86IEF1dGhJbmZvID0gZ2VuZXJhdGVUZXN0QXV0aEluZm8KICAgIGltcGxpY2l0IHZhbCBjaWQ6IENsaWVudElkID0gYXV0aEluZm8uY2xpZW50SWQKICAgIHZhbCB0b2tlbiA9ICJzb21ldG9rZW4iCiAgICB3aGVuKHVzZXJTZXJ2aWNlLmNvbmZpcm1FbWFpbEJ5VG9rZW4oYW55W1N0cmluZ10pKGFueVtDbGllbnRJZF0pKS50aGVuUmV0dXJuKEZ1dHVyZS5zdWNjZXNzZnVsKHRydWUpKQoKICAgIEdldChzIi92MS91c2Vycy9jb25maXJtRW1haWw/dG9rZW49JHRva2VuJmNsaWVudElkPSR7YXV0aEluZm8uY2xpZW50SWR9JnJlZGlyZWN0PWh0dHAlM0ElMkYlMkZ3d3cuZ29vZ2xlLmNvbSIpIH4+IHRlc3RSb3V0ZSB+PiBjaGVjayB7CiAgICAgIHN0YXR1cyBzaG91bGQgYmUoU3RhdHVzQ29kZXMuU2VlT3RoZXIpCiAgICAgIGhlYWRlcigibG9jYXRpb24iKS5nZXQudmFsdWUgc2hvdWxkIGJlKCJodHRwOi8vd3d3Lmdvb2dsZS5jb20/c3RhdHVzPXN1Y2Nlc3MiKQogICAgfQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAxMDA3OiB8CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICJjb2RlIjogInVzZXJzLTEwMDciLAogICAgICAgICAgICAgICAgICAibXNnIjogIlRva2VuIGFlOWRjOTg1LTQzNmMtNDcwMC05MGJhLTFlZmE4ZWE2OWYwZCBub3QgZm91bmQuIgogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly9pbXBvcnQgY29tLmxlb2lsYWIudXRpbC57TW9uaXRvcmluZ1NlcnZpY2UsIE1vbml0b3JpbmdTZXJ2aWNlSW1wbH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaGVhZGVyKCJsb2NhdGlvbiIpLmdldC52YWx1ZSBzaG91bGQgYmUoImh0dHA6Ly93d3cuZ29vZ2xlLmNvbT9zdGF0dXM9c3VjY2VzcyIpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmRiLkNsaWVudHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgYXNzZXJ0KGdldENvbmZpcm1SZXNwb25zZS5oZWFkZXJzIC5lbnRpdHkuYXNTdHJpbmcuY29udGFpbnMoIjxoMz5UaGFuayB5b3UgZm9yIGNvbmZpcm1pbmcgeW91ciBlbWFpbCBhZGRyZXNzITwvaDM+IikpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmRiLkNsaWVudHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxoMyBpZD0ic3ViaGVhZGVyIj48L2gzPgo=</text>
+        <text encoding="base64">ICAgICAgImNvbS5sZW9pbGFiIiAlJSAicGxhdGZvcm0tY29tbW9ucy1yZXN0IiAlIHBsYXRmb3JtQ29tbW9uc1YsIC8vVE9ETzogUmVtb3ZlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNzdWJoZWFkZXIiKS50ZXh0KCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAxMDA3OiB8CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICJjb2RlIjogInVzZXJzLTEwMDciLAogICAgICAgICAgICAgICAgICAibXNnIjogIlRva2VuIGFlOWRjOTg1LTQzNmMtNDcwMC05MGJhLTFlZmE4ZWE2OWYwZCBub3QgZm91bmQuIgogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNzdWJoZWFkZXIiKS50ZXh0KCIiKTsK</text>
+        <text encoding="base64">ICAgICAgaGVhZGVyKCJsb2NhdGlvbiIpLmdldC52YWx1ZSBzaG91bGQgYmUoImh0dHA6Ly93d3cuZ29vZ2xlLmNvbT9zdGF0dXM9c3VjY2VzcyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnZXhwaXJlZCc6CiAgICAgICAgICAgICAgICAkKCIjaGVhZGVyIikudGV4dCgiWW91J3ZlIHN1Y2Nlc3NmdWxseSBjb25maXJtZWQgeW91ciBlbWFpbCIpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgJ25vVG9rZW4nOgogICAgICAgICAgICAgICAgJCgiI2hlYWRlciIpLnRleHQoIllvdSd2ZSBzdWNjZXNzZnVsbHkgY29uZmlybWVkIHlvdXIgZW1haWwiKTsKICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">Ly8gICAgYXNzZXJ0KGdldENvbmZpcm1SZXNwb25zZS5oZWFkZXJzIC5lbnRpdHkuYXNTdHJpbmcuY29udGFpbnMoIjxoMz5UaGFuayB5b3UgZm9yIGNvbmZpcm1pbmcgeW91ciBlbWFpbCBhZGRyZXNzITwvaDM+IikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxoMyBpZD0ic3ViaGVhZGVyIj48L2gzPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihyZWRpcmVjdCkgewogICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSByZWRpcmVjdDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNzdWJoZWFkZXIiKS50ZXh0KCIiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>191</text>
