@@ -316,11 +316,11 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/client/src/test/scala/com/leoilab/memberships/client/MembershipsClientSpec.scala" timestamp="1527060004872">
-        <mark key="[" line="111" column="16" />
-        <mark key="]" line="111" column="25" />
-        <mark key="^" line="111" column="25" />
-        <mark key="." line="111" column="25" />
+      <file name="$USER_HOME$/Source/platform-memberships/client/src/test/scala/com/leoilab/memberships/client/MembershipsClientSpec.scala" timestamp="1536763801165">
+        <mark key="[" line="264" column="56" />
+        <mark key="]" line="264" column="71" />
+        <mark key="^" line="264" column="71" />
+        <mark key="." line="264" column="71" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/build.sbt" timestamp="1512578788772">
         <mark key="[" line="12" column="32" />
@@ -700,9 +700,6 @@
         <mark key="." line="14" column="75" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1536749426110" />
-      <file name="$USER_HOME$/Source/free-membership-prototype/README.md" timestamp="1532345945727">
-        <mark key="[" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -757,9 +754,6 @@
         <mark key="." line="147" column="85" />
         <mark key="^" line="147" column="85" />
       </file>
-      <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Flyway.java" timestamp="1532346248354">
-        <mark key="[" line="2" column="21" />
-      </file>
       <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsServiceSpec.scala" timestamp="1536755618030">
         <mark key="[" line="251" column="34" />
         <mark key="]" line="251" column="26" />
@@ -777,6 +771,12 @@
         <mark key="]" line="0" column="38" />
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-memberships/src/it/scala/com/leoilab/app/memberships/MembershipsApiIntegrationTest.scala" timestamp="1536763907997">
+        <mark key="[" line="476" column="100" />
+        <mark key="]" line="476" column="113" />
+        <mark key="." line="476" column="113" />
+        <mark key="^" line="476" column="113" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/project/TestHelper.scala" timestamp="1510034398481">
         <mark key="[" line="140" column="24" />
@@ -1264,9 +1264,6 @@
         <mark key="^" line="42" column="4" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/haskell-intellij-test/Main.hs" timestamp="1533293151323">
-        <mark key="[" line="0" column="17" />
-      </file>
       <file name="$USER_HOME$/Source/psohappy-backend/ecs-deploy/deploy.sh" timestamp="1512475385755">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -1565,9 +1562,6 @@
         <mark key="]" line="55" column="16" />
         <mark key="^" line="55" column="16" />
         <mark key="." line="55" column="16" />
-      </file>
-      <file name="$USER_HOME$/Source/scala-with-cats/src/main/scala/com/leoilab/sensible/tuts/cats/Printable.sc" timestamp="1532875028764">
-        <mark key="[" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
         <mark key="[" line="16" column="69" />
@@ -2147,9 +2141,6 @@
         <mark key="]" line="17" column="37" />
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
-      </file>
-      <file name="/fragment.java" timestamp="1536668405595">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-definition-migrate-template.json" timestamp="1505735739661">
         <mark key="[" line="0" column="0" />
@@ -2898,9 +2889,6 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="/sbtShell" timestamp="1532088565911">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/haskell-intellij-test/haskell-intellij-test.cabal" timestamp="1533294149188">
         <mark key="[" line="16" column="31" />
         <mark key="]" line="17" column="39" />
@@ -3101,8 +3089,8 @@
       <jump line="218" column="6" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationTestHelper.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>id</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5725,7 +5713,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
