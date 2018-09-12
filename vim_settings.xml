@@ -191,8 +191,8 @@
         <mark key="." line="31" column="79" />
         <mark key="^" line="31" column="79" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsApiSpec.scala" timestamp="1530264628522">
-        <mark key="[" line="153" column="51" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsApiSpec.scala" timestamp="1536750713221">
+        <mark key="[" line="276" column="3" />
         <mark key="]" line="153" column="51" />
         <mark key="." line="153" column="51" />
         <mark key="^" line="153" column="51" />
@@ -603,11 +603,11 @@
         <mark key="." line="13" column="51" />
         <mark key="^" line="13" column="51" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsService.scala" timestamp="1530704174244">
-        <mark key="[" line="124" column="58" />
-        <mark key="]" line="125" column="12" />
-        <mark key="." line="125" column="12" />
-        <mark key="^" line="125" column="12" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsService.scala" timestamp="1536750658295">
+        <mark key="[" line="113" column="4" />
+        <mark key="]" line="112" column="64" />
+        <mark key="^" line="112" column="64" />
+        <mark key="." line="112" column="64" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/wiremock/mappings/klikkitV2docs.json" timestamp="1507548054505">
         <mark key="[" line="7" column="13" />
@@ -699,6 +699,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1536749426110" />
       <file name="$USER_HOME$/Source/free-membership-prototype/README.md" timestamp="1532345945727">
         <mark key="[" line="1" column="0" />
       </file>
@@ -2629,11 +2630,11 @@
         <mark key="." line="54" column="50" />
         <mark key="^" line="54" column="50" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsApi.scala" timestamp="1530519834570">
-        <mark key="[" line="144" column="76" />
-        <mark key="]" line="144" column="77" />
-        <mark key="^" line="144" column="77" />
-        <mark key="." line="144" column="77" />
+      <file name="$USER_HOME$/Source/platform-memberships/src/main/scala/com/leoilab/app/memberships/MembershipsApi.scala" timestamp="1536749767766">
+        <mark key="[" line="140" column="13" />
+        <mark key="]" line="144" column="78" />
+        <mark key="^" line="144" column="78" />
+        <mark key="." line="144" column="78" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/mail/MailService.scala" timestamp="1527249729393">
         <mark key="[" line="240" column="82" />
