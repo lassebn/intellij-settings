@@ -1586,6 +1586,11 @@
         <mark key="." line="14" column="80" />
         <mark key="^" line="14" column="80" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageMetadataSpec.scala" timestamp="1537161312933">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/ExceptionHandler.scala" timestamp="1518703868598">
         <mark key="[" line="22" column="77" />
         <mark key="]" line="22" column="78" />
@@ -1724,10 +1729,10 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImageApiIntegrationTest.scala" timestamp="1522157816755">
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="5" column="36" />
-        <mark key="." line="5" column="36" />
+      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImageApiIntegrationTest.scala" timestamp="1537161304154">
+        <mark key="[" line="120" column="116" />
+        <mark key="]" line="120" column="116" />
+        <mark key="." line="120" column="116" />
         <mark key="^" line="5" column="36" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-backbone/scripts/backbone_three_images_in_a_series_twelve_hours_inbetween.py" timestamp="1499777757680">
@@ -3078,8 +3083,8 @@
       <jump line="218" column="6" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationTestHelper.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Clients.Test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGdlb0R0by56aXBfY29kZSBzaG91bGRCZSAiOTQwMzUiCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -5702,7 +5707,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Clients.Test</text>
+        <text encoding="base64">Iiwg</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
@@ -5711,7 +5716,7 @@
         <text encoding="base64">ICAgICAgY2FzZSBmYWxzZSA9PiBGdXR1cmUuZmFpbGVkKG5ldyBVbmF1dGhvcml6ZWRFeGNlcHRpb24oYXV0aEluZm8udXNlcklkLCBncm91cElkLCBhdXRoSW5mby51c2VySWQsIGF1dGhJbmZvLmNsaWVudElkKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmRiLkNsaWVudHMK</text>
+        <text encoding="base64">ICAgIGdlb0R0by56aXBfY29kZSBzaG91bGRCZSAiOTQwMzUiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -5720,25 +5725,25 @@
         <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmRiLkNsaWVudHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgemlwX2NvZGU6IFN0cmluZywK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmRiLkNsaWVudHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgemlwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgemlwX2NvZGU6IFN0cmluZywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHppcDogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgemlwLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHppcDogU3RyaW5nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCB1c2VySWRzID0gKDEgdG8gMykubWFwKF8gPT4gVXNlcklkLmdlbmVyYXRlKS50b1NldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdoZW4obWVtYmVyc2hpcHNSZXBvLmxpc3RVc2Vyc09mR3JvdXBzKGFueVtTZXRbR3JvdXBJZF1dKShhbnlbQXV0aEluZm9dKSkudGhlblJldHVybihGdXR1cmUuc3VjY2Vzc2Z1bCh1c2VySWRzKSkK</text>
+        <text encoding="base64">ICAgIHZhbCB1c2VySWRzID0gKDEgdG8gMykubWFwKF8gPT4gVXNlcklkLmdlbmVyYXRlKS50b1NldAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoZW4obWVtYmVyc2hpcHNSZXBvLmxpc3RVc2Vyc09mR3JvdXBzKGFueVtTZXRbR3JvdXBJZF1dKShhbnlbQXV0aEluZm9dKSkudGhlblJldHVybihGdXR1cmUuc3VjY2Vzc2Z1bCh1c2VySWRzKSkK</text>
       </register>
       <register name=":" type="4">
         <text>191</text>
