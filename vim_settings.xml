@@ -1488,11 +1488,11 @@
         <mark key="." line="243" column="9" />
         <mark key="^" line="243" column="9" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageServiceFuncSpec.scala" timestamp="1537174390570">
-        <mark key="[" line="270" column="0" />
-        <mark key="]" line="270" column="0" />
-        <mark key="^" line="269" column="86" />
-        <mark key="." line="270" column="0" />
+      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageServiceFuncSpec.scala" timestamp="1537184549471">
+        <mark key="[" line="273" column="63" />
+        <mark key="]" line="273" column="81" />
+        <mark key="^" line="273" column="81" />
+        <mark key="." line="273" column="81" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/db/StandardMappers.scala" timestamp="1496906775202">
         <mark key="[" line="10" column="0" />
@@ -2519,6 +2519,7 @@
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageService.scala" timestamp="1537184231371" />
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageApiFuncSpec.scala" timestamp="1503564766904">
         <mark key="[" line="34" column="28" />
         <mark key="]" line="34" column="52" />
@@ -3049,8 +3050,8 @@
       <jump line="218" column="6" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationTestHelper.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGV4dHJhY3Rvci5oZWlnaHQoKSkudGhlblJldHVybihTb21lKDQwMCkpCiAgICAgICAgd2hlbihleHRyYWN0b3Iud2lkdGgoKSkudGhlblJldHVybihTb21lKDQwMCkpCiAgICAgICAgd2hlbihleHRyYWN0b3IuYnl0ZXNVc2VkKCkpLnRoZW5SZXR1cm4oU29tZSg0MDApKQogICAgICAgIHdoZW4oZXh0cmFjdG9yLmZvcm1hdCgpKS50aGVuUmV0dXJuKFNvbWUoIkpQRUciKSkK</text>
+      <register name="&quot;" type="4">
+        <text>ImageRecordFactory(any[ImageId], any(), eqTo(&quot;172.16.1.20&quot;), eqTo(GeoLocationInfo.withIp(&quot;192.168.1.1&quot;)), any[Option[DateTime]])</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5684,7 +5685,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>ImageRecordFactory(any[ImageId], any(), eqTo(&quot;172.16.1.20&quot;), eqTo(GeoLocationInfo.withIp(&quot;192.168.1.1&quot;)), any[Option[DateTime]])</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
@@ -5693,7 +5694,7 @@
         <text encoding="base64">ICAgICAgICAgIFNvbWUoUmVtb3RlQWRkcmVzcyhJbmV0QWRkcmVzcy5nZXRCeU5hbWUoIjE3Mi4xNi4xLjIwIikpKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGV4dHJhY3Rvci5oZWlnaHQoKSkudGhlblJldHVybihTb21lKDQwMCkpCiAgICAgICAgd2hlbihleHRyYWN0b3Iud2lkdGgoKSkudGhlblJldHVybihTb21lKDQwMCkpCiAgICAgICAgd2hlbihleHRyYWN0b3IuYnl0ZXNVc2VkKCkpLnRoZW5SZXR1cm4oU29tZSg0MDApKQogICAgICAgIHdoZW4oZXh0cmFjdG9yLmZvcm1hdCgpKS50aGVuUmV0dXJuKFNvbWUoIkpQRUciKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5709,28 +5710,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ6aXAiOm51bGwsCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZXh0cmFjdG9yID0gSW1hZ2VCbG9iUHJvcGVydGllcyhTb21lKDQwMCksIFNvbWUoNDAwKSwgU29tZSg0MDApLCBTb21lKCJKUEVHIikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ6aXAiOiI5NDAzNSIsCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGV4dHJhY3Rvci5oZWlnaHQoKSkudGhlblJldHVybihTb21lKDQwMCkpCiAgICAgICAgd2hlbihleHRyYWN0b3Iud2lkdGgoKSkudGhlblJldHVybihTb21lKDQwMCkpCiAgICAgICAgd2hlbihleHRyYWN0b3IuYnl0ZXNVc2VkKCkpLnRoZW5SZXR1cm4oU29tZSg0MDApKQogICAgICAgIHdoZW4oZXh0cmFjdG9yLmZvcm1hdCgpKS50aGVuUmV0dXJuKFNvbWUoIkpQRUciKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICJ6aXAiOm51bGwsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgYXBwbHkoaXA6IFN0cmluZywgY291KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICJ6aXAiOiI5NDAzNSIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdlb0R0by56aXBfY29kZSBzaG91bGRCZSAiOTQwMzUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmRiLkNsaWVudHMK</text>
+        <text encoding="base64">ICBkZWYgYXBwbHkoaXA6IFN0cmluZywgY291KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmRiLkNsaWVudHMK</text>
+        <text encoding="base64">ICAgIGdlb0R0by56aXBfY29kZSBzaG91bGRCZSAiOTQwMzUiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgemlwX2NvZGU6IFN0cmluZywK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmRiLkNsaWVudHMK</text>
       </register>
       <register name=":" type="4">
         <text>191</text>
