@@ -718,11 +718,11 @@
         <mark key="." line="167" column="82" />
         <mark key="^" line="167" column="82" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/README.md" timestamp="1536677500235">
-        <mark key="[" line="46" column="8" />
-        <mark key="]" line="46" column="6" />
-        <mark key="." line="46" column="6" />
-        <mark key="^" line="46" column="6" />
+      <file name="$USER_HOME$/Source/platform-images/README.md" timestamp="1537168875299">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="47" column="61" />
+        <mark key="." line="47" column="61" />
+        <mark key="^" line="47" column="61" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/.gitignore" timestamp="1500988849635">
         <mark key="[" line="28" column="0" />
@@ -2437,11 +2437,11 @@
         <mark key="^" line="6" column="75" />
         <mark key="." line="6" column="58" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/version.sbt" timestamp="1537160224131">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="28" />
+      <file name="$USER_HOME$/Source/platform-images/version.sbt" timestamp="1537168816099">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="28" />
-        <mark key="." line="0" column="28" />
+        <mark key="." line="0" column="31" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/CollectionsService.scala" timestamp="1531984313800">
         <mark key="[" line="77" column="13" />
