@@ -221,11 +221,6 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/mediautil/src/mediautil/image/jpeg/LLJTran.java" timestamp="1533811959568">
-        <mark key="[" line="2518" column="0" />
-        <mark key="]" line="2518" column="0" />
-        <mark key="." line="2518" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-template.json" timestamp="1505735805647">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
@@ -417,11 +412,6 @@
         <mark key="]" line="28" column="87" />
         <mark key="." line="28" column="87" />
         <mark key="^" line="28" column="87" />
-      </file>
-      <file name="$USER_HOME$/Source/haskell-intellij-test/src/Main.hs" timestamp="1533714309433">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/project/plugins.sbt" timestamp="1520416314635">
         <mark key="[" line="14" column="0" />
@@ -843,6 +833,12 @@
         <mark key="]" line="40" column="59" />
         <mark key="." line="40" column="59" />
         <mark key="^" line="40" column="59" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/ImageMetadata.scala" timestamp="1537172184640">
+        <mark key="[" line="57" column="13" />
+        <mark key="]" line="57" column="14" />
+        <mark key="." line="57" column="14" />
+        <mark key="^" line="57" column="14" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/resources/documentation-portal.html" timestamp="1528707516764">
         <mark key="[" line="25" column="0" />
@@ -1372,11 +1368,6 @@
         <mark key="." line="44" column="61" />
         <mark key="^" line="44" column="61" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/db/src/main/scala/com/leoilab/db/MySQLDBImpl.scala" timestamp="1536666090931">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform-commons/clients/src/test/resources/application.conf" timestamp="1504776318139">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="54" />
@@ -1569,11 +1560,6 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/config/src/main/scala/com/leoilab/config/ClusterId.scala" timestamp="1536666314228">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="1" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServicePropSpec.scala" timestamp="1517232952967">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="79" column="56" />
@@ -1586,11 +1572,11 @@
         <mark key="." line="14" column="80" />
         <mark key="^" line="14" column="80" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageMetadataSpec.scala" timestamp="1537164650956">
-        <mark key="[" line="127" column="31" />
-        <mark key="]" line="127" column="31" />
-        <mark key="." line="127" column="31" />
-        <mark key="^" line="121" column="12" />
+      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageMetadataSpec.scala" timestamp="1537172512237">
+        <mark key="[" line="133" column="108" />
+        <mark key="]" line="141" column="33" />
+        <mark key="." line="141" column="33" />
+        <mark key="^" line="141" column="33" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/main/scala/com/leoilab/sensible/groups/ExceptionHandler.scala" timestamp="1518703868598">
         <mark key="[" line="22" column="77" />
@@ -1999,11 +1985,6 @@
         <mark key="]" line="86" column="69" />
         <mark key="." line="86" column="69" />
         <mark key="^" line="86" column="69" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/audit/AuditModule.scala" timestamp="1536663300544">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
         <mark key="[" line="21" column="0" />
@@ -2496,11 +2477,6 @@
         <mark key="^" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/config/src/main/scala/com/leoilab/config/ConnectionConfig.scala" timestamp="1536666332253">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ClickRepositorySpec.scala" timestamp="1508846794102">
         <mark key="[" line="172" column="25" />
         <mark key="]" line="172" column="43" />
@@ -2645,11 +2621,6 @@
         <mark key="^" line="240" column="90" />
         <mark key="." line="240" column="90" />
       </file>
-      <file name="$USER_HOME$/Source/mediautil/src/main/java/mediautil/image/jpeg/LLJTran.java" timestamp="1534415035451">
-        <mark key="[" line="2518" column="0" />
-        <mark key="]" line="2518" column="0" />
-        <mark key="." line="2518" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/test/scala/com/leoilab/utils/InMemoryPostgresStorage.scala" timestamp="1509543611717">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="14" column="59" />
@@ -2745,11 +2716,6 @@
         <mark key="]" line="50" column="44" />
         <mark key="^" line="50" column="44" />
         <mark key="." line="50" column="44" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-commons/akka/src/main/scala/com/leoilab/akka/AkkaModule.scala" timestamp="1536668840100">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/src/test/scala/com/leoilab/imagine/FunctionalSpec.scala" timestamp="1501057380328">
         <mark key="[" line="10" column="9" />
@@ -3084,7 +3050,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>America/Los_Angeles</text>
+        <text>(</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5718,7 +5684,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>America/Los_Angeles</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
