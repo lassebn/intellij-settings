@@ -683,7 +683,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1536749426110" />
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -834,7 +833,7 @@
         <mark key="." line="40" column="59" />
         <mark key="^" line="40" column="59" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/ImageMetadata.scala" timestamp="1537172184640">
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/ImageMetadata.scala" timestamp="1537188135824">
         <mark key="[" line="57" column="13" />
         <mark key="]" line="57" column="14" />
         <mark key="." line="57" column="14" />
@@ -1139,6 +1138,9 @@
         <mark key="]" line="5" column="38" />
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1537187481871">
+        <mark key="'" line="20" column="58" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/id/src/main/scala/leoilab/id/GroupId.scala" timestamp="1520518042518">
         <mark key="[" line="6" column="0" />
@@ -1488,12 +1490,7 @@
         <mark key="." line="243" column="9" />
         <mark key="^" line="243" column="9" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageServiceFuncSpec.scala" timestamp="1537184549471">
-        <mark key="[" line="273" column="63" />
-        <mark key="]" line="273" column="81" />
-        <mark key="^" line="273" column="81" />
-        <mark key="." line="273" column="81" />
-      </file>
+      <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageServiceFuncSpec.scala" timestamp="1537184549471" />
       <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/db/StandardMappers.scala" timestamp="1496906775202">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="37" />
@@ -2118,6 +2115,9 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
+      <file name="/fragment.java" timestamp="1537187761069">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-definition-migrate-template.json" timestamp="1505735739661">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="78" column="0" />
@@ -2519,7 +2519,7 @@
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageService.scala" timestamp="1537184231371" />
+      <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/ImageService.scala" timestamp="1537188181191" />
       <file name="$USER_HOME$/Source/images3/src/test/scala/com/leoilab/images/ImageApiFuncSpec.scala" timestamp="1503564766904">
         <mark key="[" line="34" column="28" />
         <mark key="]" line="34" column="52" />
@@ -2948,8 +2948,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
-      <jump line="81" column="78" filename="$USER_HOME$/Source/platform-commons/project/Build.scala" />
       <jump line="384" column="14" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" />
       <jump line="22" column="68" filename="$USER_HOME$/Source/platform-commons/README.md" />
       <jump line="316" column="63" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserServiceSpec.scala" />
@@ -3048,6 +3046,8 @@
       <jump line="69" column="82" filename="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/interpreters/DoobieDataSourceInterpreter.scala" />
       <jump line="11" column="42" filename="$USER_HOME$/Source/platform-users/src/main/resources/confirm-email-no-token.html" />
       <jump line="218" column="6" filename="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/IntegrationTestHelper.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform-images/docker-compose.yml" />
+      <jump line="20" column="58" filename="$USER_HOME$/Source/platform-images/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5688,7 +5688,7 @@
         <text>ImageRecordFactory(any[ImageId], any(), eqTo(&quot;172.16.1.20&quot;), eqTo(GeoLocationInfo.withIp(&quot;192.168.1.1&quot;)), any[Option[DateTime]])</text>
       </register>
       <register name="/" type="4">
-        <text>db</text>
+        <text>projects</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIFNvbWUoUmVtb3RlQWRkcmVzcyhJbmV0QWRkcmVzcy5nZXRCeU5hbWUoIjE3Mi4xNi4xLjIwIikpKSwK</text>
@@ -5738,9 +5738,9 @@
       </register>
     </registers>
     <search>
-      <last-search>db</last-search>
+      <last-search>projects</last-search>
       <last-offset />
-      <last-pattern>db</last-pattern>
+      <last-pattern>projects</last-pattern>
       <last-replace>doobie</last-replace>
       <last-substitute>db</last-substitute>
       <last-dir>1</last-dir>
@@ -5748,7 +5748,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
         <entry>list</entry>
         <entry>psohappy</entry>
         <entry>mockClient</entry>
@@ -5768,6 +5767,7 @@
         <entry>Future</entry>
         <entry>IO</entry>
         <entry>db</entry>
+        <entry>projects</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
