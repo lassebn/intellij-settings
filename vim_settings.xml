@@ -1261,12 +1261,12 @@
         <mark key="^" line="42" column="4" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1537363679030">
+      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1537364637950">
         <mark key="'" line="171" column="11" />
-        <mark key="[" line="246" column="27" />
-        <mark key="]" line="247" column="33" />
-        <mark key="^" line="247" column="33" />
-        <mark key="." line="247" column="33" />
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/ecs-deploy/deploy.sh" timestamp="1512475385755">
         <mark key="[" line="21" column="0" />
