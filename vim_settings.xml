@@ -465,6 +465,12 @@
         <mark key="^" line="43" column="35" />
         <mark key="." line="43" column="35" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/.circleci/config.yml" timestamp="1537366753791">
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="19" column="36" />
+        <mark key="^" line="19" column="36" />
+        <mark key="." line="19" column="36" />
+      </file>
       <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/package.scala" timestamp="1533025060052">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="22" />
