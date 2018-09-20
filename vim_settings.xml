@@ -2944,11 +2944,11 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" timestamp="1537441452402">
-        <mark key="[" line="452" column="132" />
-        <mark key="]" line="452" column="144" />
-        <mark key="." line="452" column="144" />
-        <mark key="^" line="452" column="144" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" timestamp="1537443305027">
+        <mark key="[" line="525" column="45" />
+        <mark key="]" line="525" column="55" />
+        <mark key="." line="525" column="55" />
+        <mark key="^" line="525" column="55" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/raml/api.raml" timestamp="1510827178014">
         <mark key="[" line="517" column="48" />
@@ -3109,7 +3109,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>loginResponseDTO.user.email</text>
+        <text>Unauthorized</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5743,7 +5743,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>loginResponseDTO.user.email</text>
+        <text>Unauthorized</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
