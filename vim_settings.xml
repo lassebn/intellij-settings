@@ -244,11 +244,11 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" timestamp="1537439710753">
-        <mark key="[" line="625" column="76" />
-        <mark key="]" line="625" column="93" />
-        <mark key="^" line="625" column="93" />
-        <mark key="." line="625" column="93" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserService.scala" timestamp="1537440736658">
+        <mark key="[" line="625" column="115" />
+        <mark key="]" line="625" column="133" />
+        <mark key="^" line="625" column="133" />
+        <mark key="." line="625" column="133" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/Main.scala" timestamp="1496224298461">
         <mark key="[" line="81" column="98" />
@@ -885,11 +885,11 @@
         <mark key="." line="33" column="30" />
         <mark key="^" line="33" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" timestamp="1537439809978">
-        <mark key="[" line="546" column="64" />
-        <mark key="]" line="546" column="81" />
-        <mark key="^" line="546" column="81" />
-        <mark key="." line="546" column="81" />
+      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" timestamp="1537441461733">
+        <mark key="[" line="546" column="61" />
+        <mark key="]" line="546" column="73" />
+        <mark key="^" line="546" column="73" />
+        <mark key="." line="546" column="73" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/docker-compose.yml" timestamp="1502799849479">
         <mark key="[" line="9" column="15" />
@@ -1943,11 +1943,11 @@
         <mark key="^" line="65" column="69" />
         <mark key="." line="65" column="69" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1537439679781">
-        <mark key="[" line="340" column="131" />
-        <mark key="]" line="341" column="26" />
-        <mark key="." line="341" column="26" />
-        <mark key="^" line="341" column="26" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/user/UserApi.scala" timestamp="1537441412929">
+        <mark key="[" line="340" column="99" />
+        <mark key="]" line="340" column="77" />
+        <mark key="." line="340" column="77" />
+        <mark key="^" line="340" column="77" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/clients/src/test/scala/com/leoilab/clients/MembershipsClientSpec.scala" timestamp="1504861207725">
         <mark key="[" line="32" column="39" />
@@ -2944,11 +2944,11 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" timestamp="1537439757234">
-        <mark key="[" line="452" column="122" />
-        <mark key="]" line="452" column="152" />
-        <mark key="^" line="452" column="152" />
-        <mark key="." line="452" column="152" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/user/UserApiIntegrationTest.scala" timestamp="1537441452402">
+        <mark key="[" line="452" column="132" />
+        <mark key="]" line="452" column="144" />
+        <mark key="." line="452" column="144" />
+        <mark key="^" line="452" column="144" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/raml/api.raml" timestamp="1510827178014">
         <mark key="[" line="517" column="48" />
@@ -3109,7 +3109,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>authInfo: AuthInfo</text>
+        <text>loginResponseDTO.user.email</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5743,16 +5743,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>authInfo: AuthInfo</text>
+        <text>loginResponseDTO.user.email</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZXh0cmFjdEFuZFZhbGlkYXRlQ2xpZW50SWRGcm9tSGVhZGVyKHByb2plY3RzQ2xpZW50KSB7IGltcGxpY2l0IGNsaWVudElkID0+Cg==</text>
+        <text encoding="base64">ICBpdCBzaG91bGQgIlJldHVybiAyMDAgT0sgd2hlbiBzZW5kaW5nIGNvbmZpcm1hdGlvbiBlbWFpbCB1bmF1dGhlbnRpY2F0ZWQgd2hlbiB0aGUgZW1haWwgaXMga25vd24iIGluIHsKICAgIHZhbCBsb2dpblJlc3BvbnNlRFRPID0gY3JlYXRlVXNlcihyYW5kb21DcmVhdGVVc2VyRFRPKQogICAgdmFsIGNvbmZpcm1SZXNwb25zZSA9IGFub255bW91c1BpcGVsaW5lKFBvc3QoVXJscy5Db25maXJtRW1haWwsIENvbmZpcm1FbWFpbERUTyhsb2NhbGUgPSBOb25lLCBlbWFpbCA9IFNvbWUobG9naW5SZXNwb25zZURUTy51c2VyLmVtYWlsKSkpKS5mdXR1cmVWYWx1ZQogICAgY29uZmlybVJlc3BvbnNlLnN0YXR1cyBtdXN0QmUgU3RhdHVzQ29kZXMuT0sKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBsb2dpblJlc3BvbnNlRFRPID0gY3JlYXRlVXNlcihyYW5kb21DcmVhdGVVc2VyRFRPKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5768,31 +5768,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFjY2Vzc1Rva2VuLgo=</text>
+        <text encoding="base64">ICBpdCBzaG91bGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBsbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbXBsZXRlKHVzZXJTZXJ2aWNlLnNlbmRDb25maXJtYXRpb25FbWFpbChOb25lKS5tYXAoXyA9PiBTdGF0dXNDb2Rlcy5PSykpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIENyZWF0ZSB1c2VyCiAgICB2YWwgbG9naW5SZXNwb25zZURUTyA9IGNyZWF0ZVJhbmRvbVVzZXIoKQoKICAgIC8vIFJlcXVlc3QgY29uZmlybWF0aW9uCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdXRoKGF1dGhDYWNoZVNlcnZpY2UpIHsgaW1wbGljaXQgYWNjZXNzVG9rZW4gPT4K</text>
+        <text encoding="base64">ICAgIC8vIFJlcXVlc3QgY29uZmlybWF0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCBsb2dpblJlc3BvbnNlRFRPID0gY3JlYXRlUmFuZG9tVXNlcigpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>47</text>
+        <text>531</text>
       </register>
     </registers>
     <search>
@@ -5828,7 +5828,6 @@
         <entry>group</entry>
       </history-search>
       <history-cmd>
-        <entry>43</entry>
         <entry>170</entry>
         <entry>46</entry>
         <entry>36</entry>
@@ -5848,6 +5847,7 @@
         <entry>196</entry>
         <entry>191</entry>
         <entry>47</entry>
+        <entry>531</entry>
       </history-cmd>
       <history-expr />
       <history-input />
