@@ -2707,11 +2707,11 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/rate_limit/ping.py" timestamp="1537522062193">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="11" />
+      <file name="$USER_HOME$/Source/platform-users/rate_limit/ping.py" timestamp="1537527549715">
+        <mark key="[" line="54" column="17" />
+        <mark key="]" line="54" column="15" />
+        <mark key="." line="54" column="15" />
+        <mark key="^" line="54" column="15" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500029575770">
         <mark key="[" line="5" column="19" />
@@ -3128,8 +3128,8 @@
       <jump line="546" column="85" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>punctuation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdhaXRfZnVuY3Rpb24gPSBsYW1iZGEgc2VsZjogcmFuZG9tLmV4cG92YXJpYXRlKDEpKjEwMDAK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5763,16 +5763,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>punctuation</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnJy5qb2luKHJhbmRvbS5jaG9pY2Uoc3RyaW5nLmFzY2lpX3VwcGVyY2FzZSArIHN0cmluZy5kaWdpdHMgKyBzdHJpbmcucHVuY3R1YXRpb24pIGZvciBfIGluIHJhbmdlKDEwKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb250ZW50LXR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdhaXRfZnVuY3Rpb24gPSBsYW1iZGEgc2VsZjogcmFuZG9tLmV4cG92YXJpYXRlKDEpKjEwMDAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5788,28 +5788,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDEwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiUmVzcG9uc2UgY29udGVudDoiLCByZXNwb25zZS50ZXh0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVzZXJuYW1lID0gcmFuZG9tX3N0cmluZygpCiAgICAgICAgc2VsZi5wYXNzd29yZCA9IHJhbmRvbV9zdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgIEB0YXNrKDEpCiAgICBkZWYgdGFzayhzZWxmKToKICAgICAgICBUcnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVtYWlsID0gc2VsZi51c2VybmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAidXNlcm5hbWUiLCBzZWxmLnVzZXJuYW1lCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdncmFudHR5cGUnOiAicGFzc3dvcmQiCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2coc2VsZik6CiAgICAgICAgcHJpbnQgIkkgbG9nZ2VkIGluIgoK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVzZXJuYW1lID0gcmFuZG9tX3N0cmluZygpCiAgICAgICAgc2VsZi5wYXNzd29yZCA9IHJhbmRvbV9zdHJpbmcoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1231</text>
