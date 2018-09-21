@@ -2704,6 +2704,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/rate_limit/ping.py" timestamp="1537516578798">
+        <mark key="[" line="5" column="71" />
+        <mark key="]" line="5" column="85" />
+        <mark key="^" line="5" column="85" />
+        <mark key="." line="5" column="85" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500029575770">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="18" />
@@ -3119,8 +3125,8 @@
       <jump line="546" column="85" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxpbWl0X3JlcV9zdGF0dXMgNDI5Owo=</text>
+      <register name="&quot;" type="4">
+        <text>scratch-micro-email-service.jpg</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5754,7 +5760,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>one</text>
+        <text>scratch-micro-email-service.jpg</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
@@ -5763,7 +5769,7 @@
         <text encoding="base64">ICAgIGxpbWl0X3JlcV9zdGF0dXMgNDI5Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmxpbWl0X3JlcV96b25lICRiaW5hcnlfcmVtb3RlX2FkZHIgem9uZT1saW1pdHM6NW0gcmF0ZT0xMHIvczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5779,28 +5785,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpbWl0X3JlcSB6b25lPW9uZSBidXJzdD01Owo=</text>
+        <text encoding="base64">ICAgICAgICAjIHBlbGxlK2xvY2FsQGxlb2lsYWIuY29tCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgd2hlbihtYWlsU2VydmljZS5zZW5kQ29uZmlybWF0aW9uTWFpbChhbnlbU3RyaW5nXSwgYW55W1N0cmluZ10sIGFueVtPcHRpb25bU3RyaW5nXV0pKGFueVtDbGllbnRJZF0pKS50aGVuUmV0dXJuKEZ1dHVyZS5zdWNjZXNzZnVsKCgpKSkK</text>
+        <text encoding="base64">ICAgICAgICAjanNvbj17InVzZXJuYW1lIjoicGVsbGUrdGVzdC11c2VyLTIwMTgwODE0QGxlb2lsYWIuY29tIiwgInBhc3N3b3JkIjoibGVvMTIzNCEhISEiLCAiZ3JhbnRUeXBlIjogInBhc3N3b3JkIn0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoZW4odXNlclJlcG9zaXRvcnkuY3JlYXRlVXNlclRva2VuKGFueVtVc2VyVG9rZW5dKShhbnlbQ2xpZW50SWRdKSkudGhlblJldHVybihGdXR1cmUuc3VjY2Vzc2Z1bCgxKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihlbnRpdHkuYXNTdHJpbmcpCg==</text>
+        <text encoding="base64">YmVhcmVyX3Rva2VuPSIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBsb2NhbGhvc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlY3VyZWRCeTogW2F1dGhdCg==</text>
+        <text encoding="base64">CmxpbWl0X3JlcV96b25lICRiaW5hcnlfcmVtb3RlX2FkZHIgem9uZT1saW1pdHM6NW0gcmF0ZT0xMHIvczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpbWl0X3JlcSB6b25lPW9uZSBidXJzdD01Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgd2hlbihtYWlsU2VydmljZS5zZW5kQ29uZmlybWF0aW9uTWFpbChhbnlbU3RyaW5nXSwgYW55W1N0cmluZ10sIGFueVtPcHRpb25bU3RyaW5nXV0pKGFueVtDbGllbnRJZF0pKS50aGVuUmV0dXJuKEZ1dHVyZS5zdWNjZXNzZnVsKCgpKSkK</text>
       </register>
       <register name=":" type="4">
         <text>1231</text>
