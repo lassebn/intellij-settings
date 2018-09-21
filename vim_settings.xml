@@ -2707,11 +2707,11 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/rate_limit/ping.py" timestamp="1537527549715">
-        <mark key="[" line="54" column="17" />
-        <mark key="]" line="54" column="15" />
-        <mark key="." line="54" column="15" />
-        <mark key="^" line="54" column="15" />
+      <file name="$USER_HOME$/Source/platform-users/rate_limit/ping.py" timestamp="1537529110155">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/wrap-awscli.sh" timestamp="1500029575770">
         <mark key="[" line="5" column="19" />
@@ -3129,7 +3129,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdhaXRfZnVuY3Rpb24gPSBsYW1iZGEgc2VsZjogcmFuZG9tLmV4cG92YXJpYXRlKDEpKjEwMDAK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5772,7 +5772,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICJjb250ZW50LXR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdhaXRfZnVuY3Rpb24gPSBsYW1iZGEgc2VsZjogcmFuZG9tLmV4cG92YXJpYXRlKDEpKjEwMDAK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5788,28 +5788,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDEwKQo=</text>
+        <text encoding="base64">ICAgIHdhaXRfZnVuY3Rpb24gPSBsYW1iZGEgc2VsZjogcmFuZG9tLmV4cG92YXJpYXRlKDEpKjEwMDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiUmVzcG9uc2UgY29udGVudDoiLCByZXNwb25zZS50ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDEwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEB0YXNrKDEpCiAgICBkZWYgdGFzayhzZWxmKToKICAgICAgICBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiUmVzcG9uc2UgY29udGVudDoiLCByZXNwb25zZS50ZXh0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidXNlcm5hbWUiLCBzZWxmLnVzZXJuYW1lCg==</text>
+        <text encoding="base64">ICAgIEB0YXNrKDEpCiAgICBkZWYgdGFzayhzZWxmKToKICAgICAgICBUcnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAidXNlcm5hbWUiLCBzZWxmLnVzZXJuYW1lCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVzZXJuYW1lID0gcmFuZG9tX3N0cmluZygpCiAgICAgICAgc2VsZi5wYXNzd29yZCA9IHJhbmRvbV9zdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
       <register name=":" type="4">
         <text>1231</text>
