@@ -1215,11 +1215,11 @@
         <mark key="." line="37" column="44" />
         <mark key="^" line="37" column="44" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/ecs-deploy/nginx/nginx.conf" timestamp="1537509506986">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="2" column="57" />
-        <mark key="^" line="2" column="57" />
-        <mark key="." line="2" column="57" />
+      <file name="$USER_HOME$/Source/platform-users/ecs-deploy/nginx/nginx.conf" timestamp="1537510204576">
+        <mark key="[" line="28" column="34" />
+        <mark key="]" line="29" column="30" />
+        <mark key="^" line="29" column="30" />
+        <mark key="." line="29" column="30" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/build.sbt" timestamp="1505916580655">
         <mark key="[" line="21" column="32" />

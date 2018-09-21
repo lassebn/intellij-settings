@@ -5,6 +5,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="assembly" type="PLAIN_TEXT" />
       <mapping pattern="UsersService" type="Scala" />
+      <mapping pattern="nginx.conf" type="nginx file type" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
