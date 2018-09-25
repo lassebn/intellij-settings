@@ -563,11 +563,11 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/README.md" timestamp="1530198660938">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Source/platform-memberships/README.md" timestamp="1537880100138">
+        <mark key="[" line="21" column="42" />
+        <mark key="]" line="21" column="43" />
+        <mark key="^" line="21" column="43" />
+        <mark key="." line="21" column="43" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/core/src/main/scala/com/leoilab/sensible/groups/CreateGroupDTO.scala" timestamp="1519116187630">
         <mark key="[" line="5" column="10" />
@@ -2624,12 +2624,7 @@
         <mark key="^" line="39" column="23" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/build.sbt" timestamp="1530182447091">
-        <mark key="[" line="88" column="40" />
-        <mark key="]" line="88" column="38" />
-        <mark key="^" line="88" column="38" />
-        <mark key="." line="88" column="38" />
-      </file>
+      <file name="$USER_HOME$/Source/platform-memberships/build.sbt" timestamp="1537879384041" />
       <file name="$USER_HOME$/Source/launch-configuration-lambda/src/main/scala/lambda/Main.scala" timestamp="1493887608667">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="5" column="30" />
@@ -2749,11 +2744,11 @@
         <mark key="." line="5" column="47" />
         <mark key="^" line="5" column="47" />
       </file>
-      <file name="$USER_HOME$/Source/platform-memberships/version.sbt" timestamp="1530198550343">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="28" />
-        <mark key="^" line="0" column="28" />
-        <mark key="." line="0" column="28" />
+      <file name="$USER_HOME$/Source/platform-memberships/version.sbt" timestamp="1537879618887">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
       </file>
       <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/Main.scala" timestamp="1532526836803">
         <mark key="[" line="53" column="69" />
@@ -3128,8 +3123,8 @@
       <jump line="546" column="85" filename="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+      <register name="&quot;" type="4">
+        <text>% &quot;provided&quot;</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5763,13 +5758,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text encoding="base64">JSA=</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb250ZW50LXR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIK</text>
+      <register name="0" type="4">
+        <text>% &quot;provided&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHRpbWUK</text>
