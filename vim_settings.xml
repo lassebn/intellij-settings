@@ -1434,9 +1434,6 @@
         <mark key="^" line="149" column="47" />
         <mark key="." line="149" column="47" />
       </file>
-      <file name="$USER_HOME$/Source/backbone/service/src/main/scala/backbone/service/interpreters/Db/QuillInterpreter.scala" timestamp="1537949653330">
-        <mark key="'" line="23" column="13" />
-      </file>
       <file name="$USER_HOME$/Source/free-monads-functional-web-apps/src/main/scala/com/experiments/calvin/Http.scala" timestamp="1532092589668">
         <mark key="[" line="37" column="27" />
         <mark key="]" line="38" column="29" />
