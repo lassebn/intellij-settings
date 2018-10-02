@@ -176,9 +176,9 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/config/src/main/scala/com/leoilab/config/ConfigModule.scala" timestamp="1536666547776">
-        <mark key="[" line="71" column="33" />
-        <mark key="]" line="71" column="40" />
+      <file name="$USER_HOME$/Source/platform-commons/config/src/main/scala/com/leoilab/config/ConfigModule.scala" timestamp="1538488269479">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="39" />
         <mark key="^" line="71" column="40" />
         <mark key="." line="71" column="40" />
       </file>
@@ -223,11 +223,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/mediautil/src/mediautil/image/jpeg/LLJTran.java" timestamp="1533811959568">
-        <mark key="[" line="2518" column="0" />
-        <mark key="]" line="2518" column="0" />
-        <mark key="." line="2518" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-template.json" timestamp="1505735805647">
         <mark key="[" line="83" column="0" />
@@ -433,11 +428,6 @@
         <mark key="." line="28" column="87" />
         <mark key="^" line="28" column="87" />
       </file>
-      <file name="$USER_HOME$/Source/haskell-intellij-test/src/Main.hs" timestamp="1533714309433">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/sensible-groups/project/plugins.sbt" timestamp="1520416314635">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="54" />
@@ -479,11 +469,6 @@
         <mark key="]" line="43" column="35" />
         <mark key="^" line="43" column="35" />
         <mark key="." line="43" column="35" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-users/.circleci/config.yml" timestamp="1537368104778">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/package.scala" timestamp="1533025060052">
         <mark key="[" line="2" column="21" />
@@ -1224,7 +1209,6 @@
         <mark key="." line="37" column="44" />
         <mark key="^" line="37" column="44" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/ecs-deploy/nginx/nginx.conf" timestamp="1538422132160" />
       <file name="$USER_HOME$/Source/klikkit-backend/build.sbt" timestamp="1505916580655">
         <mark key="[" line="21" column="32" />
         <mark key="]" line="22" column="57" />
@@ -1290,13 +1274,6 @@
         <mark key="]" line="36" column="0" />
         <mark key="^" line="42" column="4" />
         <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-users/docker-compose.yml" timestamp="1537364637950">
-        <mark key="'" line="171" column="11" />
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/ecs-deploy/deploy.sh" timestamp="1512475385755">
         <mark key="[" line="21" column="0" />
@@ -1411,11 +1388,6 @@
         <mark key="]" line="44" column="61" />
         <mark key="." line="44" column="61" />
         <mark key="^" line="44" column="61" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-commons/db/src/main/scala/com/leoilab/db/MySQLDBImpl.scala" timestamp="1536666090931">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/clients/src/test/resources/application.conf" timestamp="1504776318139">
         <mark key="[" line="0" column="0" />
@@ -1555,12 +1527,6 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/build.sbt" timestamp="1536669025109">
-        <mark key="[" line="124" column="111" />
-        <mark key="]" line="124" column="115" />
-        <mark key="." line="124" column="115" />
-        <mark key="^" line="124" column="115" />
-      </file>
       <file name="$USER_HOME$/Source/imagine-backend/src/main/resources/application.conf" timestamp="1504787946153">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="36" />
@@ -1602,11 +1568,6 @@
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-commons/config/src/main/scala/com/leoilab/config/ClusterId.scala" timestamp="1536666314228">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="1" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Source/tree-mysql/src/test/scala/example/GroupServicePropSpec.scala" timestamp="1517232952967">
         <mark key="[" line="8" column="6" />
@@ -1794,11 +1755,11 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/version.sbt" timestamp="1536665326391">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+      <file name="$USER_HOME$/Source/platform-commons/version.sbt" timestamp="1538489121065">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="$USER_HOME$/Source/scala-with-cats/src/main/scala/com/leoilab/sensible/tuts/cats/Main.scala" timestamp="1532881632529">
         <mark key="[" line="35" column="89" />
@@ -1830,11 +1791,11 @@
         <mark key="^" line="8" column="62" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/config/src/main/scala/com/leoilab/config/ConfigValues.scala" timestamp="1536666335198">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Source/platform-commons/config/src/main/scala/com/leoilab/config/ConfigValues.scala" timestamp="1538489089988">
+        <mark key="[" line="17" column="63" />
+        <mark key="]" line="17" column="66" />
+        <mark key="^" line="17" column="66" />
+        <mark key="." line="17" column="66" />
       </file>
       <file name="$USER_HOME$/Source/spike-datawarehouse-export/project/Build.scala" timestamp="1506086002280">
         <mark key="[" line="15" column="13" />
@@ -2039,11 +2000,6 @@
         <mark key="]" line="86" column="69" />
         <mark key="." line="86" column="69" />
         <mark key="^" line="86" column="69" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/audit/AuditModule.scala" timestamp="1536663300544">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend/ecs-deploy/deploy.sh" timestamp="1505916546641">
         <mark key="[" line="21" column="0" />
@@ -2474,11 +2430,6 @@
         <mark key="^" line="6" column="75" />
         <mark key="." line="6" column="58" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/version.sbt" timestamp="1537192539192">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/CollectionsService.scala" timestamp="1531984313800">
         <mark key="[" line="77" column="13" />
         <mark key="]" line="78" column="122" />
@@ -2532,11 +2483,6 @@
         <mark key="]" line="16" column="35" />
         <mark key="^" line="16" column="35" />
         <mark key="." line="16" column="35" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-commons/config/src/main/scala/com/leoilab/config/ConnectionConfig.scala" timestamp="1536666332253">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/test/scala/com/leoilab/klikkit/ClickRepositorySpec.scala" timestamp="1508846794102">
         <mark key="[" line="172" column="25" />
@@ -2688,11 +2634,6 @@
         <mark key="^" line="240" column="90" />
         <mark key="." line="240" column="90" />
       </file>
-      <file name="$USER_HOME$/Source/mediautil/src/main/java/mediautil/image/jpeg/LLJTran.java" timestamp="1534415035451">
-        <mark key="[" line="2518" column="0" />
-        <mark key="]" line="2518" column="0" />
-        <mark key="." line="2518" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/test/scala/com/leoilab/utils/InMemoryPostgresStorage.scala" timestamp="1509543611717">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="14" column="59" />
@@ -2794,11 +2735,6 @@
         <mark key="]" line="50" column="44" />
         <mark key="^" line="50" column="44" />
         <mark key="." line="50" column="44" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-commons/akka/src/main/scala/com/leoilab/akka/AkkaModule.scala" timestamp="1536668840100">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Source/imagine-backend/src/test/scala/com/leoilab/imagine/FunctionalSpec.scala" timestamp="1501057380328">
         <mark key="[" line="10" column="9" />
@@ -3132,8 +3068,8 @@
       <jump line="23" column="13" filename="$USER_HOME$/Source/backbone/service/src/main/scala/backbone/service/interpreters/Db/QuillInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_: Exporter.Dto.ClinicalCharacteristics</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5767,16 +5703,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_: Exporter.Dto.ClinicalCharacteristics</text>
+        <text>.stagng</text>
       </register>
       <register name="/" type="4">
         <text>ExportData</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGhlYWRlcnMgPSBTdHJlYW0uZW1pdCgKICAgICAgICBBcnJheSgiaWQiLCAiZXh0ZXJuYWxJbWFnZUlkIiwgInBsYXRmb3JtSW1hZ2VJZCIsICJwYXRpZW50SWQiLCAiaXNIb2xkb3V0IiwgImlzRmFjZSIsICJzb3VyY2UiLCAiY3JlYXRlZEF0IikKICAgICAgKQo=</text>
+      <register name="0" type="4">
+        <text>override val suffix: String = &quot;.staging&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGFra2FIdHRwVmVyc2lvbiA9ICIxMC4wLjExIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5792,28 +5728,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IG1hcnRpbmplbnNlbiBvbiAxNC8wMS8yMDE3LgogICoKICAqIFdyYXBwZXIgZm9yIGFjY2Vzc2luZyB0eXBlc2FmZSB2YWx1ZXMgKHR5cGljYWxseSBhcHBsaWNhdGlvbi5jb25mIHdpdGggZmFsbGJhY2sgdG8gcmVmZXJlbmNlLmNvbmY7IHNlZSBodHRwczovL2dpdGh1Yi5jb20vdHlwZXNhZmVodWIvY29uZmlnKQogICogV2UgYWdncmVzc2l2ZWx5IGZhaWwgYW5kIGRvbid0IG1ha2UgdXNlIG9mIGRlZmF1bHRzIGluIGNvZGUsIHJlbHlpbmcgb24gYSBwcm9wZXJseSBidW5kbGVkIGNvbmZpZ3VyYXRpb24uCiAgKiBUbyBtYWtlIGEgdmFsdWUgb3ZlcnJpZGFibGUgdXNpbmcgZW52aXJvbm1lbnQgdmFyaWFibGVzLCB1c2UgdGhlIHR5cGVzYWZlIHBhdHRlcm4KICAqIGdyb3VwIHsKICAqICAgdmFsdWUgPSAiZXhhbXBsZSIKICAqICAgdmFsdWUgPSA9ICR7P0dST1VQX1ZBTFVFfQogICogfQogICogYW5kIHVzZSBkZWZhdWx0IHZhbHVlcyB0aGF0IGFsbG93IGZvciBhcHBsaWNhdGlvbnMgdG8gcnVuIGluIGEgZGV2ZWxvcGVyIHNldHRpbmcuCiAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdhaXRfZnVuY3Rpb24gPSBsYW1iZGEgc2VsZjogcmFuZG9tLmV4cG92YXJpYXRlKDEpKjEwMDAK</text>
+        <text encoding="base64">ICAgICAgdmFsIGtleSA9IGVudHJ5Ll8xCiAgICAgIHZhbCB2YWx1ZSA9IGVudHJ5Ll8yCiAgICAgIGJpbmRlckFjY2Vzcy5iaW5kQ29uc3RhbnQuYW5ub3RhdGVkV2l0aE5hbWUoa2V5KS50byh2YWx1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDEwKQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGFra2FIdHRwVmVyc2lvbiA9ICIxMC4wLjExIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiUmVzcG9uc2UgY29udGVudDoiLCByZXNwb25zZS50ZXh0KQo=</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEB0YXNrKDEpCiAgICBkZWYgdGFzayhzZWxmKToKICAgICAgICBUcnVlCg==</text>
+        <text encoding="base64">ICAgIHdhaXRfZnVuY3Rpb24gPSBsYW1iZGEgc2VsZjogcmFuZG9tLmV4cG92YXJpYXRlKDEpKjEwMDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidXNlcm5hbWUiLCBzZWxmLnVzZXJuYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDEwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiUmVzcG9uc2UgY29udGVudDoiLCByZXNwb25zZS50ZXh0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEB0YXNrKDEpCiAgICBkZWYgdGFzayhzZWxmKToKICAgICAgICBUcnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>1000</text>
