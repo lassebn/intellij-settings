@@ -2851,11 +2851,11 @@
         <mark key="^" line="39" column="65" />
         <mark key="." line="39" column="65" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/resources/application.staging.conf" timestamp="1538491867446">
-        <mark key="[" line="53" column="12" />
-        <mark key="]" line="53" column="13" />
-        <mark key="." line="53" column="13" />
-        <mark key="^" line="53" column="13" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/resources/application.staging.conf" timestamp="1538548928745">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+        <mark key="^" line="20" column="12" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/CollectionsImagesTable.scala" timestamp="1519996584809">
         <mark key="[" line="44" column="0" />
