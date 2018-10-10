@@ -2143,7 +2143,7 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1537948988383">
+      <file name="/fragment.java" timestamp="1539200514433">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-definition-migrate-template.json" timestamp="1505735739661">
@@ -2410,6 +2410,12 @@
         <mark key="." line="49" column="85" />
         <mark key="^" line="49" column="85" />
       </file>
+      <file name="$USER_HOME$/Source/react-app/public/index.html" timestamp="1539200814579">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="28" />
+        <mark key="^" line="21" column="28" />
+        <mark key="." line="21" column="28" />
+      </file>
       <file name="$USER_HOME$/Source/platform-memberships/src/main/resources/application.conf" timestamp="1527170348171">
         <mark key="[" line="23" column="22" />
         <mark key="]" line="22" column="20" />
@@ -2505,6 +2511,9 @@
         <mark key="]" line="231" column="165" />
         <mark key="." line="231" column="165" />
         <mark key="^" line="231" column="165" />
+      </file>
+      <file name="$USER_HOME$/Source/react-app/package.json" timestamp="1539200021480">
+        <mark key="[" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/Source/JpegRotationTester/src/main/scala/Main.scala" timestamp="1534430178905">
         <mark key="[" line="9" column="166" />
@@ -2800,12 +2809,7 @@
         <mark key="." line="304" column="61" />
         <mark key="^" line="304" column="61" />
       </file>
-      <file name="$USER_HOME$/Source/react-app/src/App.tsx" timestamp="1539198981091">
-        <mark key="[" line="14" column="74" />
-        <mark key="]" line="14" column="11" />
-        <mark key="^" line="14" column="11" />
-        <mark key="." line="14" column="11" />
-      </file>
+      <file name="$USER_HOME$/Source/react-app/src/App.tsx" timestamp="1539200743640" />
       <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/db/migration/V7__meta_groups.sql" timestamp="1526385337187">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="9" />
@@ -2895,6 +2899,9 @@
         <mark key="]" line="17" column="39" />
         <mark key="^" line="17" column="39" />
         <mark key="." line="17" column="39" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1539200740266">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/docker-compose.yml" timestamp="1528704271652">
         <mark key="[" line="29" column="62" />
@@ -3091,7 +3098,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFwcGlkID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGtqc2xnanNmZ2tsamE7bGdranNhbDtna2phc2w7a2dqZGFsamdrYWdqO2FsZ2prYWw7a2pnYTtnLgo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5734,7 +5741,7 @@
         <text>override val suffix: String = &quot;.staging&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwcGlkID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGtqc2xnanNmZ2tsamE7bGdranNhbDtna2phc2w7a2dqZGFsamdrYWdqO2FsZ2prYWw7a2pnYTtnLgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5753,25 +5760,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IG1hcnRpbmplbnNlbiBvbiAxNC8wMS8yMDE3LgogICoKICAqIFdyYXBwZXIgZm9yIGFjY2Vzc2luZyB0eXBlc2FmZSB2YWx1ZXMgKHR5cGljYWxseSBhcHBsaWNhdGlvbi5jb25mIHdpdGggZmFsbGJhY2sgdG8gcmVmZXJlbmNlLmNvbmY7IHNlZSBodHRwczovL2dpdGh1Yi5jb20vdHlwZXNhZmVodWIvY29uZmlnKQogICogV2UgYWdncmVzc2l2ZWx5IGZhaWwgYW5kIGRvbid0IG1ha2UgdXNlIG9mIGRlZmF1bHRzIGluIGNvZGUsIHJlbHlpbmcgb24gYSBwcm9wZXJseSBidW5kbGVkIGNvbmZpZ3VyYXRpb24uCiAgKiBUbyBtYWtlIGEgdmFsdWUgb3ZlcnJpZGFibGUgdXNpbmcgZW52aXJvbm1lbnQgdmFyaWFibGVzLCB1c2UgdGhlIHR5cGVzYWZlIHBhdHRlcm4KICAqIGdyb3VwIHsKICAqICAgdmFsdWUgPSAiZXhhbXBsZSIKICAqICAgdmFsdWUgPSA9ICR7P0dST1VQX1ZBTFVFfQogICogfQogICogYW5kIHVzZSBkZWZhdWx0IHZhbHVlcyB0aGF0IGFsbG93IGZvciBhcHBsaWNhdGlvbnMgdG8gcnVuIGluIGEgZGV2ZWxvcGVyIHNldHRpbmcuCiAgKi8K</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGtleSA9IGVudHJ5Ll8xCiAgICAgIHZhbCB2YWx1ZSA9IGVudHJ5Ll8yCiAgICAgIGJpbmRlckFjY2Vzcy5iaW5kQ29uc3RhbnQuYW5ub3RhdGVkV2l0aE5hbWUoa2V5KS50byh2YWx1ZSkK</text>
+        <text encoding="base64">ICAgIGFwcGlkID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGFra2FIdHRwVmVyc2lvbiA9ICIxMC4wLjExIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IG1hcnRpbmplbnNlbiBvbiAxNC8wMS8yMDE3LgogICoKICAqIFdyYXBwZXIgZm9yIGFjY2Vzc2luZyB0eXBlc2FmZSB2YWx1ZXMgKHR5cGljYWxseSBhcHBsaWNhdGlvbi5jb25mIHdpdGggZmFsbGJhY2sgdG8gcmVmZXJlbmNlLmNvbmY7IHNlZSBodHRwczovL2dpdGh1Yi5jb20vdHlwZXNhZmVodWIvY29uZmlnKQogICogV2UgYWdncmVzc2l2ZWx5IGZhaWwgYW5kIGRvbid0IG1ha2UgdXNlIG9mIGRlZmF1bHRzIGluIGNvZGUsIHJlbHlpbmcgb24gYSBwcm9wZXJseSBidW5kbGVkIGNvbmZpZ3VyYXRpb24uCiAgKiBUbyBtYWtlIGEgdmFsdWUgb3ZlcnJpZGFibGUgdXNpbmcgZW52aXJvbm1lbnQgdmFyaWFibGVzLCB1c2UgdGhlIHR5cGVzYWZlIHBhdHRlcm4KICAqIGdyb3VwIHsKICAqICAgdmFsdWUgPSAiZXhhbXBsZSIKICAqICAgdmFsdWUgPSA9ICR7P0dST1VQX1ZBTFVFfQogICogfQogICogYW5kIHVzZSBkZWZhdWx0IHZhbHVlcyB0aGF0IGFsbG93IGZvciBhcHBsaWNhdGlvbnMgdG8gcnVuIGluIGEgZGV2ZWxvcGVyIHNldHRpbmcuCiAgKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdhaXRfZnVuY3Rpb24gPSBsYW1iZGEgc2VsZjogcmFuZG9tLmV4cG92YXJpYXRlKDEpKjEwMDAK</text>
+        <text encoding="base64">ICAgICAgdmFsIGtleSA9IGVudHJ5Ll8xCiAgICAgIHZhbCB2YWx1ZSA9IGVudHJ5Ll8yCiAgICAgIGJpbmRlckFjY2Vzcy5iaW5kQ29uc3RhbnQuYW5ub3RhdGVkV2l0aE5hbWUoa2V5KS50byh2YWx1ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDEwKQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGFra2FIdHRwVmVyc2lvbiA9ICIxMC4wLjExIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiUmVzcG9uc2UgY29udGVudDoiLCByZXNwb25zZS50ZXh0KQo=</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name=":" type="4">
         <text>1000</text>
