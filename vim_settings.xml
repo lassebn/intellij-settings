@@ -888,12 +888,6 @@
         <mark key="." line="33" column="30" />
         <mark key="^" line="33" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/test/scala/com/leoilab/app/user/UserApiSpec.scala" timestamp="1537507125394">
-        <mark key="'" line="546" column="85" />
-        <mark key="[" line="556" column="0" />
-        <mark key="]" line="556" column="0" />
-        <mark key="." line="556" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/klikkit-backend/docker-compose.yml" timestamp="1502799849479">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
@@ -1638,6 +1632,12 @@
         <mark key="]" line="48" column="35" />
         <mark key="." line="48" column="35" />
         <mark key="^" line="48" column="35" />
+      </file>
+      <file name="$USER_HOME$/Source/react-app/src/index.tsx" timestamp="1539199355554">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="24" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/it/scala/com/leoilab/images/client/ImagesClientCollectionPropertiesIntegrationTest.scala" timestamp="1523005745557">
         <mark key="[" line="43" column="0" />
@@ -2799,6 +2799,12 @@
         <mark key="]" line="304" column="61" />
         <mark key="." line="304" column="61" />
         <mark key="^" line="304" column="61" />
+      </file>
+      <file name="$USER_HOME$/Source/react-app/src/App.tsx" timestamp="1539198981091">
+        <mark key="[" line="14" column="74" />
+        <mark key="]" line="14" column="11" />
+        <mark key="^" line="14" column="11" />
+        <mark key="." line="14" column="11" />
       </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/main/resources/db/migration/V7__meta_groups.sql" timestamp="1526385337187">
         <mark key="[" line="3" column="10" />
