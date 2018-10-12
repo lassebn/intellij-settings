@@ -707,6 +707,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1539354165139" />
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -1875,7 +1876,6 @@
         <mark key="." line="48" column="37" />
         <mark key="^" line="48" column="37" />
       </file>
-      <file name="localhost:3000/dist/build/main.bundle.js" timestamp="1539346725301" />
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/access/CollectionAccessDirective.scala" timestamp="1503048650120">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -1924,11 +1924,11 @@
         <mark key="." line="24" column="42" />
         <mark key="^" line="24" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/package.json" timestamp="1539354102072">
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="8" column="17" />
-        <mark key="^" line="8" column="17" />
-        <mark key="." line="8" column="17" />
+      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/package.json" timestamp="1539354194818">
+        <mark key="[" line="9" column="86" />
+        <mark key="]" line="9" column="84" />
+        <mark key="^" line="9" column="84" />
+        <mark key="." line="9" column="84" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/KlikkitApiIntegrationTestActivities.scala" timestamp="1509450925796">
         <mark key="[" line="110" column="27" />
@@ -3128,8 +3128,8 @@
       <jump line="23" column="13" filename="$USER_HOME$/Source/backbone/service/src/main/scala/backbone/service/interpreters/Db/QuillInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKHJlYXNvbiA9PiB7CiAgICAgICAgICAgICAgICB7fQogICAgICAgICAgICB9KQoKCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bWtkaXIgLXAgL3Vzci9zcmMvYXBwL2Rpc3QvYnVpbGQvZGlzdC9idWlsZCAmJiBtdiAvdXNyL3NyYy9hcHAvZGlzdC9idWlsZC9tYWluLmJ1bmRsZS5qcyAvdXNyL3NyYy9hcHAvZGlzdC9idWlsZC9kaXN0L2J1aWxk</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5763,7 +5763,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">bWtkaXIgLXAgL3Vzci9zcmMvYXBwL2Rpc3QvYnVpbGQvZGlzdC9idWlsZCAmJiBtdiAvdXNyL3NyYy9hcHAvZGlzdC9idWlsZC9tYWluLmJ1bmRsZS5qcyAvdXNyL3NyYy9hcHAvZGlzdC9idWlsZC9kaXN0L2J1aWxk</text>
       </register>
       <register name="/" type="4">
         <text>ExportData</text>
