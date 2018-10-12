@@ -260,6 +260,12 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/index.html" timestamp="1539353286110">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="11" column="8" />
+        <mark key="." line="11" column="8" />
+        <mark key="^" line="11" column="8" />
+      </file>
       <file name="$USER_HOME$/Source/images3/README.md" timestamp="1503648087003">
         <mark key="[" line="60" column="6" />
         <mark key="]" line="61" column="0" />
@@ -1815,6 +1821,12 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="32" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/index.js" timestamp="1539352437023">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="31" />
+      </file>
       <file name="$USER_HOME$/Source/platform-mandrill-monitor-lambda/src/main/scala/com/leoilab/infrastructure/lambda/MandrillClient.scala" timestamp="1500290357074">
         <mark key="[" line="78" column="33" />
         <mark key="]" line="78" column="33" />
@@ -1911,6 +1923,12 @@
         <mark key="]" line="24" column="42" />
         <mark key="." line="24" column="42" />
         <mark key="^" line="24" column="42" />
+      </file>
+      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/package.json" timestamp="1539354102072">
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/KlikkitApiIntegrationTestActivities.scala" timestamp="1509450925796">
         <mark key="[" line="110" column="27" />
@@ -2746,8 +2764,10 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/actions/index.js" timestamp="1539346653520">
-        <mark key="[" line="38" column="10" />
+      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/actions/index.js" timestamp="1539353916490">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/test/scala/com/leoilab/infrastructure/AwsTasksSpec.scala" timestamp="1512132892479">
         <mark key="[" line="268" column="113" />
@@ -2944,6 +2964,12 @@
         <mark key="." line="525" column="55" />
         <mark key="^" line="525" column="55" />
       </file>
+      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/webpack.config.js" timestamp="1539353799933">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="38" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/raml/api.raml" timestamp="1510827178014">
         <mark key="[" line="517" column="48" />
         <mark key="]" line="519" column="103" />
@@ -3103,7 +3129,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGtqc2xnanNmZ2tsamE7bGdranNhbDtna2phc2w7a2dqZGFsamdrYWdqO2FsZ2prYWw7a2pnYTtnLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKHJlYXNvbiA9PiB7CiAgICAgICAgICAgICAgICB7fQogICAgICAgICAgICB9KQoKCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5737,16 +5763,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>staging</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>ExportData</text>
       </register>
       <register name="0" type="4">
-        <text>override val suffix: String = &quot;.staging&quot;</text>
+        <text>__dirname + buildPath</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGtqc2xnanNmZ2tsamE7bGdranNhbDtna2phc2w7a2dqZGFsamdrYWdqO2FsZ2prYWw7a2pnYTtnLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKHJlYXNvbiA9PiB7CiAgICAgICAgICAgICAgICB7fQogICAgICAgICAgICB9KQoKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5762,28 +5788,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vaG90bW9kdWxlcmVwbGFjZW1lbnRlcGx1Z2luCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQK</text>
+        <text encoding="base64">bGV0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFwcGlkID0gCg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIvbWFpbi5idW5kbGUuZTc3NmEyYzA1NTliNTUyOTQ3MmEuanMiPjwvc2NyaXB0PjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9tYWluLmJ1bmRsZS5lYjkwZjRhZjk4ZGVkYWJkYmMyOS5qcyI+PC9zY3JpcHQ+PC9ib2R5Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICA8c2NyaXB0IHNyYz0iZGlzdC9idWlsZC9tYWluLmJ1bmRsZS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IG1hcnRpbmplbnNlbiBvbiAxNC8wMS8yMDE3LgogICoKICAqIFdyYXBwZXIgZm9yIGFjY2Vzc2luZyB0eXBlc2FmZSB2YWx1ZXMgKHR5cGljYWxseSBhcHBsaWNhdGlvbi5jb25mIHdpdGggZmFsbGJhY2sgdG8gcmVmZXJlbmNlLmNvbmY7IHNlZSBodHRwczovL2dpdGh1Yi5jb20vdHlwZXNhZmVodWIvY29uZmlnKQogICogV2UgYWdncmVzc2l2ZWx5IGZhaWwgYW5kIGRvbid0IG1ha2UgdXNlIG9mIGRlZmF1bHRzIGluIGNvZGUsIHJlbHlpbmcgb24gYSBwcm9wZXJseSBidW5kbGVkIGNvbmZpZ3VyYXRpb24uCiAgKiBUbyBtYWtlIGEgdmFsdWUgb3ZlcnJpZGFibGUgdXNpbmcgZW52aXJvbm1lbnQgdmFyaWFibGVzLCB1c2UgdGhlIHR5cGVzYWZlIHBhdHRlcm4KICAqIGdyb3VwIHsKICAqICAgdmFsdWUgPSAiZXhhbXBsZSIKICAqICAgdmFsdWUgPSA9ICR7P0dST1VQX1ZBTFVFfQogICogfQogICogYW5kIHVzZSBkZWZhdWx0IHZhbHVlcyB0aGF0IGFsbG93IGZvciBhcHBsaWNhdGlvbnMgdG8gcnVuIGluIGEgZGV2ZWxvcGVyIHNldHRpbmcuCiAgKi8K</text>
+        <text encoding="base64">cmVxdWlyZSgnZmlsZS1sb2FkZXI/bmFtZT1bbmFtZV0uW2V4dF0hLi9pbmRleC5odG1sJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGtleSA9IGVudHJ5Ll8xCiAgICAgIHZhbCB2YWx1ZSA9IGVudHJ5Ll8yCiAgICAgIGJpbmRlckFjY2Vzcy5iaW5kQ29uc3RhbnQuYW5ub3RhdGVkV2l0aE5hbWUoa2V5KS50byh2YWx1ZSkK</text>
+        <text encoding="base64">Y29uc3QgSHRtbFdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdodG1sLXdlYnBhY2stcGx1Z2luJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGFra2FIdHRwVmVyc2lvbiA9ICIxMC4wLjExIgo=</text>
+        <text encoding="base64">Y29uc3QgSHRtbFdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdodG1sLXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICA8c2NyaXB0IHNyYz0iZGlzdC9idWlsZC9bbmFtZV0uYnVuZGxlLltoYXNoXS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1000</text>
