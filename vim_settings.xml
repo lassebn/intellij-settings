@@ -701,7 +701,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1537950187169" />
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -1381,6 +1380,9 @@
         <mark key="." line="94" column="39" />
         <mark key="^" line="94" column="39" />
       </file>
+      <file name="webpack:///index.js" timestamp="1539346609594">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/main/resources/db/migration/V1__Create_dummy_table.sql" timestamp="1509544341762">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="34" />
@@ -1861,6 +1863,7 @@
         <mark key="." line="48" column="37" />
         <mark key="^" line="48" column="37" />
       </file>
+      <file name="localhost:3000/dist/build/main.bundle.js" timestamp="1539346725301" />
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/access/CollectionAccessDirective.scala" timestamp="1503048650120">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -2743,7 +2746,9 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/actions/index.js" timestamp="1539343957695" />
+      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/actions/index.js" timestamp="1539346653520">
+        <mark key="[" line="38" column="10" />
+      </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/test/scala/com/leoilab/infrastructure/AwsTasksSpec.scala" timestamp="1512132892479">
         <mark key="[" line="268" column="113" />
         <mark key="]" line="268" column="106" />
@@ -2900,7 +2905,7 @@
         <mark key="^" line="17" column="39" />
         <mark key="." line="17" column="39" />
       </file>
-      <file name="/JavaScript Console" timestamp="1539200740266">
+      <file name="/JavaScript Console" timestamp="1539346826384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/docker-compose.yml" timestamp="1528704271652">
