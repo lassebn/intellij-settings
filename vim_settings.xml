@@ -1924,11 +1924,11 @@
         <mark key="." line="24" column="42" />
         <mark key="^" line="24" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/package.json" timestamp="1539354194818">
-        <mark key="[" line="9" column="86" />
-        <mark key="]" line="9" column="84" />
+      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/package.json" timestamp="1539587951303">
+        <mark key="[" line="52" column="33" />
+        <mark key="]" line="52" column="33" />
         <mark key="^" line="9" column="84" />
-        <mark key="." line="9" column="84" />
+        <mark key="." line="52" column="33" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/KlikkitApiIntegrationTestActivities.scala" timestamp="1509450925796">
         <mark key="[" line="110" column="27" />
@@ -2964,11 +2964,11 @@
         <mark key="." line="525" column="55" />
         <mark key="^" line="525" column="55" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/webpack.config.js" timestamp="1539353799933">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="14" column="38" />
-        <mark key="." line="14" column="38" />
-        <mark key="^" line="14" column="38" />
+      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/webpack.config.js" timestamp="1539590026548">
+        <mark key="[" line="36" column="5" />
+        <mark key="]" line="36" column="5" />
+        <mark key="." line="36" column="5" />
+        <mark key="^" line="36" column="5" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/raml/api.raml" timestamp="1510827178014">
         <mark key="[" line="517" column="48" />
@@ -3128,8 +3128,8 @@
       <jump line="23" column="13" filename="$USER_HOME$/Source/backbone/service/src/main/scala/backbone/service/interpreters/Db/QuillInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bWtkaXIgLXAgL3Vzci9zcmMvYXBwL2Rpc3QvYnVpbGQvZGlzdC9idWlsZCAmJiBtdiAvdXNyL3NyYy9hcHAvZGlzdC9idWlsZC9tYWluLmJ1bmRsZS5qcyAvdXNyL3NyYy9hcHAvZGlzdC9idWlsZC9kaXN0L2J1aWxk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxvZ0xldmVsOiAndHJhY2UnLAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5763,7 +5763,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWtkaXIgLXAgL3Vzci9zcmMvYXBwL2Rpc3QvYnVpbGQvZGlzdC9idWlsZCAmJiBtdiAvdXNyL3NyYy9hcHAvZGlzdC9idWlsZC9tYWluLmJ1bmRsZS5qcyAvdXNyL3NyYy9hcHAvZGlzdC9idWlsZC9kaXN0L2J1aWxk</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>ExportData</text>
@@ -5772,7 +5772,7 @@
         <text>__dirname + buildPath</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKHJlYXNvbiA9PiB7CiAgICAgICAgICAgICAgICB7fQogICAgICAgICAgICB9KQoKCg==</text>
+        <text encoding="base64">ICAgIGxvZ0xldmVsOiAndHJhY2UnLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5788,28 +5788,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vaG90bW9kdWxlcmVwbGFjZW1lbnRlcGx1Z2luCg==</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrLWRldi1zZXJ2ZXIiOiAiXjMuMS45Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7Cg==</text>
+        <text encoding="base64">ICAgICJjbGVhbi13ZWJwYWNrLXBsdWdpbiI6ICJeMC4xLjE5IiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIvbWFpbi5idW5kbGUuZTc3NmEyYzA1NTliNTUyOTQ3MmEuanMiPjwvc2NyaXB0PjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9tYWluLmJ1bmRsZS5lYjkwZjRhZjk4ZGVkYWJkYmMyOS5qcyI+PC9zY3JpcHQ+PC9ib2R5Pgo=</text>
+        <text encoding="base64">ICAgICJjbGVhbi13ZWJwYWNrLXBsdWdpbiI6ICJeMC4xLjE5IiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICA8c2NyaXB0IHNyYz0iZGlzdC9idWlsZC9tYWluLmJ1bmRsZS5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">X18K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVxdWlyZSgnZmlsZS1sb2FkZXI/bmFtZT1bbmFtZV0uW2V4dF0hLi9pbmRleC5odG1sJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKHJlYXNvbiA9PiB7CiAgICAgICAgICAgICAgICB7fQogICAgICAgICAgICB9KQoKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgSHRtbFdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdodG1sLXdlYnBhY2stcGx1Z2luJykK</text>
+        <text encoding="base64">ICAgIC8vaG90bW9kdWxlcmVwbGFjZW1lbnRlcGx1Z2luCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgSHRtbFdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdodG1sLXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
+        <text encoding="base64">bGV0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICA8c2NyaXB0IHNyYz0iZGlzdC9idWlsZC9bbmFtZV0uYnVuZGxlLltoYXNoXS5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIvbWFpbi5idW5kbGUuZTc3NmEyYzA1NTliNTUyOTQ3MmEuanMiPjwvc2NyaXB0PjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9tYWluLmJ1bmRsZS5lYjkwZjRhZjk4ZGVkYWJkYmMyOS5qcyI+PC9zY3JpcHQ+PC9ib2R5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>1000</text>

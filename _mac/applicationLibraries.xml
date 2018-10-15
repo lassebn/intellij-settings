@@ -1,5 +1,15 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/node" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/webpack" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="jquery-3.1.1" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
