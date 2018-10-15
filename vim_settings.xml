@@ -1924,11 +1924,11 @@
         <mark key="." line="24" column="42" />
         <mark key="^" line="24" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/package.json" timestamp="1539587951303">
-        <mark key="[" line="52" column="33" />
-        <mark key="]" line="52" column="33" />
-        <mark key="^" line="9" column="84" />
-        <mark key="." line="52" column="33" />
+      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/package.json" timestamp="1539591724578">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/it/scala/com/leoilab/klikkit/KlikkitApiIntegrationTestActivities.scala" timestamp="1509450925796">
         <mark key="[" line="110" column="27" />
@@ -2964,11 +2964,11 @@
         <mark key="." line="525" column="55" />
         <mark key="^" line="525" column="55" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/webpack.config.js" timestamp="1539590026548">
-        <mark key="[" line="36" column="5" />
-        <mark key="]" line="36" column="5" />
-        <mark key="." line="36" column="5" />
-        <mark key="^" line="36" column="5" />
+      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/webpack.config.js" timestamp="1539591154228">
+        <mark key="[" line="34" column="5" />
+        <mark key="]" line="34" column="17" />
+        <mark key="." line="34" column="17" />
+        <mark key="^" line="34" column="17" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/raml/api.raml" timestamp="1510827178014">
         <mark key="[" line="517" column="48" />
