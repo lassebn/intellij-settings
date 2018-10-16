@@ -1822,6 +1822,7 @@
         <mark key="^" line="20" column="44" />
         <mark key="." line="20" column="44" />
       </file>
+      <file name="$USER_HOME$/.ideaLibSources/akka-http_2.12-10.1.5-sources.jar!/akka/http/scaladsl/marshalling/ToResponseMarshallable.scala" timestamp="1539681206890" />
       <file name="$USER_HOME$/Source/spike-datawarehouse-export/project/Build.scala" timestamp="1506086002280">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="32" />
@@ -3018,11 +3019,11 @@
         <mark key="^" line="2" column="63" />
         <mark key="." line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/api/ExtendedStatusApi" timestamp="1539679793418">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="22" column="20" />
-        <mark key="^" line="22" column="20" />
-        <mark key="." line="22" column="20" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/api/ExtendedStatusApi" timestamp="1539681267215">
+        <mark key="[" line="35" column="29" />
+        <mark key="]" line="35" column="31" />
+        <mark key="." line="35" column="31" />
+        <mark key="^" line="35" column="31" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/resources/db/migration/V3__PsoHappyId_to_ExternalUserId.sql" timestamp="1497006621593">
         <mark key="[" line="9" column="24" />
@@ -3141,7 +3142,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>List</text>
+        <text>complete</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5775,7 +5776,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>complete</text>
       </register>
       <register name="/" type="4">
         <text>ExportData</text>
@@ -5784,7 +5785,7 @@
         <text>__dirname + buildPath</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY2F0cy5pbXBsaWNpdHMuXwo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5800,28 +5801,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY2F0cy5pbnN0YW5jZXMuXwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY2F0cy5kYXRhLl8K</text>
+        <text encoding="base64">ICAgICAgY2FzZSB0cnVlID0+IGNvbXBsZXRlKFN0YXR1c0NvZGVzLk9LKQogICAgICBjYXNlIGZhbHNlID0+IGNvbXBsZXRlKFN0YXR1c0NvZGVzLlNlcnZpY2VVbmF2YWlsYWJsZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY2F0cy5fCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgdHJ1ZSA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY2F0cy5zeW50YXgudHJhdmVyc2UK</text>
+        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5zY2FsYWRzbC5zZXJ2ZXIue0RpcmVjdGl2ZXMsIFJvdXRlfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY2F0cy5pbnN0YW5jZXMuc2V0Ll8K</text>
+        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5zY2FsYWRzbC5tb2RlbC5TdGF0dXNDb2RlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY2F0cy5fCg==</text>
+        <text encoding="base64">aW1wb3J0IHNwcmF5LnJvdXRpbmcuUm91dGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wbGV0ZShTdGF0dXNDb2Rlcy5PSykK</text>
+        <text encoding="base64">ICBpbXBvcnQgY2F0cy5pbXBsaWNpdHMuXwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ0xldmVsOiAndHJhY2UnLAo=</text>
+        <text encoding="base64">ICBpbXBvcnQgY2F0cy5pbnN0YW5jZXMuXwo=</text>
       </register>
       <register name=":" type="4">
         <text>1000</text>
