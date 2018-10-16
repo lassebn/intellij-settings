@@ -3018,11 +3018,11 @@
         <mark key="^" line="2" column="63" />
         <mark key="." line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/api/ExtendedStatusApi" timestamp="1539678593845">
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="20" column="42" />
-        <mark key="^" line="20" column="42" />
-        <mark key="." line="20" column="42" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/api/ExtendedStatusApi" timestamp="1539679793418">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="20" />
+        <mark key="^" line="22" column="20" />
+        <mark key="." line="22" column="20" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/src/main/resources/db/migration/V3__PsoHappyId_to_ExternalUserId.sql" timestamp="1497006621593">
         <mark key="[" line="9" column="24" />
@@ -3141,7 +3141,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sequence</text>
+        <text>List</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5775,7 +5775,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sequence</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text>ExportData</text>
