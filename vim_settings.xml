@@ -1187,6 +1187,11 @@
         <mark key="^" line="33" column="18" />
         <mark key="." line="33" column="18" />
       </file>
+      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/PlatformMainModule.scala" timestamp="1539781309666">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-memberships/client/src/main/scala/com/leoilab/memberships/client/MembershipsClient.scala" timestamp="1527170328291">
         <mark key="[" line="31" column="150" />
         <mark key="]" line="31" column="151" />
@@ -1791,8 +1796,8 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/version.sbt" timestamp="1538489121065">
-        <mark key="[" line="0" column="28" />
+      <file name="$USER_HOME$/Source/platform-commons/version.sbt" timestamp="1539781294788">
+        <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -3166,8 +3171,8 @@
       <jump line="23" column="13" filename="$USER_HOME$/Source/backbone/service/src/main/scala/backbone/service/interpreters/Db/QuillInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>HealthComponent</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJpbmRBcGkudG9bU3RhdHVzQXBpXQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5810,7 +5815,7 @@
         <text encoding="base64">YWJzdHJhY3QgY2xhc3MgQXBpQmluZGVyIGV4dGVuZHMgU2NhbGFNb2R1bGUgewogIHByaXZhdGUgbGF6eSB2YWwgYXBpQmluZGVyID0gU2NhbGFNdWx0aWJpbmRlci5uZXdTZXRCaW5kZXJbUmVzdENvbXBvbmVudF0oYmluZGVyKQoKICBwcm90ZWN0ZWRbdGhpc10gZGVmIGJpbmRBcGkgPSB7CiAgICBhcGlCaW5kZXIuYWRkQmluZGluZwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kSGVhbHRoQ29tcG9uZW50LnRvW0hlYWx0aENvbXBvbmVudF0K</text>
+        <text encoding="base64">ICAgIGJpbmRBcGkudG9bU3RhdHVzQXBpXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5826,28 +5831,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb3ZlcnJpZGUgZGVmIGNvbmZpZ3VyZSgpOiBVbml0ID0K</text>
+        <text encoding="base64">ICAgICAgICBiaW5kSGVhbHRoQ29tcG9uZW50LnRvW0hlYWx0aENvbXBvbmVudF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJpbmRIZWFsdGhDb21wb25lbnQudG9bR3JvdXBzQXBpXQo=</text>
+        <text encoding="base64">ICAgICAgb3ZlcnJpZGUgZGVmIGNvbmZpZ3VyZSgpOiBVbml0ID0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnJlc3Que0hlYWx0aENvbXBvbmVudEJpbmRlciwgSGVhbHRoQ29tcG9uZW50QmluZGVyVHJhaXR9Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRIZWFsdGhDb21wb25lbnQudG9bR3JvdXBzQXBpXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnJlc3Que0hlYWx0aENvbXBvbmVudEJpbmRlciwgSGVhbHRoQ29tcG9uZW50QmluZGVyVHJhaXR9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHJhaXQgSGVhbHRoQ29tcG9uZW50QmluZGVyVHJhaXQgZXh0ZW5kcyBIZWFsdGhDb21wb25lbnRCaW5kZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpdGggR3JvdXBzQXBpCg==</text>
+        <text encoding="base64">dHJhaXQgSGVhbHRoQ29tcG9uZW50QmluZGVyVHJhaXQgZXh0ZW5kcyBIZWFsdGhDb21wb25lbnRCaW5kZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dHJhaXQgR3JvdXBzQXBpCg==</text>
+        <text encoding="base64">ICAgIHdpdGggR3JvdXBzQXBpCg==</text>
       </register>
       <register name=":" type="4">
         <text>1000</text>
