@@ -707,7 +707,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1539354165139" />
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -1390,11 +1389,11 @@
         <mark key="^" line="48" column="77" />
         <mark key="." line="48" column="77" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/resources/application.conf" timestamp="1530009499838">
-        <mark key="[" line="94" column="52" />
-        <mark key="]" line="94" column="39" />
-        <mark key="." line="94" column="39" />
-        <mark key="^" line="94" column="39" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/resources/application.conf" timestamp="1539782813495">
+        <mark key="[" line="61" column="38" />
+        <mark key="]" line="61" column="37" />
+        <mark key="." line="61" column="37" />
+        <mark key="^" line="61" column="37" />
       </file>
       <file name="webpack:///index.js" timestamp="1539346609594">
         <mark key="[" line="0" column="0" />
@@ -2303,11 +2302,11 @@
         <mark key="^" line="23" column="49" />
         <mark key="." line="23" column="49" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/groups/GroupsApi.scala" timestamp="1539757847624">
-        <mark key="[" line="26" column="14" />
-        <mark key="]" line="26" column="34" />
-        <mark key="." line="26" column="34" />
-        <mark key="^" line="26" column="34" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/groups/GroupsApi.scala" timestamp="1539782866799">
+        <mark key="[" line="44" column="36" />
+        <mark key="]" line="43" column="26" />
+        <mark key="." line="43" column="26" />
+        <mark key="^" line="43" column="26" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/resources/db/migration/V2__Reminders.sql" timestamp="1508156854339">
         <mark key="[" line="9" column="17" />
@@ -2700,6 +2699,12 @@
         <mark key="]" line="252" column="27" />
         <mark key="^" line="252" column="27" />
         <mark key="." line="252" column="27" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/api/ExtendedStatusApi.scala" timestamp="1539782025475">
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="27" column="45" />
+        <mark key="^" line="27" column="45" />
+        <mark key="." line="27" column="45" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/test/scala/com/leoilab/utils/InMemoryPostgresStorage.scala" timestamp="1509543611717">
         <mark key="[" line="10" column="0" />
@@ -3171,8 +3176,8 @@
       <jump line="23" column="13" filename="$USER_HOME$/Source/backbone/service/src/main/scala/backbone/service/interpreters/Db/QuillInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRBcGkudG9bU3RhdHVzQXBpXQo=</text>
+      <register name="&quot;" type="4">
+        <text>groups</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5806,7 +5811,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HealthComponent</text>
+        <text>groups</text>
       </register>
       <register name="/" type="4">
         <text>ExportData</text>
