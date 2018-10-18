@@ -750,11 +750,11 @@
         <mark key="." line="10" column="34" />
         <mark key="^" line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/HealthComponent.scala" timestamp="1539846202182">
-        <mark key="[" line="6" column="63" />
-        <mark key="]" line="6" column="63" />
-        <mark key="." line="6" column="63" />
-        <mark key="^" line="4" column="29" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/HealthComponent.scala" timestamp="1539851861899">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/Source/tree-mysql/src/main/scala/example/MutableInMemoryGroupService.scala" timestamp="1517232902428">
         <mark key="[" line="2" column="31" />
@@ -2303,11 +2303,11 @@
         <mark key="^" line="23" column="49" />
         <mark key="." line="23" column="49" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/groups/GroupsApi.scala" timestamp="1539846262845">
-        <mark key="[" line="51" column="10" />
-        <mark key="]" line="51" column="48" />
-        <mark key="^" line="51" column="48" />
-        <mark key="." line="51" column="48" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/groups/GroupsApi.scala" timestamp="1539851488199">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="21" />
+        <mark key="^" line="50" column="21" />
+        <mark key="." line="50" column="21" />
       </file>
       <file name="$USER_HOME$/Source/klikkit-backend-v3/src/main/resources/db/migration/V2__Reminders.sql" timestamp="1508156854339">
         <mark key="[" line="9" column="17" />
@@ -2701,11 +2701,11 @@
         <mark key="^" line="252" column="27" />
         <mark key="." line="252" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/api/ExtendedStatusApi.scala" timestamp="1539850753667">
-        <mark key="[" line="27" column="104" />
-        <mark key="]" line="27" column="100" />
-        <mark key="^" line="27" column="100" />
-        <mark key="." line="27" column="100" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/api/ExtendedStatusApi.scala" timestamp="1539851767170">
+        <mark key="[" line="25" column="22" />
+        <mark key="]" line="31" column="14" />
+        <mark key="." line="31" column="14" />
+        <mark key="^" line="31" column="14" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/test/scala/com/leoilab/utils/InMemoryPostgresStorage.scala" timestamp="1509543611717">
         <mark key="[" line="10" column="0" />
@@ -3178,7 +3178,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Y2FzZSA=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5812,7 +5812,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Y2FzZSA=</text>
       </register>
       <register name="/" type="4">
         <text>ExportData</text>
@@ -5821,7 +5821,7 @@
         <text encoding="base64">YWJzdHJhY3QgY2xhc3MgQXBpQmluZGVyIGV4dGVuZHMgU2NhbGFNb2R1bGUgewogIHByaXZhdGUgbGF6eSB2YWwgYXBpQmluZGVyID0gU2NhbGFNdWx0aWJpbmRlci5uZXdTZXRCaW5kZXJbUmVzdENvbXBvbmVudF0oYmluZGVyKQoKICBwcm90ZWN0ZWRbdGhpc10gZGVmIGJpbmRBcGkgPSB7CiAgICBhcGlCaW5kZXIuYWRkQmluZGluZwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgIFN0YXR1c0NvZGVzLlNlcnZpY2VVbmF2YWlsYWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5837,28 +5837,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJTZXJ2aWNlIHVuYXZhaWxhYmxlIikK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBjYXNlIGZhbHNlID0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJBbGwgY29tcG9uZW50cyBoZWFsdGh5IikK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBjYXNlIHRydWUgPT4K</text>
+        <text encoding="base64">ICAgIGNhc2UgVW5oZWFsdGh5KF8sIF8pID0+IGZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBoZWFsdGh5QW5kVW5oZWFsdGh5Q29tcG9uZW50cyA9IAo=</text>
+        <text encoding="base64">ICAgIGNhc2UgSGVhbHRoeSgpID0+IHRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5pbmZvKHMiR3JvdXBzIHNlcnZpY2UgdW5hdmFpbGFibGUgKCR1cmwpIikK</text>
+        <text encoding="base64">ICBkZWYgSGVhbHRoQ2hlY2tUb0Jvb2woeDogU3RhdHVzQ2hlY2spOiBCb29sZWFuID0geCBtYXRjaCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKHVuaGVhbHRoeVNlcnZpY2VzLm1hcCh4LmFzIFVuaGVhbHRoeSA9PiB4LnJlYXNvbikubWtTdHJpbmcoIlxuIikpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5pbmZvKCJHcm91cHMgc2VydmljZSBhdmFpbGFibGUgZm9yIHByb3h5aW5nIikK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgIFN0YXR1c0NvZGVzLlNlcnZpY2VVbmF2YWlsYWJsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>1000</text>
