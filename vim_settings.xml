@@ -2701,11 +2701,11 @@
         <mark key="^" line="252" column="27" />
         <mark key="." line="252" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/api/ExtendedStatusApi.scala" timestamp="1539850204685">
-        <mark key="[" line="27" column="63" />
-        <mark key="]" line="27" column="68" />
-        <mark key="^" line="27" column="68" />
-        <mark key="." line="27" column="68" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/api/ExtendedStatusApi.scala" timestamp="1539850753667">
+        <mark key="[" line="27" column="104" />
+        <mark key="]" line="27" column="100" />
+        <mark key="^" line="27" column="100" />
+        <mark key="." line="27" column="100" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/test/scala/com/leoilab/utils/InMemoryPostgresStorage.scala" timestamp="1509543611717">
         <mark key="[" line="10" column="0" />
@@ -3178,7 +3178,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>partition</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5812,7 +5812,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>partition</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ExportData</text>
