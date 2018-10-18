@@ -707,6 +707,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1539850157565" />
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -1591,7 +1592,6 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/ApiBinder.scala" timestamp="1539775690290" />
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
         <mark key="[" line="16" column="69" />
         <mark key="]" line="16" column="70" />
@@ -2701,11 +2701,11 @@
         <mark key="^" line="252" column="27" />
         <mark key="." line="252" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/api/ExtendedStatusApi.scala" timestamp="1539850078012">
-        <mark key="[" line="27" column="108" />
-        <mark key="]" line="27" column="107" />
-        <mark key="^" line="27" column="107" />
-        <mark key="." line="27" column="107" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/api/ExtendedStatusApi.scala" timestamp="1539850204685">
+        <mark key="[" line="27" column="63" />
+        <mark key="]" line="27" column="68" />
+        <mark key="^" line="27" column="68" />
+        <mark key="." line="27" column="68" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/test/scala/com/leoilab/utils/InMemoryPostgresStorage.scala" timestamp="1509543611717">
         <mark key="[" line="10" column="0" />
@@ -3177,8 +3177,8 @@
       <jump line="23" column="13" filename="$USER_HOME$/Source/backbone/service/src/main/scala/backbone/service/interpreters/Db/QuillInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgIFN0YXR1c0NvZGVzLlNlcnZpY2VVbmF2YWlsYWJsZQo=</text>
+      <register name="&quot;" type="4">
+        <text>partition</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5812,7 +5812,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">XyBtYXRjaCB7Y2FzZSBjb20ubGVvaWxhYi5zZW5zaWJsZS5yZXN0LkhlYWx0aHkoKSA9ID4gdHJ1ZTsgY2FzZSBjb20ubGVvaWxhYi5zZW5zaWJsZS5yZXN0LlVuaGVhbHRoeShyZWFzb24pID0+IGZhbHNlfQ==</text>
+        <text>partition</text>
       </register>
       <register name="/" type="4">
         <text>ExportData</text>
