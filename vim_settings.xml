@@ -786,6 +786,12 @@
         <mark key="^" line="138" column="36" />
         <mark key="." line="138" column="36" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/happyinsights/HappyInsightsApi.scala" timestamp="1539945216106">
+        <mark key="[" line="24" column="2" />
+        <mark key="]" line="24" column="9" />
+        <mark key="^" line="24" column="9" />
+        <mark key="." line="24" column="9" />
+      </file>
       <file name="/Dummy.scala" timestamp="1537190107724">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
@@ -2187,11 +2193,11 @@
         <mark key="^" line="58" column="73" />
         <mark key="." line="58" column="73" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/klikkit/KlikkitApi.scala" timestamp="1519994592576">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="21" column="1" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/klikkit/KlikkitApi.scala" timestamp="1539945144413">
+        <mark key="[" line="27" column="2" />
+        <mark key="]" line="27" column="9" />
+        <mark key="." line="27" column="9" />
+        <mark key="^" line="27" column="9" />
       </file>
       <file name="$USER_HOME$/Source/images3/client/src/test/scala/com/leoilab/images/client/ImagesClientSpec.scala" timestamp="1503565055763">
         <mark key="[" line="33" column="30" />
@@ -2715,11 +2721,6 @@
         <mark key="^" line="146" column="46" />
         <mark key="." line="146" column="46" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/mail/MailService.scala" timestamp="1539694441510">
-        <mark key="]" line="252" column="27" />
-        <mark key="^" line="252" column="27" />
-        <mark key="." line="252" column="27" />
-      </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/api/ExtendedStatusApi.scala" timestamp="1539865655055">
         <mark key="[" line="22" column="126" />
         <mark key="]" line="22" column="126" />
@@ -2953,6 +2954,12 @@
         <mark key="." line="20" column="12" />
         <mark key="^" line="20" column="12" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/docs/DocsApi.scala" timestamp="1539945100185">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="49" column="2" />
+        <mark key="." line="48" column="22" />
+        <mark key="^" line="48" column="22" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/CollectionsImagesTable.scala" timestamp="1519996584809">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="1" />
@@ -2985,10 +2992,6 @@
       </file>
       <file name="/JavaScript Console" timestamp="1539346826384">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.leoilab/platform-commons-rest_2.11/srcs/platform-commons-rest_2.11-2.2.5-sources.jar!/com/leoilab/ApiBinder.scala" timestamp="1539697069856">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="10" column="2" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/docker-compose.yml" timestamp="1528704271652">
         <mark key="[" line="29" column="62" />
@@ -3196,8 +3199,8 @@
       <jump line="7" column="34" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/apigateway/DownstreamHeathChecker.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">b3ZlcnJpZGUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgaXNIZWFsdGh5OiBGdXR1cmVbU3RhdHVzQ2hlY2tdID0gewogICAgdmFsIHVybCA9IHMiJGtsaWtraXRBcGlWMi9zdGF0dXMiCiAgICBjaGVja0Rvd25zdHJlYW0odXJsKQogIH0K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5831,13 +5834,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3ZlcnJpZGUg</text>
+        <text>isHealthy</text>
       </register>
       <register name="/" type="4">
         <text>ExportData</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlbmRSZWNlaXZlKGFmLCBlYykoR2V0KHVybCkpIG1hcCB7IGh0dHBSZXNwb25zZSA9PgogICAgICBodHRwUmVzcG9uc2Uuc3RhdHVzLmlzU3VjY2VzcyBtYXRjaCB7CiAgICAgICAgY2FzZSB0cnVlID0+IEhlYWx0aHkoKQogICAgICAgIGNhc2UgZmFsc2UgPT4gVW5oZWFsdGh5KHNlcnZpY2UgPSAiQmFja2JvbmUgc2VydmljZSIsIHJlYXNvbiA9IGh0dHBSZXNwb25zZS5lbnRpdHkuYXNTdHJpbmcpCiAgICAgIH0KICAgIH0gcmVjb3ZlciB7CiAgICAgIGNhc2UgZSA9PiBVbmhlYWx0aHkoc2VydmljZSA9ICJCYWNrYm9uZSBzZXJ2aWNlIiwgcmVhc29uID0gZS5nZXRNZXNzYWdlKX0KICB9Cg==</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgaXNIZWFsdGh5OiBGdXR1cmVbU3RhdHVzQ2hlY2tdID0gewogICAgdmFsIHVybCA9IHMiJGtsaWtraXRBcGlWMi9zdGF0dXMiCiAgICBjaGVja0Rvd25zdHJlYW0odXJsKQogIH0K</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgIHNlbmRSZWNlaXZlKGFmLCBlYykoR2V0KHVybCkpIG1hcCB7IGh0dHBSZXNwb25zZSA9PgogICAgICBodHRwUmVzcG9uc2Uuc3RhdHVzLmlzU3VjY2VzcyBtYXRjaCB7CiAgICAgICAgY2FzZSB0cnVlID0+IEhlYWx0aHkoKQogICAgICAgIGNhc2UgZmFsc2UgPT4gVW5oZWFsdGh5KHNlcnZpY2UgPSAiR3JvdXBzIHNlcnZpY2UiLCByZWFzb24gPSBodHRwUmVzcG9uc2UuZW50aXR5LmFzU3RyaW5nKQogICAgICB9CiAgICB9</text>
