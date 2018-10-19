@@ -17,6 +17,9 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="3" column="9" />
       </file>
+      <file name="/a.dummy" timestamp="1537520314358">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/GenericPropertyRepository.scala" timestamp="1503391770596">
         <mark key="[" line="10" column="69" />
         <mark key="]" line="10" column="37" />
@@ -119,6 +122,12 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/projects/ProjectsApi.scala" timestamp="1539950575361">
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="25" column="1" />
+        <mark key="^" line="25" column="1" />
+        <mark key="." line="25" column="1" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/test/scala/com/leoilab/images/ImageApiBinaryResponsesFuncSpec.scala" timestamp="1522763628958">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="26" />
@@ -190,6 +199,12 @@
         <mark key="]" line="31" column="79" />
         <mark key="." line="31" column="79" />
         <mark key="^" line="31" column="79" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/psohappy/PsohappyApi.scala" timestamp="1539950881693">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="27" />
+        <mark key="^" line="52" column="27" />
+        <mark key="." line="52" column="27" />
       </file>
       <file name="$USER_HOME$/Source/platform-memberships/src/test/scala/com/leoilab/app/memberships/MembershipsApiSpec.scala" timestamp="1536753582005">
         <mark key="[" line="284" column="47" />
@@ -479,6 +494,12 @@
         <mark key="^" line="43" column="35" />
         <mark key="." line="43" column="35" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/skincoach/SkincoachApi.scala" timestamp="1539950921988">
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="46" column="28" />
+        <mark key="^" line="46" column="28" />
+        <mark key="." line="46" column="28" />
+      </file>
       <file name="$USER_HOME$/Source/free-membership-prototype/src/main/scala/com/leoilab/sensible/permissions/package.scala" timestamp="1533025060052">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="22" />
@@ -647,6 +668,9 @@
         <mark key="." line="35" column="47" />
         <mark key="^" line="35" column="47" />
       </file>
+      <file name="/Dummy.txt" timestamp="1539198585267">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
         <mark key="[" line="68" column="183" />
         <mark key="]" line="68" column="184" />
@@ -707,7 +731,6 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1539850157565" />
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -1200,11 +1223,6 @@
         <mark key="^" line="33" column="18" />
         <mark key="." line="33" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/PlatformMainModule.scala" timestamp="1539781309666">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform-memberships/client/src/main/scala/com/leoilab/memberships/client/MembershipsClient.scala" timestamp="1527170328291">
         <mark key="[" line="31" column="150" />
         <mark key="]" line="31" column="151" />
@@ -1319,7 +1337,7 @@
         <mark key="^" line="20" column="140" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/notifications/NotificationsAPI.scala" timestamp="1539948694606">
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/notifications/NotificationsAPI.scala" timestamp="1539949797496">
         <mark key="[" line="17" column="22" />
         <mark key="]" line="19" column="28" />
         <mark key="." line="19" column="28" />
@@ -1414,6 +1432,9 @@
         <mark key="]" line="61" column="37" />
         <mark key="." line="61" column="37" />
         <mark key="^" line="61" column="37" />
+      </file>
+      <file name="webpack:///index.js" timestamp="1539346609594">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/main/resources/db/migration/V1__Create_dummy_table.sql" timestamp="1509544341762">
         <mark key="[" line="1" column="21" />
@@ -1847,6 +1868,9 @@
         <mark key="^" line="8" column="62" />
         <mark key="." line="8" column="62" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/spinaltap/SpinaltapExposedAPI.scala" timestamp="1539950946507">
+        <mark key="[" line="15" column="22" />
+      </file>
       <file name="$USER_HOME$/Source/platform-commons/config/src/main/scala/com/leoilab/config/ConfigValues.scala" timestamp="1538491098695">
         <mark key="[" line="20" column="12" />
         <mark key="]" line="20" column="44" />
@@ -2207,6 +2231,9 @@
         <mark key="]" line="17" column="37" />
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
+      </file>
+      <file name="/fragment.java" timestamp="1539697783275">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-definition-migrate-template.json" timestamp="1505735739661">
         <mark key="[" line="0" column="0" />
@@ -2580,6 +2607,9 @@
         <mark key="." line="231" column="165" />
         <mark key="^" line="231" column="165" />
       </file>
+      <file name="$USER_HOME$/Source/react-app/package.json" timestamp="1539200021480">
+        <mark key="[" line="20" column="25" />
+      </file>
       <file name="$USER_HOME$/Source/JpegRotationTester/src/main/scala/Main.scala" timestamp="1534430178905">
         <mark key="[" line="9" column="166" />
         <mark key="]" line="9" column="173" />
@@ -2808,11 +2838,6 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/sensible-admin-tool/app/src/actions/index.js" timestamp="1539353916490">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/plugin/src/test/scala/com/leoilab/infrastructure/AwsTasksSpec.scala" timestamp="1512132892479">
         <mark key="[" line="268" column="113" />
         <mark key="]" line="268" column="106" />
@@ -2986,6 +3011,9 @@
         <mark key="]" line="17" column="39" />
         <mark key="^" line="17" column="39" />
         <mark key="." line="17" column="39" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1539346826384">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/docker-compose.yml" timestamp="1528704271652">
         <mark key="[" line="29" column="62" />
@@ -3200,7 +3228,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>membershipsUrl</text>
+        <text>notificationsUrl</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5834,7 +5862,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>membershipsUrl</text>
+        <text>notificationsUrl</text>
       </register>
       <register name="/" type="4">
         <text>ExportData</text>
