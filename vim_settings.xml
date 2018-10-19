@@ -852,11 +852,11 @@
         <mark key="^" line="41" column="19" />
         <mark key="." line="41" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/backbone/BackboneAPI.scala" timestamp="1539936867395">
-        <mark key="[" line="48" column="43" />
-        <mark key="]" line="48" column="58" />
-        <mark key="^" line="48" column="58" />
-        <mark key="." line="48" column="58" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/backbone/BackboneAPI.scala" timestamp="1539939702184">
+        <mark key="[" line="51" column="65" />
+        <mark key="]" line="51" column="76" />
+        <mark key="^" line="51" column="76" />
+        <mark key="." line="51" column="76" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
@@ -3184,7 +3184,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Groups service</text>
+        <text>&quot;</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5818,7 +5818,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Groups service</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ExportData</text>
