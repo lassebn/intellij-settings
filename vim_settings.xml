@@ -17,9 +17,6 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="3" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1537520314358">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/images/model/GenericPropertyRepository.scala" timestamp="1503391770596">
         <mark key="[" line="10" column="69" />
         <mark key="]" line="10" column="37" />
@@ -667,9 +664,6 @@
         <mark key="]" line="35" column="47" />
         <mark key="." line="35" column="47" />
         <mark key="^" line="35" column="47" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1539198585267">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-helloskin/pipeline-definition.json" timestamp="1500276100279">
         <mark key="[" line="68" column="183" />
@@ -1433,9 +1427,6 @@
         <mark key="." line="61" column="37" />
         <mark key="^" line="61" column="37" />
       </file>
-      <file name="webpack:///index.js" timestamp="1539346609594">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform-graphql/src/main/resources/db/migration/V1__Create_dummy_table.sql" timestamp="1509544341762">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="34" />
@@ -1868,8 +1859,11 @@
         <mark key="^" line="8" column="62" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/spinaltap/SpinaltapExposedAPI.scala" timestamp="1539950946507">
-        <mark key="[" line="15" column="22" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/spinaltap/SpinaltapExposedAPI.scala" timestamp="1539952484592">
+        <mark key="[" line="43" column="17" />
+        <mark key="]" line="43" column="35" />
+        <mark key="^" line="43" column="35" />
+        <mark key="." line="43" column="35" />
       </file>
       <file name="$USER_HOME$/Source/platform-commons/config/src/main/scala/com/leoilab/config/ConfigValues.scala" timestamp="1538491098695">
         <mark key="[" line="20" column="12" />
@@ -2231,9 +2225,6 @@
         <mark key="]" line="17" column="37" />
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
-      </file>
-      <file name="/fragment.java" timestamp="1539697783275">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/ecs-deploy/cf-task-definition-migrate-template.json" timestamp="1505735739661">
         <mark key="[" line="0" column="0" />
@@ -2606,9 +2597,6 @@
         <mark key="]" line="231" column="165" />
         <mark key="." line="231" column="165" />
         <mark key="^" line="231" column="165" />
-      </file>
-      <file name="$USER_HOME$/Source/react-app/package.json" timestamp="1539200021480">
-        <mark key="[" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/Source/JpegRotationTester/src/main/scala/Main.scala" timestamp="1534430178905">
         <mark key="[" line="9" column="166" />
@@ -3011,9 +2999,6 @@
         <mark key="]" line="17" column="39" />
         <mark key="^" line="17" column="39" />
         <mark key="." line="17" column="39" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1539346826384">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/psohappy-backend/docker-compose.yml" timestamp="1528704271652">
         <mark key="[" line="29" column="62" />
