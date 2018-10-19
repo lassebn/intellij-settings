@@ -852,11 +852,11 @@
         <mark key="^" line="41" column="19" />
         <mark key="." line="41" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/backbone/BackboneAPI.scala" timestamp="1539936012728">
-        <mark key="[" line="41" column="2" />
-        <mark key="]" line="51" column="3" />
-        <mark key="^" line="40" column="1" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/backbone/BackboneAPI.scala" timestamp="1539936867395">
+        <mark key="[" line="48" column="43" />
+        <mark key="]" line="48" column="58" />
+        <mark key="^" line="48" column="58" />
+        <mark key="." line="48" column="58" />
       </file>
       <file name="$USER_HOME$/Source/studies-and-me/src/it/scala/com/leoilab/studiesandme/UIIntegrationTest.scala" timestamp="1498472014728">
         <mark key="[" line="13" column="26" />
@@ -1592,11 +1592,11 @@
         <mark key="^" line="55" column="16" />
         <mark key="." line="55" column="16" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/HealthModule.scala" timestamp="1539869493039">
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="6" column="46" />
-        <mark key="^" line="6" column="46" />
-        <mark key="." line="6" column="46" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/HealthModule.scala" timestamp="1539937045308">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="9" column="37" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
         <mark key="[" line="16" column="69" />
@@ -2309,9 +2309,9 @@
         <mark key="^" line="23" column="49" />
         <mark key="." line="23" column="49" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/groups/GroupsApi.scala" timestamp="1539935991688">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="53" column="2" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/groups/GroupsApi.scala" timestamp="1539936799346">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="21" />
         <mark key="^" line="46" column="43" />
         <mark key="." line="46" column="43" />
       </file>
@@ -3183,8 +3183,8 @@
       <jump line="23" column="13" filename="$USER_HOME$/Source/backbone/service/src/main/scala/backbone/service/interpreters/Db/QuillInterpreter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgaXNIZWFsdGh5OiBGdXR1cmVbU3RhdHVzQ2hlY2tdID0gewogICAgLy8gVGhlIHN0YXR1cyBlbmRwb2ludCBpcyBub3QgbG9jYXRlZCB1bmRlciBgL3YxL2dyb3Vwc2AgYnV0IGp1c3QgYC92MS9zdGF0dXNgCiAgICB2YWwgZ3JvdXBzUm9vdCA9IGdyb3Vwc1VybC5zcGxpdCgiL2dyb3VwcyIpLmhlYWQKICAgIHZhbCB1cmwgPSBzIiRncm91cHNSb290L3N0YXR1cyIKICAgIHNlbmRSZWNlaXZlKGFmLCBlYykoR2V0KHVybCkpIG1hcCB7IGh0dHBSZXNwb25zZSA9PgogICAgICBodHRwUmVzcG9uc2Uuc3RhdHVzLmlzU3VjY2VzcyBtYXRjaCB7CiAgICAgICAgY2FzZSB0cnVlID0+IEhlYWx0aHkoKQogICAgICAgIGNhc2UgZmFsc2UgPT4gVW5oZWFsdGh5KHNlcnZpY2UgPSAiR3JvdXBzIHNlcnZpY2UiLCByZWFzb24gPSBodHRwUmVzcG9uc2UuZW50aXR5LmFzU3RyaW5nKQogICAgICB9CiAgICB9CiAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Groups service</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5818,16 +5818,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new DummyHealthComponent())</text>
+        <text>Groups service</text>
       </register>
       <register name="/" type="4">
         <text>ExportData</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgaXNIZWFsdGh5OiBGdXR1cmVbU3RhdHVzQ2hlY2tdID0gewogICAgLy8gVGhlIHN0YXR1cyBlbmRwb2ludCBpcyBub3QgbG9jYXRlZCB1bmRlciBgL3YxL2dyb3Vwc2AgYnV0IGp1c3QgYC92MS9zdGF0dXNgCiAgICB2YWwgZ3JvdXBzUm9vdCA9IGdyb3Vwc1VybC5zcGxpdCgiL2dyb3VwcyIpLmhlYWQKICAgIHZhbCB1cmwgPSBzIiRncm91cHNSb290L3N0YXR1cyIKICAgIHNlbmRSZWNlaXZlKGFmLCBlYykoR2V0KHVybCkpIG1hcCB7IGh0dHBSZXNwb25zZSA9PgogICAgICBodHRwUmVzcG9uc2Uuc3RhdHVzLmlzU3VjY2VzcyBtYXRjaCB7CiAgICAgICAgY2FzZSB0cnVlID0+IEhlYWx0aHkoKQogICAgICAgIGNhc2UgZmFsc2UgPT4gVW5oZWFsdGh5KHNlcnZpY2UgPSAiR3JvdXBzIHNlcnZpY2UiLCByZWFzb24gPSBodHRwUmVzcG9uc2UuZW50aXR5LmFzU3RyaW5nKQogICAgICB9CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHNwcmF5LmNsaWVudC5waXBlbGluaW5nLl8KaW1wb3J0IHNwcmF5LnJvdXRpbmcuXwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0aGlzLmJpbmRIZWFsdGhDb21wb25lbnQudG9bRHVtbXlIZWFsdGhDb21wb25lbnRdCg==</text>
+        <text encoding="base64">aW1wb3J0IHNwcmF5LnJvdXRpbmcuXwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5843,28 +5843,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBncm91cHNSb290ID0gLnNwbGl0KCIvZ3JvdXBzIikuaGVhZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBTY2FsYU11bHRpYmluZGVyLgo=</text>
+        <text encoding="base64">ICAgIC8vIFRoZSBzdGF0dXMgZW5kcG9pbnQgaXMgbm90IGxvY2F0ZWQgdW5kZXIgYC92MS9ncm91cHNgIGJ1dCBqdXN0IGAvdjEvc3RhdHVzYAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBoZWFsdGhCaW5kZXIuCg==</text>
+        <text encoding="base64">ICB0aGlzLmJpbmRIZWFsdGhDb21wb25lbnQudG9bRHVtbXlIZWFsdGhDb21wb25lbnRdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBTY2FsYU11bHRpYmluZGVyLgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBoZWFsdGhCaW5kZXIuCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhc2UgVW5oZWFsdGh5KF8sIF8pID0+IGZhbHNlCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1000</text>
