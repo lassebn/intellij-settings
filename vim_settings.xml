@@ -2291,6 +2291,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/Source/platform-commons/rest/src/main/scala/com/leoilab/rest/api/StatusApi.scala" timestamp="1540203571630">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="28" column="2" />
+      </file>
       <file name="$USER_HOME$/Source/sensible-groups/src/it/scala/com/leoilab/sensible/groups/ListAncestorsIntegrationTest.scala" timestamp="1519313514165">
         <mark key="[" line="21" column="19" />
         <mark key="]" line="21" column="16" />
@@ -3240,8 +3246,8 @@
       <jump line="7" column="34" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/apigateway/DownstreamHeathChecker.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>groups</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5875,7 +5881,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>groups</text>
+        <text encoding="base64">Y3VycmVudFRpbWVNaWxsaXMg</text>
       </register>
       <register name="/" type="4">
         <text>ExportData</text>
@@ -5884,7 +5890,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnJlc3QuaGVhbHRoLntIZWFsdGh5LCBTdGF0dXNDaGVjaywgVW5oZWFsdGh5fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRBcGkudG9bRXh0ZW5kZWRTdGF0dXNBcGldCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5900,22 +5906,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnJlc3QuYXBpLkV4dGVuZGVkU3RhdHVzQXBpCg==</text>
+        <text encoding="base64">ICBkZWYgdGltZShsb2c6IChIdHRwUmVxdWVzdCwgSHR0cFJlc3BvbnNlLCBMb25nKSA9PiBVbml0KTogRGlyZWN0aXZlMCA9CiAgICBtYXBSZXF1ZXN0Q29udGV4dCB7IGN0eCA9PgogICAgICB2YWwgdGltZVN0YW1wID0gU3lzdGVtLm5hbm9UaW1lKCkKICAgICAgY3R4LndpdGhIdHRwUmVzcG9uc2VNYXBwZWQgeyByZXNwb25zZSA9PgogICAgICAgIGxvZyhjdHgucmVxdWVzdCwgcmVzcG9uc2UsIFN5c3RlbS5uYW5vVGltZSgpIC0gdGltZVN0YW1wKQogICAgICAgIHJlc3BvbnNlCiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnJlc3QuSGVhbHRoQ29tcG9uZW50Cg==</text>
+        <text encoding="base64">ICB2YWwgdDAgPSBTeXN0ZW0ubmFub1RpbWUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnJlc3Que0hlYWx0aENvbXBvbmVudCwgU3RhdHVzQ2hlY2t9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCB0MCA9IFN5c3RlbS5uYW5vVGltZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnJlc3Que0hlYWx0aENvbXBvbmVudCwgU3RhdHVzQ2hlY2t9Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRBcGkudG9bRXh0ZW5kZWRTdGF0dXNBcGldCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnJlc3Que0hlYWx0aENvbXBvbmVudCwgU3RhdHVzQ2hlY2t9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnJlc3QuYXBpLkV4dGVuZGVkU3RhdHVzQXBpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnJlc3Que0hlYWx0aENvbXBvbmVudCwgU3RhdHVzQ2hlY2t9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnJlc3QuSGVhbHRoQ29tcG9uZW50Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnJlc3Que0hlYWx0aENvbXBvbmVudCwgU3RhdHVzQ2hlY2t9Cg==</text>
