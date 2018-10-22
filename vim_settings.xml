@@ -725,6 +725,7 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/circle.yml" timestamp="1540188434961" />
       <file name="$USER_HOME$/Source/sensible-groups/runapp.sh" timestamp="1519135277219">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="22" />
@@ -809,7 +810,7 @@
         <mark key="^" line="42" column="39" />
         <mark key="." line="42" column="39" />
       </file>
-      <file name="/Dummy.scala" timestamp="1537190107724">
+      <file name="/Dummy.scala" timestamp="1540189063438">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="^" line="0" column="38" />
@@ -1619,10 +1620,11 @@
         <mark key="^" line="55" column="16" />
         <mark key="." line="55" column="16" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/HealthModule.scala" timestamp="1540188272939">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/HealthModule.scala" timestamp="1540189585334">
+        <mark key="[" line="30" column="38" />
+        <mark key="]" line="31" column="37" />
+        <mark key="." line="31" column="37" />
+        <mark key="^" line="31" column="37" />
       </file>
       <file name="$USER_HOME$/Source/asg-ecs-integration-lambda/src/main/scala/com/leoilab/infrastructure/lambda/models/AutoscalingLifecycleHookMessage.scala" timestamp="1496224181643">
         <mark key="[" line="16" column="69" />
@@ -2741,6 +2743,12 @@
         <mark key="^" line="146" column="46" />
         <mark key="." line="146" column="46" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/mail/MailService.scala" timestamp="1540189469615">
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="271" column="0" />
+        <mark key="^" line="270" column="41" />
+        <mark key="." line="271" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/sensible/rest/api/ExtendedStatusApi.scala" timestamp="1539956200397">
         <mark key="[" line="21" column="18" />
         <mark key="]" line="22" column="16" />
@@ -3223,8 +3231,8 @@
       <jump line="7" column="34" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/apigateway/DownstreamHeathChecker.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>groups</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5867,7 +5875,7 @@
         <text encoding="base64">ICAgIC8vIFRoZSBzdGF0dXMgZW5kcG9pbnQgaXMgbm90IGxvY2F0ZWQgdW5kZXIgYC92MS9ncm91cHNgIGJ1dCBqdXN0IGAvdjEvc3RhdHVzYAogICAgdmFsIGdyb3Vwc1Jvb3QgPSBncm91cHNVcmwuc3BsaXQoIi9ncm91cHMiKS5oZWFkCiAgICB2YWwgdXJsID0gcyIkZ3JvdXBzUm9vdC9zdGF0dXMiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCB1cmwgPSBzIiRwcm9qZWN0c1VybC9zdGF0dXMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5883,7 +5891,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpbmRIZWFsdGhDb21wb25lbnQudG9bXQo=</text>
+        <text encoding="base64">ICAgIHZhbCB1cmwgPSBzIiRwcm9qZWN0c1VybC9zdGF0dXMiCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGJpbmRIZWFsdGhDb21wb25lbnQudG9bXQo=</text>
@@ -5892,19 +5900,19 @@
         <text encoding="base64">ICAgIGJpbmRIZWFsdGhDb21wb25lbnQudG9bXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZ1dHVyZQo=</text>
+        <text encoding="base64">ICAgIGJpbmRIZWFsdGhDb21wb25lbnQudG9bXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBncm91cHNSb290ID0gZ3JvdXBzVXJsLnNwbGl0KCIvZ3JvdXBzIikuaGVhZAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZ1dHVyZQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCBncm91cHNSb290ID0gZ3JvdXBzVXJsLnNwbGl0KCIvZ3JvdXBzIikuaGVhZAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC8vIFRoZSBzdGF0dXMgZW5kcG9pbnQgaXMgbm90IGxvY2F0ZWQgdW5kZXIgYC92MS9ncm91cHNgIGJ1dCBqdXN0IGAvdjEvc3RhdHVzYAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHNlbmRSZWNlaXZlKGFmLCBlYykoR2V0KHVybCkpIG1hcCB7IGh0dHBSZXNwb25zZSA9PgogICAgICBodHRwUmVzcG9uc2Uuc3RhdHVzLmlzU3VjY2VzcyBtYXRjaCB7CiAgICAgICAgY2FzZSB0cnVlID0+IEhlYWx0aHkoKQogICAgICAgIGNhc2UgZmFsc2UgPT4gVW5oZWFsdGh5KHNlcnZpY2UgPSAiR3JvdXBzIHNlcnZpY2UiLCByZWFzb24gPSBodHRwUmVzcG9uc2UuZW50aXR5LmFzU3RyaW5nKQogICAgICB9CiAgICB9</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIHNlbmRSZWNlaXZlKGFmLCBlYykoR2V0KHVybCkpIG1hcCB7IGh0dHBSZXNwb25zZSA9PgogICAgICBodHRwUmVzcG9uc2Uuc3RhdHVzLmlzU3VjY2VzcyBtYXRjaCB7CiAgICAgICAgY2FzZSB0cnVlID0+IEhlYWx0aHkoKQogICAgICAgIGNhc2UgZmFsc2UgPT4gVW5oZWFsdGh5KHNlcnZpY2UgPSAiQmFja2JvbmUgc2VydmljZSIsIHJlYXNvbiA9IGh0dHBSZXNwb25zZS5lbnRpdHkuYXNTdHJpbmcpCiAgICAgIH0KICAgIH0gcmVjb3ZlciB7CiAgICAgIGNhc2UgZSA9PiBVbmhlYWx0aHkoc2VydmljZSA9ICJCYWNrYm9uZSBzZXJ2aWNlIiwgcmVhc29uID0gZS5nZXRNZXNzYWdlKX0KICB9</text>
+        <text encoding="base64">ICAgIHNlbmRSZWNlaXZlKGFmLCBlYykoR2V0KHVybCkpIG1hcCB7IGh0dHBSZXNwb25zZSA9PgogICAgICBodHRwUmVzcG9uc2Uuc3RhdHVzLmlzU3VjY2VzcyBtYXRjaCB7CiAgICAgICAgY2FzZSB0cnVlID0+IEhlYWx0aHkoKQogICAgICAgIGNhc2UgZmFsc2UgPT4gVW5oZWFsdGh5KHNlcnZpY2UgPSAiR3JvdXBzIHNlcnZpY2UiLCByZWFzb24gPSBodHRwUmVzcG9uc2UuZW50aXR5LmFzU3RyaW5nKQogICAgICB9CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>1000</text>
