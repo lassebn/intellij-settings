@@ -6,6 +6,7 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
+  <option name="SOFT_MARGINS" value="80,100" />
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
