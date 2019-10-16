@@ -557,11 +557,11 @@
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/src/main/scala/com/leoilab/infrastructure/PlatformServicesInfrastructurePlugin.scala" timestamp="1571227449694">
-        <mark key="[" line="70" column="41" />
-        <mark key="]" line="70" column="42" />
-        <mark key="^" line="70" column="95" />
-        <mark key="." line="70" column="42" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/src/main/scala/com/leoilab/infrastructure/PlatformServicesInfrastructurePlugin.scala" timestamp="1571231066734">
+        <mark key="[" line="50" column="43" />
+        <mark key="]" line="76" column="42" />
+        <mark key="^" line="76" column="42" />
+        <mark key="." line="76" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/test.py" timestamp="1499936746519">
         <mark key="[" line="61" column="0" />
@@ -762,10 +762,11 @@
         <mark key="^" line="60" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/src/main/scala/com/leoilab/infrastructure/DeployHelper.scala" timestamp="1571227388084">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/src/main/scala/com/leoilab/infrastructure/DeployHelper.scala" timestamp="1571230962754">
+        <mark key="[" line="9" column="107" />
+        <mark key="]" line="9" column="117" />
+        <mark key="." line="9" column="117" />
+        <mark key="^" line="9" column="117" />
       </file>
       <file name="$USER_HOME$/Source/datawarehouse-ades/.gitignore" timestamp="1500988849635">
         <mark key="[" line="28" column="0" />
@@ -1409,11 +1410,11 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/README.md" timestamp="1512048381332">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="10" column="95" />
-        <mark key="^" line="10" column="95" />
-        <mark key="." line="10" column="95" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/README.md" timestamp="1571230515790">
+        <mark key="[" line="54" column="10" />
+        <mark key="]" line="54" column="10" />
+        <mark key="^" line="47" column="2" />
+        <mark key="." line="54" column="10" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/main/scala/com/leoilab/rest/api/StatusApi.scala" timestamp="1536668625112">
         <mark key="[" line="14" column="17" />
@@ -3246,7 +3247,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getConfigurationUrls(deployConfigurationUrls.value, deployConfigurationRegion.value, streams.value.log),</text>
+        <text>&quot;deployConfiguration.yml&quot;</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5880,16 +5881,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getConfigurationUrls(deployConfigurationUrls.value, deployConfigurationRegion.value, streams.value.log),</text>
+        <text>&quot;deployConfiguration.yml&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ExportData</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnJlc3QuaGVhbHRoLntIZWFsdGh5LCBTdGF0dXNDaGVjaywgVW5oZWFsdGh5fQo=</text>
+        <text encoding="base64">YGBgYmFzaAotIHJ1bjogfAogICAgc2J0IFwKICAgICAgICAtRGVudmlyb25tZW50VmFyaWFibGVzPXVzZXJzLWFwaS1zdGFnaW5nLnltbCBcCiAgICAgICAgLURkZXNpcmVkVGFza3M9MSBcCiAgICAgICAgLURsYXVuY2hUeXBlPWZhcmdhdGUgXAogICAgICAgIGRlcGxveQpgYGAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaWIuZGVwbG95KHRhc2tEZWZpbml0aW9uTG9jYXRpb24sICJkZXBsb3lDb25maWd1cmF0aW9uLnltbCIsIGRlcGxveVRhZywgZGVzaXJlZFRhc2tzLCBmYWlsSWZOb29wLCBzc21QYXJhbWV0ZXJTY29wZSwgbGF1bmNoVHlwZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5905,28 +5906,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0Q29uZmlndXJhdGlvblVybHMoZGVwbG95Q29uZmlndXJhdGlvblVybHM6IExpc3RbU3RyaW5nXSwgcmVnaW9uOiBTdHJpbmcsIGxvZzogTG9nZ2VyKTogVW5pdCA9IHsKICAgIGRlcGxveUNvbmZpZ3VyYXRpb25VcmxzLmZvcmVhY2ggeyB1cmwgPT4KICAgICAgbG9nLmluZm8ocyJHZXR0aW5nIGNvbmZpZ3VyYXRpb24gZnJvbSB1cmwgKHJlZ2lvbjogJHJlZ2lvbik6ICR1cmwiKQoKICAgICAgcyJhd3MgczMgLS1yZWdpb24gJHJlZ2lvbiBjcCAkdXJsIC4iLiEKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlcGxveUNvbmZpZ3VyYXRpb25VcmxzIDo9IExpc3QoCiAgICAgIHMiczM6Ly9sZW8tcGxhdGZvcm0tY29uZmlnL2NvbmZpZy8ke2RlcGxveUNvbmZpZ3VyYXRpb25OYW1lLnZhbHVlfS8ke2RlcGxveUNvbmZpZ3VyYXRpb25OYW1lLnZhbHVlfS1zdGFnaW5nLnltbCIsCiAgICAgIHMiczM6Ly9sZW8tcGxhdGZvcm0tY29uZmlnL2NvbmZpZy8ke2RlcGxveUNvbmZpZ3VyYXRpb25OYW1lLnZhbHVlfS8ke2RlcGxveUNvbmZpZ3VyYXRpb25OYW1lLnZhbHVlfS1wcm9kdWN0aW9uLnltbCIKICAgICksCg==</text>
+        <text encoding="base64">LSBydW46IHNidCAtRGVudmlyb25tZW50VmFyaWFibGVzPXVzZXJzLWFwaS1zdGFnaW5nLnltbCAtRGRlc2lyZWRUYXNrcz0xIC1EbGF1bmNoVHlwZT1mYXJnYXRlIGRlcGxveQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBkZXBsb3lDb25maWd1cmF0aW9uVXJscyA9IHNldHRpbmdLZXlbTGlzdFtTdHJpbmddXSgiTGlzdCBvZiBjb25maWd1cmF0aW9uIGZpbGVzIHRvIGRvd25sb2FkIGZvciBkZXBsb3kiKQo=</text>
+        <text encoding="base64">YGBgYmFzaAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgdGltZShsb2c6IChIdHRwUmVxdWVzdCwgSHR0cFJlc3BvbnNlLCBMb25nKSA9PiBVbml0KTogRGlyZWN0aXZlMCA9Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGVudlZhcnMgPSBzeXMucHJvcHMuZ2V0KCJlbnZpcm9ubWVudFZhcmlhYmxlcyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgdGltZShsb2c6IChIdHRwUmVxdWVzdCwgSHR0cFJlc3BvbnNlLCBMb25nKSA9PiBVbml0KTogRGlyZWN0aXZlMCA9CiAgICBtYXBSZXF1ZXN0Q29udGV4dCB7IGN0eCA9PgogICAgICB2YWwgdGltZVN0YW1wID0gU3lzdGVtLm5hbm9UaW1lKCkKICAgICAgY3R4LndpdGhIdHRwUmVzcG9uc2VNYXBwZWQgeyByZXNwb25zZSA9PgogICAgICAgIGxvZyhjdHgucmVxdWVzdCwgcmVzcG9uc2UsIFN5c3RlbS5uYW5vVGltZSgpIC0gdGltZVN0YW1wKQogICAgICAgIHJlc3BvbnNlCiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgdmFsIGVudmlyb25tZW50VmFyaWFibGVzID0gc3lzLnByb3BzLmdldE9yRWxzZSgiZW52aXJvbm1lbnRWYXJpYWJsZXMiLCBzeXMuZXJyb3IoImVudmlyb25tZW50VmFyaWFibGVzIG11c3QgYmUgc3BlY2lmaWVkIikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWwgdDAgPSBTeXN0ZW0ubmFub1RpbWUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCB0MCA9IFN5c3RlbS5uYW5vVGltZSgpCg==</text>
+        <text encoding="base64">ICBkZWYgZ2V0Q29uZmlndXJhdGlvblVybHMoZGVwbG95Q29uZmlndXJhdGlvblVybHM6IExpc3RbU3RyaW5nXSwgcmVnaW9uOiBTdHJpbmcsIGxvZzogTG9nZ2VyKTogVW5pdCA9IHsKICAgIGRlcGxveUNvbmZpZ3VyYXRpb25VcmxzLmZvcmVhY2ggeyB1cmwgPT4KICAgICAgbG9nLmluZm8ocyJHZXR0aW5nIGNvbmZpZ3VyYXRpb24gZnJvbSB1cmwgKHJlZ2lvbjogJHJlZ2lvbik6ICR1cmwiKQoKICAgICAgcyJhd3MgczMgLS1yZWdpb24gJHJlZ2lvbiBjcCAkdXJsIC4iLiEKICAgIH0KICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>63</text>
