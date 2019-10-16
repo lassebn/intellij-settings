@@ -557,11 +557,11 @@
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/src/main/scala/com/leoilab/infrastructure/PlatformServicesInfrastructurePlugin.scala" timestamp="1571224708635">
-        <mark key="[" line="65" column="48" />
-        <mark key="]" line="36" column="36" />
-        <mark key="^" line="36" column="36" />
-        <mark key="." line="36" column="36" />
+      <file name="$USER_HOME$/Source/sbt-platform-services-infrastructure/src/main/scala/com/leoilab/infrastructure/PlatformServicesInfrastructurePlugin.scala" timestamp="1571226511685">
+        <mark key="[" line="29" column="54" />
+        <mark key="]" line="29" column="54" />
+        <mark key="^" line="29" column="53" />
+        <mark key="." line="29" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/Imagine images in a serie/test.py" timestamp="1499936746519">
         <mark key="[" line="61" column="0" />
@@ -3243,8 +3243,8 @@
       <jump line="7" column="6" filename="$USER_HOME$/Source/sbt-platform-services-infrastructure/src/main/scala/com/leoilab/infrastructure/DeployHelper.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgdGltZShsb2c6IChIdHRwUmVxdWVzdCwgSHR0cFJlc3BvbnNlLCBMb25nKSA9PiBVbml0KTogRGlyZWN0aXZlMCA9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5878,7 +5878,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWFwSHR0cFJlc3BvbnNlIA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>ExportData</text>
@@ -5887,7 +5887,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnJlc3QuaGVhbHRoLntIZWFsdGh5LCBTdGF0dXNDaGVjaywgVW5oZWFsdGh5fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgdGltZShsb2c6IChIdHRwUmVxdWVzdCwgSHR0cFJlc3BvbnNlLCBMb25nKSA9PiBVbml0KTogRGlyZWN0aXZlMCA9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkZXBsb3lDb25maWd1cmF0aW9uVXJscyA9IHNldHRpbmdLZXlbTGlzdFtTdHJpbmddXSgiTGlzdCBvZiBjb25maWd1cmF0aW9uIGZpbGVzIHRvIGRvd25sb2FkIGZvciBkZXBsb3kiKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5903,31 +5903,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgdGltZShsb2c6IChIdHRwUmVxdWVzdCwgSHR0cFJlc3BvbnNlLCBMb25nKSA9PiBVbml0KTogRGlyZWN0aXZlMCA9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgdGltZShsb2c6IChIdHRwUmVxdWVzdCwgSHR0cFJlc3BvbnNlLCBMb25nKSA9PiBVbml0KTogRGlyZWN0aXZlMCA9CiAgICBtYXBSZXF1ZXN0Q29udGV4dCB7IGN0eCA9PgogICAgICB2YWwgdGltZVN0YW1wID0gU3lzdGVtLm5hbm9UaW1lKCkKICAgICAgY3R4LndpdGhIdHRwUmVzcG9uc2VNYXBwZWQgeyByZXNwb25zZSA9PgogICAgICAgIGxvZyhjdHgucmVxdWVzdCwgcmVzcG9uc2UsIFN5c3RlbS5uYW5vVGltZSgpIC0gdGltZVN0YW1wKQogICAgICAgIHJlc3BvbnNlCiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgdDAgPSBTeXN0ZW0ubmFub1RpbWUoKQo=</text>
+        <text encoding="base64">ICBkZWYgdGltZShsb2c6IChIdHRwUmVxdWVzdCwgSHR0cFJlc3BvbnNlLCBMb25nKSA9PiBVbml0KTogRGlyZWN0aXZlMCA9CiAgICBtYXBSZXF1ZXN0Q29udGV4dCB7IGN0eCA9PgogICAgICB2YWwgdGltZVN0YW1wID0gU3lzdGVtLm5hbm9UaW1lKCkKICAgICAgY3R4LndpdGhIdHRwUmVzcG9uc2VNYXBwZWQgeyByZXNwb25zZSA9PgogICAgICAgIGxvZyhjdHgucmVxdWVzdCwgcmVzcG9uc2UsIFN5c3RlbS5uYW5vVGltZSgpIC0gdGltZVN0YW1wKQogICAgICAgIHJlc3BvbnNlCiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCB0MCA9IFN5c3RlbS5uYW5vVGltZSgpCg==</text>
+        <text encoding="base64">ICB2YWwgdDAgPSBTeXN0ZW0ubmFub1RpbWUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJpbmRBcGkudG9bRXh0ZW5kZWRTdGF0dXNBcGldCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCB0MCA9IFN5c3RlbS5uYW5vVGltZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnJlc3QuYXBpLkV4dGVuZGVkU3RhdHVzQXBpCg==</text>
+        <text encoding="base64">ICAgIGJpbmRBcGkudG9bRXh0ZW5kZWRTdGF0dXNBcGldCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnJlc3QuSGVhbHRoQ29tcG9uZW50Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnJlc3QuYXBpLkV4dGVuZGVkU3RhdHVzQXBpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnJlc3Que0hlYWx0aENvbXBvbmVudCwgU3RhdHVzQ2hlY2t9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLnNlbnNpYmxlLnJlc3QuSGVhbHRoQ29tcG9uZW50Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1000</text>
+        <text>29</text>
       </register>
     </registers>
     <search>
@@ -5963,7 +5963,6 @@
         <entry>ExportData</entry>
       </history-search>
       <history-cmd>
-        <entry>75</entry>
         <entry>%s/Future/IO/g</entry>
         <entry>%s/IO/Future/g</entry>
         <entry>%s/db/doobie/g</entry>
@@ -5983,6 +5982,7 @@
         <entry>1230</entry>
         <entry>1231</entry>
         <entry>1000</entry>
+        <entry>29</entry>
       </history-cmd>
       <history-expr />
       <history-input />
