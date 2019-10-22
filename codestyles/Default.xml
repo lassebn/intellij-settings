@@ -7,6 +7,10 @@
     </value>
   </option>
   <option name="SOFT_MARGINS" value="80,100" />
+  <ScalaCodeStyleSettings>
+    <option name="SCALAFMT_CONFIG_PATH" value="/Users/lassenorregaard/Source/scala-ssm-client/.scalafmt.conf" />
+    <option name="FORMATTER" value="1" />
+  </ScalaCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
