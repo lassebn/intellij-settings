@@ -13,7 +13,6 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="ExtendedStatusApi" type="Scala" />
       <mapping pattern="UsersService" type="Scala" />
-      <mapping pattern="nginx.conf" type="nginx file type" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
@@ -30,6 +29,7 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="nginx.conf" type="nginx file type" />
     </extensionMap>
   </component>
 </application>
