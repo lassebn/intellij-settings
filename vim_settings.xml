@@ -164,11 +164,11 @@
         <mark key="^" line="12" column="66" />
         <mark key="." line="12" column="66" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/cordial/LambdaConfig.scala" timestamp="1588319589676">
-        <mark key="[" line="16" column="43" />
-        <mark key="]" line="16" column="86" />
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/cordial/LambdaConfig.scala" timestamp="1588759292398">
+        <mark key="[" line="16" column="77" />
+        <mark key="]" line="16" column="87" />
         <mark key="." line="16" column="86" />
-        <mark key="^" line="16" column="86" />
+        <mark key="^" line="16" column="87" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialService.scala" timestamp="1588231634628">
         <mark key="[" line="78" column="0" />
@@ -306,8 +306,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTYnRFeGNsdXNpb25SdWxlICgiaW8ubmV0dHkiLCAibmV0dHktY29kZWMtaHR0cCIpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>staging</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2941,7 +2941,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>javax</text>
+        <text>staging</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
