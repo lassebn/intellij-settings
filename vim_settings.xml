@@ -109,11 +109,11 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1589293976297">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="35" column="35" />
-        <mark key="." line="35" column="34" />
-        <mark key="^" line="35" column="35" />
+      <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1589367159643">
+        <mark key="[" line="35" column="79" />
+        <mark key="]" line="35" column="91" />
+        <mark key="." line="35" column="90" />
+        <mark key="^" line="35" column="91" />
       </file>
       <file name="$USER_HOME$/Source/images-api/documentation/source/design/architecture.rst" timestamp="1589264536905">
         <mark key="[" line="186" column="10" />
