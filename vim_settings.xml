@@ -131,8 +131,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/cdk/src/main/scala/com/leoilab/images/cdk/CDK.scala" timestamp="1589882270219">
-        <mark key="^" line="92" column="94" />
+      <file name="$USER_HOME$/Source/images-api/cdk/src/main/scala/com/leoilab/images/cdk/CDK.scala" timestamp="1589885321011">
+        <mark key="[" line="137" column="45" />
+        <mark key="]" line="137" column="51" />
+        <mark key="^" line="137" column="51" />
+        <mark key="." line="137" column="50" />
       </file>
       <file name="$USER_HOME$/Source/images-api/cdk-formation/stack.ts" timestamp="1589875397223">
         <mark key="[" line="66" column="0" />
@@ -152,11 +155,11 @@
         <mark key="^" line="73" column="120" />
         <mark key="." line="73" column="119" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/project/Dependencies.scala" timestamp="1589878961568">
-        <mark key="[" line="172" column="32" />
-        <mark key="]" line="172" column="35" />
-        <mark key="." line="172" column="34" />
-        <mark key="^" line="172" column="35" />
+      <file name="$USER_HOME$/Source/images-api/project/Dependencies.scala" timestamp="1589883915717">
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
+        <mark key="^" line="168" column="35" />
       </file>
       <file name="/" timestamp="1589369346385">
         <mark key="[" line="0" column="0" />
@@ -190,8 +193,8 @@
         <mark key="^" line="3" column="196" />
         <mark key="." line="3" column="196" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/cdk.json" timestamp="1589877702867">
-        <mark key="[" line="1" column="14" />
+      <file name="$USER_HOME$/Source/images-api/cdk.json" timestamp="1589884904321">
+        <mark key="[" line="1" column="35" />
         <mark key="]" line="1" column="21" />
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="20" />
@@ -314,8 +317,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmFsIChzZWN1cml0eUdyb3VwLCB2cGMpID0g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2949,7 +2952,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIChzZWN1cml0eUdyb3VwLCB2cGMpID0g</text>
+        <text encoding="base64">bXB0eSA9PiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -2958,34 +2961,34 @@
         <text encoding="base64">ICBkb2NrZXJSZWdpc3RyeSA6PSAiMDg1ODE2OTU2NDcxLmRrci5lY3IuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20iLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChzZWN1cml0eUdyb3VwLCB2cGMpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBOb25lICAgICAgICAgICAgICAgICAgICAgICAgICAgID0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAibGljZW5zZSI6ICJJU0MiLAo=</text>
+        <text encoding="base64">ICAgIGFyZ3MuaGVhZE9wdGlvbiBtYXRjaCB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJzb3VyY2UtbWFwLXN1cHBvcnQiOiAiXjAuNS4xNiIsCg==</text>
+        <text encoding="base64">ICAgICAgZ2l0U2hhOiAgICAgIFN0cmluZywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAibWFpbiI6ICJpbmRleC5qcyIsCg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBOb25lICAgICAgICAgPT4KICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gYWRkIHRvIHNnCg==</text>
+        <text encoding="base64">ICAgIGNvbnRhaW5lckRlZmluaXRpb24uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBzZWN1cml0eUdyb3VwID0gU2VjdXJpdHlHcm91cC5CdWlsZGVyLmNyZWF0ZShzdGFjaywgc2VjdXJpdHlHcm91cE5hbWUpLmJ1aWxkKCkK</text>
+        <text encoding="base64">ICAgICAgLnJlYWRvbmx5Um9vdEZpbGVzeXN0ZW0oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBzZWN1cml0eUdyb3VwUHJvcHMgPSBTZWN1cml0eUdyb3VwUHJvcHMKICAgICAgLmJ1aWxkZXIoKQogICAgICAuYWxsb3dBbGxPdXRib3VuZCh0cnVlKQogICAgICAuZGVzY3JpcHRpb24ocyJTZWN1cml0eSBncm91cCBmb3IgJHtiYXNlbmFtZX0iKQogICAgICAuc2VjdXJpdHlHcm91cE5hbWUoc2VjdXJpdHlHcm91cE5hbWUpCg==</text>
+        <text encoding="base64">ICAgIGNvbnRhaW5lckRlZmluaXRpb24uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFZwYy5mcm9tTG9va3VwKHNjb3BlLCAiVlBDIiwgVnBjTG9va3VwT3B0aW9ucy5idWlsZGVyKCkudnBjSWQoInZwYy01MWI1ZDkzOCIpLmJ1aWxkKCkpCg==</text>
+        <text encoding="base64">ICAgICJzb2Z0d2FyZS5hbWF6b24uYXdzY2RrIiAlICJlY3IiICUgY2RrVmVyc2lvbiwK</text>
       </register>
       <register name=":" type="4">
         <text>223</text>
