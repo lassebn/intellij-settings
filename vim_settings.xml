@@ -104,12 +104,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Source/images-api/project/build.sbt" timestamp="1589869597550" />
-      <file name="$USER_HOME$/Source/images-api/documentation/source/design/architecture.rst" timestamp="1589455617261">
-        <mark key="[" line="186" column="10" />
-        <mark key="]" line="186" column="14" />
-        <mark key="^" line="186" column="14" />
-        <mark key="." line="186" column="13" />
-      </file>
       <file name="$USER_HOME$/Source/images-api/.circleci/config.yml" timestamp="1589878404865">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -127,16 +121,22 @@
         <mark key="^" line="103" column="55" />
         <mark key="." line="103" column="54" />
       </file>
+      <file name="$USER_HOME$/Source/images-api/server/src/test/scala/com/leoilab/images/CordialRouteSpec.scala" timestamp="1590409158938">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="42" column="86" />
+        <mark key="." line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/images-api/project/Dependencies.scala" timestamp="1590400332757">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="54" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/cordial/CordialImageImporterSpec.scala" timestamp="1590405519248">
-        <mark key="[" line="21" column="70" />
-        <mark key="]" line="21" column="90" />
+      <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/cordial/CordialImageImporterSpec.scala" timestamp="1590409936985">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
         <mark key="^" line="21" column="90" />
-        <mark key="." line="21" column="89" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images-api/project/plugins.sbt" timestamp="1589545182149">
         <mark key="[" line="9" column="0" />
@@ -155,17 +155,17 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1590402689563">
-        <mark key="[" line="191" column="111" />
-        <mark key="]" line="191" column="106" />
-        <mark key="^" line="191" column="106" />
-        <mark key="." line="191" column="105" />
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1590407951875">
+        <mark key="[" line="6" column="65" />
+        <mark key="]" line="6" column="65" />
+        <mark key="." line="6" column="65" />
+        <mark key="^" line="317" column="16" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/common/TestStack.scala" timestamp="1590404829031">
-        <mark key="[" line="278" column="0" />
-        <mark key="]" line="278" column="0" />
-        <mark key="^" line="42" column="38" />
-        <mark key="." line="278" column="0" />
+      <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/common/TestStack.scala" timestamp="1590410891539">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="34" column="38" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/resources/db/migration/V20__Cordial_add_timestamps.sql" timestamp="1589779095928">
         <mark key="[" line="0" column="0" />
@@ -179,15 +179,10 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/model/UploadResult.scala" timestamp="1589453999455">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1589798266260">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1590410797095">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="41" />
+        <mark key="." line="14" column="41" />
       </file>
       <file name="$USER_HOME$/Source/images-api/cdk-formation/stack.ts" timestamp="1589875397223">
         <mark key="[" line="66" column="0" />
@@ -195,11 +190,17 @@
         <mark key="^" line="66" column="13" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Main.scala" timestamp="1590405577417">
-        <mark key="[" line="164" column="82" />
-        <mark key="]" line="164" column="97" />
-        <mark key="^" line="164" column="97" />
-        <mark key="." line="164" column="96" />
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/cordial/ImporterConfig.scala" timestamp="1590407717014">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="31" />
+        <mark key="^" line="19" column="31" />
+        <mark key="." line="19" column="30" />
+      </file>
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Main.scala" timestamp="1590410460395">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="189" column="17" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/ImporterTrigger.scala" timestamp="1590404077491">
         <mark key="[" line="50" column="53" />
@@ -207,11 +208,11 @@
         <mark key="." line="50" column="47" />
         <mark key="^" line="50" column="48" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialService.scala" timestamp="1590404506115">
-        <mark key="[" line="73" column="37" />
-        <mark key="]" line="73" column="37" />
-        <mark key="." line="73" column="37" />
-        <mark key="^" line="57" column="94" />
+      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialService.scala" timestamp="1590410352857">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="68" column="14" />
+        <mark key="." line="70" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -319,8 +320,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>LambdaTrigger</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmltYWdlcy5kdG8uQmF0Y2hVcGxvYWRJdGVtCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2954,43 +2955,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>LambdaTrigger</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkb2NrZXJSZWdpc3RyeSA6PSAiMDg1ODE2OTU2NDcxLmRrci5lY3IuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20iLAo=</text>
+        <text encoding="base64">ICAgICAgICBJbXBvcnRlckNvbmZpZygKICAgICAgICAgIEVDU0NsdXN0ZXIoInN0YWdpbmctZWNzLUVDU0NsdXN0ZXItMTNEQlRIOURZQTIxUyIpLAogICAgICAgICAgTGlzdChTZWN1cml0eUdyb3VwKCJzZy0wNGJkYzdiMDZhNTJmMWRhMCIpKSwKICAgICAgICAgIExpc3QoCiAgICAgICAgICAgIFN1Ym5ldCgic3VibmV0LWZiYmQyNTgwIiksIC8vIGV1LWNlbnRyYWwtMWIKICAgICAgICAgICAgU3VibmV0KCJzdWJuZXQtYmE2YTQ1ZjAiKSwgLy8gZXUtY2VudHJhbC0xYwogICAgICAgICAgICBTdWJuZXQoInN1Ym5ldC1mNjY1MjA5ZiIpLCAvLyBldS1jZW50cmFsLTFhCiAgICAgICAgICApLAogICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0cmFpdCBGYWtlTGFtYmRhVHJpZ2dlciBleHRlbmRzIExhbWJkYVRyaWdnZXIgewogICAgcHJpdmF0ZSB2YXIgdHJpZ2dlcmVkOiBMaXN0W0JhdGNoVXBsb2FkSXRlbV0gPSBMaXN0LmVtcHR5CiAgICB2YWwgbGFtYmRhVHJpZ2dlcjogTGFtYmRhVHJpZ2dlci5TZXJ2aWNlW0FueV0gPSBuZXcgTGFtYmRhVHJpZ2dlci5TZXJ2aWNlW0FueV0gewogICAgICBkZWYgdHJpZ2dlckxhbWJkYShmdW5jdGlvbjogTGFtYmRhRnVuY3Rpb25OYW1lLCBpdGVtOiBCYXRjaFVwbG9hZEl0ZW0pOiBVSU9bVW5pdF0gPSBVSU8gewogICAgICAgIHRyaWdnZXJlZCA9IGl0ZW0gOjogdHJpZ2dlcmVkCiAgICAgIH0KICAgIH0KCiAgICBkZWYgZ2V0VHJpZ2dlcmVkOiBTZXRbQmF0Y2hVcGxvYWRJdGVtXSA9IHsKICAgICAgdHJpZ2dlcmVkLnJldmVyc2UudG9TZXQKICAgIH0KICB9Cgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmltYWdlcy5kdG8uQmF0Y2hVcGxvYWRJdGVtCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpdGggVGVzdEZha2VzLkZha2VMYW1iZGFUcmlnZ2VyCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMubGFtYmRhLntBV1NMYW1iZGEsIEFXU0xhbWJkYUNsaWVudEJ1aWxkZXJ9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHMgICAgICAgICBhY2Nlc3NUb2tlbjogQWNjZXNzVG9rZW4sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbmZpZ3VyYXRpb24ucnVudGltZUVudmlyb25tZW50LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsYW1iZGFUcmlnZ2VyLnRyaWdnZXJMYW1iZGEoYmF0Y2hVcGxvYWRXb3JrZXJMYW1iZGFGdW5jdGlvbk5hbWUsIHBheWxvYWQpCg==</text>
+        <text encoding="base64">ICAgICAgcnVudGltZUVudmlyb25tZW50OiAgUnVudGltZUVudmlyb25tZW50LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpbGVuYW1lOiAgICBTdHJpbmcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIF8gPC0gWklPLmNvbGxlY3RBbGxQYXJOKDEwMCkoaW52b2tlUHJvY2Vzc2luZykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGF5bG9hZCA9IG5ldyBCYXRjaFVwbG9hZEl0ZW0oc291cmNlLCBmaWxlbmFtZSwgYWNjZXNzVG9rZW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGludm9rZVByb2Nlc3NpbmcgPSB1bnByb2Nlc3NlZEltYWdlcy5tYXAgeyBmaWxlID0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBsYW1iZGFUcmlnZ2VyOiAgICAgICAgICAgICAgICAgICAgICAgTGFtYmRhVHJpZ2dlci5TZXJ2aWNlW0FueV0K</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFjY2Vzc1Rva2VuIDwtIFpJTy5hY2Nlc3NbUmVxdWVzdENvbnRleHRQcm92aWRlcl0oXy5hY2Nlc3NUb2tlbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmpkay5Db2xsZWN0aW9uQ29udmVydGVycy5fCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGJhdGNoVXBsb2FkV29ya2VyTGFtYmRhRnVuY3Rpb25OYW1lOiBMYW1iZGFGdW5jdGlvbk5hbWUgICAgICAgICA9IExhbWJkYUZ1bmN0aW9uTmFtZSgiZHVtbXkgdmFsdWUgbm90IHVzZWQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>223</text>
