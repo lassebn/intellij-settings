@@ -132,11 +132,11 @@
         <mark key="]" line="79" column="54" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/cordial/CordialImageImporterSpec.scala" timestamp="1589786976547">
-        <mark key="[" line="60" column="56" />
-        <mark key="]" line="60" column="77" />
-        <mark key="^" line="60" column="77" />
-        <mark key="." line="60" column="76" />
+      <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/cordial/CordialImageImporterSpec.scala" timestamp="1590405519248">
+        <mark key="[" line="21" column="70" />
+        <mark key="]" line="21" column="90" />
+        <mark key="^" line="21" column="90" />
+        <mark key="." line="21" column="89" />
       </file>
       <file name="$USER_HOME$/Source/images-api/project/plugins.sbt" timestamp="1589545182149">
         <mark key="[" line="9" column="0" />
@@ -195,8 +195,11 @@
         <mark key="^" line="66" column="13" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="/" timestamp="1589369346385">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Main.scala" timestamp="1590405577417">
+        <mark key="[" line="164" column="82" />
+        <mark key="]" line="164" column="97" />
+        <mark key="^" line="164" column="97" />
+        <mark key="." line="164" column="96" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/ImporterTrigger.scala" timestamp="1590404077491">
         <mark key="[" line="50" column="53" />
@@ -316,8 +319,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB0cmFpdCBGYWtlTGFtYmRhVHJpZ2dlciBleHRlbmRzIExhbWJkYVRyaWdnZXIgewogICAgcHJpdmF0ZSB2YXIgdHJpZ2dlcmVkOiBMaXN0W0JhdGNoVXBsb2FkSXRlbV0gPSBMaXN0LmVtcHR5CiAgICB2YWwgbGFtYmRhVHJpZ2dlcjogTGFtYmRhVHJpZ2dlci5TZXJ2aWNlW0FueV0gPSBuZXcgTGFtYmRhVHJpZ2dlci5TZXJ2aWNlW0FueV0gewogICAgICBkZWYgdHJpZ2dlckxhbWJkYShmdW5jdGlvbjogTGFtYmRhRnVuY3Rpb25OYW1lLCBpdGVtOiBCYXRjaFVwbG9hZEl0ZW0pOiBVSU9bVW5pdF0gPSBVSU8gewogICAgICAgIHRyaWdnZXJlZCA9IGl0ZW0gOjogdHJpZ2dlcmVkCiAgICAgIH0KICAgIH0KCiAgICBkZWYgZ2V0VHJpZ2dlcmVkOiBTZXRbQmF0Y2hVcGxvYWRJdGVtXSA9IHsKICAgICAgdHJpZ2dlcmVkLnJldmVyc2UudG9TZXQKICAgIH0KICB9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>LambdaTrigger</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2951,7 +2954,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3ZlcnJpZGUg</text>
+        <text>LambdaTrigger</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
