@@ -138,11 +138,6 @@
         <mark key="^" line="21" column="90" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/project/plugins.sbt" timestamp="1589545182149">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/images-api/cordial-image-importer/runapp.sh" timestamp="1589781436554">
         <mark key="[" line="3" column="196" />
         <mark key="]" line="3" column="196" />
@@ -213,6 +208,9 @@
         <mark key="]" line="70" column="0" />
         <mark key="^" line="68" column="14" />
         <mark key="." line="70" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1590466447220">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
