@@ -109,11 +109,6 @@
         <mark key="^" line="342" column="85" />
         <mark key="." line="342" column="84" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/.circleci/config.yml" timestamp="1589878404865">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/images-api/cdk/src/main/scala/com/leoilab/images/cdk/CDK.scala" timestamp="1590468628394">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
@@ -131,13 +126,16 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/cordial/CordialImageImporterSpec.scala" timestamp="1590580700406">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="76" column="11" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/cordial/CordialImageImporterSpec.scala" timestamp="1590582033914">
+        <mark key="[" line="53" column="98" />
+        <mark key="]" line="53" column="98" />
+        <mark key="^" line="53" column="98" />
+        <mark key="." line="53" column="97" />
       </file>
       <file name="/sbtShell" timestamp="1590576433769">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1590581826827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images-api/cdk.json" timestamp="1589884904321">
