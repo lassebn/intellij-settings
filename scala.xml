@@ -2,7 +2,7 @@
   <component name="ScalaSettings">
     <option name="COMPILE_SERVER_PORT" value="60379" />
     <option name="COMPILE_SERVER_ID" value="ea4a7256-9e2f-43ae-aad0-21f207d0bc9e" />
-    <option name="COMPILE_SERVER_SDK" value="Project Default" />
+    <option name="COMPILE_SERVER_SDK" value="1.8 (OpenJDK)" />
     <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="2048" />
     <option name="COMPILE_SERVER_JVM_PARAMETERS" value="-server" />
     <option name="COMPILE_SERVER_SHUTDOWN_IDLE" value="false" />
