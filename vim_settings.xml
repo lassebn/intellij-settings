@@ -103,12 +103,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Source/images-api/package.json" timestamp="1589977046323">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="22" />
-        <mark key="^" line="5" column="23" />
-      </file>
       <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1590575647569">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -178,6 +172,12 @@
         <mark key="]" line="343" column="43" />
         <mark key="." line="343" column="42" />
         <mark key="^" line="343" column="43" />
+      </file>
+      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/ImageNormalization.scala" timestamp="1590657763232">
+        <mark key="[" line="17" column="92" />
+        <mark key="]" line="17" column="104" />
+        <mark key="^" line="17" column="104" />
+        <mark key="." line="17" column="103" />
       </file>
       <file name="/sbtShell" timestamp="1590610200144">
         <mark key="[" line="0" column="0" />
