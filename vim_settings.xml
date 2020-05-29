@@ -174,17 +174,17 @@
         <mark key="^" line="50" column="49" />
         <mark key="." line="50" column="48" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/images/ImagesApiIntegrationTest.scala" timestamp="1590743433680">
-        <mark key="[" line="155" column="3" />
-        <mark key="]" line="162" column="36" />
-        <mark key="^" line="162" column="36" />
-        <mark key="." line="162" column="35" />
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/images/ImagesApiIntegrationTest.scala" timestamp="1590749477992">
+        <mark key="[" line="162" column="26" />
+        <mark key="]" line="162" column="33" />
+        <mark key="^" line="162" column="33" />
+        <mark key="." line="162" column="32" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/README.md" timestamp="1590744881177">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="99" column="71" />
-        <mark key="^" line="99" column="71" />
-        <mark key="." line="99" column="70" />
+      <file name="$USER_HOME$/Source/platform-users/README.md" timestamp="1590749532275">
+        <mark key="[" line="99" column="73" />
+        <mark key="]" line="100" column="53" />
+        <mark key="^" line="100" column="53" />
+        <mark key="." line="100" column="52" />
       </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1590585007363">
         <mark key="[" line="332" column="90" />
