@@ -168,6 +168,12 @@
         <mark key="^" line="50" column="49" />
         <mark key="." line="50" column="48" />
       </file>
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/images/ImagesApiIntegrationTest.scala" timestamp="1590743433680">
+        <mark key="[" line="155" column="3" />
+        <mark key="]" line="162" column="36" />
+        <mark key="^" line="162" column="36" />
+        <mark key="." line="162" column="35" />
+      </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1590585007363">
         <mark key="[" line="332" column="90" />
         <mark key="]" line="332" column="101" />
@@ -186,11 +192,11 @@
         <mark key="." line="68" column="173" />
         <mark key="^" line="66" column="156" />
       </file>
-      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/images/ImagesApi.scala" timestamp="1590740613616">
-        <mark key="[" line="47" column="33" />
-        <mark key="]" line="75" column="18" />
-        <mark key="^" line="75" column="18" />
-        <mark key="." line="75" column="17" />
+      <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/images/ImagesApi.scala" timestamp="1590743294574">
+        <mark key="[" line="51" column="10" />
+        <mark key="]" line="51" column="12" />
+        <mark key="^" line="51" column="12" />
+        <mark key="." line="51" column="11" />
       </file>
       <file name="$USER_HOME$/Source/core-lambda-sns-cloudwatch-filter/src/main/scala/com/leoilab/sensible/sns/filter/eventhandler/EventHandler.scala" timestamp="1590700938128">
         <mark key="[" line="45" column="0" />
