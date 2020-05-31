@@ -109,12 +109,6 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1590575647569">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="131" column="63" />
-      </file>
       <file name="$USER_HOME$/Source/images-api/documentation/source/design/architecture.rst" timestamp="1590578198028">
         <mark key="[" line="341" column="69" />
         <mark key="]" line="342" column="85" />
@@ -128,6 +122,7 @@
         <mark key="." line="0" column="70" />
       </file>
       <file name="$USER_HOME$/Source/images-api/permission-setup/src/main/scala/Main.scala" timestamp="1590916419000" />
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/cordial/BackboneConfig.scala" timestamp="1590920165283" />
       <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/cordial/CordialImageImporterSpec.scala" timestamp="1590584802536">
         <mark key="[" line="63" column="11" />
         <mark key="]" line="63" column="23" />
@@ -175,7 +170,7 @@
         <mark key="^" line="100" column="53" />
         <mark key="." line="100" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1590917382216">
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1590920153909">
         <mark key="'" line="2" column="6" />
         <mark key="[" line="363" column="34" />
         <mark key="]" line="363" column="34" />
