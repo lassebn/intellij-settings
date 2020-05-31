@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxdXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>2538</entry>
         <entry>106</entry>
         <entry>196</entry>
         <entry>191</entry>
@@ -49,6 +48,7 @@
         <entry>75</entry>
         <entry>234</entry>
         <entry>223</entry>
+        <entry>262</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -127,12 +127,7 @@
         <mark key="^" line="0" column="71" />
         <mark key="." line="0" column="70" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Main.scala" timestamp="1590575622664">
-        <mark key="[" line="184" column="63" />
-        <mark key="]" line="184" column="63" />
-        <mark key="." line="184" column="63" />
-        <mark key="^" line="184" column="64" />
-      </file>
+      <file name="$USER_HOME$/Source/images-api/permission-setup/src/main/scala/Main.scala" timestamp="1590916419000" />
       <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/cordial/CordialImageImporterSpec.scala" timestamp="1590584802536">
         <mark key="[" line="63" column="11" />
         <mark key="]" line="63" column="23" />
@@ -168,12 +163,6 @@
         <mark key="^" line="49" column="48" />
         <mark key="." line="47" column="2" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialService.scala" timestamp="1590573842531">
-        <mark key="[" line="50" column="40" />
-        <mark key="]" line="50" column="49" />
-        <mark key="^" line="50" column="49" />
-        <mark key="." line="50" column="48" />
-      </file>
       <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/images/ImagesApiIntegrationTest.scala" timestamp="1590749477992">
         <mark key="[" line="162" column="26" />
         <mark key="]" line="162" column="33" />
@@ -186,17 +175,12 @@
         <mark key="^" line="100" column="53" />
         <mark key="." line="100" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1590585007363">
-        <mark key="[" line="332" column="90" />
-        <mark key="]" line="332" column="101" />
-        <mark key="." line="332" column="100" />
-        <mark key="^" line="332" column="101" />
-      </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/common/TestStack.scala" timestamp="1590574024239">
-        <mark key="[" line="39" column="44" />
-        <mark key="]" line="39" column="76" />
-        <mark key="^" line="39" column="76" />
-        <mark key="." line="39" column="75" />
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1590917382216">
+        <mark key="'" line="2" column="6" />
+        <mark key="[" line="363" column="34" />
+        <mark key="]" line="363" column="34" />
+        <mark key="." line="363" column="33" />
+        <mark key="^" line="363" column="34" />
       </file>
       <file name="$USER_HOME$/Source/images-api/documentation/source/requirements/cordial.rst" timestamp="1590578040448">
         <mark key="[" line="68" column="173" />
@@ -216,9 +200,11 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="48" column="51" />
       </file>
+      <file name="/fragment.java" timestamp="1590915249990">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="28" filename="$USER_HOME$/Source/datawarehouse-import/src/main/scala/datawarehouse/Driver.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/datawarehouse-import/src/main/scala/datawarehouse/Driver.scala" />
       <jump line="63" column="6" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/docs/DocsApi.scala" />
       <jump line="64" column="0" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/docs/DocsApi.scala" />
@@ -318,12 +304,13 @@
       <jump line="15" column="0" filename="$USER_HOME$/Source/images-api/batch-upload-worker/src/main/scala/com/leoilab/images/batch/EventHandler.scala" />
       <jump line="45" column="0" filename="$USER_HOME$/Source/images-api/cdk-formation/stack.ts" />
       <jump line="373" column="99" filename="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Routes.scala" />
+      <jump line="2" column="6" filename="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAud2l0aAo=</text>
+      <register name="&quot;" type="4">
+        <text>U</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2957,7 +2944,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text>U</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -2996,7 +2983,7 @@
         <text encoding="base64">ICAgICAgICAgIC51bnNhZmVSdW5TeW5jCg==</text>
       </register>
       <register name=":" type="4">
-        <text>223</text>
+        <text>262</text>
       </register>
     </registers>
   </component>
