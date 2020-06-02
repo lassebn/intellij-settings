@@ -103,23 +103,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Source/images-api/ecs-deploy/cf-task-template.json" timestamp="1591075179512">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform-users/version.sbt" timestamp="1590744843466">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/documentation/source/design/architecture.rst" timestamp="1590578198028">
-        <mark key="[" line="341" column="69" />
-        <mark key="]" line="342" column="85" />
-        <mark key="^" line="342" column="85" />
-        <mark key="." line="342" column="84" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.scala" timestamp="1590663452800">
         <mark key="[" line="1" column="42" />
         <mark key="]" line="0" column="71" />
         <mark key="^" line="0" column="71" />
         <mark key="." line="0" column="70" />
+      </file>
+      <file name="$USER_HOME$/Source/images-api/cdk/src/main/scala/com/leoilab/images/cdk/CDK.scala" timestamp="1591074945733">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images-api/build.sbt" timestamp="1590921344678">
         <mark key="[" line="130" column="40" />
@@ -144,9 +148,6 @@
       <file name="/sbtShell" timestamp="1590741630566">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1590581826827">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/core-lambda-sns-cloudwatch-filter/src/test/scala/com/leoilab/sensible/sns/filter/eventhandler/EventHandlerSpec.scala" timestamp="1590702058562">
         <mark key="[" line="47" column="2" />
         <mark key="]" line="47" column="2" />
@@ -159,7 +160,7 @@
         <mark key="^" line="100" column="53" />
         <mark key="." line="100" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1590921612364">
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1591073486807">
         <mark key="'" line="2" column="6" />
         <mark key="[" line="363" column="34" />
         <mark key="]" line="363" column="34" />
@@ -172,7 +173,7 @@
         <mark key="^" line="51" column="12" />
         <mark key="." line="51" column="11" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/ImporterTrigger.scala" timestamp="1590702791093">
+      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/ImporterTrigger.scala" timestamp="1591074875652">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
@@ -304,8 +305,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>U</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJUYXNrUm9sZUFybiI6IAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2948,34 +2949,34 @@
         <text encoding="base64">ICAgICAgICB2YWwgaGFuZGxlciAgICAgICA9IGNyZWF0ZVRlc3RIYW5kbGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAud2l0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJUYXNrUm9sZUFybiI6IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaGFuZGxlciAgICAgICA9IGNyZWF0ZVRlc3RIYW5kbGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZmFrZVB1Ymxpc2hlciA9IG5ldyBGYWtlUHVibGlzaGVyCg==</text>
+        <text encoding="base64">ICAgICAgLmV4ZWN1dGlvblJvbGUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaGFuZGxlciAgICAgICA9IGNyZWF0ZVRlc3RIYW5kbGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAud2l0aFQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZmFrZVB1Ymxpc2hlciA9IG5ldyBGYWtlUHVibGlzaGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgZmFrZVB1Ymxpc2hlciA9IG5ldyBGYWtlUHVibGlzaGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5pc0VtcHR5IHNob3VsZEJlIHRydWUK</text>
+        <text encoding="base64">ICAgIHZhbCBzZXJ2ZXJVc2VyICAgPSBVc2VyLmZyb21Vc2VyTmFtZShzdGFjaywgInNlcnZlclVzZXIiLCAiaW1hZ2VzLWFwaS1zdGFnaW5nIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC51bnNhZmVSdW5TeW5jCg==</text>
+        <text encoding="base64">ICAgIHNvdXJjZUJ1Y2tldC5ncmFudFJlYWQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
