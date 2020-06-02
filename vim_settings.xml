@@ -114,6 +114,13 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="31" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/Coursier/v1/s3/s3-eu-west-1.amazonaws.com/leo-platform-packages/releases/com.leoilab/scala-ssm-client_2.13/0.12.0/srcs/scala-ssm-client_2.13-sources.jar!/com/leoilab/ssm/AWSSsmClientBuilder.scala" timestamp="1591103795171" />
+      <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1591101340531">
+        <mark key="[" line="93" column="41" />
+        <mark key="]" line="97" column="74" />
+        <mark key="." line="97" column="73" />
+        <mark key="^" line="97" column="74" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.scala" timestamp="1590663452800">
         <mark key="[" line="1" column="42" />
         <mark key="]" line="0" column="71" />
@@ -125,14 +132,23 @@
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/build.sbt" timestamp="1591103186405">
-        <mark key="[" line="131" column="30" />
-        <mark key="]" line="131" column="41" />
-        <mark key="^" line="131" column="41" />
-        <mark key="." line="131" column="40" />
+      <file name="$USER_HOME$/Source/images-api/build.sbt" timestamp="1591103479790">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="41" />
+        <mark key="^" line="4" column="41" />
+        <mark key="." line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/permission-setup/src/main/scala/Main.scala" timestamp="1590916419000" />
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/cordial/BackboneConfig.scala" timestamp="1590921118199" />
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Main.scala" timestamp="1591103483028">
+        <mark key="[" line="99" column="40" />
+        <mark key="]" line="111" column="57" />
+        <mark key="." line="111" column="56" />
+        <mark key="^" line="111" column="57" />
+      </file>
+      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/ImporterTrigger.scala" timestamp="1591074875652">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="/sbtShell" timestamp="1590741630566">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,41 +164,24 @@
         <mark key="^" line="100" column="53" />
         <mark key="." line="100" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1591073486807">
+      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/images/ImagesApiIntegrationTest.scala" timestamp="1590749477992">
+        <mark key="[" line="162" column="26" />
+        <mark key="]" line="162" column="33" />
+        <mark key="^" line="162" column="33" />
+        <mark key="." line="162" column="32" />
+      </file>
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1591104023973">
         <mark key="'" line="2" column="6" />
-        <mark key="[" line="363" column="34" />
-        <mark key="]" line="363" column="34" />
-        <mark key="." line="363" column="33" />
-        <mark key="^" line="363" column="34" />
+        <mark key="[" line="359" column="19" />
+        <mark key="]" line="359" column="20" />
+        <mark key="." line="359" column="19" />
+        <mark key="^" line="359" column="20" />
       </file>
       <file name="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/images/ImagesApi.scala" timestamp="1590743294574">
         <mark key="[" line="51" column="10" />
         <mark key="]" line="51" column="12" />
         <mark key="^" line="51" column="12" />
         <mark key="." line="51" column="11" />
-      </file>
-      <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1591101340531">
-        <mark key="[" line="93" column="41" />
-        <mark key="]" line="97" column="74" />
-        <mark key="." line="97" column="73" />
-        <mark key="^" line="97" column="74" />
-      </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Main.scala" timestamp="1591101408799">
-        <mark key="[" line="99" column="40" />
-        <mark key="]" line="111" column="57" />
-        <mark key="." line="111" column="56" />
-        <mark key="^" line="111" column="57" />
-      </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/ImporterTrigger.scala" timestamp="1591074875652">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/images/ImagesApiIntegrationTest.scala" timestamp="1590749477992">
-        <mark key="[" line="162" column="26" />
-        <mark key="]" line="162" column="33" />
-        <mark key="^" line="162" column="33" />
-        <mark key="." line="162" column="32" />
       </file>
       <file name="$USER_HOME$/Source/core-lambda-sns-cloudwatch-filter/src/main/scala/com/leoilab/sensible/sns/filter/eventhandler/EventHandler.scala" timestamp="1590700938128">
         <mark key="[" line="45" column="0" />
@@ -300,7 +299,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAuZW5hYmxlUGx1Z2lucyhQYWNrUGx1Z2luKQo=</text>
+        <text encoding="base64">ICAgICAgICBhd3NDbGllbnQgPSBVSU8oQVdTU2ltcGxlU3lzdGVtc01hbmFnZW1lbnRDbGllbnRCdWlsZGVyLnN0YW5kYXJkKCkud2l0aFJlZ2lvbihSZWdpb25zLkVVX0NFTlRSQUxfMSkuYnVpbGQoKSkK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2940,7 +2939,7 @@
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAuZW5hYmxlUGx1Z2lucyhQYWNrUGx1Z2luKQo=</text>
+        <text encoding="base64">ICAgICAgICBhd3NDbGllbnQgPSBVSU8oQVdTU2ltcGxlU3lzdGVtc01hbmFnZW1lbnRDbGllbnRCdWlsZGVyLnN0YW5kYXJkKCkud2l0aFJlZ2lvbihSZWdpb25zLkVVX0NFTlRSQUxfMSkuYnVpbGQoKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
