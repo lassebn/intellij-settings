@@ -136,9 +136,9 @@
         <mark key="." line="173" column="86" />
         <mark key="^" line="173" column="87" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/ImageService.scala" timestamp="1591183732828">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="49" />
+      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/ImageService.scala" timestamp="1591221899471">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="48" />
         <mark key="." line="152" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/cordial/BackboneConfig.scala" timestamp="1591186545215">
@@ -167,6 +167,12 @@
         <mark key="]" line="100" column="53" />
         <mark key="^" line="100" column="53" />
         <mark key="." line="100" column="52" />
+      </file>
+      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialService.scala" timestamp="1591222102584">
+        <mark key="[" line="158" column="38" />
+        <mark key="]" line="158" column="115" />
+        <mark key="." line="158" column="114" />
+        <mark key="^" line="158" column="115" />
       </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1591189852667">
         <mark key="'" line="2" column="6" />
@@ -291,7 +297,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBub3RpZmljYXRpb246ICBOb3RpZmljYXRpb24uU2VydmljZVtBbnldCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2931,7 +2937,7 @@
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhdXRoZW50aWNhdG9yICAgICAgID0gbmV3IGltYWdlcy5BdXRoZW50aWNhdG9yLlVzZXJzQXBpQXV0aGVudGljYXRvcihjb25maWd1cmF0aW9uLnVzZXJzVXJsKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBub3RpZmljYXRpb246ICBOb3RpZmljYXRpb24uU2VydmljZVtBbnldCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
