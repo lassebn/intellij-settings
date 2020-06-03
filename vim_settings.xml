@@ -147,9 +147,6 @@
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/Backbone.scala" timestamp="1591188777190">
         <mark key="[" line="85" column="20" />
-        <mark key="]" line="86" column="20" />
-        <mark key="^" line="86" column="20" />
-        <mark key="." line="86" column="19" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/ImporterTrigger.scala" timestamp="1591074875652">
         <mark key="[" line="56" column="0" />
@@ -170,18 +167,6 @@
         <mark key="]" line="100" column="53" />
         <mark key="^" line="100" column="53" />
         <mark key="." line="100" column="52" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-users/src/it/scala/com/leoilab/app/images/ImagesApiIntegrationTest.scala" timestamp="1590749477992">
-        <mark key="[" line="162" column="26" />
-        <mark key="]" line="162" column="33" />
-        <mark key="^" line="162" column="33" />
-        <mark key="." line="162" column="32" />
-      </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialService.scala" timestamp="1591188227335">
-        <mark key="[" line="26" column="1" />
-        <mark key="]" line="28" column="17" />
-        <mark key="^" line="28" column="17" />
-        <mark key="." line="28" column="16" />
       </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1591189852667">
         <mark key="'" line="2" column="6" />
