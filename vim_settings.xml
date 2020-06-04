@@ -108,11 +108,6 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/cdk/src/main/scala/com/leoilab/images/cdk/CDK.scala" timestamp="1591074945733">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/images-api/.circleci/config.yml" timestamp="1591170088259">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -136,11 +131,11 @@
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/Backbone.scala" timestamp="1591188777190">
         <mark key="[" line="85" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/cordial/CordialImageImporterSpec.scala" timestamp="1591257250239">
-        <mark key="[" line="83" column="44" />
-        <mark key="]" line="83" column="46" />
-        <mark key="." line="83" column="45" />
-        <mark key="^" line="83" column="46" />
+      <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/cordial/CordialImageImporterSpec.scala" timestamp="1591266056438">
+        <mark key="[" line="86" column="58" />
+        <mark key="]" line="87" column="66" />
+        <mark key="." line="87" column="65" />
+        <mark key="^" line="87" column="66" />
       </file>
       <file name="/sbtShell" timestamp="1591171693989">
         <mark key="[" line="0" column="0" />
@@ -151,6 +146,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="376" column="21" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/common/TestStack.scala" timestamp="1591264631770">
+        <mark key="[" line="287" column="54" />
+        <mark key="]" line="287" column="118" />
+        <mark key="^" line="287" column="118" />
+        <mark key="." line="287" column="117" />
       </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/cordial/CordialConfig.scala" timestamp="1591189488847">
         <mark key="[" line="7" column="71" />
@@ -177,8 +178,13 @@
         <mark key="^" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/RequestContextProvider.scala" timestamp="1591255685703" />
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/Notification.scala" timestamp="1591222315836" />
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialService.scala" timestamp="1591256957868" />
+      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/Notification.scala" timestamp="1591265854459" />
+      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialService.scala" timestamp="1591265657107">
+        <mark key="[" line="293" column="17" />
+        <mark key="]" line="293" column="33" />
+        <mark key="." line="293" column="32" />
+        <mark key="^" line="293" column="33" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Source/datawarehouse-import/src/main/scala/datawarehouse/Driver.scala" />
@@ -285,8 +291,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBleHBlY3RlZEF1ZGl0RXZlbnRzID0gTGlzdCgKICAgICAgQ3JlYXRlSW1hZ2UoKQogICAgKQo=</text>
+      <register name="&quot;" type="4">
+        <text>normalizedImageId</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2920,43 +2926,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>normalizedImageId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF8gPC0gYXVkaXQuYXVkaXQoQ3JlYXRlSW1hZ2UodXBsb2FkRGF0YS5yYXdJbWFnZUlkKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhd0ltYWdlR3JvdXAgPSBHcm91cElkKFVVSUQucmFuZG9tVVVJRCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBleHBlY3RlZEF1ZGl0RXZlbnRzID0gTGlzdCgKICAgICAgQ3JlYXRlSW1hZ2UoKQogICAgKQo=</text>
+        <text encoding="base64">ICAgICAgTmV3SW1hZ2VOb3RpZmljYXRpb24obm9ybWFsaXplZEltYWdlSWQsIHMidjEvaW1hZ2UvJHtub3JtYWxpemVkSW1hZ2VJZC52YWx1ZX0iKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXVkaXQgPC0gc2VydmljZS5nZXRBdWRpdAo=</text>
+        <text encoding="base64">ICAgICAqIElmIEBhY3RpbmdVc2VyIGFuZCBAYWN0aW5nQ2xpZW50SWQgYXJlIG5vdCBwYXNzZWQgYXMgcGFyYW1ldGVycwogICAgICogdGhlIHZhbHVlcyB3aWxsIGJlIGV4dHJhY3RlZCBmcm9tIHRoZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IGh0dHBzOi8vbGVvaWxhYi5teWpldGJyYWlucy5jb20veW91dHJhY2svaXNzdWUvQ09SRS02NDQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IFRoZSB1c2VyIGNvbnRleHQgc2hvdWxkIGJlIGluamVjdGVkIGhlcmUKICAgICAgICAgICAgICAgIF8gPC0gbm90aWZpY2F0aW9uLm5vdGlmeShOZXdJbWFnZU5vdGlmaWNhdGlvbihwcm9jZXNzZWRJbWFnZXNEYXRhLnJhd0ltYWdlSWQsIEltYWdlVXJsKHMidjEvaW1hZ2VzLyR7cHJvaW1hZ2VJZC52YWx1ZX0iKSkpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF8gPC0gYXVkaXQuYXVkaXQoKQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5hY2Nlc3NbUmVxdWVzdENvbnRleHRQcm92aWRlcl0oY3R4ID0+IChjdHguYWNjZXNzVG9rZW4uYXV0aEluZm8udXNlcklkLCBjdHguYWNjZXNzVG9rZW4uYXV0aEluZm8uY2xpZW50SWQpKQogICAgICAgICAgLm1hcCB7CiAgICAgICAgICAgIGNhc2UgKHVzZXJJZCwgY2xpZW50SWQpID0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIF8gPC0gdHJ4LnB1cmUoYXVkaXQuYXVkaXQoQ3JlYXRlSW1hZ2UoaW1hZ2VJZCkpKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBfIDwtIHRyeC5wdXJlKGF1ZGl0LmF1ZGl0KENyZWF0ZUltYWdlKGltYWdlSWQpKSkK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyBUT0RPOiBodHRwczovL2xlb2lsYWIubXlqZXRicmFpbnMuY29tL3lvdXRyYWNrL2lzc3VlL0NPUkUtNjQ0Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name=":" type="4">
         <text>144,145y</text>
