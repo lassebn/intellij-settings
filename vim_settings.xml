@@ -126,10 +126,11 @@
         <mark key="^" line="294" column="51" />
         <mark key="." line="289" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1591620365148">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1591622100277">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="16" column="6" />
+        <mark key="." line="16" column="5" />
+        <mark key="^" line="16" column="6" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/project/TestHelper.scala" timestamp="1591620560644">
         <mark key="[" line="22" column="91" />
@@ -154,7 +155,7 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/platform-users-docker-compose/docker-compose.users.yml" timestamp="1591620413246">
+      <file name="$USER_HOME$/Source/platform-images/platform-users-docker-compose/docker-compose.users.yml" timestamp="1591621857469">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
