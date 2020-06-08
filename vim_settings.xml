@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxdXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>1597</entry>
         <entry>1230</entry>
         <entry>1231</entry>
         <entry>1000</entry>
@@ -49,6 +48,7 @@
         <entry>144-145y</entry>
         <entry>144,145y</entry>
         <entry>287</entry>
+        <entry>57</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -108,10 +108,6 @@
         <mark key="]" line="268" column="0" />
         <mark key="." line="268" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/cordial/BackboneConfig.scala" timestamp="1591186545215">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="23" column="3" />
-      </file>
       <file name="$USER_HOME$/Source/platform-images/build.sbt" timestamp="1591607089142">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -142,6 +138,11 @@
         <mark key="^" line="46" column="45" />
         <mark key="." line="46" column="44" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/project/TestHelper.scala" timestamp="1591618943073">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/Store.scala" timestamp="1591611698215">
         <mark key="[" line="263" column="34" />
         <mark key="]" line="264" column="34" />
@@ -165,7 +166,7 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/README.md" timestamp="1591186723062">
+      <file name="$USER_HOME$/Source/images-api/README.md" timestamp="1591617103880">
         <mark key="[" line="80" column="25" />
         <mark key="]" line="80" column="25" />
         <mark key="." line="80" column="25" />
@@ -299,8 +300,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>localhost</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2943,37 +2944,37 @@
         <text encoding="base64">ICAgICAgICBldmVudDogICAgICAgICAgTm90aWZpY2F0aW9uRXZlbnQsCiAgICAgICAgYWN0aW5nVXNlcjogICAgIE9wdGlvbltVc2VySWRdID0gTm9uZSwKICAgICAgICBhY3RpbmdDbGllbnRJZDogT3B0aW9uW0NsaWVudElkXSA9IE5vbmUsCiAgICApOiBVUklPW1Igd2l0aCBSZXF1ZXN0Q29udGV4dFByb3ZpZGVyLCBVbml0XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRvY2tlci52YWx1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Ige30K</text>
+        <text encoding="base64">ICAgIHN0b3BJbnRlZ3JhdGlvblRlc3RTdGFjayhmYWxzZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIF8gPC0gZXZlbnRUb1BheWxvYWQoZXZlbnQsIHVzZXIsIGNsaWVudElkKS5mbGF0TWFwKHNlbmQoZXZlbnQuc2VsZWN0QXJuKHNuc0NvbmZpZyksIF8pKQo=</text>
+        <text encoding="base64">ICAgIGRvY2tlci52YWx1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBVSU8oImhlaiIpLnRhcEVycm9yKGxvZ2dpbmcuZXJyb3IoKSkK</text>
+        <text encoding="base64">ICAgICAgICBmb3Ige30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIF8gPC0gZXZlbnRUb1BheWxvYWQoZXZlbnQsIHVzZXIsIGNsaWVudElkKS5mbGF0TWFwKHNlbmQoZXZlbnQuc2VsZWN0QXJuKHNuc0NvbmZpZyksIF8pKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5pZ25vcmUK</text>
+        <text encoding="base64">ICAgICAgICBVSU8oImhlaiIpLnRhcEVycm9yKGxvZ2dpbmcuZXJyb3IoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5vckRpZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5vckRpZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5pZ25vcmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJpdmF0ZSBkZWYgZXZlbnRUb1BheWxvYWQoCiAgICAgICAgICBldmVudDogICAgICAgICAgTm90aWZpY2F0aW9uRXZlbnQsCiAgICAgICAgICBhY3RpbmdVc2VyOiAgICAgVXNlcklkLAogICAgICAgICAgYWN0aW5nQ2xpZW50SWQ6IENsaWVudElkLAogICAgICApOiBKc29uID0gewogICAgICAgIH0KICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5vckRpZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>287</text>
+        <text>57</text>
       </register>
     </registers>
   </component>
