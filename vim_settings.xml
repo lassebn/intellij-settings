@@ -117,12 +117,12 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1591189852667">
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1591616554266">
         <mark key="'" line="2" column="6" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="376" column="21" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="212" column="39" />
+        <mark key="]" line="212" column="44" />
+        <mark key="^" line="212" column="44" />
+        <mark key="." line="212" column="43" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/common/TestStack.scala" timestamp="1591275665005">
         <mark key="[" line="289" column="0" />
@@ -300,7 +300,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>result)</text>
+        <text>localhost</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2934,7 +2934,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>result)</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
