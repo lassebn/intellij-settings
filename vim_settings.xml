@@ -103,11 +103,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Source/images-api/.circleci/config.yml" timestamp="1591170088259">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/ImageService.scala" timestamp="1591256308018">
         <mark key="[" line="268" column="0" />
         <mark key="]" line="268" column="0" />
@@ -121,9 +116,6 @@
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
-      </file>
-      <file name="/sbtShell" timestamp="1591171693989">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1591189852667">
         <mark key="'" line="2" column="6" />
@@ -150,6 +142,12 @@
         <mark key="^" line="46" column="45" />
         <mark key="." line="46" column="44" />
       </file>
+      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/Store.scala" timestamp="1591611698215">
+        <mark key="[" line="263" column="34" />
+        <mark key="]" line="264" column="34" />
+        <mark key="^" line="264" column="34" />
+        <mark key="." line="264" column="33" />
+      </file>
       <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1591274871947">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="118" />
@@ -174,6 +172,15 @@
         <mark key="^" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/RequestContextProvider.scala" timestamp="1591255685703" />
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Routes.scala" timestamp="1591611810301">
+        <mark key="[" line="335" column="43" />
+        <mark key="]" line="335" column="50" />
+        <mark key="." line="335" column="49" />
+        <mark key="^" line="335" column="50" />
+      </file>
+      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/model/CollectionWithProperties.scala" timestamp="1591611653217">
+        <mark key="[" line="10" column="29" />
+      </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/Notification.scala" timestamp="1591605946194">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="5" column="27" />
@@ -292,8 +299,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRvY2tlci52YWx1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>result)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2927,7 +2934,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>result)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
