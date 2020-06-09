@@ -103,11 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Source/platform-images/platform-users-docker-compose/gremlin-console-config/setup/init.groovy" timestamp="1591689197414">
-        <mark key="[" line="116" column="85" />
-        <mark key="]" line="118" column="85" />
-        <mark key="^" line="118" column="85" />
-        <mark key="." line="118" column="84" />
+      <file name="$USER_HOME$/Source/platform-images/platform-users-docker-compose/gremlin-console-config/setup/init.groovy" timestamp="1591695722886">
+        <mark key="[" line="119" column="2" />
+        <mark key="]" line="119" column="3" />
+        <mark key="^" line="118" column="6" />
+        <mark key="." line="119" column="3" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/ImageService.scala" timestamp="1591256308018">
         <mark key="[" line="268" column="0" />
@@ -136,13 +136,12 @@
         <mark key="^" line="294" column="51" />
         <mark key="." line="289" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1591651846578">
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="13" column="16" />
-        <mark key="." line="13" column="15" />
-        <mark key="^" line="13" column="16" />
+      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1591695522083">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/project/TestHelper.scala" timestamp="1591620560644">
+      <file name="$USER_HOME$/Source/platform-images/project/TestHelper.scala" timestamp="1591694008458">
         <mark key="[" line="22" column="91" />
         <mark key="]" line="22" column="91" />
         <mark key="." line="22" column="91" />
@@ -165,10 +164,10 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/platform-users-docker-compose/docker-compose.users.yml" timestamp="1591652283849">
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="185" column="34" />
-        <mark key="." line="184" column="0" />
+      <file name="$USER_HOME$/Source/platform-images/platform-users-docker-compose/docker-compose.users.yml" timestamp="1591695488777">
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="." line="176" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Main.scala" timestamp="1591274654525">
         <mark key="]" line="8" column="27" />
@@ -309,7 +308,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZ3JlbWxpbi1jb25zb2xlOgogICAgICAgIGNvbmRpdGlvbjogc2VydmljZV9zdGFydGVkCg==</text>
+        <text encoding="base64">ICBncmVtbGluLXNlcnZlcjoKICAgIHZvbHVtZXM6CiAgICAgIC0gLi9wbGF0Zm9ybS11c2Vycy1kb2NrZXItY29tcG9zZS9ncmVtbGluLWNvbnNvbGUtY29uZmlnL2NvbmY6L29wdC9ncmVtbGluLWNvbnNvbGUvY29uZgogICAgICAtIC4vcGxhdGZvcm0tdXNlcnMtZG9ja2VyLWNvbXBvc2UvZ3JlbWxpbi1jb25zb2xlLWNvbmZpZy9zZXR1cDovb3B0L2dyZW1saW4tY29uc29sZS9zZXR1cAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2952,34 +2951,34 @@
         <text encoding="base64">ICAgICAgZ3JlbWxpbi1jb25zb2xlOgogICAgICAgIGNvbmRpdGlvbjogc2VydmljZV9zdGFydGVkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBncmVtbGluLXNlcnZlcjoKICAgIHZvbHVtZXM6CiAgICAgIC0gLi9wbGF0Zm9ybS11c2Vycy1kb2NrZXItY29tcG9zZS9ncmVtbGluLWNvbnNvbGUtY29uZmlnL2NvbmY6L29wdC9ncmVtbGluLWNvbnNvbGUvY29uZgogICAgICAtIC4vcGxhdGZvcm0tdXNlcnMtZG9ja2VyLWNvbXBvc2UvZ3JlbWxpbi1jb25zb2xlLWNvbmZpZy9zZXR1cDovb3B0L2dyZW1saW4tY29uc29sZS9zZXR1cAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiAwODU4MTY5NTY0NzEuZGtyLmVjci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9jb20ubGVvaWxhYi9zZW5zaWJsZS1wcm9qZWN0cwo=</text>
+        <text encoding="base64">IyAgICAgIHBlcm1pc3Npb25zLWJhc2UtZ3JvdXAtbWlncmF0b3I6CiMgICAgICAgIGNvbmRpdGlvbjogc2VydmljZV9zdGFydGVkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBjb20ubGVvaWxhYi9zZW5zaWJsZS1wcm9qZWN0cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzZW5zaWJsZS1wcm9qZWN0czoK</text>
+        <text encoding="base64">IyAgcGVybWlzc2lvbnMtYmFzZS1ncm91cC1taWdyYXRvcjoKIyAgICBpbWFnZTogMDg1ODE2OTU2NDcxLmRrci5lY3IuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20vY29tLmxlb2lsYWIvZ3JhcGgtcGVybWlzc2lvbnMtYmFzZS1ncm91cC1taWdyYXRvcjpsYXRlc3QKIyAgICBkZXBlbmRzX29uOgojICAgICAgZ3JlbWxpbi1zZXJ2ZXI6CiMgICAgICAgIGNvbmRpdGlvbjogc2VydmljZV9zdGFydGVkCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0b3BJbnRlZ3JhdGlvblRlc3RTdGFjayhmYWxzZSkK</text>
+        <text encoding="base64">ICAgIGltYWdlOiAwODU4MTY5NTY0NzEuZGtyLmVjci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9jb20ubGVvaWxhYi9zZW5zaWJsZS1wcm9qZWN0cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRvY2tlci52YWx1ZQo=</text>
+        <text encoding="base64">ICAgIGltYWdlOiBjb20ubGVvaWxhYi9zZW5zaWJsZS1wcm9qZWN0cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Ige30K</text>
+        <text encoding="base64">ICBzZW5zaWJsZS1wcm9qZWN0czoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIF8gPC0gZXZlbnRUb1BheWxvYWQoZXZlbnQsIHVzZXIsIGNsaWVudElkKS5mbGF0TWFwKHNlbmQoZXZlbnQuc2VsZWN0QXJuKHNuc0NvbmZpZyksIF8pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>57</text>
