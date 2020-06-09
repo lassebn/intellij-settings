@@ -103,11 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Source/platform-images/platform-users-docker-compose/gremlin-console-config/setup/init.groovy" timestamp="1591652742750">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="119" column="113" />
-        <mark key="^" line="119" column="113" />
-        <mark key="." line="119" column="112" />
+      <file name="$USER_HOME$/Source/platform-images/platform-users-docker-compose/gremlin-console-config/setup/init.groovy" timestamp="1591689197414">
+        <mark key="[" line="116" column="85" />
+        <mark key="]" line="118" column="85" />
+        <mark key="^" line="118" column="85" />
+        <mark key="." line="118" column="84" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/ImageService.scala" timestamp="1591256308018">
         <mark key="[" line="268" column="0" />
