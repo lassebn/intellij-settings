@@ -165,11 +165,11 @@
         <mark key="^" line="264" column="34" />
         <mark key="." line="264" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/Authorization.scala" timestamp="1591711579478">
-        <mark key="[" line="73" column="12" />
-        <mark key="]" line="73" column="19" />
-        <mark key="^" line="73" column="19" />
-        <mark key="." line="73" column="18" />
+      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/Authorization.scala" timestamp="1591784583267">
+        <mark key="[" line="67" column="31" />
+        <mark key="]" line="67" column="14" />
+        <mark key="^" line="67" column="14" />
+        <mark key="." line="67" column="13" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/platform-users-docker-compose/docker-compose.users.yml" timestamp="1591707430879">
         <mark key="[" line="176" column="0" />
