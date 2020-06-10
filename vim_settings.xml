@@ -119,6 +119,7 @@
         <mark key="[" line="245" column="0" />
         <mark key="]" line="246" column="34" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/Coursier/v1/s3/s3-eu-west-1.amazonaws.com/leo-platform-packages/releases/com.leoilab/platform-memberships-client_2.13/6.1.1/srcs/platform-memberships-client_2.13-sources.jar!/com/leoilab/memberships/client/MembershipsClient.scala" timestamp="1591789747187" />
       <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImagePropertiesApiIntegrationTest.scala" timestamp="1591707872303">
         <mark key="[" line="42" column="34" />
         <mark key="]" line="42" column="43" />
@@ -180,11 +181,11 @@
         <mark key="." line="179" column="58" />
         <mark key="^" line="179" column="59" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/PermissionsClient.scala" timestamp="1591708653340">
-        <mark key="[" line="83" column="68" />
-        <mark key="]" line="83" column="81" />
-        <mark key="^" line="83" column="81" />
-        <mark key="." line="83" column="80" />
+      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/PermissionsClient.scala" timestamp="1591790003824">
+        <mark key="[" line="102" column="115" />
+        <mark key="]" line="102" column="110" />
+        <mark key="^" line="102" column="110" />
+        <mark key="." line="102" column="109" />
       </file>
       <file name="$USER_HOME$/Source/images-api/README.md" timestamp="1591617103880">
         <mark key="[" line="80" column="25" />
@@ -197,9 +198,6 @@
         <mark key="]" line="335" column="50" />
         <mark key="." line="335" column="49" />
         <mark key="^" line="335" column="50" />
-      </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/model/CollectionWithProperties.scala" timestamp="1591611653217">
-        <mark key="[" line="10" column="29" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialService.scala" timestamp="1591711635278">
         <mark key="[" line="271" column="78" />
