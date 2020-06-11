@@ -106,6 +106,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/CollectionsApiIntegrationTest.scala" timestamp="1591875853638">
+        <mark key="[" line="39" column="37" />
+        <mark key="]" line="39" column="43" />
+        <mark key="^" line="39" column="43" />
+        <mark key="." line="39" column="42" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImagePropertiesApiIntegrationTest.scala" timestamp="1591869924175">
         <mark key="[" line="81" column="29" />
         <mark key="]" line="81" column="36" />
@@ -127,23 +133,11 @@
         <mark key="^" line="76" column="39" />
         <mark key="." line="76" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1591794519084">
-        <mark key="[" line="143" column="43" />
-        <mark key="]" line="143" column="81" />
-        <mark key="." line="143" column="80" />
-        <mark key="^" line="143" column="81" />
-      </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Main.scala" timestamp="1591794259588">
-        <mark key="[" line="137" column="62" />
-        <mark key="]" line="137" column="71" />
-        <mark key="." line="137" column="70" />
-        <mark key="^" line="137" column="71" />
-      </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/PermissionsClient.scala" timestamp="1591791347793">
-        <mark key="[" line="83" column="67" />
-        <mark key="]" line="83" column="75" />
-        <mark key="^" line="83" column="75" />
-        <mark key="." line="83" column="74" />
+      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/CollectionsApiV1IntegrationTest.scala" timestamp="1591876169435">
+        <mark key="[" line="37" column="37" />
+        <mark key="]" line="37" column="43" />
+        <mark key="^" line="37" column="43" />
+        <mark key="." line="37" column="42" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/CollectionPropertiesApiIntegrationTest.scala" timestamp="1591869112664">
         <mark key="[" line="42" column="37" />
@@ -170,12 +164,11 @@
         <mark key="." line="42" column="55" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" timestamp="1591796704109" />
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1591794242394">
-        <mark key="'" line="2" column="6" />
-        <mark key="[" line="391" column="25" />
-        <mark key="]" line="392" column="21" />
-        <mark key="^" line="392" column="21" />
-        <mark key="." line="392" column="20" />
+      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImageApiV1IntegrationTest.scala" timestamp="1591876629906">
+        <mark key="[" line="54" column="37" />
+        <mark key="]" line="54" column="43" />
+        <mark key="^" line="54" column="43" />
+        <mark key="." line="54" column="42" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client-it/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1591862908889">
         <mark key="[" line="94" column="0" />
@@ -205,6 +198,12 @@
         <mark key="]" line="156" column="20" />
         <mark key="." line="156" column="19" />
         <mark key="^" line="156" column="20" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/GroupIntegrationTest.scala" timestamp="1591876423441">
+        <mark key="[" line="63" column="64" />
+        <mark key="]" line="63" column="86" />
+        <mark key="^" line="63" column="86" />
+        <mark key="." line="63" column="85" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client-it/src/it/scala/com/leoilab/images/client/IntegrationTestHelper.scala" timestamp="1591859838788">
         <mark key="[" line="12" column="57" />
