@@ -112,6 +112,12 @@
         <mark key="^" line="39" column="43" />
         <mark key="." line="39" column="42" />
       </file>
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/StatusRoutes.scala" timestamp="1591878423765">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="68" />
+        <mark key="." line="11" column="67" />
+        <mark key="^" line="11" column="68" />
+      </file>
       <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImagePropertiesApiIntegrationTest.scala" timestamp="1591869924175">
         <mark key="[" line="81" column="29" />
         <mark key="]" line="81" column="36" />
@@ -163,8 +169,7 @@
         <mark key="^" line="42" column="56" />
         <mark key="." line="42" column="55" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/client/src/main/scala/com/leoilab/images/client/ImagesClient.scala" timestamp="1591796704109" />
-      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImageApiV1IntegrationTest.scala" timestamp="1591876629906">
+      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImageApiV1IntegrationTest.scala" timestamp="1591876771567">
         <mark key="[" line="54" column="37" />
         <mark key="]" line="54" column="43" />
         <mark key="^" line="54" column="43" />
@@ -193,7 +198,7 @@
         <mark key="^" line="52" column="47" />
         <mark key="." line="52" column="46" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Routes.scala" timestamp="1591869440123">
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Routes.scala" timestamp="1591877990565">
         <mark key="[" line="156" column="12" />
         <mark key="]" line="156" column="20" />
         <mark key="." line="156" column="19" />
@@ -320,8 +325,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>userApiPort</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSBHRVQgLT4gUm9vdCAvICJ2MSIgLyAidjEiIC8gImltYWdlcyIgLyAic3RhdHVzIiA9PiBPaygib2siKQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2964,34 +2969,34 @@
         <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnRpa2EiICUgInRpa2EtcGFyc2VycyIgJSB0aWthVmVyc2lvbiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGxpc3RDYWxsID0gaW1hZ2VzQ2xpZW50Lmxpc3RJbWFnZXMoKQovLyAgICB3aGVuUmVhZHkobGlzdENhbGwpIHsgcmVzdWx0ID0+Ci8vICAgICAgYXNzZXJ0KHJlc3VsdC5pc0luc3RhbmNlT2ZbTGlzdFtJbWFnZURUT11dKQovLyAgICAgIHJlc3VsdC5maWx0ZXIoXy5pZCA9PSBuZXdJbWFnZUlkKS5tYXAgewovLyAgICAgICAgXy50YWtlbkF0IG1hdGNoIHsKLy8gICAgICAgICAgY2FzZSBOb25lID0+IGFzc2VydChmYWxzZSkKLy8gICAgICAgICAgY2FzZSBTb21lKHRha2VuQXQpID0+Ci8vICAgICAgICAgICAgdmFsIGZvcm1hdHRlciA9IERhdGVUaW1lRm9ybWF0LmZvclBhdHRlcm4oInl5eXktTU0tZGQnVCdISDptbTpzc1paIikKLy8gICAgICAgICAgICB2YWwgdGFrZW5BdFN0cmluZ0FzRGF0ZVRpbWU6IERhdGVUaW1lID0gZm9ybWF0dGVyLnBhcnNlRGF0ZVRpbWUodGFrZW5BdFN0cmluZykKLy8gICAgICAgICAgICBhc3NlcnQodGFrZW5BdC5lcXVhbHModGFrZW5BdFN0cmluZ0FzRGF0ZVRpbWUpKQovLyAgICAgICAgfQovLyAgICAgIH0KLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBHRVQgLT4gUm9vdCAvICJ2MSIgLyAidjEiIC8gImltYWdlcyIgLyAic3RhdHVzIiA9PiBPaygib2siKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5odHRwNHMuY2lyY2UuXwo=</text>
+        <text encoding="base64">Ly8gICAgdmFsIGxpc3RDYWxsID0gaW1hZ2VzQ2xpZW50Lmxpc3RJbWFnZXMoKQovLyAgICB3aGVuUmVhZHkobGlzdENhbGwpIHsgcmVzdWx0ID0+Ci8vICAgICAgYXNzZXJ0KHJlc3VsdC5pc0luc3RhbmNlT2ZbTGlzdFtJbWFnZURUT11dKQovLyAgICAgIHJlc3VsdC5maWx0ZXIoXy5pZCA9PSBuZXdJbWFnZUlkKS5tYXAgewovLyAgICAgICAgXy50YWtlbkF0IG1hdGNoIHsKLy8gICAgICAgICAgY2FzZSBOb25lID0+IGFzc2VydChmYWxzZSkKLy8gICAgICAgICAgY2FzZSBTb21lKHRha2VuQXQpID0+Ci8vICAgICAgICAgICAgdmFsIGZvcm1hdHRlciA9IERhdGVUaW1lRm9ybWF0LmZvclBhdHRlcm4oInl5eXktTU0tZGQnVCdISDptbTpzc1paIikKLy8gICAgICAgICAgICB2YWwgdGFrZW5BdFN0cmluZ0FzRGF0ZVRpbWU6IERhdGVUaW1lID0gZm9ybWF0dGVyLnBhcnNlRGF0ZVRpbWUodGFrZW5BdFN0cmluZykKLy8gICAgICAgICAgICBhc3NlcnQodGFrZW5BdC5lcXVhbHModGFrZW5BdFN0cmluZ0FzRGF0ZVRpbWUpKQovLyAgICAgICAgfQovLyAgICAgIH0KLy8gICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHppby5pbnRlcm9wLmNhdHouXwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5odHRwNHMuY2lyY2UuXwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuZGF0YS5PcHRpb25UCg==</text>
+        <text encoding="base64">aW1wb3J0IHppby5pbnRlcm9wLmNhdHouXwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm9yRGllCg==</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMuZGF0YS5PcHRpb25UCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNvbWVPckZhaWxFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm9yRGllCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNvbWVPckZhaWwobmV3IFJ1bnRpbWVFeGNlcHRpb24oIjIiKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNvbWVPckZhaWxFeGNlcHRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNvbWVPckZhaWwobmV3IFJ1bnRpbWVFeGNlcHRpb24oIjEiKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNvbWVPckZhaWwobmV3IFJ1bnRpbWVFeGNlcHRpb24oIjIiKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm9yRWxzZShPcHRpb25UKHBlcm1pc3Npb25zQ2xpZW50LmdldEdyb3VwKEdyb3VwVHlwZS5Vc2VyLCBHcm91cE9iamVjdFR5cGUuSW1hZ2VzKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNvbWVPckZhaWwobmV3IFJ1bnRpbWVFeGNlcHRpb24oIjEiKSkK</text>
       </register>
       <register name=":" type="4">
         <text>57</text>
