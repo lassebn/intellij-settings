@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxdXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>1230</entry>
         <entry>1231</entry>
         <entry>1000</entry>
         <entry>29</entry>
@@ -49,6 +48,7 @@
         <entry>144,145y</entry>
         <entry>287</entry>
         <entry>57</entry>
+        <entry>199</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -107,11 +107,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/Backbone.scala" timestamp="1592228264245" />
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/StatusRoutes.scala" timestamp="1591938376403">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/cordial/CordialImageImporterSpec.scala" timestamp="1592231019442">
         <mark key="[" line="54" column="28" />
         <mark key="]" line="54" column="28" />
@@ -124,11 +119,17 @@
         <mark key="^" line="39" column="43" />
         <mark key="." line="39" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/ImageApiV1IntegrationTest.scala" timestamp="1591938106574">
-        <mark key="[" line="54" column="37" />
-        <mark key="]" line="54" column="43" />
-        <mark key="^" line="54" column="43" />
-        <mark key="." line="54" column="42" />
+      <file name="$USER_HOME$/Source/images-api/server/src/test/scala/com/leoilab/images/UploadImageRouteSpec.scala" timestamp="1592232193412">
+        <mark key="[" line="128" column="33" />
+        <mark key="]" line="128" column="40" />
+        <mark key="^" line="128" column="40" />
+        <mark key="." line="128" column="39" />
+      </file>
+      <file name="$USER_HOME$/Source/images-api/server/src/test/scala/com/leoilab/images/GetImageMetadataSpec.scala" timestamp="1592232138618">
+        <mark key="[" line="85" column="28" />
+        <mark key="]" line="85" column="36" />
+        <mark key="^" line="85" column="36" />
+        <mark key="." line="85" column="35" />
       </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1592220580489">
         <mark key="'" line="2" column="6" />
@@ -142,12 +143,6 @@
         <mark key="]" line="46" column="18" />
         <mark key="." line="43" column="0" />
         <mark key="^" line="47" column="40" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1591938126142">
-        <mark key="[" line="48" column="46" />
-        <mark key="]" line="48" column="45" />
-        <mark key="." line="48" column="44" />
-        <mark key="^" line="48" column="45" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.scala" timestamp="1592220738001">
         <mark key="[" line="0" column="0" />
@@ -166,8 +161,20 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="178" column="32" />
       </file>
+      <file name="$USER_HOME$/Source/images-api/server/src/test/scala/com/leoilab/images/DeleteImagePropertyRouteSpec.scala" timestamp="1592233660135">
+        <mark key="[" line="68" column="30" />
+        <mark key="]" line="68" column="36" />
+        <mark key="^" line="68" column="36" />
+        <mark key="." line="68" column="35" />
+      </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/Authorization.scala" timestamp="1592225236411" />
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialAuthenticatorT.scala" timestamp="1592227866045" />
+      <file name="$USER_HOME$/Source/images-api/server/src/test/scala/com/leoilab/images/PropertiesUpsertRoutesSpec.scala" timestamp="1592232081397">
+        <mark key="[" line="201" column="11" />
+        <mark key="]" line="201" column="18" />
+        <mark key="^" line="201" column="18" />
+        <mark key="." line="201" column="17" />
+      </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Main.scala" timestamp="1592230534540">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -178,23 +185,17 @@
         <mark key="]" line="75" column="78" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/images-api/server/src/test/scala/com/leoilab/images/ListUsersImagesRouteSpec.scala" timestamp="1592232235674">
+        <mark key="[" line="67" column="11" />
+        <mark key="]" line="67" column="18" />
+        <mark key="^" line="67" column="18" />
+        <mark key="." line="67" column="17" />
+      </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Routes.scala" timestamp="1592230553455">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
         <mark key="^" line="155" column="20" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/src/it/scala/com/leoilab/images/GroupIntegrationTest.scala" timestamp="1591876423441">
-        <mark key="[" line="63" column="64" />
-        <mark key="]" line="63" column="86" />
-        <mark key="^" line="63" column="86" />
-        <mark key="." line="63" column="85" />
-      </file>
-      <file name="$USER_HOME$/Source/platform-images/client-it/src/it/scala/com/leoilab/images/client/IntegrationTestHelper.scala" timestamp="1591938690871">
-        <mark key="[" line="12" column="57" />
-        <mark key="]" line="12" column="57" />
-        <mark key="^" line="12" column="57" />
-        <mark key="." line="12" column="56" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialService.scala" timestamp="1592230457557">
         <mark key="[" line="6" column="47" />
@@ -2985,7 +2986,7 @@
         <text encoding="base64">aW1wb3J0IHN0dHAuY2xpZW50LntOb3RoaW5nVCwgU3R0cEJhY2tlbmR9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>57</text>
+        <text>199</text>
       </register>
     </registers>
   </component>
