@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxdXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>1231</entry>
         <entry>1000</entry>
         <entry>29</entry>
         <entry>63</entry>
@@ -49,6 +48,7 @@
         <entry>287</entry>
         <entry>57</entry>
         <entry>199</entry>
+        <entry>179</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -149,17 +149,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialAuthenticator.scala" timestamp="1592229976531">
-        <mark key="[" line="26" column="33" />
-        <mark key="]" line="26" column="45" />
-        <mark key="." line="26" column="44" />
-        <mark key="^" line="26" column="45" />
+      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialAuthenticator.scala" timestamp="1592235339830">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="28" column="44" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1592230759858">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="178" column="32" />
+      <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1592235025960">
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images-api/server/src/test/scala/com/leoilab/images/DeleteImagePropertyRouteSpec.scala" timestamp="1592233660135">
         <mark key="[" line="68" column="30" />
@@ -175,10 +174,11 @@
         <mark key="^" line="201" column="18" />
         <mark key="." line="201" column="17" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Main.scala" timestamp="1592230534540">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Main.scala" timestamp="1592235020954">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="80" />
+        <mark key="." line="14" column="76" />
+        <mark key="^" line="14" column="77" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/integrationtests/CordialUploadTests.scala" timestamp="1592230056593">
         <mark key="[" line="14" column="0" />
@@ -313,7 +313,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGNvcmRpYWxVc2VyOiAgICAgVXNlcklkIEBAIENvcmRpYWxVc2VyICAgICAgPSB0YWdbQ29yZGlhbFVzZXJdKFVzZXJJZC5nZW5lcmF0ZSkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmltYWdlcwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2947,46 +2947,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, UsersApiHost}</text>
+        <text encoding="base64">VXNlcnNBcGlBdXRoZW50aWNhdG9yIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY29yZGlhbENsaWVudElkICA9IHRhZ1tDb3JkaWFsXShDbGllbnRJZCgiY29yZGlhbCIpKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYXV0aGVudGljYXRvciAgICA9IG5ldyBVc2Vyc0FwaUF1dGhlbnRpY2F0b3IoY29uZmlndXJhdGlvbi51c2Vyc1VybCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGNvcmRpYWxVc2VyOiAgICAgVXNlcklkIEBAIENvcmRpYWxVc2VyICAgICAgPSB0YWdbQ29yZGlhbFVzZXJdKFVzZXJJZC5nZW5lcmF0ZSkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmltYWdlcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5VVUlECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhZ1tDb3JkaWFsVXNlcl0oY29yZGlhbFVzZXIpLAo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGNvcmRpYWxVc2VyOiAgICAgVXNlcklkIEBAIENvcmRpYWxVc2VyICAgICAgPSB0YWdbQ29yZGlhbFVzZXJdKFVzZXJJZC5nZW5lcmF0ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29yZGlhbFVzZXJDb250ZXh0OiAgICAgICAgIEF1dGhDb250ZXh0IEBAIENvcmRpYWxVc2VyLAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5VVUlECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmltYWdlcy5NYWluLmNyZWF0ZVN0dHBCYWNrZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhZ1tDb3JkaWFsVXNlcl0oY29yZGlhbFVzZXIpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNwcmF5Lmpzb24uSnNPYmplY3QK</text>
+        <text encoding="base64">ICAgICAgY29yZGlhbFVzZXJDb250ZXh0OiAgICAgICAgIEF1dGhDb250ZXh0IEBAIENvcmRpYWxVc2VyLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNoYXBlbGVzcy50YWcuQEAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmltYWdlcy5NYWluLmNyZWF0ZVN0dHBCYWNrZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmltYWdlcwo=</text>
+        <text encoding="base64">aW1wb3J0IHNwcmF5Lmpzb24uSnNPYmplY3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0dHAuY2xpZW50LntOb3RoaW5nVCwgU3R0cEJhY2tlbmR9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNoYXBlbGVzcy50YWcuQEAK</text>
       </register>
       <register name=":" type="4">
-        <text>199</text>
+        <text>179</text>
       </register>
     </registers>
   </component>
