@@ -106,8 +106,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Source/images-api/ecs-deploy/cf-task-template.json" timestamp="1592293747519" />
-      <file name="$USER_HOME$/Source/images-api/platform-users-docker-compose/docker-compose.users.yml" timestamp="1592284665284" />
+      <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1592235025960">
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/images-api/server/src/test/scala/com/leoilab/images/DeleteImagePropertyRouteSpec.scala" timestamp="1592233660135">
+        <mark key="[" line="68" column="30" />
+        <mark key="]" line="68" column="36" />
+        <mark key="^" line="68" column="36" />
+        <mark key="." line="68" column="35" />
+      </file>
       <file name="$USER_HOME$/Source/images-api/.circleci/config.yml" timestamp="1592289967586">
         <mark key="[" line="18" column="16" />
         <mark key="]" line="20" column="6" />
@@ -120,17 +129,35 @@
         <mark key="^" line="150" column="60" />
         <mark key="." line="150" column="59" />
       </file>
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Main.scala" timestamp="1592235020954">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="80" />
+        <mark key="." line="14" column="76" />
+        <mark key="^" line="14" column="77" />
+      </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/cordial/BackboneConfig.scala" timestamp="1592285674943">
         <mark key="[" line="15" column="23" />
         <mark key="]" line="15" column="32" />
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/test/scala/com/leoilab/images/UploadImageRouteSpec.scala" timestamp="1592232193412">
-        <mark key="[" line="128" column="33" />
-        <mark key="]" line="128" column="40" />
-        <mark key="^" line="128" column="40" />
-        <mark key="." line="128" column="39" />
+      <file name="$USER_HOME$/Source/images-api/server/src/main/resources/logback.prod.xml" timestamp="1592298584146">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/Source/images-api/server/src/test/scala/com/leoilab/images/ListUsersImagesRouteSpec.scala" timestamp="1592232235674">
+        <mark key="[" line="67" column="11" />
+        <mark key="]" line="67" column="18" />
+        <mark key="^" line="67" column="18" />
+        <mark key="." line="67" column="17" />
+      </file>
+      <file name="$USER_HOME$/Source/images-api/README.md" timestamp="1592287110236">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images-api/docker-compose.yml" timestamp="1592287024701">
         <mark key="[" line="54" column="34" />
@@ -138,11 +165,8 @@
         <mark key="^" line="54" column="34" />
         <mark key="." line="54" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/test/scala/com/leoilab/images/GetImageMetadataSpec.scala" timestamp="1592232138618">
-        <mark key="[" line="85" column="28" />
-        <mark key="]" line="85" column="36" />
-        <mark key="^" line="85" column="36" />
-        <mark key="." line="85" column="35" />
+      <file name="/sbtShell" timestamp="1592309202361">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images-api/runapp.sh" timestamp="1592296877315">
         <mark key="[" line="3" column="187" />
@@ -163,50 +187,14 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="31" />
       </file>
+      <file name="/fragment.java" timestamp="1592295784224">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialAuthenticator.scala" timestamp="1592235339830">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="28" column="44" />
-      </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/resources/logback.xml" timestamp="1592297345518" />
-      <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1592235025960">
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/test/scala/com/leoilab/images/DeleteImagePropertyRouteSpec.scala" timestamp="1592233660135">
-        <mark key="[" line="68" column="30" />
-        <mark key="]" line="68" column="36" />
-        <mark key="^" line="68" column="36" />
-        <mark key="." line="68" column="35" />
-      </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Main.scala" timestamp="1592235020954">
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="184" column="80" />
-        <mark key="." line="14" column="76" />
-        <mark key="^" line="14" column="77" />
-      </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/resources/logback.prod.xml" timestamp="1592298584146">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/test/scala/com/leoilab/images/ListUsersImagesRouteSpec.scala" timestamp="1592232235674">
-        <mark key="[" line="67" column="11" />
-        <mark key="]" line="67" column="18" />
-        <mark key="^" line="67" column="18" />
-        <mark key="." line="67" column="17" />
-      </file>
-      <file name="$USER_HOME$/Source/images-api/README.md" timestamp="1592287110236">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1592295784224">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
