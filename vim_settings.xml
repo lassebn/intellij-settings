@@ -107,13 +107,18 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Source/images-api/platform-users-docker-compose/docker-compose.users.yml" timestamp="1592284665284" />
+      <file name="$USER_HOME$/Source/images-api/.circleci/config.yml" timestamp="1592288261188">
+        <mark key="[" line="109" column="19" />
+        <mark key="]" line="113" column="20" />
+        <mark key="^" line="113" column="20" />
+        <mark key="." line="113" column="19" />
+      </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/cordial/BackboneConfig.scala" timestamp="1592285674943">
         <mark key="[" line="15" column="23" />
         <mark key="]" line="15" column="32" />
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/Backbone.scala" timestamp="1592228264245" />
       <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/cordial/CordialImageImporterSpec.scala" timestamp="1592231019442">
         <mark key="[" line="54" column="28" />
         <mark key="]" line="54" column="28" />
@@ -138,12 +143,12 @@
         <mark key="^" line="85" column="36" />
         <mark key="." line="85" column="35" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1592285133887">
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1592287863072">
         <mark key="'" line="2" column="6" />
-        <mark key="[" line="349" column="23" />
-        <mark key="]" line="349" column="32" />
-        <mark key="." line="349" column="31" />
-        <mark key="^" line="349" column="32" />
+        <mark key="[" line="146" column="38" />
+        <mark key="]" line="146" column="38" />
+        <mark key="." line="146" column="37" />
+        <mark key="^" line="146" column="38" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/common/TestStack.scala" timestamp="1592230040383">
         <mark key="[" line="43" column="0" />
