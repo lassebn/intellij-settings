@@ -107,11 +107,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Source/images-api/platform-users-docker-compose/docker-compose.users.yml" timestamp="1592284665284" />
-      <file name="$USER_HOME$/Source/images-api/.circleci/config.yml" timestamp="1592288261188">
-        <mark key="[" line="109" column="19" />
-        <mark key="]" line="113" column="20" />
-        <mark key="^" line="113" column="20" />
-        <mark key="." line="113" column="19" />
+      <file name="$USER_HOME$/Source/images-api/.circleci/config.yml" timestamp="1592289224923">
+        <mark key="[" line="72" column="25" />
+        <mark key="]" line="73" column="23" />
+        <mark key="^" line="73" column="23" />
+        <mark key="." line="73" column="22" />
       </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/cordial/BackboneConfig.scala" timestamp="1592285674943">
         <mark key="[" line="15" column="23" />
