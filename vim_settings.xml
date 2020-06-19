@@ -168,10 +168,11 @@
         <mark key="^" line="3" column="113" />
         <mark key="." line="3" column="112" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialService.scala" timestamp="1592313817344">
-        <mark key="[" line="311" column="0" />
-        <mark key="]" line="311" column="0" />
-        <mark key="." line="311" column="0" />
+      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialService.scala" timestamp="1592558842576">
+        <mark key="[" line="273" column="66" />
+        <mark key="]" line="273" column="118" />
+        <mark key="." line="273" column="117" />
+        <mark key="^" line="273" column="118" />
       </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1592295701319">
         <mark key="'" line="2" column="6" />
@@ -301,8 +302,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBfIDwtIGltYWdlLmRyYWluCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmFjZSA=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2936,7 +2937,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IiA=</text>
+        <text encoding="base64">cmFjZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
