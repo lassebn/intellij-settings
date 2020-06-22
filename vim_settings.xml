@@ -106,7 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1592814459503">
+      <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1592816171372">
         <mark key="[" line="65" column="71" />
         <mark key="]" line="65" column="87" />
         <mark key="." line="65" column="86" />
@@ -169,13 +169,13 @@
         <mark key="^" line="3" column="113" />
         <mark key="." line="3" column="112" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialService.scala" timestamp="1592815296888">
-        <mark key="[" line="276" column="102" />
-        <mark key="]" line="276" column="107" />
-        <mark key="." line="276" column="106" />
-        <mark key="^" line="276" column="107" />
+      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialService.scala" timestamp="1592817445078">
+        <mark key="[" line="293" column="70" />
+        <mark key="]" line="293" column="92" />
+        <mark key="." line="293" column="91" />
+        <mark key="^" line="293" column="92" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1592295701319">
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1592817103819">
         <mark key="'" line="2" column="6" />
         <mark key="[" line="146" column="38" />
         <mark key="]" line="146" column="38" />
@@ -188,7 +188,7 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1592815248403">
+      <file name="/fragment.java" timestamp="1592816833415">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialAuthenticator.scala" timestamp="1592235339830">
@@ -303,8 +303,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Zm9yZWFjaCA=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2938,7 +2938,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">Zm9yZWFjaCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
