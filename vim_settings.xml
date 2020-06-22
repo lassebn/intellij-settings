@@ -181,9 +181,7 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/ParseDataFromImage.scala" timestamp="1592826483835" />
-      <file name="$USER_HOME$/Source/platform-images/client-it/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1592831518886" />
-      <file name="/fragment.java" timestamp="1592830770338">
+      <file name="/fragment.java" timestamp="1592833032077">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/unittests/ParseDataFromImageTests.scala" timestamp="1592826541858">
@@ -197,7 +195,6 @@
         <mark key="." line="34" column="35" />
         <mark key="^" line="34" column="36" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/project/TestHelper.scala" timestamp="1592832041621" />
     </filemarks>
     <jumps>
       <jump line="63" column="6" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/docs/DocsApi.scala" />
