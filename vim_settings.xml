@@ -191,8 +191,14 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="31" />
       </file>
+      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/ParseDataFromImage.scala" timestamp="1592826483835" />
       <file name="/fragment.java" timestamp="1592820582563">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/unittests/ParseDataFromImageTests.scala" timestamp="1592826541858">
+        <mark key="[" line="40" column="63" />
+        <mark key="]" line="40" column="66" />
+        <mark key="." line="40" column="66" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialAuthenticator.scala" timestamp="1592235339830">
         <mark key="[" line="3" column="0" />
