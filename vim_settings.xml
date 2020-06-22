@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxdXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>1000</entry>
         <entry>29</entry>
         <entry>63</entry>
         <entry>93</entry>
@@ -49,6 +48,7 @@
         <entry>57</entry>
         <entry>199</entry>
         <entry>179</entry>
+        <entry>308</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -124,18 +124,6 @@
         <mark key="^" line="150" column="60" />
         <mark key="." line="150" column="59" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Main.scala" timestamp="1592235020954">
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="184" column="80" />
-        <mark key="." line="14" column="76" />
-        <mark key="^" line="14" column="77" />
-      </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/cordial/BackboneConfig.scala" timestamp="1592285674943">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="32" />
-        <mark key="^" line="15" column="32" />
-        <mark key="." line="15" column="31" />
-      </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/resources/logback.prod.xml" timestamp="1592298584146">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="14" />
@@ -180,12 +168,12 @@
         <mark key="." line="24" column="91" />
         <mark key="^" line="24" column="92" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1592817103819">
+      <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1592832291402">
         <mark key="'" line="2" column="6" />
-        <mark key="[" line="146" column="38" />
-        <mark key="]" line="146" column="38" />
-        <mark key="." line="146" column="37" />
-        <mark key="^" line="146" column="38" />
+        <mark key="[" line="219" column="47" />
+        <mark key="]" line="219" column="52" />
+        <mark key="." line="219" column="51" />
+        <mark key="^" line="219" column="52" />
       </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/cordial/CordialConfig.scala" timestamp="1592285690373">
         <mark key="[" line="15" column="23" />
@@ -194,6 +182,7 @@
         <mark key="." line="15" column="31" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/ParseDataFromImage.scala" timestamp="1592826483835" />
+      <file name="$USER_HOME$/Source/platform-images/client-it/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1592831518886" />
       <file name="/fragment.java" timestamp="1592830770338">
         <mark key="[" line="0" column="0" />
       </file>
@@ -202,12 +191,13 @@
         <mark key="]" line="40" column="66" />
         <mark key="." line="40" column="66" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialAuthenticator.scala" timestamp="1592235339830">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="28" column="44" />
+      <file name="$USER_HOME$/Source/platform-images/docker-compose.yml" timestamp="1592832121672">
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="34" column="36" />
+        <mark key="." line="34" column="35" />
+        <mark key="^" line="34" column="36" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/project/TestHelper.scala" timestamp="1592832041621" />
     </filemarks>
     <jumps>
       <jump line="63" column="6" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/docs/DocsApi.scala" />
@@ -314,8 +304,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnRpa2EiICUgInRpa2EtY29yZSIgJSB0aWthVmVyc2lvbiwgLy8gdGlrYS1jb3JlIG9ubHkgY29udGFpbiBpbnRlcmZhY2VzLiBQYXJzZXJzIGhhcyBpbXBsZW1lbnRhdGlvbnMuCg==</text>
+      <register name="&quot;" type="4">
+        <text>development</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2949,7 +2939,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm9yZWFjaCA=</text>
+        <text>development</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -2988,7 +2978,7 @@
         <text encoding="base64">ICAgfSB5aWVsZCBzZXJ2aWNlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>179</text>
+        <text>308</text>
       </register>
     </registers>
   </component>
