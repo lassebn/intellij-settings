@@ -142,6 +142,9 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/Source/images-api/project/Dependencies.scala" timestamp="1592824571305">
+        <mark key="]" line="60" column="63" />
+      </file>
       <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/cordial/CordialImageImporterSpec.scala" timestamp="1592814413711">
         <mark key="[" line="43" column="49" />
         <mark key="]" line="44" column="65" />
@@ -303,8 +306,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Zm9yZWFjaCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnRpa2EiICUgInRpa2EtY29yZSIgJSB0aWthVmVyc2lvbiwgLy8gdGlrYS1jb3JlIG9ubHkgY29udGFpbiBpbnRlcmZhY2VzLiBQYXJzZXJzIGhhcyBpbXBsZW1lbnRhdGlvbnMuCiAgICAib3JnLmFwYWNoZS50aWthIiAlICJ0aWthLXBhcnNlcnMiICUgdGlrYVZlcnNpb24gJSBSdW50aW1lLAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2944,37 +2947,37 @@
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ4LnJ1bihjb3JkaWFsU3RvcmUuc2V0U3RhdHVzKEZhaWxlZChpbXBvcnRJdGVtLCBleGNlcHRpb24udG9TdHJpbmcpKSkK</text>
+        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnRpa2EiICUgInRpa2EtcGFyc2VycyIgJSB0aWthVmVyc2lvbiAlIFJ1bnRpbWUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Cg==</text>
+        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnRpa2EiICUgInRpa2EtY29yZSIgJSB0aWthVmVyc2lvbiwgLy8gdGlrYS1jb3JlIG9ubHkgY29udGFpbiBpbnRlcmZhY2VzLiBQYXJzZXJzIGhhcyBpbXBsZW1lbnRhdGlvbnMuCiAgICAib3JnLmFwYWNoZS50aWthIiAlICJ0aWthLXBhcnNlcnMiICUgdGlrYVZlcnNpb24gJSBSdW50aW1lLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2xvY2s6IENsb2NrLlNlcnZpY2VbQW55XSA9IAogICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHNjaGVkdWxlciA9IHRlc3RDbG9jawo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY2xvY2s6IENsb2NrLlNlcnZpY2VbQW55XSA9IAogICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBzZXJ2aWNlID0gbmV3IENvcmRpYWxTZXJ2aWNlLkxpdmUgd2l0aCBDb3JkaWFsU3RvcmUuTGl2ZSB3aXRoIGltYWdlcy5JbWFnZVNlcnZpY2UuTGl2ZQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIHNjaGVkdWxlciA9IHRlc3RDbG9jawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2UK</text>
+        <text encoding="base64">ICAgIHZhbCBzZXJ2aWNlID0gbmV3IENvcmRpYWxTZXJ2aWNlLkxpdmUgd2l0aCBDb3JkaWFsU3RvcmUuTGl2ZSB3aXRoIGltYWdlcy5JbWFnZVNlcnZpY2UuTGl2ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHNlcnZpY2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgfSB5aWVsZCBzZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGNsb2NrID0gVGVzdENsb2NrLm1ha2UoVGVzdENsb2NrLkRlZmF1bHREYXRhKQo=</text>
+        <text encoding="base64">ICAgfSB5aWVsZCBzZXJ2aWNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAucHJvdmlkZShUZXN0Q2xvY2subWFrZShUZXN0Q2xvY2suRGVmYXVsdERhdGEpKQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGNsb2NrID0gVGVzdENsb2NrLm1ha2UoVGVzdENsb2NrLkRlZmF1bHREYXRhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>179</text>
