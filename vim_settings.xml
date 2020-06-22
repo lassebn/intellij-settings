@@ -170,10 +170,10 @@
         <mark key="." line="3" column="112" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialService.scala" timestamp="1592817445078">
-        <mark key="[" line="293" column="70" />
-        <mark key="]" line="293" column="92" />
-        <mark key="." line="293" column="91" />
-        <mark key="^" line="293" column="92" />
+        <mark key="[" line="24" column="70" />
+        <mark key="]" line="24" column="92" />
+        <mark key="." line="24" column="91" />
+        <mark key="^" line="24" column="92" />
       </file>
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1592817103819">
         <mark key="'" line="2" column="6" />
@@ -188,7 +188,7 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1592816833415">
+      <file name="/fragment.java" timestamp="1592820582563">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialAuthenticator.scala" timestamp="1592235339830">
