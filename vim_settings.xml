@@ -190,6 +190,12 @@
         <mark key="." line="34" column="35" />
         <mark key="^" line="34" column="36" />
       </file>
+      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/S3StreamingClient.scala" timestamp="1592891882896">
+        <mark key="[" line="245" column="29" />
+        <mark key="]" line="245" column="40" />
+        <mark key="^" line="245" column="40" />
+        <mark key="." line="245" column="39" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="63" column="6" filename="$USER_HOME$/Source/platform-users/src/main/scala/com/leoilab/app/docs/DocsApi.scala" />
