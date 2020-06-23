@@ -118,11 +118,11 @@
         <mark key="." line="20" column="5" />
         <mark key="^" line="20" column="6" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/cdk/src/main/scala/com/leoilab/images/cdk/CDK.scala" timestamp="1592898106139">
-        <mark key="[" line="44" column="39" />
-        <mark key="]" line="45" column="66" />
-        <mark key="^" line="45" column="66" />
-        <mark key="." line="45" column="65" />
+      <file name="$USER_HOME$/Source/images-api/cdk/src/main/scala/com/leoilab/images/cdk/CDK.scala" timestamp="1592903814012">
+        <mark key="[" line="179" column="11" />
+        <mark key="]" line="179" column="26" />
+        <mark key="^" line="179" column="26" />
+        <mark key="." line="179" column="25" />
       </file>
       <file name="$USER_HOME$/Source/images-api/build.sbt" timestamp="1592296859932">
         <mark key="[" line="150" column="18" />
@@ -302,8 +302,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>grantWrite</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2937,7 +2937,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>spinaltap-external-image-import-${environment.format}</text>
+        <text>grantWrite</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -2946,34 +2946,34 @@
         <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnRpa2EiICUgInRpa2EtY29yZSIgJSB0aWthVmVyc2lvbiwgLy8gdGlrYS1jb3JlIG9ubHkgY29udGFpbiBpbnRlcmZhY2VzLiBQYXJzZXJzIGhhcyBpbXBsZW1lbnRhdGlvbnMuCiAgICAib3JnLmFwYWNoZS50aWthIiAlICJ0aWthLXBhcnNlcnMiICUgdGlrYVZlcnNpb24gJSBSdW50aW1lLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1Y2tldC5ncmEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnRpa2EiICUgInRpa2EtY29yZSIgJSB0aWthVmVyc2lvbiwgLy8gdGlrYS1jb3JlIG9ubHkgY29udGFpbiBpbnRlcmZhY2VzLiBQYXJzZXJzIGhhcyBpbXBsZW1lbnRhdGlvbnMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnRpa2EiICUgInRpa2EtY29yZSIgJSB0aWthVmVyc2lvbiwgLy8gdGlrYS1jb3JlIG9ubHkgY29udGFpbiBpbnRlcmZhY2VzLiBQYXJzZXJzIGhhcyBpbXBsZW1lbnRhdGlvbnMuCiAgICAib3JnLmFwYWNoZS50aWthIiAlICJ0aWthLXBhcnNlcnMiICUgdGlrYVZlcnNpb24gJSBSdW50aW1lLAo=</text>
+        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnRpa2EiICUgInRpa2EtY29yZSIgJSB0aWthVmVyc2lvbiwgLy8gdGlrYS1jb3JlIG9ubHkgY29udGFpbiBpbnRlcmZhY2VzLiBQYXJzZXJzIGhhcyBpbXBsZW1lbnRhdGlvbnMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Cg==</text>
+        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnRpa2EiICUgInRpa2EtY29yZSIgJSB0aWthVmVyc2lvbiwgLy8gdGlrYS1jb3JlIG9ubHkgY29udGFpbiBpbnRlcmZhY2VzLiBQYXJzZXJzIGhhcyBpbXBsZW1lbnRhdGlvbnMuCiAgICAib3JnLmFwYWNoZS50aWthIiAlICJ0aWthLXBhcnNlcnMiICUgdGlrYVZlcnNpb24gJSBSdW50aW1lLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2xvY2s6IENsb2NrLlNlcnZpY2VbQW55XSA9IAogICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHNjaGVkdWxlciA9IHRlc3RDbG9jawo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY2xvY2s6IENsb2NrLlNlcnZpY2VbQW55XSA9IAogICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBzZXJ2aWNlID0gbmV3IENvcmRpYWxTZXJ2aWNlLkxpdmUgd2l0aCBDb3JkaWFsU3RvcmUuTGl2ZSB3aXRoIGltYWdlcy5JbWFnZVNlcnZpY2UuTGl2ZQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIHNjaGVkdWxlciA9IHRlc3RDbG9jawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2UK</text>
+        <text encoding="base64">ICAgIHZhbCBzZXJ2aWNlID0gbmV3IENvcmRpYWxTZXJ2aWNlLkxpdmUgd2l0aCBDb3JkaWFsU3RvcmUuTGl2ZSB3aXRoIGltYWdlcy5JbWFnZVNlcnZpY2UuTGl2ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHNlcnZpY2UK</text>
       </register>
       <register name=":" type="4">
         <text>308</text>
