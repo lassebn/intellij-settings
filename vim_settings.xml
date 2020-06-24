@@ -106,11 +106,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1592991990061">
-        <mark key="[" line="157" column="47" />
-        <mark key="]" line="157" column="80" />
-        <mark key="." line="157" column="79" />
-        <mark key="^" line="157" column="80" />
+      <file name="$USER_HOME$/Source/images-api/cordial-image-importer/src/main/scala/com/leoilab/images/cordial/SourceProcessor.scala" timestamp="1592993421335">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="157" column="69" />
       </file>
       <file name="$USER_HOME$/Source/images-api/.circleci/config.yml" timestamp="1592289967586">
         <mark key="[" line="18" column="16" />
@@ -303,7 +303,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIFMzQnVja2V0KCJsZW8tcGxhdGZvcm0tZGV2IiksCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmltYWdlcy5CbG9iU3RvcmFnZS5JbWFnZVNlcnZpY2VSb290Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2946,34 +2946,34 @@
         <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnRpa2EiICUgInRpa2EtY29yZSIgJSB0aWthVmVyc2lvbiwgLy8gdGlrYS1jb3JlIG9ubHkgY29udGFpbiBpbnRlcmZhY2VzLiBQYXJzZXJzIGhhcyBpbXBsZW1lbnRhdGlvbnMuCiAgICAib3JnLmFwYWNoZS50aWthIiAlICJ0aWthLXBhcnNlcnMiICUgdGlrYVZlcnNpb24gJSBSdW50aW1lLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFMzQnVja2V0KCJsZW8tcGxhdGZvcm0tZGV2IiksCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmltYWdlcy5CbG9iU3RvcmFnZS5JbWFnZVNlcnZpY2VSb290Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIFN0YWdpbmcgfCBQcm9kdWN0aW9uID0+IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgIFMzQnVja2V0KCJsZW8tcGxhdGZvcm0tZGV2IiksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZUJ1Y2tldC5saXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIFN0YWdpbmcgfCBQcm9kdWN0aW9uID0+IHRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZUJ1Y2tldC5ncmFuCg==</text>
+        <text encoding="base64">ICAgIHNvdXJjZUJ1Y2tldC5saXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJ1Y2tldC5ncmEK</text>
+        <text encoding="base64">ICAgIHNvdXJjZUJ1Y2tldC5ncmFuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1Y2tldC5ncmEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnRpa2EiICUgInRpa2EtY29yZSIgJSB0aWthVmVyc2lvbiwgLy8gdGlrYS1jb3JlIG9ubHkgY29udGFpbiBpbnRlcmZhY2VzLiBQYXJzZXJzIGhhcyBpbXBsZW1lbnRhdGlvbnMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnRpa2EiICUgInRpa2EtY29yZSIgJSB0aWthVmVyc2lvbiwgLy8gdGlrYS1jb3JlIG9ubHkgY29udGFpbiBpbnRlcmZhY2VzLiBQYXJzZXJzIGhhcyBpbXBsZW1lbnRhdGlvbnMuCiAgICAib3JnLmFwYWNoZS50aWthIiAlICJ0aWthLXBhcnNlcnMiICUgdGlrYVZlcnNpb24gJSBSdW50aW1lLAo=</text>
+        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnRpa2EiICUgInRpa2EtY29yZSIgJSB0aWthVmVyc2lvbiwgLy8gdGlrYS1jb3JlIG9ubHkgY29udGFpbiBpbnRlcmZhY2VzLiBQYXJzZXJzIGhhcyBpbXBsZW1lbnRhdGlvbnMuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Cg==</text>
+        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnRpa2EiICUgInRpa2EtY29yZSIgJSB0aWthVmVyc2lvbiwgLy8gdGlrYS1jb3JlIG9ubHkgY29udGFpbiBpbnRlcmZhY2VzLiBQYXJzZXJzIGhhcyBpbXBsZW1lbnRhdGlvbnMuCiAgICAib3JnLmFwYWNoZS50aWthIiAlICJ0aWthLXBhcnNlcnMiICUgdGlrYVZlcnNpb24gJSBSdW50aW1lLAo=</text>
       </register>
       <register name=":" type="4">
         <text>308</text>
