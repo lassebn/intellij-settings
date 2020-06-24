@@ -136,6 +136,11 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/Source/images-api/project/Dependencies.scala" timestamp="1593004360671">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="118" />
+        <mark key="." line="144" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/images-api/service/src/test/scala/com/leoilab/images/cordial/CordialImageImporterSpec.scala" timestamp="1592814413711">
         <mark key="[" line="43" column="49" />
         <mark key="]" line="44" column="65" />
@@ -303,8 +308,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3RhY2s6IFN0YWNrLCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJjb20uZ2l0aHViLmphaS1pbWFnZWlvIiAlICJqYWktaW1hZ2Vpby1qcGVnMjAwMCIgJSAiMS4zLjAiICUgUnVudGltZSwgLy8gZ2V0IHJpZCBvZiBlcnJvcnMgZnJvbSBwYXJzaW5nIHdpdGggVGlrYQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2944,7 +2949,7 @@
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnRpa2EiICUgInRpa2EtY29yZSIgJSB0aWthVmVyc2lvbiwgLy8gdGlrYS1jb3JlIG9ubHkgY29udGFpbiBpbnRlcmZhY2VzLiBQYXJzZXJzIGhhcyBpbXBsZW1lbnRhdGlvbnMuCiAgICAib3JnLmFwYWNoZS50aWthIiAlICJ0aWthLXBhcnNlcnMiICUgdGlrYVZlcnNpb24gJSBSdW50aW1lLAo=</text>
+        <text encoding="base64">ICAgICJjb20uZ2l0aHViLmphaS1pbWFnZWlvIiAlICJqYWktaW1hZ2Vpby1qcGVnMjAwMCIgJSAiMS4zLjAiICUgUnVudGltZSwgLy8gZ2V0IHJpZCBvZiBlcnJvcnMgZnJvbSBwYXJzaW5nIHdpdGggVGlrYQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHZhbCBzbnNTdGF0ZW1lbnQgPSBQbwo=</text>
