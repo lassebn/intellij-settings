@@ -181,6 +181,7 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="31" />
       </file>
+      <file name="$USER_HOME$/Source/platform-images/client-it/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1593078106288" />
       <file name="/fragment.java" timestamp="1592991519333">
         <mark key="[" line="0" column="0" />
       </file>
@@ -201,7 +202,7 @@
         <mark key="^" line="245" column="40" />
         <mark key="." line="245" column="39" />
       </file>
-      <file name="$USER_HOME$/Source/platform-images/project/TestHelper.scala" timestamp="1593076568910">
+      <file name="$USER_HOME$/Source/platform-images/project/TestHelper.scala" timestamp="1593077925072">
         <mark key="[" line="45" column="51" />
         <mark key="]" line="46" column="42" />
         <mark key="^" line="46" column="42" />
