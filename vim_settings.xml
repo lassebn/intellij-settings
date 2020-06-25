@@ -168,7 +168,6 @@
         <mark key="^" line="3" column="113" />
         <mark key="." line="3" column="112" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/service/src/main/scala/com/leoilab/images/cordial/CordialService.scala" timestamp="1592998674234" />
       <file name="$USER_HOME$/Source/images-api/server/src/main/scala/com/leoilab/images/Configuration.scala" timestamp="1592991514505">
         <mark key="'" line="2" column="6" />
         <mark key="[" line="307" column="11" />
@@ -201,6 +200,12 @@
         <mark key="]" line="245" column="40" />
         <mark key="^" line="245" column="40" />
         <mark key="." line="245" column="39" />
+      </file>
+      <file name="$USER_HOME$/Source/platform-images/project/TestHelper.scala" timestamp="1593076568910">
+        <mark key="[" line="45" column="51" />
+        <mark key="]" line="46" column="42" />
+        <mark key="^" line="46" column="42" />
+        <mark key="." line="46" column="41" />
       </file>
     </filemarks>
     <jumps>
