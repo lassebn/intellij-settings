@@ -154,12 +154,6 @@
         <mark key="^" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/images-api/docker-compose.yml" timestamp="1592287024701">
-        <mark key="[" line="54" column="34" />
-        <mark key="]" line="54" column="34" />
-        <mark key="^" line="54" column="34" />
-        <mark key="." line="54" column="33" />
-      </file>
       <file name="/sbtShell" timestamp="1592309202361">
         <mark key="[" line="0" column="0" />
       </file>
@@ -175,6 +169,12 @@
         <mark key="]" line="307" column="23" />
         <mark key="." line="307" column="22" />
         <mark key="^" line="307" column="23" />
+      </file>
+      <file name="$USER_HOME$/Source/images-api/documentation/source/requirements/cordial.rst" timestamp="1593157475909">
+        <mark key="[" line="112" column="24" />
+        <mark key="]" line="112" column="30" />
+        <mark key="." line="112" column="29" />
+        <mark key="^" line="112" column="30" />
       </file>
       <file name="$USER_HOME$/Source/platform-images/client-it/src/it/scala/com/leoilab/images/client/ImagesClientIntegrationTest.scala" timestamp="1593078106288" />
       <file name="/fragment.java" timestamp="1592991519333">
@@ -309,8 +309,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJjb20uZ2l0aHViLmphaS1pbWFnZWlvIiAlICJqYWktaW1hZ2Vpby1qcGVnMjAwMCIgJSAiMS4zLjAiICUgUnVudGltZSwgLy8gZ2V0IHJpZCBvZiBlcnJvcnMgZnJvbSBwYXJzaW5nIHdpdGggVGlrYQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -2944,7 +2944,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhY2s6IFN0YWNrLCA=</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -2953,34 +2953,34 @@
         <text encoding="base64">ICAgICJjb20uZ2l0aHViLmphaS1pbWFnZWlvIiAlICJqYWktaW1hZ2Vpby1qcGVnMjAwMCIgJSAiMS4zLjAiICUgUnVudGltZSwgLy8gZ2V0IHJpZCBvZiBlcnJvcnMgZnJvbSBwYXJzaW5nIHdpdGggVGlrYQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBzbnNTdGF0ZW1lbnQgPSBQbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmltYWdlcy5CbG9iU3RvcmFnZS5JbWFnZVNlcnZpY2VSb290Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIFMzQnVja2V0KCJsZW8tcGxhdGZvcm0tZGV2IiksCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIFN0YWdpbmcgfCBQcm9kdWN0aW9uID0+IHRydWUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZUJ1Y2tldC5saXN0Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZUJ1Y2tldC5ncmFuCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGJ1Y2tldC5ncmEK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgLi4gdG9kbzo6IFJlZmVyZW5jZSBDT1JFLTU4MSBvbmNlIHdlJ3JlIGFibGUgdG8uCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbCBzbnNTdGF0ZW1lbnQgPSBQbwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5sZW9pbGFiLmltYWdlcy5CbG9iU3RvcmFnZS5JbWFnZVNlcnZpY2VSb290Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIFMzQnVja2V0KCJsZW8tcGxhdGZvcm0tZGV2IiksCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIFN0YWdpbmcgfCBQcm9kdWN0aW9uID0+IHRydWUK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHNvdXJjZUJ1Y2tldC5saXN0Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnRpa2EiICUgInRpa2EtY29yZSIgJSB0aWthVmVyc2lvbiwgLy8gdGlrYS1jb3JlIG9ubHkgY29udGFpbiBpbnRlcmZhY2VzLiBQYXJzZXJzIGhhcyBpbXBsZW1lbnRhdGlvbnMuCg==</text>
+        <text encoding="base64">ICAgIHNvdXJjZUJ1Y2tldC5ncmFuCg==</text>
       </register>
       <register name=":" type="4">
         <text>308</text>
