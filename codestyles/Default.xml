@@ -9,6 +9,7 @@
   <option name="SOFT_MARGINS" value="80,100" />
   <ScalaCodeStyleSettings>
     <option name="SCALAFMT_CONFIG_PATH" value="./.scalafmt.conf" />
+    <option name="SCALAFMT_USE_INTELLIJ_FORMATTER_FOR_RANGE_FORMAT" value="false" />
     <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
     <option name="FORMATTER" value="1" />
   </ScalaCodeStyleSettings>
