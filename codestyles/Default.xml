@@ -7,9 +7,26 @@
     </value>
   </option>
   <option name="SOFT_MARGINS" value="80,100" />
+  <JetCodeStyleSettings>
+    <option name="PACKAGES_TO_USE_STAR_IMPORTS">
+      <value>
+        <package name="java.util" alias="false" withSubpackages="false" />
+        <package name="kotlinx.android.synthetic" alias="false" withSubpackages="true" />
+        <package name="io.ktor" alias="false" withSubpackages="true" />
+      </value>
+    </option>
+    <option name="PACKAGES_IMPORT_LAYOUT">
+      <value>
+        <package name="" alias="false" withSubpackages="true" />
+        <package name="java" alias="false" withSubpackages="true" />
+        <package name="javax" alias="false" withSubpackages="true" />
+        <package name="kotlin" alias="false" withSubpackages="true" />
+        <package name="" alias="true" withSubpackages="true" />
+      </value>
+    </option>
+  </JetCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="SCALAFMT_CONFIG_PATH" value="./.scalafmt.conf" />
-    <option name="SCALAFMT_USE_INTELLIJ_FORMATTER_FOR_RANGE_FORMAT" value="false" />
     <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
     <option name="FORMATTER" value="1" />
   </ScalaCodeStyleSettings>
