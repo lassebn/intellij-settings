@@ -13,6 +13,20 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="zio.intellij.zio-intellij">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.intellij.scala" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
