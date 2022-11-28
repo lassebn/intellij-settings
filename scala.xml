@@ -1,6 +1,6 @@
 <application>
   <component name="ScalaSettings">
-    <option name="COMPILE_SERVER_PORT" value="3200" />
+    <option name="COMPILE_SERVER_PORT" value="53002" />
     <option name="COMPILE_SERVER_ID" value="ea4a7256-9e2f-43ae-aad0-21f207d0bc9e" />
     <option name="USE_DEFAULT_SDK" value="false" />
     <option name="COMPILE_SERVER_SDK" value="temurin-17" />
